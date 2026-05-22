@@ -1,0 +1,172 @@
+{
+  "site": {
+    "name": "Morning Papers",
+    "tagline": "每天 8:00 自动更新的跨领域 Q1 / 顶刊论文速览",
+    "timezone": "Asia/Shanghai",
+    "papers_per_day": 9,
+    "lookback_days": 60,
+    "image_style": "Kodak 5207, Kodak Gold 200, Cinestill 800T, cinematic editorial photography, warm grain, soft halation, natural light, no text",
+    "fortunes": [
+      "Begin before you feel ready.",
+      "Small pages become large doors.",
+      "Read one good thing and let it change the day.",
+      "Your attention is a quiet form of courage.",
+      "A clear idea likes an early morning.",
+      "The next sentence is already waiting.",
+      "Curiosity is luck you can practice.",
+      "Make the day slightly more intelligent than yesterday.",
+      "A good question is a lantern.",
+      "Do the small exact thing.",
+      "Let the useful thought find you halfway.",
+      "The train moves; so can the mind."
+    ]
+  },
+  "fields": [
+    {
+      "name": "Consumer Research",
+      "keywords": ["consumer behavior", "identity", "choice", "wellbeing"],
+      "image_queries": [
+        "Kodak Gold 200 editorial still life personal objects warm morning light",
+        "Kodak 5207 quiet cafe table notebook coffee cinematic grain",
+        "Cinestill 800T bookstore aisle human choice warm tungsten",
+        "film photography hands holding everyday objects soft halation"
+      ],
+      "journals": [
+        "Journal of Consumer Research",
+        "Journal of Consumer Psychology",
+        "Journal of Retailing",
+        "Journal of Consumer Affairs"
+      ]
+    },
+    {
+      "name": "Marketing",
+      "keywords": ["marketing", "pricing", "branding", "advertising"],
+      "image_queries": [
+        "Kodak Gold 200 brand packaging still life editorial",
+        "Kodak 5207 supermarket aisle cinematic warm light",
+        "Cinestill 800T neon storefront retail window film grain",
+        "editorial product shelf soft halation analog film"
+      ],
+      "journals": [
+        "Journal of Marketing",
+        "Journal of Marketing Research",
+        "Marketing Science",
+        "International Journal of Research in Marketing"
+      ]
+    },
+    {
+      "name": "Psychology",
+      "keywords": ["psychology", "decision making", "risk", "behavior"],
+      "image_queries": [
+        "Kodak 5207 quiet room portrait shadow cinematic psychology",
+        "Kodak Gold 200 window light chair contemplative editorial",
+        "Cinestill 800T night desk lamp notebook soft grain",
+        "analog film portrait silhouette warm halation"
+      ],
+      "journals": [
+        "Psychological Science",
+        "Journal of Personality and Social Psychology",
+        "Nature Human Behaviour",
+        "Perspectives on Psychological Science"
+      ]
+    },
+    {
+      "name": "Public Policy",
+      "keywords": ["public policy", "program evaluation", "inequality", "governance"],
+      "image_queries": [
+        "Kodak 5207 city hall corridor documentary film",
+        "Kodak Gold 200 public building steps warm light",
+        "Cinestill 800T government office window night",
+        "documentary street policy urban people analog film"
+      ],
+      "journals": [
+        "Journal of Policy Analysis and Management",
+        "Policy Studies Journal",
+        "Public Administration Review",
+        "Governance"
+      ]
+    },
+    {
+      "name": "Family Studies",
+      "keywords": ["family", "children", "marriage", "demography"],
+      "image_queries": [
+        "Kodak Gold 200 family table morning light documentary",
+        "Kodak 5207 home interior hands family cinematic",
+        "analog film wedding ritual warm halation",
+        "soft grain household objects family life editorial"
+      ],
+      "journals": [
+        "Journal of Marriage and Family",
+        "Child Development",
+        "Demography",
+        "Population and Development Review"
+      ]
+    },
+    {
+      "name": "Urban Studies",
+      "keywords": ["urban studies", "housing", "cities", "planning"],
+      "image_queries": [
+        "Kodak 5207 concrete housing city morning cinematic",
+        "Kodak Gold 200 urban street architecture warm film",
+        "Cinestill 800T city crosswalk neon rain grain",
+        "documentary urban planning buildings analog film"
+      ],
+      "journals": [
+        "Urban Studies",
+        "Cities",
+        "Journal of Urban Economics",
+        "Environment and Planning A: Economy and Space"
+      ]
+    },
+    {
+      "name": "Mental Health",
+      "keywords": ["mental health", "psychiatry", "depression", "therapy"],
+      "image_queries": [
+        "Kodak 5207 therapy room soft window light cinematic",
+        "Kodak Gold 200 hospital corridor quiet warm grain",
+        "Cinestill 800T night clinic waiting room soft halation",
+        "analog film solitude bedroom morning light mental health"
+      ],
+      "journals": [
+        "JAMA Psychiatry",
+        "The Lancet Psychiatry",
+        "World Psychiatry",
+        "Psychological Medicine"
+      ]
+    },
+    {
+      "name": "Food Industry / Science / Design",
+      "keywords": ["food industry", "food science", "food design", "food graphic design", "packaging design"],
+      "image_queries": [
+        "Kodak Gold 200 food packaging graphic design editorial still life",
+        "Kodak 5207 food science laboratory packaging prototype cinematic",
+        "Cinestill 800T restaurant counter food industry tungsten film grain",
+        "analog film food design studio labels menus soft halation"
+      ],
+      "journals": [
+        "Appetite",
+        "Food Quality and Preference",
+        "Food Research International",
+        "International Journal of Gastronomy and Food Science",
+        "International Journal of Food Design",
+        "Design Studies"
+      ]
+    },
+    {
+      "name": "Management",
+      "keywords": ["organizations", "management", "work", "strategy"],
+      "image_queries": [
+        "Kodak 5207 office desk documents cinematic grain",
+        "Kodak Gold 200 meeting room afternoon light editorial",
+        "Cinestill 800T late night office window tungsten",
+        "analog film workplace notebook strategy soft halation"
+      ],
+      "journals": [
+        "Academy of Management Journal",
+        "Administrative Science Quarterly",
+        "Organization Science",
+        "Strategic Management Journal"
+      ]
+    }
+  ]
+}
