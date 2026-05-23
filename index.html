@@ -2,771 +2,341 @@
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=yes">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Morning Papers">
 <meta name="theme-color" content="#eee8db">
-<meta name="description" content="每天自动更新的跨领域顶刊 paper 速览。">
-
-<!-- Inline PWA manifest (so the file works fully offline) -->
-<link rel="manifest" href='data:application/manifest+json;charset=utf-8,{"name":"Morning Papers","short_name":"Papers","start_url":"./","display":"standalone","background_color":"%23eee8db","theme_color":"%23eee8db","orientation":"portrait","icons":[{"src":"data:image/svg%2bxml;utf8,<svg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 180 180%27><rect width=%27180%27 height=%27180%27 fill=%27%23eee8db%27/><text x=%2790%27 y=%27118%27 font-family=%27Arial%27 font-size=%2798%27 font-weight=%27700%27 fill=%27%2325231f%27 text-anchor=%27middle%27>M</text></svg>","sizes":"180x180","type":"image/svg+xml"}]}'>
-
-<!-- iOS touch icon, inline SVG so works offline -->
-<link rel="apple-touch-icon" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect width='180' height='180' rx='40' fill='%23eee8db'/><circle cx='126' cy='56' r='20' fill='%23315b73' opacity='0.16'/><text x='90' y='116' font-family='Arial' font-size='92' font-weight='700' fill='%2325231f' text-anchor='middle'>M</text></svg>">
-
-<title>Morning Papers · 5月22日</title>
-
-<!-- Fonts: all sans-serif for easier mobile reading. -->
+<meta name="description" content="每天 8:00 自动更新的跨领域 Q1 / 顶刊论文速览">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;600;700&display=swap" rel="stylesheet">
-
+<title>Morning Papers · 2026-05-23 10:35</title>
 <style>
-  :root{
-    --bg:        #eee8db;
-    --bg-deep:   #ddd2bf;
-    --paper:     #f7f2e8;
-    --ink:       #25231f;
-    --ink-soft:  #665f54;
-    --ink-mute:  #887f70;
-    --halation:  #9d2f27;
-    --halation-soft: rgba(157,47,39,0.12);
-    --blue-note: #315b73;
-    --rule:      #d7cdbc;
-    --shadow:    rgba(70,54,32,0.14);
+  :root {
+    --bg: #eee8db;
+    --paper: #f7f2e8;
+    --ink: #25231f;
+    --muted: #756e61;
+    --line: #d7cdbc;
+    --accent: #9d2f27;
+    --blue: #315b73;
+    --shadow: rgba(70, 54, 32, .13);
   }
-
-  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-  html,body{margin:0;padding:0}
-
-  body{
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
     background: var(--bg);
     color: var(--ink);
-    font-family: "Inter","Noto Sans TC",system-ui,-apple-system,BlinkMacSystemFont,sans-serif;
+    font-family: "Inter", "Noto Sans TC", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
     font-size: 17px;
-    font-feature-settings: "kern" 1, "liga" 1, "onum" 1;
+    line-height: 1.64;
     -webkit-font-smoothing: antialiased;
-    line-height: 1.55;
-    padding-top: env(safe-area-inset-top);
-    padding-bottom: env(safe-area-inset-bottom);
-    overflow-x: hidden;
-    position: relative;
   }
-
-  /* Film grain overlay — fixed across whole viewport */
-  body::before{
-    content:"";
-    position:fixed; inset:0;
-    pointer-events:none; z-index:1000;
-    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='1.7' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.5  0 0 0 0 0.4  0 0 0 0 0.25  0 0 0 0.35 0'/></filter><rect width='100%' height='100%' filter='url(%23n)' opacity='0.4'/></svg>");
-    opacity: 0.26;
-    mix-blend-mode: multiply;
-  }
-
-  /* Subtle vignette */
-  body::after{
-    content:"";
-    position:fixed; inset:0;
-    pointer-events:none; z-index:999;
-    background: radial-gradient(ellipse at center, transparent 58%, rgba(82,61,35,0.08) 100%);
-  }
-
-  main{
-    max-width: 640px;
-    margin: 0 auto;
-    padding: 0 22px 60px;
-    position: relative;
-    z-index: 1;
-  }
-
-  /* ---------- HEADER ---------- */
-  header{
-    padding: 56px 22px 36px;
-    max-width: 640px;
-    margin: 0 auto;
-    text-align: center;
-    border-bottom: 1px solid var(--rule);
-    margin-bottom: 36px;
-    position: relative;
-    z-index: 1;
-  }
-  .stamp{
-    font-family: "Inter", system-ui, sans-serif;
-    font-size: 10px;
-    letter-spacing: 0.32em;
-    text-transform: uppercase;
-    color: var(--halation);
-    font-weight: 600;
-    margin-bottom: 14px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-  .stamp::before, .stamp::after{content:""; height:1px; background: var(--rule); flex:1; opacity:0.85;}
-  h1.masthead{
-    font-family: "Inter", "Noto Sans TC", system-ui, sans-serif;
-    font-weight: 700;
-    font-style: normal;
-    font-size: 54px;
-    line-height: 1;
-    letter-spacing: 0;
-    margin: 0 0 16px;
-    color: var(--ink);
-  }
-  .fortune{
-    font-family: "Inter", system-ui, sans-serif;
-    font-size: 17px;
-    line-height: 1.5;
-    color: var(--halation);
-    letter-spacing: 0;
-    margin: 0 auto;
-    max-width: 360px;
-    font-weight: 600;
-  }
-
-  /* ---------- PAPER CARD ---------- */
-  article.paper{
-    background: var(--paper);
-    border: 1px solid var(--rule);
-    border-radius: 4px;
-    margin-bottom: 32px;
-    overflow: hidden;
-    box-shadow: 0 1px 0 rgba(255,255,255,0.6) inset, 0 6px 24px -10px var(--shadow);
-    position: relative;
-  }
-  /* film perforations on left and right of each card */
-  article.paper::before, article.paper::after{
-    content:"";
-    position:absolute; top:0; bottom:0; width:8px;
-    background-image:
-      linear-gradient(to bottom, transparent 50%, rgba(0,0,0,0.06) 50%),
-      linear-gradient(to bottom, var(--bg-deep), var(--bg-deep));
-    background-size: 100% 16px, 100% 100%;
-    opacity: 0.4;
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
     pointer-events: none;
+    opacity: .22;
+    mix-blend-mode: multiply;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='1.2' numOctaves='2'/></filter><rect width='100%25' height='100%25' filter='url(%23n)' opacity='0.18'/></svg>");
   }
-  article.paper::before{left:0}
-  article.paper::after{right:0}
-
-  .hero{
-    position:relative;
-    aspect-ratio: 3 / 2;
-    overflow:hidden;
-    background: var(--bg-deep);
+  main {
+    width: min(720px, 100%);
+    margin: 0 auto;
+    padding: max(32px, env(safe-area-inset-top)) 20px 64px;
   }
-  .hero img{
-    width:100%; height:100%; object-fit:cover; display:block;
-    filter: saturate(0.82) contrast(0.94) sepia(0.12) brightness(1.02);
-  }
-  /* Warm film halation color cast */
-  .hero::after{
-    content:"";
-    position:absolute; inset:0;
-    background:
-      radial-gradient(ellipse at 25% 30%, rgba(255,200,140,0.22) 0%, transparent 50%),
-      radial-gradient(ellipse at 80% 80%, rgba(212,80,42,0.18) 0%, transparent 55%),
-      linear-gradient(180deg, rgba(255,235,200,0.05) 0%, rgba(80,40,10,0.18) 100%);
-    pointer-events:none;
-  }
-  .hero .corner-stamp{
-    position:absolute; top:12px; left:14px;
-    font-family: "Inter", sans-serif;
-    font-size: 9px;
-    letter-spacing: 0.28em;
-    text-transform: uppercase;
-    color: rgba(255,248,230,0.94);
-    font-weight: 600;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.5);
-    padding: 4px 8px;
-    border: 1px solid rgba(255,240,210,0.55);
-    background: rgba(0,0,0,0.18);
-    backdrop-filter: blur(2px);
-    -webkit-backdrop-filter: blur(2px);
-  }
-  .hero .frame-number{
-    position:absolute; bottom:10px; right:14px;
-    font-family: "Inter", monospace;
-    font-size: 11px;
-    color: rgba(255,238,205,0.9);
-    letter-spacing: 0.18em;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.6);
-  }
-
-  .body{
-    padding: 28px 26px 26px;
-  }
-
-  .journal-line{
-    font-family: "Inter", system-ui, sans-serif;
-    font-size: 12px;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    color: var(--ink-mute);
-    margin: 0 0 10px;
-  }
-
-  h2.title{
-    font-family: "Inter", "Noto Sans TC", system-ui, sans-serif;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.25;
-    margin: 0 0 12px;
-    color: var(--ink);
-    letter-spacing: 0;
-  }
-
-  .authors{
-    font-family: "Inter", system-ui, sans-serif;
-    font-style: normal;
-    font-size: 16px;
-    color: var(--ink-soft);
-    margin: 0 0 22px;
-    line-height: 1.4;
-  }
-
-  .section{
-    margin-top: 18px;
-    padding-top: 16px;
-    border-top: 1px dashed var(--rule);
-  }
-  .section:first-of-type{
-    border-top: 1px solid var(--rule);
-  }
-  .section h3{
-    font-family: "Inter", system-ui, sans-serif;
-    font-size: 10px;
-    letter-spacing: 0.32em;
-    text-transform: uppercase;
-    color: var(--halation);
-    font-weight: 600;
-    margin: 0 0 8px;
+  header {
+    min-height: 72svh;
     display: flex;
-    align-items: baseline;
-    gap: 8px;
-  }
-  .section h3 .cn{color: var(--ink-soft); letter-spacing: 0.16em;}
-  .section p{
-    margin: 0;
-    font-size: 16.5px;
-    line-height: 1.72;
-    color: var(--ink);
-    font-feature-settings: "kern" 1;
-  }
-  .section p .en{
-    font-family: "Inter", system-ui, sans-serif;
-    font-style: italic;
-    color: var(--ink-soft);
-  }
-
-  .footer-link{
-    margin-top: 24px;
-    padding-top: 18px;
-    border-top: 1px solid var(--rule);
-    display: flex;
-    justify-content: space-between;
+    flex-direction: column;
     align-items: center;
-    font-family: "Inter", system-ui, sans-serif;
-    font-size: 12px;
-    letter-spacing: 0.04em;
-  }
-  .footer-link a{
-    color: var(--halation);
-    text-decoration: none;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    font-size: 11px;
-    padding: 8px 14px;
-    border: 1px solid var(--halation);
-    border-radius: 2px;
-    transition: all 0.2s ease;
-  }
-  .footer-link a:active{
-    background: var(--halation);
-    color: var(--paper);
-  }
-  .footer-link .doi{
-    color: var(--ink-mute);
-    font-size: 10px;
-    letter-spacing: 0.12em;
-  }
-
-  /* ---------- DAILY MASTHEAD STRIP ---------- */
-  .strip{
-    display: flex; gap: 18px;
-    font-family: "Inter", sans-serif;
-    font-size: 11px;
-    color: var(--ink-mute);
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    margin-top: 8px;
-    font-weight: 500;
-  }
-  .strip span{display: flex; align-items: center; gap: 6px;}
-  .strip .dot{
-    width: 6px; height: 6px; background: var(--halation);
-    border-radius: 50%;
-    box-shadow: 0 0 0 2px rgba(212,80,42,0.25);
-  }
-
-  /* ---------- TOC / INDEX ---------- */
-  .toc{
-    margin: 0 auto 36px;
-    padding: 22px 24px;
-    background: var(--paper);
-    border: 1px solid var(--rule);
-    border-radius: 4px;
-  }
-  .toc h4{
-    font-family: "Inter", sans-serif;
-    font-size: 10px;
-    letter-spacing: 0.32em;
-    text-transform: uppercase;
-    color: var(--halation);
-    margin: 0 0 12px;
-    font-weight: 600;
-  }
-  .toc ol{
-    margin:0; padding-left: 22px;
-    font-family: "Inter","Noto Sans TC",system-ui,sans-serif;
-    font-size: 16px;
-    color: var(--ink);
-    line-height: 1.95;
-  }
-  .toc ol a{color: var(--ink); text-decoration: none; border-bottom: 1px dotted var(--ink-mute);}
-  .toc ol a:active{color: var(--halation);}
-  .toc .field-label{
-    font-family: "Inter", sans-serif;
-    font-style: normal;
-    font-size: 10px;
-    letter-spacing: 0.16em;
-    text-transform: uppercase;
-    color: var(--ink-mute);
-    margin-right: 8px;
-    font-weight: 500;
-  }
-
-  /* ---------- COLOPHON ---------- */
-  footer.colophon{
-    max-width: 640px;
-    margin: 50px auto 30px;
-    padding: 30px 26px;
+    justify-content: center;
+    padding: 56px 0 42px;
     text-align: center;
-    font-family: "Inter", sans-serif;
-    font-size: 11px;
-    color: var(--ink-mute);
-    letter-spacing: 0.16em;
+    border-bottom: 1px solid var(--line);
+  }
+  .kicker {
+    font: 700 12px/1.2 Inter, system-ui, sans-serif;
+    letter-spacing: .18em;
+    color: var(--accent);
     text-transform: uppercase;
-    border-top: 1px solid var(--rule);
-    line-height: 1.8;
   }
-  footer.colophon strong{color: var(--ink-soft); font-weight: 600;}
-  footer.colophon .iso{
-    font-family: "Inter", system-ui, sans-serif;
-    font-style: normal;
-    text-transform: none;
+  h1 {
+    margin: 18px 0 18px;
+    font: 700 clamp(48px, 15vw, 92px)/.92 Inter, system-ui, sans-serif;
     letter-spacing: 0;
-    font-size: 14px;
-    color: var(--halation);
-    font-weight: 600;
-    margin-top: 8px;
+  }
+  .meta {
+    max-width: 29rem;
+    color: var(--accent);
+    font: 600 17px/1.55 Inter, "Noto Sans TC", system-ui, sans-serif;
+  }
+  nav {
+    margin: 32px 0 42px;
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  nav ol {
+    list-style: none;
+    margin: 0;
+    padding: 8px 0;
+  }
+  nav a {
+    display: grid;
+    gap: 2px;
+    padding: 10px 0;
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(37,35,31,.08);
+  }
+  nav li:last-child a { border-bottom: 0; }
+  nav span {
+    color: var(--blue);
+    font: 700 12px/1.3 Inter, system-ui, sans-serif;
+  }
+  article {
+    margin: 0 0 34px;
+    overflow: hidden;
+    background: var(--paper);
+    border: 1px solid rgba(70,54,32,.14);
+    border-radius: 8px;
+    box-shadow: 0 14px 38px var(--shadow);
+  }
+  .photo {
+    position: relative;
+    aspect-ratio: 16 / 10;
+    background: #d7cdbc;
+    overflow: hidden;
+  }
+  .photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
     display: block;
+    filter: saturate(.82) contrast(.94) sepia(.08);
   }
-
-  /* iOS PWA tweaks */
-  @media (display-mode: standalone){
-    header{padding-top: 64px;}
+  .photo::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, transparent 45%, rgba(0,0,0,.38));
   }
-
-  @media (max-width: 420px){
-    h1.masthead{font-size: 44px;}
-    main{padding: 0 16px 50px;}
-    header{padding: 50px 16px 30px;}
-    .body{padding: 24px 20px 22px;}
-    h2.title{font-size: 21px;}
-    .section p{font-size: 15px;}
+  .badge {
+    position: absolute;
+    left: 16px;
+    bottom: 14px;
+    z-index: 1;
+    padding: 6px 9px;
+    border-radius: 999px;
+    background: rgba(247,242,232,.88);
+    color: var(--ink);
+    font: 600 12px/1 Inter, system-ui, sans-serif;
   }
-
-  /* Read-progress: scroll-link top bar */
-  .progress{
-    position: fixed; top: 0; left:0; right:0;
-    height: 2px; background: transparent;
-    z-index: 1001;
+  .content { padding: 22px 20px 24px; }
+  h2 {
+    margin: 0 0 8px;
+    font: 700 27px/1.12 Inter, "Noto Sans TC", system-ui, sans-serif;
+    letter-spacing: 0;
   }
-  .progress-bar{
-    height: 100%; width: 0%; background: var(--halation);
-    transition: width 0.1s linear;
+  .journal {
+    margin: 0 0 14px;
+    color: var(--muted);
+    font: 500 14px/1.5 Inter, system-ui, sans-serif;
+  }
+  .abstract { margin: 0 0 16px; }
+  .links {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    font: 600 14px/1.2 Inter, system-ui, sans-serif;
+  }
+  .links a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent);
+  }
+  .doi {
+    color: var(--muted);
+    text-align: right;
+    overflow-wrap: anywhere;
+    font-weight: 500;
+  }
+  footer {
+    margin-top: 44px;
+    color: var(--muted);
+    font: 500 12px/1.55 Inter, system-ui, sans-serif;
+  }
+  @media (max-width: 520px) {
+    main { padding-left: 16px; padding-right: 16px; }
+    h2 { font-size: 24px; }
+    .links { display: block; }
+    .doi { margin-top: 10px; text-align: left; }
   }
 </style>
 </head>
 <body>
-
-<div class="progress"><div class="progress-bar" id="pb"></div></div>
-
-<header>
-  <div class="stamp">Friday · May 22 · 2026</div>
-  <h1 class="masthead">Morning Papers</h1>
-  <p class="fortune">Do the small exact thing.</p>
-</header>
-
 <main>
-
-<!-- TOC -->
-<nav class="toc">
-  <h4>今日目錄 · Today</h4>
-  <ol>
-    <li><a href="#p1"><span class="field-label">Consumer Research</span> Extended Self & Organ Donation</a></li>
-    <li><a href="#p2"><span class="field-label">Marketing</span> SES & Food Preferences</a></li>
-    <li><a href="#p3"><span class="field-label">Consumer Psychology</span> Nature & Wellbeing</a></li>
-    <li><a href="#p4"><span class="field-label">Public Policy</span> Public Housing & Kids</a></li>
-    <li><a href="#p5"><span class="field-label">Family Studies</span> Roka Engagements in India</a></li>
-    <li><a href="#p6"><span class="field-label">Urban Studies</span> Authoritarian Urbanism</a></li>
-    <li><a href="#p7"><span class="field-label">Psychology</span> The Ecology of Risk</a></li>
-    <li><a href="#p8"><span class="field-label">Mental Health</span> Esketamine Monotherapy</a></li>
-    <li><a href="#p9"><span class="field-label">Food Industry / Science / Design</span> Meat Reduction & Dissonance</a></li>
-  </ol>
-</nav>
-
-<!-- PAPER 1 — Consumer Research -->
-<article class="paper" id="p1">
-  <div class="hero">
-    <img src="https://images.unsplash.com/photo-1757422336253-9725be77441e?fm=jpg&q=70&w=1200&auto=format&fit=crop" alt="Warm golden corridor at sunset">
-    <div class="corner-stamp">001 · CONSUMER RESEARCH</div>
-    <div class="frame-number">JCR · 52(2)</div>
-  </div>
-  <div class="body">
-    <p class="journal-line">Journal of Consumer Research · 2025</p>
-    <h2 class="title">How Low Socioeconomic Status Hinders Organ Donation: An Extended Self Account</h2>
-    <p class="authors">Yan Vieites & Chiraag Mittal</p>
-
-    <div class="section">
-      <h3>方法 <span class="cn">/ Method</span></h3>
-      <p>研究低 SES 為何降低器官捐贈意願，並提出「延伸自我（extended self）」框架。跨越美國與巴西的<strong>七個研究、N = 8,782</strong>，混合質性訪談、觀察性資料與實驗操弄，包含真實田野情境。核心變量是 SES、身體中心性（body centrality to self）、捐贈意願；操弄條件包括「強調心智 vs. 身體作為自我核心」以及「捐贈被框架為延伸自我的方式」。</p>
+  <header>
+    <div class="kicker">Daily academic briefing</div>
+    <h1>Morning Papers</h1>
+    <div class="meta">2026.05.23<br>Read one good thing and let it change the day.</div>
+  </header>
+  <nav aria-label="Today's papers">
+    <ol>
+        <li><a href="#p1"><span>Urban Studies</span>ხელოვნური ინტელექტი - მეწარმეობის განვითარების ინოვაციური ინსტრუმენტი</a></li>
+        <li><a href="#p2"><span>Marketing</span>Understanding customer data sharing in open finance</a></li>
+        <li><a href="#p3"><span>Psychology</span>Understanding Jamtara cybercriminals: poverty, opportunity, and the rise of organized criminal networks</a></li>
+        <li><a href="#p4"><span>Public Policy</span>The role of preoperative thrombocytic factors on survival in patients with glioblastoma: a meta-analysis and synopsis of the literature</a></li>
+        <li><a href="#p5"><span>Mental Health</span>The glutamatergic NTS-PAG/PVN pathway underlies myocardial injury and anxiety-like behavior induced by myocardial ischemia-reperfusion</a></li>
+        <li><a href="#p6"><span>Consumer Research</span>Reevaluating statistical methods for proportion-based laboratory outcomes in assisted reproduction</a></li>
+        <li><a href="#p7"><span>Food Industry / Science / Design</span>Hair Steroid Signatures of Cooperative Breeding in Male and Female Common Marmosets (Callithrix jacchus)</a></li>
+        <li><a href="#p8"><span>Family Studies</span>Application of machine learning (ML) to landslide susceptibility, vulnerability and risk assessment (SVRA): A case study from Nainital township, Kumaun Himalaya, India</a></li>
+        <li><a href="#p9"><span>Management</span>Vulnerability and adaptive resilience in global platform work: Cross-cultural insights from tutors across emerging and developed economies</a></li>
+    </ol>
+  </nav>
+  <article id="p1">
+    <div class="photo">
+      <img src="https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text" alt="Urban Studies visual" loading="lazy">
+      <div class="badge">01 · Urban Studies</div>
     </div>
-
-    <div class="section">
-      <h3>結果 <span class="cn">/ Result</span></h3>
-      <p>低 SES 者把身體視為自我的核心比例更高，這降低他們的捐贈意願。當訊息強調心智、或把捐贈框架為「let yourselves live through others」時，SES 差距顯著縮小。</p>
+    <div class="content">
+      <h2>ხელოვნური ინტელექტი - მეწარმეობის განვითარების ინოვაციური ინსტრუმენტი</h2>
+      <p class="journal">Economics and Business · 2026 · გულნაზი ერქომაიშვილი</p>
+      <p class="abstract">Semantic Scholar / Crossref 暂无摘要。建议点进原文查看 abstract。</p>
+      <div class="links">
+        <a href="https://doi.org/10.52340/eab.2026.18.01.07." target="_blank" rel="noopener">Read paper</a>
+        <div class="doi">DOI: 10.52340/eab.2026.18.01.07.</div>
+      </div>
     </div>
-
-    <div class="section">
-      <h3>為什麼值得讀 <span class="cn">/ Why read</span></h3>
-      <p>把消費者研究的延伸自我理論搬進公共健康場域，用七個跨國研究、跨情境驗證。方法嚴謹、理論巧妙——示範了如何把抽象概念工具直接轉化成可介入的政策語言。</p>
+  </article>
+  <article id="p2">
+    <div class="photo">
+      <img src="https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text" alt="Marketing visual" loading="lazy">
+      <div class="badge">02 · Marketing</div>
     </div>
-
-    <div class="footer-link">
-      <span class="doi">doi/10.1093/jcr/ucae062</span>
-      <a href="https://academic.oup.com/jcr/article-abstract/52/2/266/7824060" target="_blank" rel="noopener">Read on JCR →</a>
+    <div class="content">
+      <h2>Understanding customer data sharing in open finance</h2>
+      <p class="journal">Journal of Financial Services Marketing · 2026 · Vannice Arrais Ramos, Rodrigo Heldt, Marlon Imhoff</p>
+      <p class="abstract">Semantic Scholar / Crossref 暂无摘要。建议点进原文查看 abstract。</p>
+      <div class="links">
+        <a href="https://doi.org/10.1057/s41264-026-00364-9" target="_blank" rel="noopener">Read paper</a>
+        <div class="doi">DOI: 10.1057/s41264-026-00364-9</div>
+      </div>
     </div>
-  </div>
-</article>
-
-<!-- PAPER 2 — Marketing -->
-<article class="paper" id="p2">
-  <div class="hero">
-    <img src="https://images.unsplash.com/photo-1670684684445-a4504dca0bbc?fm=jpg&q=70&w=1200&auto=format&fit=crop" alt="Supermarket aisle in London">
-    <div class="corner-stamp">002 · MARKETING</div>
-    <div class="frame-number">JM · 2025</div>
-  </div>
-  <div class="body">
-    <p class="journal-line">Journal of Marketing · 2025</p>
-    <h2 class="title">How Socioeconomic Status Shapes Food Preferences and Perceptions</h2>
-    <p class="authors">Bernardo Andretti, Yan Vieites, Larissa Elmor & Eduardo B. Andrade</p>
-
-    <div class="section">
-      <h3>方法 <span class="cn">/ Method</span></h3>
-      <p><strong>八個 preregistered 研究</strong>，資料蒐集於巴西里約熱內盧，包含真實消費者樣本與情境實驗。核心變量為食物三屬性的權重：健康性、飽足感（fillingness）、口味。實驗在<strong>控制可負擔性與可得性</strong>後，比較低 SES 與高 SES 消費者的選擇，並測量三屬性之間的負向聯想強度。</p>
+  </article>
+  <article id="p3">
+    <div class="photo">
+      <img src="https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text" alt="Psychology visual" loading="lazy">
+      <div class="badge">03 · Psychology</div>
     </div>
-
-    <div class="section">
-      <h3>結果 <span class="cn">/ Result</span></h3>
-      <p>即使供給端條件相同，低 SES 消費者仍更可能選擇不健康食物，因為他們把飽足感置於健康性之上；他們也更傾向相信健康食物較不飽足、較難吃。供給導向政策（補貼、可及性）因此難以單獨改變行為。</p>
+    <div class="content">
+      <h2>Understanding Jamtara cybercriminals: poverty, opportunity, and the rise of organized criminal networks</h2>
+      <p class="journal">Humanities and Social Sciences Communications · 2026 · Gargi Sarkar, Venkata Sai Charan Putrevu, Sandeep Kumar Shukla</p>
+      <p class="abstract">Semantic Scholar / Crossref 暂无摘要。建议点进原文查看 abstract。</p>
+      <div class="links">
+        <a href="https://doi.org/10.1057/s41599-026-07703-0" target="_blank" rel="noopener">Read paper</a>
+        <div class="doi">DOI: 10.1057/s41599-026-07703-0</div>
+      </div>
     </div>
-
-    <div class="section">
-      <h3>為什麼值得讀 <span class="cn">/ Why read</span></h3>
-      <p>八個 preregistered 研究、跨情境設計，把「飽足感」這個常被行銷文獻忽略的維度抬到核心，直接挑戰公共健康政策的供給側預設。乾淨的方法、把學術發現連回實際政策可行性。</p>
+  </article>
+  <article id="p4">
+    <div class="photo">
+      <img src="https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text" alt="Public Policy visual" loading="lazy">
+      <div class="badge">04 · Public Policy</div>
     </div>
-
-    <div class="footer-link">
-      <span class="doi">10.1177/00222429241296048</span>
-      <a href="https://journals.sagepub.com/doi/10.1177/00222429241296048" target="_blank" rel="noopener">Read on JM →</a>
+    <div class="content">
+      <h2>The role of preoperative thrombocytic factors on survival in patients with glioblastoma: a meta-analysis and synopsis of the literature</h2>
+      <p class="journal">Neurosurgical Review · 2026 · Yash Akkara, Joshua J Hon, Sruti Rehman et al.</p>
+      <p class="abstract">Semantic Scholar / Crossref 暂无摘要。建议点进原文查看 abstract。</p>
+      <div class="links">
+        <a href="https://doi.org/10.1007/s10143-026-04328-4" target="_blank" rel="noopener">Read paper</a>
+        <div class="doi">DOI: 10.1007/s10143-026-04328-4</div>
+      </div>
     </div>
-  </div>
-</article>
-
-<!-- PAPER 3 — Consumer Psychology -->
-<article class="paper" id="p3">
-  <div class="hero">
-    <img src="https://images.unsplash.com/photo-1763202364530-b8d9ce87af18?fm=jpg&q=70&w=1200&auto=format&fit=crop" alt="Misty forest path at sunrise">
-    <div class="corner-stamp">003 · CONSUMER PSYCHOLOGY</div>
-    <div class="frame-number">JCP · 35</div>
-  </div>
-  <div class="body">
-    <p class="journal-line">Journal of Consumer Psychology · 2025</p>
-    <h2 class="title">The Affective, Cognitive, and Social Benefits of Interacting with Nature</h2>
-    <p class="authors">Nakwon Rim, Kathryn E. Schertz & Marc G. Berman</p>
-
-    <div class="section">
-      <h3>方法 <span class="cn">/ Method</span></h3>
-      <p>整合性論文，回顧並重新統整自然接觸的三類效果：情感（情緒、壓力、反芻）、認知（工作記憶、注意力恢復）、社會（親社會、親環境態度）。作者建立以<strong>注意力恢復理論（Attention Restoration Theory）</strong>與低層次視覺特徵（曲線、分形複雜度）為基礎的整合框架，並對應到零售空間、數位介面、產品包裝等消費情境，同時評估真實 vs. 虛擬自然的差異。</p>
+  </article>
+  <article id="p5">
+    <div class="photo">
+      <img src="https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text" alt="Mental Health visual" loading="lazy">
+      <div class="badge">05 · Mental Health</div>
     </div>
-
-    <div class="section">
-      <h3>結果 <span class="cn">/ Result</span></h3>
-      <p>自然接觸不只恢復注意力，還能降低衝動性、改善決策品質、提升親社會行為，且效果可由可量化的視覺特徵預測。即使是模擬或圖像中的自然元素也能產生效果，但強度低於真實自然。</p>
+    <div class="content">
+      <h2>The glutamatergic NTS-PAG/PVN pathway underlies myocardial injury and anxiety-like behavior induced by myocardial ischemia-reperfusion</h2>
+      <p class="journal">Translational Psychiatry · 2026 · Fan ZHANG, Zheng-jie LUO, Nai-xuan WEI et al.</p>
+      <p class="abstract">Semantic Scholar / Crossref 暂无摘要。建议点进原文查看 abstract。</p>
+      <div class="links">
+        <a href="https://doi.org/10.1038/s41398-026-04115-1" target="_blank" rel="noopener">Read paper</a>
+        <div class="doi">DOI: 10.1038/s41398-026-04115-1</div>
+      </div>
     </div>
-
-    <div class="section">
-      <h3>為什麼值得讀 <span class="cn">/ Why read</span></h3>
-      <p>把模糊的「自然有益」翻譯成可操作的視覺特徵與機制路徑，給消費心理學的零售與介面設計提供具體的實驗設計入口。是該期刊 2025 年的焦點 research dialogue 主文。</p>
+  </article>
+  <article id="p6">
+    <div class="photo">
+      <img src="https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text" alt="Consumer Research visual" loading="lazy">
+      <div class="badge">06 · Consumer Research</div>
     </div>
-
-    <div class="footer-link">
-      <span class="doi">10.1002/jcpy.1456</span>
-      <a href="https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1456" target="_blank" rel="noopener">Read on JCP →</a>
+    <div class="content">
+      <h2>Reevaluating statistical methods for proportion-based laboratory outcomes in assisted reproduction</h2>
+      <p class="journal">Journal of Ovarian Research · 2026 · Chaofeng Wei, Hsun-Ming Chang, Chenggang Wang et al.</p>
+      <p class="abstract">Semantic Scholar / Crossref 暂无摘要。建议点进原文查看 abstract。</p>
+      <div class="links">
+        <a href="https://doi.org/10.1186/s13048-026-02131-9" target="_blank" rel="noopener">Read paper</a>
+        <div class="doi">DOI: 10.1186/s13048-026-02131-9</div>
+      </div>
     </div>
-  </div>
-</article>
-
-<!-- PAPER 4 — Public Policy -->
-<article class="paper" id="p4">
-  <div class="hero">
-    <img src="https://images.unsplash.com/photo-1554281388-8cef17f4e112?fm=jpg&q=70&w=1200&auto=format&fit=crop" alt="Pearl Bank Apartments, brutalist concrete">
-    <div class="corner-stamp">004 · PUBLIC POLICY</div>
-    <div class="frame-number">JPAM · 44(3)</div>
-  </div>
-  <div class="body">
-    <p class="journal-line">Journal of Policy Analysis and Management · 2025</p>
-    <h2 class="title">Are Public Housing Projects Good for Kids After All?</h2>
-    <p class="authors">Jeehee Han & Amy Ellen Schwartz</p>
-
-    <div class="section">
-      <h3>方法 <span class="cn">/ Method</span></h3>
-      <p>用紐約市公立學校學生的<strong>個體層級縱貫行政資料</strong>，估計搬入公共住宅對兒童學業成就的因果效果。設計採用<strong>差異中之差異（DiD）與事件研究（event study）</strong>並行，比較搬入前後表現變化，並以鄰里與學校品質作為機制檢驗變項。樣本涵蓋多年期間搬入公共住宅的學生與對照組同儕。</p>
+  </article>
+  <article id="p7">
+    <div class="photo">
+      <img src="https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text" alt="Food Industry / Science / Design visual" loading="lazy">
+      <div class="badge">07 · Food Industry / Science / Design</div>
     </div>
-
-    <div class="section">
-      <h3>結果 <span class="cn">/ Result</span></h3>
-      <p>搬入公共住宅後學生的測驗成績顯著上升，且<strong>第一年後效果更大</strong>；對原本來自低收入鄰里的學生效果更明顯，部分由鄰里與學校品質改善中介。結論推翻過去把公共住宅描繪為「品質差、傷害兒童」的傳統論述。</p>
+    <div class="content">
+      <h2>Hair Steroid Signatures of Cooperative Breeding in Male and Female Common Marmosets (Callithrix jacchus)</h2>
+      <p class="journal">International Journal of Primatology · 2026 · Benjamin N. Laubi, Gaëtan Glauser, Erik P. Willems et al.</p>
+      <p class="abstract">Semantic Scholar / Crossref 暂无摘要。建议点进原文查看 abstract。</p>
+      <div class="links">
+        <a href="https://doi.org/10.1007/s10764-026-00568-9" target="_blank" rel="noopener">Read paper</a>
+        <div class="doi">DOI: 10.1007/s10764-026-00568-9</div>
+      </div>
     </div>
-
-    <div class="section">
-      <h3>為什麼值得讀 <span class="cn">/ Why read</span></h3>
-      <p>用事件研究結合大規模行政資料挑戰一個已成共識的政策論點，重新打開公共住宅效果的討論。方法乾淨、識別策略清楚——是政策研究如何用因果方法改寫舊論述的範例。</p>
+  </article>
+  <article id="p8">
+    <div class="photo">
+      <img src="https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text" alt="Family Studies visual" loading="lazy">
+      <div class="badge">08 · Family Studies</div>
     </div>
-
-    <div class="footer-link">
-      <span class="doi">10.1002/pam.22625</span>
-      <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22625" target="_blank" rel="noopener">Read on JPAM →</a>
+    <div class="content">
+      <h2>Application of machine learning (ML) to landslide susceptibility, vulnerability and risk assessment (SVRA): A case study from Nainital township, Kumaun Himalaya, India</h2>
+      <p class="journal">Environment, Development and Sustainability · 2026 · Pratap Ram, Vikram Gupta, Ruchika S. Tandon</p>
+      <p class="abstract">Semantic Scholar / Crossref 暂无摘要。建议点进原文查看 abstract。</p>
+      <div class="links">
+        <a href="https://doi.org/10.1007/s10668-026-07731-5" target="_blank" rel="noopener">Read paper</a>
+        <div class="doi">DOI: 10.1007/s10668-026-07731-5</div>
+      </div>
     </div>
-  </div>
-</article>
-
-<!-- PAPER 5 — Family Studies -->
-<article class="paper" id="p5">
-  <div class="hero">
-    <img src="https://images.unsplash.com/photo-1597157639073-69284dc0fdaf?fm=jpg&q=70&w=1200&auto=format&fit=crop" alt="Hands in an Indian Hindu wedding ritual">
-    <div class="corner-stamp">005 · FAMILY STUDIES</div>
-    <div class="frame-number">JMF · 87(5)</div>
-  </div>
-  <div class="body">
-    <p class="journal-line">Journal of Marriage and Family · 2025</p>
-    <h2 class="title">Roka Engagements and the Hybridization of Arranged and "Love" Marriage in Urban India</h2>
-    <p class="authors">Megan N. Reed</p>
-
-    <div class="section">
-      <h3>方法 <span class="cn">/ Method</span></h3>
-      <p>2018–2019 在新德里地區進行的<strong>48 場深度訪談</strong>，受訪者包含剛結婚的夫妻、未婚年輕人與父母，全部來自大學教育的城市中產。分析採紮根理論（grounded theory），焦點放在 roka 訂婚之後到婚禮之間的「准戀愛期」實踐——這段時期的接觸尺度、父母介入程度、與愛情腳本的借用方式。</p>
+  </article>
+  <article id="p9">
+    <div class="photo">
+      <img src="https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text" alt="Management visual" loading="lazy">
+      <div class="badge">09 · Management</div>
     </div>
-
-    <div class="section">
-      <h3>結果 <span class="cn">/ Result</span></h3>
-      <p>安排婚姻的伴侶在 roka 之後也會展開類似戀愛的求愛歷程，吸納西方浪漫愛腳本但保留家庭認可的結構；自由戀愛的伴侶則用 roka 來換取父母背書。印度婚姻並非「安排 vs. 戀愛」二元，而是逐漸混合化的連續譜。</p>
+    <div class="content">
+      <h2>Vulnerability and adaptive resilience in global platform work: Cross-cultural insights from tutors across emerging and developed economies</h2>
+      <p class="journal">International Journal of Cross Cultural Management · 2026 · Julian Diaz-Avendaño, Juan Velez-Ocampo, Yudy Lopez-Hernandez</p>
+      <p class="abstract">This study explores how professional language tutors working on a global digital platform navigate the challenges of platform work across culturally and economically diverse contexts. Drawing on grounded theory and interviews with tutors from emerging and developed economies, we develop a process model of how individuals respond to platform vulnerability...</p>
+      <div class="links">
+        <a href="https://doi.org/10.1177/14705958261455759" target="_blank" rel="noopener">Read paper</a>
+        <div class="doi">DOI: 10.1177/14705958261455759</div>
+      </div>
     </div>
-
-    <div class="section">
-      <h3>為什麼值得讀 <span class="cn">/ Why read</span></h3>
-      <p>用一個高度具體的儀式（roka）作為切入點重新理論化全球化下的婚姻變遷，避免落入西化敘事。對研究跨文化親密關係、家族與個體張力的人非常啟發。</p>
-    </div>
-
-    <div class="footer-link">
-      <span class="doi">10.1111/jomf.13115</span>
-      <a href="https://onlinelibrary.wiley.com/doi/10.1111/jomf.13115" target="_blank" rel="noopener">Read on JMF →</a>
-    </div>
-  </div>
-</article>
-
-<!-- PAPER 6 — Urban Studies -->
-<article class="paper" id="p6">
-  <div class="hero">
-    <img src="https://images.unsplash.com/photo-1653025427704-404ee9b35fbd?fm=jpg&q=70&w=1200&auto=format&fit=crop" alt="Grass growing through concrete paving">
-    <div class="corner-stamp">006 · URBAN STUDIES</div>
-    <div class="frame-number">URBST · 2025</div>
-  </div>
-  <div class="body">
-    <p class="journal-line">Urban Studies · 2025</p>
-    <h2 class="title">Grass Through Concrete: Authoritarian Governance and the Urban Politics of Minimal Change</h2>
-    <p class="authors">Sofia Borushkina</p>
-
-    <div class="section">
-      <h3>方法 <span class="cn">/ Method</span></h3>
-      <p>以哈薩克採納俄羅斯城市規劃 Standard 的過程為個案，採用<strong>過程追蹤（process tracing）</strong>方法重建政策制定路徑。資料含政策文件、與地方政策企業家及半官方行動者的半結構式訪談、媒體分析。核心分析變量是政策如何被框架為「技術性、非政治化」，以及地方行動者如何建立跨機構聯盟而避開民主參與的需求。</p>
-    </div>
-
-    <div class="section">
-      <h3>結果 <span class="cn">/ Result</span></h3>
-      <p>威權政體中從相似政體「借用」政策，是低風險的現代化策略，能在不引發政治擾動下推動城市改造。提案技術化、與威權目標相符時，地方政策企業家能讓它登上國家層級。</p>
-    </div>
-
-    <div class="section">
-      <h3>為什麼值得讀 <span class="cn">/ Why read</span></h3>
-      <p>把「政策借用」從跨國治理研究帶進威權城市政治的具體機制分析，給研究後蘇聯空間、技術官僚治理的人提供清晰的分析模板。過程追蹤方法用得乾淨。</p>
-    </div>
-
-    <div class="footer-link">
-      <span class="doi">10.1177/00420980251340272</span>
-      <a href="https://journals.sagepub.com/doi/10.1177/00420980251340272" target="_blank" rel="noopener">Read on Urban Studies →</a>
-    </div>
-  </div>
-</article>
-
-<!-- PAPER 7 — Psychology -->
-<article class="paper" id="p7">
-  <div class="hero">
-    <img src="https://images.unsplash.com/photo-1750544522301-2317f6e2d008?fm=jpg&q=70&w=1200&auto=format&fit=crop" alt="NYC busy crosswalk at dusk">
-    <div class="corner-stamp">007 · PSYCHOLOGY</div>
-    <div class="frame-number">PSS · 2025</div>
-  </div>
-  <div class="body">
-    <p class="journal-line">Psychological Science · 2025</p>
-    <h2 class="title">Mapping the Ecology of Risk: 100 Risky Choices of Modern Life</h2>
-    <p class="authors">Renato Frey & Olivia Fischer</p>
-
-    <div class="section">
-      <h3>方法 <span class="cn">/ Method</span></h3>
-      <p>透過瑞士的多波次人口調查（<strong>N = 4,380</strong>）建立當代日常風險選擇的清單。研究刻意變化提問方式：有些受訪者被問自身經歷的選擇、有些被問社交圈的選擇；有些聚焦選擇較冒險選項的時刻、有些聚焦較安全選項的時刻。最終用歸納方式建立 100 個獨特的現代生活風險選擇清單，並分析其結構、生活領域與穩定性。</p>
-    </div>
-
-    <div class="section">
-      <h3>結果 <span class="cn">/ Result</span></h3>
-      <p>現代風險生態與傳統實驗室「金錢賭局」式研究差異極大；真正主導日常的風險集中在<strong>工作職涯、婚姻、子女、買房、健康</strong>等高情境性領域，且這個 ecology 跨時間相當穩定。</p>
-    </div>
-
-    <div class="section">
-      <h3>為什麼值得讀 <span class="cn">/ Why read</span></h3>
-      <p>把「風險偏好」研究從抽象賭局拉回真實生活，方法上是大規模生態取樣的範例，提供後續實驗一套貼近真實的刺激材料。難得把心理學方法論與生態效度同時拉高的一篇。</p>
-    </div>
-
-    <div class="footer-link">
-      <span class="doi">10.1177/09567976251384975</span>
-      <a href="https://journals.sagepub.com/doi/10.1177/09567976251384975" target="_blank" rel="noopener">Read on Psych Science →</a>
-    </div>
-  </div>
-</article>
-
-<!-- PAPER 8 — Mental Health -->
-<article class="paper" id="p8">
-  <div class="hero">
-    <img src="https://images.unsplash.com/photo-1580281657702-257584239a55?fm=jpg&q=70&w=1200&auto=format&fit=crop" alt="Empty hospital bed at NIH clinical research center">
-    <div class="corner-stamp">008 · MENTAL HEALTH</div>
-    <div class="frame-number">JAMA-P · 82(9)</div>
-  </div>
-  <div class="body">
-    <p class="journal-line">JAMA Psychiatry · 2025</p>
-    <h2 class="title">Esketamine Monotherapy in Adults with Treatment-Resistant Depression: A Randomized Clinical Trial</h2>
-    <p class="authors">Reif, A., et al. (JAMA Psychiatry · 82(9):877–887)</p>
-
-    <div class="section">
-      <h3>方法 <span class="cn">/ Method</span></h3>
-      <p>多中心、雙盲、<strong>安慰劑對照 RCT（phase 4）</strong>，在美國 51 個門診中心於 2020–2024 進行。受試者為治療抗性憂鬱症（TRD）患者，隨機分到 esketamine 鼻噴單藥（56 mg / 84 mg）或安慰劑，每週 2 次，治療持續 4 週。主要結果變量是 <strong>MADRS</strong> 憂鬱症狀分數變化，次要變量含反應率、緩解率、安全性事件。重點：esketamine <strong>不合用</strong>口服抗鬱劑——是真正的單藥檢驗。</p>
-    </div>
-
-    <div class="section">
-      <h3>結果 <span class="cn">/ Result</span></h3>
-      <p>56 mg 與 84 mg 兩個劑量均顯著優於安慰劑，<strong>首劑 24 小時內</strong>即有改善，效果維持至第 28 天；安全性整體可接受。結果支持 esketamine 作為 TRD 的<strong>單藥治療選項</strong>，而不只是輔助治療。</p>
-    </div>
-
-    <div class="section">
-      <h3>為什麼值得讀 <span class="cn">/ Why read</span></h3>
-      <p>TRD 的單藥療法選項一直稀缺，這篇用嚴謹 RCT 把 esketamine 推到單藥可用的證據門檻，直接影響臨床決策與藥物標籤擴張。是精神科 RCT 設計的範本。</p>
-    </div>
-
-    <div class="footer-link">
-      <span class="doi">10.1001/jamapsychiatry.2025.1317</span>
-      <a href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2836115" target="_blank" rel="noopener">Read on JAMA-P →</a>
-    </div>
-  </div>
-</article>
-
-<!-- PAPER 9 — Food Industry / Science / Design -->
-<article class="paper" id="p9">
-  <div class="hero">
-    <img src="https://images.unsplash.com/photo-1758522483965-54af5d922b7c?fm=jpg&q=70&w=1200&auto=format&fit=crop" alt="Woman chopping vegetables in a morning kitchen">
-    <div class="corner-stamp">009 · FOOD INDUSTRY / SCIENCE / DESIGN</div>
-    <div class="frame-number">APP · 2025</div>
-  </div>
-  <div class="body">
-    <p class="journal-line">Appetite · 2025</p>
-    <h2 class="title">Understanding the Intention–Behaviour Gap in Meat Reduction: The Role of Cognitive Dissonance in Dietary Change</h2>
-    <p class="authors">David Fechner & Sebastian Isbanner</p>
-
-    <div class="section">
-      <h3>方法 <span class="cn">/ Method</span></h3>
-      <p><strong>縱貫設計</strong>（longitudinal study），追蹤想減少肉類消費者的真實行為變化。理論框架結合 <strong>transtheoretical model of change</strong> 與認知失調理論。受訪者在多個時間點報告動機、減肉障礙、認知失調強度與所處的飲食改變階段。分析以中介模型檢驗認知失調是否在動機/障礙與行為改變之間扮演機制角色。</p>
-    </div>
-
-    <div class="section">
-      <h3>結果 <span class="cn">/ Result</span></h3>
-      <p>認知失調是動機與真實飲食改變之間的<strong>關鍵中介</strong>；成功轉向素食者經歷了失調上升，並伴隨健康與可行性障礙下降。單純態度或意圖無法預測行為，但「失調感」可以。</p>
-    </div>
-
-    <div class="section">
-      <h3>為什麼值得讀 <span class="cn">/ Why read</span></h3>
-      <p>把意圖–行為落差這個老問題用具體機制（cognitive dissonance）解開，並用縱貫資料而非橫斷問卷做檢驗。對永續飲食介入設計者很有用——提示應該觸發失調而非單純資訊教育。</p>
-    </div>
-
-    <div class="footer-link">
-      <span class="doi">S0195666325003575</span>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0195666325003575" target="_blank" rel="noopener">Read on Appetite →</a>
-    </div>
-  </div>
-</article>
-
+  </article>
+  <footer>
+    自动生成页面。期刊清单见 <code>config/journals.json</code>；如果某天没有足够新论文，页面会保留最近一次可生成的结果。
+  </footer>
 </main>
-
-<footer class="colophon">
-  <div>Morning Papers · 22 May 2026</div>
-  <span class="iso">Do the small exact thing.</span>
-  <div style="margin-top:18px;">Daily papers · Crossref + Semantic Scholar</div>
-  <div style="margin-top:12px; font-size:9px; letter-spacing:0.18em;">Photos via Unsplash</div>
-</footer>
-
-<script>
-  // Smooth scroll for TOC
-  document.querySelectorAll('.toc a').forEach(a => {
-    a.addEventListener('click', e => {
-      const id = a.getAttribute('href');
-      if (id && id.startsWith('#')) {
-        e.preventDefault();
-        const el = document.querySelector(id);
-        if (el) el.scrollIntoView({behavior:'smooth', block:'start'});
-      }
-    });
-  });
-
-  // Read progress bar
-  const pb = document.getElementById('pb');
-  function updateProgress(){
-    const h = document.documentElement;
-    const scrolled = h.scrollTop / (h.scrollHeight - h.clientHeight);
-    pb.style.width = Math.min(100, Math.max(0, scrolled * 100)) + '%';
-  }
-  window.addEventListener('scroll', updateProgress, {passive:true});
-  updateProgress();
-</script>
-
 </body>
 </html>
