@@ -1,157 +1,158 @@
 [
   {
-    "field": "Urban Studies",
-    "title": "ხელოვნური ინტელექტი - მეწარმეობის განვითარების ინოვაციური ინსტრუმენტი",
-    "journal": "Economics and Business",
+    "field": "Consumer Research",
+    "title": "Öğretmenlerin Sosyal Katılımı: Bir Ölçek Geliştirme Çalışması / Teachers’ Social Participation: A Scale Development Study",
+    "journal": "e-International Journal of Educational Research",
     "year": "2026",
-    "date": "2026-05-23",
-    "doi": "10.52340/eab.2026.18.01.07.",
-    "url": "https://doi.org/10.52340/eab.2026.18.01.07.",
-    "abstract": "",
+    "date": "2026-05-24",
+    "doi": "10.19160/e-ijer.1831548",
+    "url": "https://doi.org/10.19160/e-ijer.1831548",
+    "abstract": "Bu araştırmanın amacı, öğretmenlerin okul içi ve okul dışı sosyal katılımlarını kapsayan bir ölçme aracı geliştirmek ve bu ölçme aracının geçerlik ve güvenirliğini tespit etmektir. Araştırma nicel araştırma yönteminde desenlenmiştir. Bu çerçevede ilk olarak ilgili alanyazın taranarak, kapsam belirlenmiş ve problem tanımlanmıştır. İkinci olarak madde havuzu oluşturulmuştur. Üçüncü olarak nitel veri toplanmış oluşturulan madde havuzu nitelik ve nicelik olarak yeniden değerlendirilmiştir. Dördüncü olarak uzman görüşüne başvurularak kapsam ve içerik geçerliği güçlendirilmeye çalışılmıştır. Son olarak ölçme aracı maddelerinin pilot uygulaması yapılmış, yapı geçerliliği ve güvenirlik testleri yapılmıştır. “Öğretmenlerin sosyal katılımı ölçeği”nin geliştirilmesinde “Sosyal Aktivite Taksonomisi” temele alınmıştır. Çalışma evreni Antalya ili beş merkez ilçe içinde nüfus yoğunluğu en fazla olan ve kentsel bakımdan homojen özelliklere sahip Kepez, Muratpaşa ve Konyaaltı ilçelerinden oluşmuş, örneklemin belirlenmesinde ise aşamalı olarak tabakalı, oransal ve tesadüfi örnekleme yöntemleri kullanılmıştır. Çalışmada, örneklem 2024-2025 eğitim öğretim yılında Millî Eğitim Bakanlığı’na bağlı devlet okullarının farklı öğretim kademelerinde görev yapan 335 öğretmenden oluşmuştur. Sonuç olarak, uygulama sonunda uygun şekilde doldurulmuş olan 292 ölçme aracı analize dahil edilmiştir. Elde edilen veriler ölçme aracında temele alınan kuramsal temel ve varsayımların gereği olarak doğrulayıcı faktör analizine tabi tutulmuştur. Sonuç olarak, öğretmenlerin okul dışı sosyal katılımını ölçmek üzere beş boyuta dağılan 22 maddeden ve öğretmenlerin okul içi sosyal katılımını ölçmek üzere altı boyuta dağılan 37 maddeden oluşan ikili bir ölçme aracı elde edilmiştir. Böylece yapılan geçerlik ve güvenirlik analizleri sonucunda, ölçeğin, Türkiye’de Millî Eğitim Bakanlığı’na bağlı resmi okullarda görevli öğretmenlerin “Öğretmenlerin Sosyal Katılımı” ile ilgili görüşlerinin belirlenmesinde kullanılabilecek geçerli ve güvenilir bir araç olduğu tespit edilmiştir. Ölçme aracının ikili yapısı hem bütünde öğretmenlerin sosyal katılımlarını ölçmeyi amaçlayan çalışmalarda hem de öğretmenlerin okul içinde ve okul dışında sosyal katılımını ayrı ayrı ölçmeyi amaçlayan çalışmalarda kullanılmasına da olanak sağlayacaktır.",
     "authors": [
-      "გულნაზი ერქომაიშვილი"
+      "Saliha Çiftçi",
+      "Ali Sabancı"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "Understanding customer data sharing in open finance",
-    "journal": "Journal of Financial Services Marketing",
-    "year": "2026",
-    "date": "2026-05-23",
-    "doi": "10.1057/s41264-026-00364-9",
-    "url": "https://doi.org/10.1057/s41264-026-00364-9",
-    "abstract": "",
-    "authors": [
-      "Vannice Arrais Ramos",
-      "Rodrigo Heldt",
-      "Marlon Imhoff"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Understanding Jamtara cybercriminals: poverty, opportunity, and the rise of organized criminal networks",
-    "journal": "Humanities and Social Sciences Communications",
-    "year": "2026",
-    "date": "2026-05-23",
-    "doi": "10.1057/s41599-026-07703-0",
-    "url": "https://doi.org/10.1057/s41599-026-07703-0",
-    "abstract": "",
-    "authors": [
-      "Gargi Sarkar",
-      "Venkata Sai Charan Putrevu",
-      "Sandeep Kumar Shukla"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Public Policy",
-    "title": "The role of preoperative thrombocytic factors on survival in patients with glioblastoma: a meta-analysis and synopsis of the literature",
-    "journal": "Neurosurgical Review",
+    "title": "Unique Continuation for Area Minimizing Currents",
+    "journal": "Archive for Rational Mechanics and Analysis",
     "year": "2026",
-    "date": "2026-05-23",
-    "doi": "10.1007/s10143-026-04328-4",
-    "url": "https://doi.org/10.1007/s10143-026-04328-4",
+    "date": "2026-05-24",
+    "doi": "10.1007/s00205-026-02190-8",
+    "url": "https://doi.org/10.1007/s00205-026-02190-8",
     "abstract": "",
     "authors": [
-      "Yash Akkara",
-      "Joshua J Hon",
-      "Sruti Rehman",
-      "John de Groot"
+      "Camillo Brena",
+      "Stefano Decio"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "The Effect of Digital Finance Usage and Green Awareness on Responsible Consumerism among Students of the Economic Education Study Program at Universitas PGRI Jombang",
+    "journal": "Journal of Multidisciplinary Science: MIKAILALSYS",
+    "year": "2026",
+    "date": "2026-05-24",
+    "doi": "10.58578/mikailalsys.v4i2.10243",
+    "url": "https://doi.org/10.58578/mikailalsys.v4i2.10243",
+    "abstract": "The increasing use of digital financial services and the growing importance of environmental awareness have become central factors in shaping responsible consumption behavior among university students. This study aims to analyze the effect of digital finance usage and green awareness on responsible consumerism among students of the Economic Education Study Program at Universitas PGRI Jombang. A quantitative approach with an explanatory research design was employed. The population comprised 107 students from the 2022–2025 cohorts, from which 85 respondents were selected using proportional random sampling. Data were collected through questionnaires and analyzed using multiple linear regression with SPSS version 27. The findings indicate that digital finance usage has a positive and significant effect on responsible consumerism, with a regression coefficient of 0.383 and a significance value of 0.000. Green awareness also has a positive and significant effect, with a regression coefficient of 0.636 and a significance value of 0.000. Simultaneously, digital finance usage and green awareness significantly influence responsible consumerism, as reflected in an Adjusted R Square value of 0.837. The study concludes that effective use of digital financial services and strong environmental awareness encourage more responsible and sustainable consumption behavior among students. These findings contribute to the literature on financial behavior and sustainable consumption by highlighting the combined role of digital finance and green awareness in promoting responsible consumerism, while also implying the need to strengthen digital financial literacy and environmental education in higher education institutions.",
+    "authors": [
+      "Bela Purwaning Tyas",
+      "Lina Susilowati"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Solar-driven peroxyacid group activation enables＞ 500 h stable hydroxyl-radical defluorination of industrial perfluorophenol wastewater",
+    "journal": "Nature Communications",
+    "year": "2026",
+    "date": "2026-05-24",
+    "doi": "10.1038/s41467-026-73548-5",
+    "url": "https://doi.org/10.1038/s41467-026-73548-5",
+    "abstract": "",
+    "authors": [
+      "Yunning Chen",
+      "Qixin Zhou",
+      "Yan Guo",
+      "Zhengkai Wu"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Mental Health",
-    "title": "The glutamatergic NTS-PAG/PVN pathway underlies myocardial injury and anxiety-like behavior induced by myocardial ischemia-reperfusion",
+    "title": "Social exclusion alters attention and autonomic regulation in adolescents with nonsuicidal self-injury",
     "journal": "Translational Psychiatry",
     "year": "2026",
-    "date": "2026-05-23",
-    "doi": "10.1038/s41398-026-04115-1",
-    "url": "https://doi.org/10.1038/s41398-026-04115-1",
-    "abstract": "",
+    "date": "2026-05-24",
+    "doi": "10.1038/s41398-026-04136-w",
+    "url": "https://doi.org/10.1038/s41398-026-04136-w",
+    "abstract": "Abstract Nonsuicidal self-injury (NSSI) poses a growing clinical challenge in adolescence, while imagery of NSSI is increasingly embedded in everyday digital life. Prior research indicates that adolescents who engage in nonsuicidal self-injury orient more rapidly toward NSSI-related imagery and report heightened urges to self-injure after viewing such content. What remains unknown is how social stress shapes these attentional biases. In the present study, we tested whether experimentally induced ostracism modifies attention to NSSI images, urges to self-injure, and autonomic regulation in adolescents with recent NSSI. Fifty adolescents who engaged in recent NSSI ( M = 16.40 years, SD = 1.33) were randomized to inclusion vs. exclusion in an in-person ball-tossing ostracism paradigm and then completed free-viewing eye-tracking (with stimuli durations of 500/1000 ms) and dot-probe tasks (200/500 ms) that included NSSI images. NSSI urges, perceived stress, heart rate, and heart rate variability (Root Mean Square of Successive Differences, RMSSD) were assessed throughout the experiment. Social exclusion produced sustained reductions in RMSSD relative to inclusion, with no reliable heart rate differences. During free-viewing, both groups preferentially fixated NSSI images, but exclusion reduced the probability of first fixations on NSSI. In the dot-probe task, exclusion amplified the slowing from congruent to incongruent trials for NSSI. After viewing NSSI images, both groups showed increased urges and stress, with larger increases after exclusion. Acute interpersonal rejection reorganized attention, dampening initial gaze capture yet impairing later disengagement, occurring in the context of vagal withdrawal. These dynamics may help explain how social stress potentiates NSSI risk in everyday digital environments and highlight interpersonal context and post-rejection coping as modifiable targets for intervention. Trial Registration : German Clinical Trials Register Identifier: DRKS00025905",
     "authors": [
-      "Fan ZHANG",
-      "Zheng-jie LUO",
-      "Nai-xuan WEI",
-      "Jian-qing YU"
+      "Andreas Goreis",
+      "Annika Lozar",
+      "Rosa List",
+      "Sofia-Marie Oehlke"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Consumer Research",
-    "title": "Reevaluating statistical methods for proportion-based laboratory outcomes in assisted reproduction",
-    "journal": "Journal of Ovarian Research",
+    "field": "Urban Studies",
+    "title": "Rapid increase in Antarctic intermediate water ventilation related to past Atlantic meridional overturning circulation weakening",
+    "journal": "Communications Earth & Environment",
     "year": "2026",
-    "date": "2026-05-23",
-    "doi": "10.1186/s13048-026-02131-9",
-    "url": "https://doi.org/10.1186/s13048-026-02131-9",
-    "abstract": "",
+    "date": "2026-05-24",
+    "doi": "10.1038/s43247-026-03659-w",
+    "url": "https://doi.org/10.1038/s43247-026-03659-w",
+    "abstract": "Abstract Southeast Pacific intermediate waters feed the global thermocline and thus can widely influence ocean biogeochemical and physical properties with consequences for climate and ecosystems. Despite this importance, the sensitivity of intermediate waters to past and current climate change remains inadequately understood. Here we reconstruct variability of Antarctic Intermediate Water during Antarctic Isotope Maximum event 8 (37–39.4 ka) using benthic foraminiferal stable isotopes from Ocean Drilling Program Site 1233. At 39.4 ka, bottom waters warmed, oxygen concentrations rose sharply, and carbon isotope values increased, indicating enhanced ventilation and nutrient depletion. These changes are consistent with the thermocline deepening and nutrient redistribution found in models in response to a weakened Atlantic Meridional Overturning Circulation. Intensification of Antarctic Intermediate Water ventilation during rapid Southern Hemisphere warming helps to constrain carbon dioxide rise hypotheses and identifies intermediate waters as sensitive modulators of thermocline biogeochemistry.",
     "authors": [
-      "Chaofeng Wei",
-      "Hsun-Ming Chang",
-      "Chenggang Wang",
-      "Peter C. K. Leung"
+      "Pushpak Martin John Nadar",
+      "Helga Kikki Flesche Kleiven",
+      "Ulysses S. Ninnemann",
+      "Nil Irvalı"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "COMPARATIVE EVALUATION OF CONVENTIONAL AND HERBAL FORMULATIONS FOR DIABETIC WOUND HEALING",
+    "journal": "EPRA International Journal of Research & Development (IJRD)",
+    "year": "2026",
+    "date": "2026-05-24",
+    "doi": "10.36713/epra27902",
+    "url": "https://doi.org/10.36713/epra27902",
+    "abstract": "Diabetes mellitus continues to impose a devastating global burden, with approximately 537 million adults affected worldwide as of 2021 — a figure projected to reach 783 million by 2045. Among the most serious complications of diabetes is impaired wound healing, affecting nearly 25% of all diabetic patients and carrying significant risk of chronic ulceration, infection, and lower-limb amputation. This review article provides a comprehensive, evidence-based comparative evaluation of herbal and conventional pharmaceutical formulations used in the management of diabetic wounds. Drawing upon 36 peer-reviewed references published from 2010 to 2025, including randomized controlled trials, systematic reviews, meta-analyses, and preclinical studies, this article examines the pathophysiological mechanisms underlying impaired diabetic wound healing, evaluates the pharmacological profiles of both therapeutic approaches, and presents a multi-parameter efficacy and safety comparison. Results indicate that conventional formulations demonstrate superior wound closure rates (~85%) and infection control (~88%), while herbal formulations exhibit advantages in anti-inflammatory activity (~80%), long-term safety, cost-effectiveness, and wound recurrence prevention (~15%). An integrated, patient-centered therapeutic model combining both approaches is proposed as the most effective strategy for diabetic wound management. Future directions include large-scale clinical trials for herbal formulations, standardization of phytochemical preparations, and the development of nano formulation-based combinatorial delivery systems. Keywords: Diabetes mellitus, diabetic wound healing, herbal formulations, conventional formulations, curcumin, Aloe vera, diabetic foot ulcer, comparative pharmacology, wound care.",
+    "authors": [
+      "Jayesh Prajapat",
+      "Harsh Vaishnav",
+      "Kareena Jain",
+      "Dinesh Kumar"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "Hair Steroid Signatures of Cooperative Breeding in Male and Female Common Marmosets (Callithrix jacchus)",
-    "journal": "International Journal of Primatology",
+    "title": "Synergistic Design of Plant-Based Fat Analogs: a Critical Review of Oils, Proteins, and Carbohydrates Integration for Structuring Next-Generation Meat Alternatives",
+    "journal": "Food Biophysics",
     "year": "2026",
     "date": "2026-05-23",
-    "doi": "10.1007/s10764-026-00568-9",
-    "url": "https://doi.org/10.1007/s10764-026-00568-9",
+    "doi": "10.1007/s11483-026-10155-3",
+    "url": "https://doi.org/10.1007/s11483-026-10155-3",
     "abstract": "",
     "authors": [
-      "Benjamin N. Laubi",
-      "Gaëtan Glauser",
-      "Erik P. Willems",
-      "Carel P. van Schaik"
+      "Murielle Izere",
+      "Daniel Tumusenge",
+      "Tharcille Uzanyinema",
+      "Bo Zhao"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Family Studies",
-    "title": "Application of machine learning (ML) to landslide susceptibility, vulnerability and risk assessment (SVRA): A case study from Nainital township, Kumaun Himalaya, India",
-    "journal": "Environment, Development and Sustainability",
+    "field": "Management",
+    "title": "Associations of skin cancer, dermatitis and risk factors for skin conditions with epigenetic aging",
+    "journal": "Journal of the European Academy of Dermatology and Venereology",
     "year": "2026",
     "date": "2026-05-23",
-    "doi": "10.1007/s10668-026-07731-5",
-    "url": "https://doi.org/10.1007/s10668-026-07731-5",
+    "doi": "10.1111/jdv.70513",
+    "url": "https://doi.org/10.1111/jdv.70513",
     "abstract": "",
     "authors": [
-      "Pratap Ram",
-      "Vikram Gupta",
-      "Ruchika S. Tandon"
+      "Raj P. Fadadu",
+      "Patton K. Nguyen",
+      "Dennis Khodasevich",
+      "David H. Rehkopf"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "Vulnerability and adaptive resilience in global platform work: Cross-cultural insights from tutors across emerging and developed economies",
-    "journal": "International Journal of Cross Cultural Management",
-    "year": "2026",
-    "date": "2026-05-22",
-    "doi": "10.1177/14705958261455759",
-    "url": "https://doi.org/10.1177/14705958261455759",
-    "abstract": "This study explores how professional language tutors working on a global digital platform navigate the challenges of platform work across culturally and economically diverse contexts. Drawing on grounded theory and interviews with tutors from emerging and developed economies, we develop a process model of how individuals respond to platform vulnerability, build adaptive resilience, and sustain professional identity in the absence of formal organizational structures. The findings reveal that tutors construct resilience through emotional regulation, cultural mediation, and relational engagement, enabling them to manage systemic demands and craft meaningful roles within algorithmically governed environments. We show that while core practices are shared, the meaning, motivation, and consequences of these strategies vary significantly across contexts. Tutors in emerging economies emphasize economic continuity and social positioning, while those in developed economies focus on autonomy and intrinsic purpose. This study contributes to cross-cultural management by theorizing how resilience and identity are enacted through culturally situated practices, and by illuminating the contextual conditions that shape agency in global platform work.",
-    "authors": [
-      "Julian Diaz-Avendaño",
-      "Juan Velez-Ocampo",
-      "Yudy Lopez-Hernandez"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
