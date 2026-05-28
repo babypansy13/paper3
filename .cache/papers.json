@@ -1,156 +1,145 @@
 [
   {
-    "field": "Mental Health",
-    "title": "“We are not allowed to give any pain relief” — Swedish mountain-rescue operations from the perspective of mountain-rescue personnel: an interview study",
-    "journal": "BMC Emergency Medicine",
+    "field": "Consumer Research",
+    "title": "ФОРМУВАННЯ СТІЙКОСТІ ОСОБИСТОСТІ: ІСТОРИКО-ПСИХОЛОГІЧНИЙ АНАЛІЗ І ПРАКТИЧНІ АСПЕКТИ РЕАБІЛІТАЦІЇ",
+    "journal": "Psychology Travelogs",
     "year": "2026",
-    "date": "2026-05-27",
-    "doi": "10.1186/s12873-026-01624-6",
-    "url": "https://doi.org/10.1186/s12873-026-01624-6",
-    "abstract": "Abstract Background Rescue efforts in mountainous terrain remain a challenge for responding organizations such as police, emergency medical services and the mountain rescuers. This study aimed to shed light on Swedish mountain-rescue operations from the perspective of mountain rescuers. Methods Individual interviews were conducted with 21 Swedish mountain rescuers from four different counties bordering the 1,700-km long and 300-km wide Swedish/Norwegian mountain range “The Scandes.” The collected data were analyzed using qualitative content analysis. Results The overall theme was “A unique environment demands a tailored response.” Five categories were identified: (1) major incident preparedness, (2) intra-organizational preconditions, (3) initial incident response, (4) welfare concerns on-route and on-site, and (5) a difficult injury assessment. Conclusion Intra-organizational bureaucracy may impede Swedish mountain-rescue response. Legislative issues regarding timely access to helicopters for the transportation of personnel and injured, as well as the restrictions on the administration of pain-relief drugs by licensed medical professionals, need to be addressed to decrease time to definitive treatment and improve patient comfort in future rescue efforts.",
+    "date": "2026-05-28",
+    "doi": "10.31891/pt-2026-2-50",
+    "url": "https://doi.org/10.31891/pt-2026-2-50",
+    "abstract": "У статті розглядається феномен психологічної стійкості особистості в історико-психологічній перспективі та аналізуються сучасні підходи до її формування й відновлення в умовах психотравмуючих впливів. Проведено огляд сучасної літератури, в якому виокремлено поняття «емоційна стійкість», «резильєнтність» та «життєстійкість». Наголошується, що формування стресостійкості особистості в умовах війни передбачає зміцнення індивідуальних психологічних ресурсів, підтримку соціального оточення та системну професійну допомогу, спрямовану на збереження психічного здоров’я і відновлення внутрішньої рівноваги. Окреслено основні етапи розвитку уявлень про стійкість у психологічній науці, а також практичні напрями психосоціальної реабілітації.",
     "authors": [
-      "Amanda Gezelius",
-      "Anton Westman",
-      "Johan Hylander"
+      "Світлана КОНДРАТЮК",
+      "Леся ФІЛІПЧУК"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "When finance meets artificial intelligence: transforming financial text named entity recognition with the incorporation of hybrid embeddings",
-    "journal": "South Asian Journal of Business Studies",
-    "year": "2026",
-    "date": "2026-05-27",
-    "doi": "10.1108/sajbs-01-2025-0035",
-    "url": "https://doi.org/10.1108/sajbs-01-2025-0035",
-    "abstract": "Purpose With the rapid increase in the availability of financial data (from news stories, company filings and social networks), more needs to automate financial information extraction than ever before. The distinction of FinTech, as compared to traditional banking, is through highly intelligent, efficient and customizable financial systems, of which many employ artificial intelligence. Natural language processing (NLP) is the technology that allows computers to process and understand language, thus converting unstructured data into useful, actionable patterns in finance. Named entity recognition (NER) is one of several tasks within NLP that enables quick identification of key features within finance, such as businesses, stocks, monetary amounts and other significant industry jargon. There is a unique challenge with financial NER because of the continual development and evolution of the English language within the financial markets. As new companies enter the market and securities are created, new ticker symbols and domain-specific jargon are generated at an increasingly fast pace, which consistently creates many out-of-vocabulary tokens, making it difficult to determine the reliable identification of entities in finance. Design/methodology/approach The combination of word embedding and character embedding was utilized to handle the complexity associated with financial entities. By the combination of these approaches, the model is less sensitive to the presence of rare and complex entities, therefore increasing the accuracy of the approach. The model's word embedding uses a BERT-based architecture, while the character embedding employs a convolutional neural network (CNN). Additionally, the character embedding is concatenated for processing using the BiLSTM layer for context-based dependencies. This is to provide a softmax output for NER classification. Findings By integrating FinBERT, GloVe, CNN and BiLSTM, the hybrid models achieve an accuracy, F1 score, recall and precision of value 91%, 88%, 90% and 90%, respectively, on the publicly available dataset FiNER-139. Originality/value Overall, the results are highly promising for practical use in finance, helping to build an effective financial NER system and strengthening data-driven decision-making. They also improve AML/KYC compliance by automating entity extraction to decrease false positives and review time, while strengthening risk management and market monitoring with early warning signals from filings, earnings calls and news.",
-    "authors": [
-      "Aditi Bajpai",
-      "Sonal Yadav",
-      "Naresh Kumar Nagwani"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Psychology",
-    "title": "Very low-carbohydrate ketogenic diet in treatment-naïve women with endometrial cancer and overweight: a randomized feasibility study",
-    "journal": "Nature Communications",
+    "title": "Workplace incivility in Vietnamese primary schools",
+    "journal": "Human Resource Management International Digest",
     "year": "2026",
-    "date": "2026-05-27",
-    "doi": "10.1038/s41467-026-73519-w",
-    "url": "https://doi.org/10.1038/s41467-026-73519-w",
-    "abstract": "",
-    "authors": [
-      "Ezequiel Dantas",
-      "Katie C. Hootman",
-      "Jenna Moyer",
-      "Morgan Tomberlin"
-    ],
+    "date": "2026-05-28",
+    "doi": "10.1108/hrmid-05-2026-0116",
+    "url": "https://doi.org/10.1108/hrmid-05-2026-0116",
+    "abstract": "Purpose This paper aims to review the latest management developments across the globe and pinpoint practical implications from cutting-edge research and case studies. Design/methodology/approach This briefing is prepared by an independent writer who adds their own impartial comments and places the articles in context. Findings The growing but still somewhat hidden issue of workplace incivility has scope to damage work engagement and lead to job burnout. Organizations can take measures to address the problem through training initiatives to increase awareness and by devising strategies that help mitigate its harmful effects on employees. Originality/value The briefing saves busy executives and researchers hours of reading time by selecting only the very best, most pertinent information and presenting it in a condensed and easy-to-digest format.",
+    "authors": [],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Consumer Research",
-    "title": "Validation of the Japanese Version of the Muscular Dystrophy Spine Questionnaire in Patients with Flaccid Neuromuscular Scoliosis in Japan",
-    "journal": "Spine Surgery and Related Research",
+    "field": "Public Policy",
+    "title": "Women’s empowerment and support for sustainable coastal tourism: dual pathways through job embeddedness, place attachment and perceived benefits",
+    "journal": "Tourism Review",
     "year": "2026",
-    "date": "2026-05-27",
-    "doi": "10.22603/ssrr.2025-0282",
-    "url": "https://doi.org/10.22603/ssrr.2025-0282",
-    "abstract": "",
+    "date": "2026-05-28",
+    "doi": "10.1108/tr-08-2025-0989",
+    "url": "https://doi.org/10.1108/tr-08-2025-0989",
+    "abstract": "Purpose This study aims to examine the influence of women’s empowerment on support for sustainable tourism development in Vietnam’s South-Central Coast. It emphasizes the mediating roles of job embeddedness, place attachment and perceived personal and community benefits to provide a clearer explanation of the mechanisms through which empowerment translates into pro-sustainability orientations. However, the identified relationships are interpreted as associations rather than causal effects. Design/methodology/approach A structured survey was administered to 639 women employed in key tourism sectors, including hotels, restaurants, travel agencies and community-based cooperatives. Partial least squares-structural equation modelling was used to assess both direct and mediated relationships among the constructs. Empowerment is treated as a perceived construct, reflecting women’s subjective perceptions rather than structural power relations. Findings The results reveal that women’s empowerment exerts significant direct and indirect associations with support for sustainable tourism through two pathways: a work-related pathway via job embeddedness and personal benefits, and a community pathway via place attachment and community benefits. While the community benefits pathway is statistically significant, its practical importance is comparatively small. The structural model explained 61.7% of the variance in women’s support for sustainable tourism, indicating that empowerment and its mediating mechanisms capture the majority of key factors shaping sustainability-related perspectives. Originality/value By integrating empowerment theory with conservation of resources theory and place attachment theory, this study proposes a dual-pathway framework linking empowerment to both occupational and community mechanisms. The findings refine prior theoretical assumptions by showing that empowerment exerts much stronger effects through occupational pathways than through community benefits. This differentiated pattern highlights the relative magnitude of effects and cautions against overinterpreting community benefits. This contributes to a more nuanced theoretical understanding of how empowerment shapes support for sustainable tourism.",
     "authors": [
-      "Wataru Saito",
-      "Masayuki Miyagi",
-      "Yusuke Mimura",
-      "Yuji Yokozeki"
+      "Duyen Thi Bich Pham",
+      "Hoang Phong Nguyen"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Marketing",
-    "title": "User-generated content as a decision-support mechanism in high-involvement digital retail: evidence from smart device purchases in Vietnam",
-    "journal": "Asia Pacific Journal of Marketing and Logistics",
+    "title": "Who uses non-bank credit cards? Evidence from Chilean households and insights for financial inclusion and retail credit strategies",
+    "journal": "International Journal of Bank Marketing",
     "year": "2026",
-    "date": "2026-05-27",
-    "doi": "10.1108/apjml-02-2026-0440",
-    "url": "https://doi.org/10.1108/apjml-02-2026-0440",
-    "abstract": "Purpose This study examines how distinct characteristics of user-generated content influence online purchase behaviour for smart devices in an emerging Asian digital economy, where young consumers utilise peer-generated information to evaluate both product attributes and e-retail logistics reliability. Design/methodology/approach Drawing on the Technology Acceptance Model, user-generated content is conceptualised as a multidimensional construct comprising information quality, interaction and creator reputation. Survey data from 372 Vietnamese Gen Z and young Millennial consumers were analysed using Partial Least Squares Structural Equation Modelling to test sequential relationships between content characteristics, cognitive evaluations, and purchase outcomes. Findings User-generated content affects purchase behaviour indirectly through a sequential cognitive pathway. Information quality and interaction enhance perceived usefulness and perceived ease of use, as consumers rely heavily on peer verification to mitigate supply chain and delivery risks. Contrary to traditional source credibility models, creator reputation improves ease of use but does not significantly increase perceived usefulness, indicating a critical pragmatism among young digital consumers who prioritise hard diagnostic evidence over influencer authority. Crucially, online purchase intention strongly and directly translates into purchase behaviour. Originality/value Unlike many digital retail studies that stop at behavioural intention, this research empirically bridges the intention–behaviour gap by measuring actual continuous online purchase behaviour. Furthermore, it extends the Technology Acceptance Model by positioning user-generated content as an uncertainty-reduction mechanism for both technical complexity and logistics fulfilment in high-involvement emerging markets.",
+    "date": "2026-05-28",
+    "doi": "10.1108/ijbm-10-2025-0829",
+    "url": "https://doi.org/10.1108/ijbm-10-2025-0829",
+    "abstract": "Purpose This study examines the determinants of non-bank credit card adoption using nationally representative household data from Chile. While prior research has largely focused on bank-issued credit cards, non-bank credit cards, particularly those issued by retailers and non-bank institutions, have expanded significantly in emerging markets. This paper investigates whether financial ecosystem engagement, including digital financial use and financial depth, plays a more important role than traditional demographic characteristics in explaining non-bank credit card ownership. Design/methodology/approach Using data from the 2024 Chilean Household Financial Survey, the study estimates survey-adjusted probit models to analyze non-bank credit card ownership. Independent variables include financial access, financial depth, digital financial use, traditional financial use and sociodemographic characteristics. Factor analysis is used to construct behavioral financial use indices, and sequential model specifications, robustness checks and Wald tests are employed to assess model stability and variable contributions. Findings The results show that financial ecosystem engagement, particularly digital financial use and financial depth, is more strongly associated with non-bank credit card adoption than traditional demographic characteristics. Income, age and household size are positively associated with adoption, while education becomes statistically insignificant and turns negative after controlling for financial engagement variables. These findings suggest that non-bank credit cards are primarily adopted by households already integrated into formal financial systems rather than serving as entry-level financial inclusion tools. Originality/value This study contributes to the household finance and financial inclusion literature by distinguishing between bank and non-bank credit cards and emphasizing financial ecosystem participation as a key determinant of adoption. It also provides new empirical evidence from Chile, a relevant emerging market with a strong retail credit presence, offering insights for policymakers, retailers and non-bank financial institutions.",
     "authors": [
-      "Nguyen Hai Ngan Tran",
-      "Le Tu Linh Pham"
+      "Jairo Stefano Dote Pardo"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "When Closure Finds You",
+    "journal": "New England Journal of Medicine",
+    "year": "2026",
+    "date": "2026-05-28",
+    "doi": "10.1056/nejmp2513303",
+    "url": "https://doi.org/10.1056/nejmp2513303",
+    "abstract": "",
+    "authors": [
+      "James A. Feinstein"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "Socioeconomic development and the uneven legacies of authoritarian repression",
-    "journal": "Journal of Historical Political Economy",
+    "title": "Well-being among minority entrepreneurs: associations between resource appraisal patterns and emotional states",
+    "journal": "Journal of Enterprising Communities: People and Places in the Global Economy",
     "year": "2026",
-    "date": "2026-05-27",
-    "doi": "10.1108/jhpe-09-2025-0022",
-    "url": "https://doi.org/10.1108/jhpe-09-2025-0022",
-    "abstract": "Why does repression generate long-term resentment in some contexts but not others? Existing research focuses on how contemporary political context moderates the effects of repression; I emphasize factors that predated the repressive regime. I argue that prior socioeconomic development shapes the legacies of political violence. In more developed areas, repression is harder to justify and more likely to provoke enduring backlash. Where development was limited, however, the promise of modernization may temper resentment. I explore two mechanisms – temporal comparisons and the role of education – and test the argument using novel census, archival and survey data from Moldova. Combining historical records with contemporary public opinion surveys, I show that the relationship between Soviet-era repression and attitudes toward Moldova’s communist successor party varies systematically with prior development. These findings contribute to research on political violence by highlighting the importance of preexisting conditions in shaping long-term public responses to repression.",
+    "date": "2026-05-28",
+    "doi": "10.1108/jec-08-2025-0251",
+    "url": "https://doi.org/10.1108/jec-08-2025-0251",
+    "abstract": "Purpose While entrepreneurship is widely recognized for its economic contributions, few studies have examined its contribution to fostering happiness as a direct outcome, especially under severe constraints. Guided by conservation of resources (COR) and job demands–resources (JD–R) perspectives, this study aims to examine how patterns of resource appraisal are associated with entrepreneurs’ emotional states. Design/methodology/approach This study conducted a multiple-case study in Vietnam (3 entrepreneurs with disabilities; 4–5 repeated interviews each; 60–90 min) and applied cognitive–emotional mapping and timeline analysis, then matched emergent mechanisms to COR and JD–R frameworks. Findings A non-resource fixation pattern – evaluating an object or situation through a single or few constrained elements – was associated with negative states aligned with the Maslach Burnout Inventory (exhaustion, cynicism/depersonalization and inefficacy). In contrast, a multi-dimensional appraisal pattern-recognizing multiple facets of constraints and resources and exploring alternative combinations was associated with positive affect and reported well-being. Research limitations/implications The study is based on a limited number of cases within specific socio-cultural contexts. Future research should test the proposed framework across a broader range of settings, including different organizational types, sectors and levels of adversity, to validate its applicability. Practical implications Appraisal-focused training and job-crafting interventions may rebalance demands–resources by shifting entrepreneurs from non-resource fixation to multi-dimensional appraisal. Social implications Programs supporting minority entrepreneurs with disabilities can incorporate appraisal reframing to enhance both capability development and well-being. Originality/value The study links resource appraisal patterns to emotional trajectories under constraint, showing how subjective interpretations of adversity are associated with both resource development strategies and well-being. It positions happiness as an integral, co-constructed outcome of entrepreneurial activity under constraint and offers a micro-process account that integrates COR and JD–R perspectives.",
     "authors": [
-      "Isabelle DeSisto"
+      "Nghia Chi Nguyen",
+      "Laura Salloum",
+      "Roy Matta",
+      "Mohamad Baker Hamieh"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "Weathering-induced transformations of non-hydrocarbon elements in marine oil spills and their diagnostic potential",
+    "journal": "Marine Development",
+    "year": "2026",
+    "date": "2026-05-28",
+    "doi": "10.1007/s44312-026-00077-6",
+    "url": "https://doi.org/10.1007/s44312-026-00077-6",
+    "abstract": "Abstract Oil spills pose severe threats to marine ecosystems. Insufficient attention has been paid to the hydrocarbon components and sulfur, nitrogen, silicon, and metal elements in these oil spills, despite the significant environmental risks. This study investigated the weathering behavior of these elements in Omani crude oil, gasoline with a research octane number of 95 (GB 17930; hereafter 95 RON gasoline), and China Grade 0 automotive diesel fuel (GB 19147; hereafter grade 0 diesel) using inductively coupled plasma optical emission spectrometry (ICP-OES), while concurrently evaluating the stability ratio of the non-aromatics to total aromatics (NA/TA) via high-performance liquid chromatography (HPLC) combined with normalization. The results demonstrated that the density increased across all three oils during weathering, with 95 RON gasoline showing the largest increase (12.44% with artificial seawater by day 7), followed by Omani crude oil (4.94%), and grade 0 diesel (0.34%). The presence of artificial seawater significantly accelerated the density changes through emulsification effects. The sulfur content in Omani crude oil increased by 35.59% in the presence of artificial seawater, whereas that of 95 RON gasoline decreased by 32.99% without seawater but showed complex fluctuations with seawater. In contrast, grade 0 diesel remained stable throughout weathering (6.45% increase with seawater), attributed to the predominance of heavy sulfur compounds. The nitrogen content of Omani crude oil increased by 15.74% with artificial seawater, compared to a substantial increase of 131.91% for 95 RON gasoline. The nitrogen content of grade 0 diesel fluctuated minimally owing to the stable carbazole compounds. The NA/TA ratio indicated weathering stability for crude oil (1.82–2.03) and gasoline (0.12–0.20 after day 3), establishing this metric as a reliable diagnostic indicator for identifying the type of oil spill, with a simpler sample preparation and shorter analysis time compared to traditional gas chromatography-mass spectrometry (GC/MS) methods. Among the other elements, the content of the metalloid silicon decreased rapidly on day 1 and stabilized thereafter. Calcium was detected at the highest concentration, and its relative concentration gradually increased with weathering. The concentration of vanadium in gasoline and diesel increased with the weathering time, whereas the chromium content of gasoline decreased, contrasting with the patterns for crude oil, owing to the refining processes. Correlation analysis revealed that the calcium content was positively correlated with the density, Sulfur (S), Nitrogen (N), NA/TA, and multiple metal elements in crude oil, whereas the vanadium content was negatively correlated with the density and several metals. These findings provide critical data for environmental remediation strategies and for enhancing oil spill traceability identification systems by incorporating non-hydrocarbon components as complementary diagnostic indicators.",
+    "authors": [
+      "Feifei Zhang",
+      "Yanping Xu",
+      "Xuezhi Feng",
+      "Abdullah Gera"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "SGLT2 inhibitors are associated with reductions in epicardial adipose tissue volume and thickness: a meta-analysis",
-    "journal": "International Journal of Obesity",
+    "title": "Utilization of residual bael pulp to prepare nutritionally enhanced cookies",
+    "journal": "Discover Food",
     "year": "2026",
-    "date": "2026-05-27",
-    "doi": "10.1038/s41366-026-02110-6",
-    "url": "https://doi.org/10.1038/s41366-026-02110-6",
-    "abstract": "Abstract Background Epicardial adipose tissue (EAT), a metabolically active fat depot surrounding the myocardium, is implicated in the pathogenesis of cardiovascular disease. Sodium-glucose co-transporter-2 inhibitors (SGLT2i) have demonstrated cardioprotective effects beyond glucose lowering, including a modification of EAT. We performed a systematic review and meta-analysis to evaluate the effect of SGLT2i on serial EAT measurement. Methods A comprehensive search of PubMed, Medline, EMBASE, Cochrane Library and grey literature (English only, 2000–2025) was performed for studies assessing EAT pre- and post-SGLT2i treatment, or SGLT2i vs conventional therapy, using computed tomography, echocardiography, or cardiac magnetic resonance. Data were meta-analysed using random-effects models with standardised mean differences (SMD) as summary effects. Results A total of 11 studies, including 284 patients, were included (89 with echocardiographic EAT thickness assessment and 195 with volumetric measurement using CT or CMR). In analyses comparing SGLT2 inhibitors with conventional antidiabetic therapy, treatment was associated with a significant reduction in EAT (Hedges g − 1.64, 95% CI −2.10 to −1.18; p < 0.01). In exploratory within-group analyses, SGLT2 inhibitor therapy was associated with a reduction in EAT from baseline to follow-up (Hedges g − 0.62, 95% CI −0.88 to −0.36; p < 0.01). On modality-specific subgroup analysis, reductions were observed in both EAT thickness (echocardiography) (Hedges g − 0.74, 95% CI −1.05 to −0.43; p < 0.01) and EAT volume (CT/CMR) (Hedges g − 0.54, 95% CI −0.90 to −0.18; p < 0.01), with no significant difference between modalities ( p = 0.32 for interaction). SGLT2 inhibitor therapy was also associated with modest reductions in body mass index (Hedges g − 0.23, 95% CI −0.43 to −0.03; p = 0.03) and systolic blood pressure (Hedges g − 0.32, 95% CI −0.59 to −0.05; p = 0.02). Exploratory subgroup analyses suggested larger reductions in EAT in studies evaluating dapagliflozin compared with empagliflozin; however, this indirect comparison was based on a small number of heterogeneous studies and should be considered hypothesis-generating only. Conclusions SGLT2i significantly reduces EAT volume and thickness, which may contribute to their broad cardiovascular benefits. Targeting EAT may represent a novel therapeutic approach for mitigating cardio-metabolic risk. Study registration PROSPERO CRD42024621242",
+    "date": "2026-05-28",
+    "doi": "10.1007/s44187-026-01012-w",
+    "url": "https://doi.org/10.1007/s44187-026-01012-w",
+    "abstract": "Abstract The study aims to demonstrate the nutritional value of residual bael ( Aegle marmelos ) pulp (remaining after juice extraction) and a new application of such an underexplored fruit byproduct as a constituent to enhance the nutritional value of cookies. The residual bael was dried and ground into a powder. Proximate composition, physicochemical properties, and overall bioactive content of the residual pulp powder (RPP) were analyzed. The weight balance of bael fruit was described, with 37.6% peels, 3.4% seeds, and 59% pulp. The moisture content of fresh pulp was 72.9%, and RPP was 12.1%. The RPP was rich in crude fiber (29.9% w/w), total phenolic content (TPC, 37.8 mg GAE/g), antioxidant capacity (AOC, 2.6 mg GAEAC/g), and total carotenoid content (TCC, 0.82 mg BCE/g). Five recipes of cookies were prepared by supplementing with RPP replacing 0–20% of the wheat flour (WF) in the formulation. As RPP content increased, moisture content, ash content, crude fat, crude fiber, total carbohydrate, calorific value, TPC, TCC, and AOC increased. According to the sensory acceptance (with fuzzy solution), the top three recipes were; cookie-3 (10% RPP) < cookie-1 (0% RPP) < cookie-2 (5% RPP). The order of relative importance of sensory attributes reveals taste & texture as most important. With a rise in RPP substitution, the spread ratio of the cookies improved, hardness reduced, and fracturability decreased. Based on maximum nutritional enhancement, sensory scoring, textural acceptance, and optimum amount of RPP replacement was within 5–10% replacement of WF with RPP.",
     "authors": [
-      "Shaun Khanna",
-      "Elana Kalman",
-      "Kaushik Thungathurthi",
-      "Udit Thakur"
+      "Rishab Dhar",
+      "Snehasis Chakraborty",
+      "Ashish Todkar"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Family Studies",
-    "title": "Economic and Nutritional Transformation of Coastal Communities Based on Seaweed",
-    "journal": "Journal of Business Management and Economic Development",
+    "field": "Management",
+    "title": "Geography-Based Budget Allocation for Digital Transformation of SMTK in Maluku 3T",
+    "journal": "AMUYA: INDONESIAN JOURNAL OF MANAGEMENT REVIEWS",
     "year": "2026",
-    "date": "2026-05-27",
-    "doi": "10.59653/jbmed.v4i02.2433",
-    "url": "https://doi.org/10.59653/jbmed.v4i02.2433",
-    "abstract": "This study examines the low contribution of seaweed development to the welfare of coastal households, which has long been export-oriented and focused on raw material production with limited added value. This condition has meant that seaweed has yet to deliver a significant impact on income stability, food security, and nutritional quality. This study aims to analyze how seaweed-based economic transformation can improve household welfare through the linkages between economic, food, and nutrition systems. The study uses household survey data from coastal areas of South Sulawesi, Indonesia, employing a structural econometric model approach to examine the direct and indirect relationships between value-added processing, technology access, market integration, income stability, food security, consumption diversity, and nutritional status. The findings indicate that seaweed-based economic transformation can significantly improve welfare when supported by value-added product development, technology utilization, and broader market access. Income stability and market integration serve as the primary mechanisms linking economic activity to improvements in food security and nutritional quality. The study concludes that seaweed needs to be positioned as a strategic instrument for inclusive and sustainable coastal development, rather than merely an export commodity. These findings provide an empirical basis for formulating policies that integrate marine economic transformation with food and nutrition security. This study contributes the literature on coastal development and the blue economy by providing an integrated analytical framework that links seaweed-based economic transformation with food security, nutritional outcomes, and human resource development at the household level, extending existing research beyond commodity- and export-oriented perspectives.",
+    "date": "2026-05-28",
+    "doi": "10.61860/amuya.v2i1.85",
+    "url": "https://doi.org/10.61860/amuya.v2i1.85",
+    "abstract": "This Policy Paper describes that digital transformation in religious secondary education is a strategic component of national education reform aimed at strengthening governance, accountability, and service quality. However, the implementation of digital transformation in Sekolah Menengah Teologi Kristen (SMTK) located in disadvantaged, frontier, and outermost (3T) areas of Maluku Province still faces structural constraints, particularly related to infrastructure availability and the design of budget allocation mechanisms. This study aims to analyze the problem of facilities and infrastructure budget allocation that has not yet been based on geographical needs and to examine its implications for the effectiveness of digital transformation. The study applies a qualitative policy analysis approach through document analysis using the perspectives of distributive justice, needs-based budgeting, and affirmative regional policy. The results indicate that the current allocation mechanism still relies on a uniform national formula and does not incorporate geographical weighting parameters or indicators of digital inequality. Consequently, resource distribution has not been fully responsive to the characteristics of 3T regions, resulting in limited institutional readiness and widening disparities in digital infrastructure support. This paper therefore recommends reformulating the budget allocation mechanism by integrating geographical weighting coefficients and digital infrastructure indicators into the funding formula to enhance proportionality in resource distribution and strengthen digital transformation in religious secondary education institutions in Maluku Province.",
     "authors": [
-      "Nurhidayati Islamiah",
-      "Nurul Hikmah",
-      "Andi Rifqah Purnama Alam",
-      "Afriyani Afriyani"
+      "Lulu Bin Tahir Achmad"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "Wartime school leadership and security challenges in minority schools: lessons from Uganda",
-    "journal": "Journal of Educational Administration",
-    "year": "2026",
-    "date": "2026-05-27",
-    "doi": "10.1108/jea-08-2025-0319",
-    "url": "https://doi.org/10.1108/jea-08-2025-0319",
-    "abstract": "Purpose This study examines how school leaders exercised leadership in conflict-affected and ethnically marginalized regions of Uganda. It focuses on how leaders navigated extreme insecurity, displacement and community mistrust during wartime. Design/methodology/approach The study adopted a qualitative research design, using in-depth interviews with school leaders including headteachers, directors of studies and acting school heads/administrators from conflict-affected regions of Uganda, including Karamoja, West Nile and refugee-hosting districts. Data were analyzed using thematic analysis. Findings The findings show that school leaders assumed expanded and unconventional roles, including safeguarding students and staff, improvising learning arrangements during displacement, negotiating trust and authority in marginalized communities and mobilizing community resources to sustain education. Leadership practices were highly contextual, relational and embedded in local social structures, reflecting a continual balancing of safety, learning and survival in conditions of extreme uncertainty. Practical implications The findings emphasize the need for leadership development models that incorporate conflict sensitivity, cultural competence and community collaboration, moving beyond managerial frameworks. In crisis-prone regions, leadership must be prepared for improvisation, grassroots engagement and relational trust-building to ensure educational continuity. Originality/value The study provides a rare empirical insight into school leadership in wartime Uganda, particularly within minority communities. It challenges conventional leadership paradigms by documenting grassroots-driven, adaptive strategies and extending theoretical models to underexplored emergency and displacement contexts.",
-    "authors": [
-      "Mahadih Kyambade",
-      "Afulah Namatovu",
-      "Sudi Nangoli"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
