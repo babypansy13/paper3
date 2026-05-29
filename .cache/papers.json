@@ -1,143 +1,148 @@
 [
   {
-    "field": "Consumer Research",
-    "title": "ФОРМУВАННЯ СТІЙКОСТІ ОСОБИСТОСТІ: ІСТОРИКО-ПСИХОЛОГІЧНИЙ АНАЛІЗ І ПРАКТИЧНІ АСПЕКТИ РЕАБІЛІТАЦІЇ",
-    "journal": "Psychology Travelogs",
+    "field": "Food Industry / Science / Design",
+    "title": "Young consumers' sustainable food choices: integrating SDT, TPB and VBN frameworks",
+    "journal": "British Food Journal",
     "year": "2026",
-    "date": "2026-05-28",
-    "doi": "10.31891/pt-2026-2-50",
-    "url": "https://doi.org/10.31891/pt-2026-2-50",
-    "abstract": "У статті розглядається феномен психологічної стійкості особистості в історико-психологічній перспективі та аналізуються сучасні підходи до її формування й відновлення в умовах психотравмуючих впливів. Проведено огляд сучасної літератури, в якому виокремлено поняття «емоційна стійкість», «резильєнтність» та «життєстійкість». Наголошується, що формування стресостійкості особистості в умовах війни передбачає зміцнення індивідуальних психологічних ресурсів, підтримку соціального оточення та системну професійну допомогу, спрямовану на збереження психічного здоров’я і відновлення внутрішньої рівноваги. Окреслено основні етапи розвитку уявлень про стійкість у психологічній науці, а також практичні напрями психосоціальної реабілітації.",
+    "date": "2026-05-29",
+    "doi": "10.1108/bfj-11-2025-1537",
+    "url": "https://doi.org/10.1108/bfj-11-2025-1537",
+    "abstract": "Purpose This study aims to examine how environmental concern, autonomous motivation and socio-cognitive factors jointly shape young consumers' sustainable food consumption behaviour, with a specific focus on indigenous chicken. Drawing on self-determination theory (SDT), the theory of planned behaviour (TPB) and the value-belief-norm (VBN) theory, the study develops and tests an integrated framework to explain the formation of intentions and buying behaviour despite financial constraints. Design/methodology/approach Data were collected from 487 young consumers in Pakistan using a structured questionnaire. Partial least squares structural equation modelling (PLS-SEM) was employed using SmartPLS 4.0 to examine direct, mediating, moderating and multi-group effects. Findings The results show that environmental concern significantly enhances autonomous motivation, which in turn positively influences attitudes and perceived behavioural control. Attitude, subjective norms and perceived behavioural control significantly predict buying intention, which strongly translates into actual buying behaviour. Mediation analyses confirm the sequential pathways through which motivation and control mechanisms operate. Importantly, a higher price does not weaken the intention–behaviour relationship, indicating that perceived sustainability and quality benefits can offset financial constraints among young consumers. Originality/value This study advances the theories by integrating SDT, TPB and VBN into a unified framework for sustainable consumption. This integrated approach provides a richer explanation of indigenous chicken consumption and informs interventions that not only change attitudes but also cultivate autonomous motivation for long-term sustainable food practices.",
     "authors": [
-      "Світлана КОНДРАТЮК",
-      "Леся ФІЛІПЧУК"
+      "Muhammad Amin",
+      "Ding Hooi Ting",
+      "Muhammad Jahandad Basra"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Workplace incivility in Vietnamese primary schools",
-    "journal": "Human Resource Management International Digest",
-    "year": "2026",
-    "date": "2026-05-28",
-    "doi": "10.1108/hrmid-05-2026-0116",
-    "url": "https://doi.org/10.1108/hrmid-05-2026-0116",
-    "abstract": "Purpose This paper aims to review the latest management developments across the globe and pinpoint practical implications from cutting-edge research and case studies. Design/methodology/approach This briefing is prepared by an independent writer who adds their own impartial comments and places the articles in context. Findings The growing but still somewhat hidden issue of workplace incivility has scope to damage work engagement and lead to job burnout. Organizations can take measures to address the problem through training initiatives to increase awareness and by devising strategies that help mitigate its harmful effects on employees. Originality/value The briefing saves busy executives and researchers hours of reading time by selecting only the very best, most pertinent information and presenting it in a condensed and easy-to-digest format.",
-    "authors": [],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Public Policy",
-    "title": "Women’s empowerment and support for sustainable coastal tourism: dual pathways through job embeddedness, place attachment and perceived benefits",
-    "journal": "Tourism Review",
+    "title": "When future income mobility reduces antisocial behavior: an experiment",
+    "journal": "Review of Behavioral Economics",
     "year": "2026",
-    "date": "2026-05-28",
-    "doi": "10.1108/tr-08-2025-0989",
-    "url": "https://doi.org/10.1108/tr-08-2025-0989",
-    "abstract": "Purpose This study aims to examine the influence of women’s empowerment on support for sustainable tourism development in Vietnam’s South-Central Coast. It emphasizes the mediating roles of job embeddedness, place attachment and perceived personal and community benefits to provide a clearer explanation of the mechanisms through which empowerment translates into pro-sustainability orientations. However, the identified relationships are interpreted as associations rather than causal effects. Design/methodology/approach A structured survey was administered to 639 women employed in key tourism sectors, including hotels, restaurants, travel agencies and community-based cooperatives. Partial least squares-structural equation modelling was used to assess both direct and mediated relationships among the constructs. Empowerment is treated as a perceived construct, reflecting women’s subjective perceptions rather than structural power relations. Findings The results reveal that women’s empowerment exerts significant direct and indirect associations with support for sustainable tourism through two pathways: a work-related pathway via job embeddedness and personal benefits, and a community pathway via place attachment and community benefits. While the community benefits pathway is statistically significant, its practical importance is comparatively small. The structural model explained 61.7% of the variance in women’s support for sustainable tourism, indicating that empowerment and its mediating mechanisms capture the majority of key factors shaping sustainability-related perspectives. Originality/value By integrating empowerment theory with conservation of resources theory and place attachment theory, this study proposes a dual-pathway framework linking empowerment to both occupational and community mechanisms. The findings refine prior theoretical assumptions by showing that empowerment exerts much stronger effects through occupational pathways than through community benefits. This differentiated pattern highlights the relative magnitude of effects and cautions against overinterpreting community benefits. This contributes to a more nuanced theoretical understanding of how empowerment shapes support for sustainable tourism.",
+    "date": "2026-05-29",
+    "doi": "10.1108/rbe-11-2025-0114",
+    "url": "https://doi.org/10.1108/rbe-11-2025-0114",
+    "abstract": "This paper examines how the mechanism of future income mobility – effort or luck – and the psychological biases that shape mobility expectations – overconfidence and overoptimism – affect antisocial behavior. In a lab experiment, participants can reduce others’ earnings at a personal cost, a proxy for antisocial behavior, with and without future income mobility. Mobility is modeled as a probabilistic process driven by either effort or luck. Participants are assigned to three income levels with varying prospects of upward mobility. Results suggest that effort-driven future mobility suppresses antisocial behavior more than luck-driven mobility, especially for poorer-than-average participants. Overconfidence and overoptimism, however, do not reduce antisocial behavior through excessive expectations of upward mobility.",
     "authors": [
-      "Duyen Thi Bich Pham",
-      "Hoang Phong Nguyen"
+      "Alessandro Cunsolo"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "Who uses non-bank credit cards? Evidence from Chilean households and insights for financial inclusion and retail credit strategies",
-    "journal": "International Journal of Bank Marketing",
-    "year": "2026",
-    "date": "2026-05-28",
-    "doi": "10.1108/ijbm-10-2025-0829",
-    "url": "https://doi.org/10.1108/ijbm-10-2025-0829",
-    "abstract": "Purpose This study examines the determinants of non-bank credit card adoption using nationally representative household data from Chile. While prior research has largely focused on bank-issued credit cards, non-bank credit cards, particularly those issued by retailers and non-bank institutions, have expanded significantly in emerging markets. This paper investigates whether financial ecosystem engagement, including digital financial use and financial depth, plays a more important role than traditional demographic characteristics in explaining non-bank credit card ownership. Design/methodology/approach Using data from the 2024 Chilean Household Financial Survey, the study estimates survey-adjusted probit models to analyze non-bank credit card ownership. Independent variables include financial access, financial depth, digital financial use, traditional financial use and sociodemographic characteristics. Factor analysis is used to construct behavioral financial use indices, and sequential model specifications, robustness checks and Wald tests are employed to assess model stability and variable contributions. Findings The results show that financial ecosystem engagement, particularly digital financial use and financial depth, is more strongly associated with non-bank credit card adoption than traditional demographic characteristics. Income, age and household size are positively associated with adoption, while education becomes statistically insignificant and turns negative after controlling for financial engagement variables. These findings suggest that non-bank credit cards are primarily adopted by households already integrated into formal financial systems rather than serving as entry-level financial inclusion tools. Originality/value This study contributes to the household finance and financial inclusion literature by distinguishing between bank and non-bank credit cards and emphasizing financial ecosystem participation as a key determinant of adoption. It also provides new empirical evidence from Chile, a relevant emerging market with a strong retail credit presence, offering insights for policymakers, retailers and non-bank financial institutions.",
-    "authors": [
-      "Jairo Stefano Dote Pardo"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "When Closure Finds You",
-    "journal": "New England Journal of Medicine",
-    "year": "2026",
-    "date": "2026-05-28",
-    "doi": "10.1056/nejmp2513303",
-    "url": "https://doi.org/10.1056/nejmp2513303",
-    "abstract": "",
-    "authors": [
-      "James A. Feinstein"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "Well-being among minority entrepreneurs: associations between resource appraisal patterns and emotional states",
-    "journal": "Journal of Enterprising Communities: People and Places in the Global Economy",
-    "year": "2026",
-    "date": "2026-05-28",
-    "doi": "10.1108/jec-08-2025-0251",
-    "url": "https://doi.org/10.1108/jec-08-2025-0251",
-    "abstract": "Purpose While entrepreneurship is widely recognized for its economic contributions, few studies have examined its contribution to fostering happiness as a direct outcome, especially under severe constraints. Guided by conservation of resources (COR) and job demands–resources (JD–R) perspectives, this study aims to examine how patterns of resource appraisal are associated with entrepreneurs’ emotional states. Design/methodology/approach This study conducted a multiple-case study in Vietnam (3 entrepreneurs with disabilities; 4–5 repeated interviews each; 60–90 min) and applied cognitive–emotional mapping and timeline analysis, then matched emergent mechanisms to COR and JD–R frameworks. Findings A non-resource fixation pattern – evaluating an object or situation through a single or few constrained elements – was associated with negative states aligned with the Maslach Burnout Inventory (exhaustion, cynicism/depersonalization and inefficacy). In contrast, a multi-dimensional appraisal pattern-recognizing multiple facets of constraints and resources and exploring alternative combinations was associated with positive affect and reported well-being. Research limitations/implications The study is based on a limited number of cases within specific socio-cultural contexts. Future research should test the proposed framework across a broader range of settings, including different organizational types, sectors and levels of adversity, to validate its applicability. Practical implications Appraisal-focused training and job-crafting interventions may rebalance demands–resources by shifting entrepreneurs from non-resource fixation to multi-dimensional appraisal. Social implications Programs supporting minority entrepreneurs with disabilities can incorporate appraisal reframing to enhance both capability development and well-being. Originality/value The study links resource appraisal patterns to emotional trajectories under constraint, showing how subjective interpretations of adversity are associated with both resource development strategies and well-being. It positions happiness as an integral, co-constructed outcome of entrepreneurial activity under constraint and offers a micro-process account that integrates COR and JD–R perspectives.",
-    "authors": [
-      "Nghia Chi Nguyen",
-      "Laura Salloum",
-      "Roy Matta",
-      "Mohamad Baker Hamieh"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "Weathering-induced transformations of non-hydrocarbon elements in marine oil spills and their diagnostic potential",
-    "journal": "Marine Development",
+    "title": "When does ESG disclosure pay? The role of institutional meta-signals in shaping financial outcomes",
+    "journal": "Multinational Business Review",
     "year": "2026",
-    "date": "2026-05-28",
-    "doi": "10.1007/s44312-026-00077-6",
-    "url": "https://doi.org/10.1007/s44312-026-00077-6",
-    "abstract": "Abstract Oil spills pose severe threats to marine ecosystems. Insufficient attention has been paid to the hydrocarbon components and sulfur, nitrogen, silicon, and metal elements in these oil spills, despite the significant environmental risks. This study investigated the weathering behavior of these elements in Omani crude oil, gasoline with a research octane number of 95 (GB 17930; hereafter 95 RON gasoline), and China Grade 0 automotive diesel fuel (GB 19147; hereafter grade 0 diesel) using inductively coupled plasma optical emission spectrometry (ICP-OES), while concurrently evaluating the stability ratio of the non-aromatics to total aromatics (NA/TA) via high-performance liquid chromatography (HPLC) combined with normalization. The results demonstrated that the density increased across all three oils during weathering, with 95 RON gasoline showing the largest increase (12.44% with artificial seawater by day 7), followed by Omani crude oil (4.94%), and grade 0 diesel (0.34%). The presence of artificial seawater significantly accelerated the density changes through emulsification effects. The sulfur content in Omani crude oil increased by 35.59% in the presence of artificial seawater, whereas that of 95 RON gasoline decreased by 32.99% without seawater but showed complex fluctuations with seawater. In contrast, grade 0 diesel remained stable throughout weathering (6.45% increase with seawater), attributed to the predominance of heavy sulfur compounds. The nitrogen content of Omani crude oil increased by 15.74% with artificial seawater, compared to a substantial increase of 131.91% for 95 RON gasoline. The nitrogen content of grade 0 diesel fluctuated minimally owing to the stable carbazole compounds. The NA/TA ratio indicated weathering stability for crude oil (1.82–2.03) and gasoline (0.12–0.20 after day 3), establishing this metric as a reliable diagnostic indicator for identifying the type of oil spill, with a simpler sample preparation and shorter analysis time compared to traditional gas chromatography-mass spectrometry (GC/MS) methods. Among the other elements, the content of the metalloid silicon decreased rapidly on day 1 and stabilized thereafter. Calcium was detected at the highest concentration, and its relative concentration gradually increased with weathering. The concentration of vanadium in gasoline and diesel increased with the weathering time, whereas the chromium content of gasoline decreased, contrasting with the patterns for crude oil, owing to the refining processes. Correlation analysis revealed that the calcium content was positively correlated with the density, Sulfur (S), Nitrogen (N), NA/TA, and multiple metal elements in crude oil, whereas the vanadium content was negatively correlated with the density and several metals. These findings provide critical data for environmental remediation strategies and for enhancing oil spill traceability identification systems by incorporating non-hydrocarbon components as complementary diagnostic indicators.",
+    "date": "2026-05-29",
+    "doi": "10.1108/mbr-06-2025-0219",
+    "url": "https://doi.org/10.1108/mbr-06-2025-0219",
+    "abstract": "Purpose This study examines when environmental, social and governance (ESG) disclosure improves the financial performance of multinational enterprises (MNEs). Prior research shows that the ESG–financial performance relationship is mixed and context-dependent, yet less is known about how home-country institutions shape stakeholders’ interpretations of ESG disclosure. This study addresses that gap by examining how institutional conditions influence the credibility and financial value of firm-level ESG disclosure. Design/methodology/approach Drawing on signalling theory and institutional theory, this study introduces the concept of institutional meta-signals, defined as macro-level regulative, cognitive and normative conditions that shape stakeholder interpretation of ESG disclosure. Using panel data on 826 MNEs across 28 countries from 2013 to 2019, the study tests whether auditing and accounting standards, press freedom and social capital moderate the relationship between ESG disclosure and financial performance. System GMM and two-stage least squares estimation techniques are used. Findings ESG disclosure is, on average, negatively associated with financial performance. However, this relationship becomes more favourable in countries with stronger institutional meta-signals. Stronger auditing and accounting standards, greater press freedom and higher social capital enhance the credibility of ESG disclosure and improve its financial value. The results indicate that the performance effects of ESG disclosure depend on the credibility infrastructure of the home-country institutional environment. Research limitations/implications This study extends ESG and international business research by showing that the financial outcomes of ESG disclosure depend on home-country institutions. It contributes to signalling theory by conceptualising institutional meta-signals as second-order cues that shape stakeholders’ interpretations. The study is limited by its focus on large MNEs and country-level institutional indicators. Future research could examine other institutional dimensions, alternative firm settings and more fine-grained mechanisms linking ESG credibility to financial outcomes. Practical implications Managers should not assume that ESG disclosure will automatically improve firm performance. Its value depends on whether stakeholders perceive the disclosure as credible within the firm’s institutional context. For firms headquartered in weaker institutional environments, ESG disclosure may require stronger assurance, governance and reporting practices. The findings also suggest that policymakers can enhance the value of ESG disclosure by strengthening institutional conditions that support the credibility of reporting. Social implications The study shows that the effectiveness of ESG disclosure depends not only on firm communication but also on the broader institutional environment that enables stakeholders to trust it. Stronger auditing systems, freer media and higher social capital can improve transparency and accountability in ESG reporting. National institutions, therefore, play an important role in shaping whether ESG disclosure contributes to more responsible business conduct and more trustworthy capital markets. Originality/value This study develops the concept of institutional meta-signals to explain how home-country institutions shape the financial value of ESG disclosure. It reconceptualises institutions as interpretive infrastructures that influence stakeholder responses to firm communication. By integrating signalling theory with institutional theory, the study offers a new explanation for cross-national variation in the ESG–financial performance relationship and advances research on ESG disclosure, non-market strategy and MNE performance.",
     "authors": [
-      "Feifei Zhang",
-      "Yanping Xu",
-      "Xuezhi Feng",
-      "Abdullah Gera"
+      "Hanh Song Thi Pham",
+      "Hien Thi Tran"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Food Industry / Science / Design",
-    "title": "Utilization of residual bael pulp to prepare nutritionally enhanced cookies",
-    "journal": "Discover Food",
+    "field": "Mental Health",
+    "title": "Understanding Dermatophytosis (Quba) in Unani Medicine: Classical Descriptions and Evidence from Recent Clinical Studies",
+    "journal": "Traditional Medicine and Modern Medicine",
     "year": "2026",
-    "date": "2026-05-28",
-    "doi": "10.1007/s44187-026-01012-w",
-    "url": "https://doi.org/10.1007/s44187-026-01012-w",
-    "abstract": "Abstract The study aims to demonstrate the nutritional value of residual bael ( Aegle marmelos ) pulp (remaining after juice extraction) and a new application of such an underexplored fruit byproduct as a constituent to enhance the nutritional value of cookies. The residual bael was dried and ground into a powder. Proximate composition, physicochemical properties, and overall bioactive content of the residual pulp powder (RPP) were analyzed. The weight balance of bael fruit was described, with 37.6% peels, 3.4% seeds, and 59% pulp. The moisture content of fresh pulp was 72.9%, and RPP was 12.1%. The RPP was rich in crude fiber (29.9% w/w), total phenolic content (TPC, 37.8 mg GAE/g), antioxidant capacity (AOC, 2.6 mg GAEAC/g), and total carotenoid content (TCC, 0.82 mg BCE/g). Five recipes of cookies were prepared by supplementing with RPP replacing 0–20% of the wheat flour (WF) in the formulation. As RPP content increased, moisture content, ash content, crude fat, crude fiber, total carbohydrate, calorific value, TPC, TCC, and AOC increased. According to the sensory acceptance (with fuzzy solution), the top three recipes were; cookie-3 (10% RPP) < cookie-1 (0% RPP) < cookie-2 (5% RPP). The order of relative importance of sensory attributes reveals taste & texture as most important. With a rise in RPP substitution, the spread ratio of the cookies improved, hardness reduced, and fracturability decreased. Based on maximum nutritional enhancement, sensory scoring, textural acceptance, and optimum amount of RPP replacement was within 5–10% replacement of WF with RPP.",
+    "date": "2026-05-29",
+    "doi": "10.1142/s2575900026300079",
+    "url": "https://doi.org/10.1142/s2575900026300079",
+    "abstract": "Background: Dermatophytosis (tinea), described as Quba in Unani medicine, remains a common superficial fungal infection with a significant global burden. Rising antifungal resistance, frequent relapses, and treatment failures have prompted exploration of complementary therapeutic systems such as Unani medicine and other Ayush systems. Objective: The objective of this narrative review is to synthesize classical Unani perspectives on Quba with insights from modern clinical literature on dermatophytosis, and to contextualize the therapeutic potential and emerging clinical outcomes of Unani formulations in dermatophytosis management. Methods: Classical Unani texts by Ibn Sina, Razi, Jurjani, and others were critically reviewed to extract concepts related to etiology, classification, and treatment of Quba. A targeted database search (PubMed, ScienceDirect, Google Scholar) identified randomized trials, observational studies, and case reports assessing the efficacy and safety of Unani interventions. Results: Unani literature attributes Quba to morbid Sawda accumulation and emphasizes humoral correction through Tanqiya (purification), Ta.lil (resolution), and topical applications. Modern clinical studies involving Majun Ushba, Marham Ral, Marham Kharish Jadid, vinegar-based polyherbal pastes, and herbal antimicrobial soaps report symptom reduction and early mycological clearance, in some cases suggesting potential non-inferiority to terbinafine and fluconazole in limited cohorts. Improvement within 4–8 weeks and favorable tolerability were commonly observed, though follow-up duration and adverse event reporting were often limited. Conclusion: Unani medicine presents a holistic, culturally aligned therapeutic system for dermatophytosis, with promising preliminary clinical outcomes. However, to move beyond exploratory evidence, larger, rigorously designed multicentric trials, standardized pharmacognostic profiling, mechanistic validation, and structured safety monitoring are required to define its role within evidence-based integrative dermatology.",
     "authors": [
-      "Rishab Dhar",
-      "Snehasis Chakraborty",
-      "Ashish Todkar"
+      "Nazim Husain",
+      "Abrar Alam",
+      "Sumayya Tasneem Parapur",
+      "Abdul Khalique"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "ToxiTaRGET: a multi-omics database for toxicant-responsive molecular targets",
+    "journal": "Nature Communications",
+    "year": "2026",
+    "date": "2026-05-29",
+    "doi": "10.1038/s41467-026-73695-9",
+    "url": "https://doi.org/10.1038/s41467-026-73695-9",
+    "abstract": "",
+    "authors": [
+      "Ravindra Kumar",
+      "Tianyi Fu",
+      "Prashant Kumar Kuntala",
+      "Benpeng Miao"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "The relationship between task and contextual performance and work engagement",
+    "journal": "SA Journal of Industrial Psychology",
+    "year": "2026",
+    "date": "2026-05-29",
+    "doi": "10.4102/sajip.v52i0.2419",
+    "url": "https://doi.org/10.4102/sajip.v52i0.2419",
+    "abstract": "Orientation: This study explores the relationship between individual work performance dimensions and work engagement within a South African multinational organisational context. Despite widespread interest in these constructs, their interrelationships remain inadequately explored. Research purpose: The primary aim of this study was to investigate whether task and contextual performance can predict work engagement among employees of a multinational corporation operating in South Africa. Motivation for the study: Existing literature focuses on engagement as an antecedent to performance. This study contributes by investigating the reverse relationship of whether performance components may function as drivers of work engagement. Research approach/design and method: A quantitative cross-sectional approach was followed. Data were collected from 420 employees using convenience sampling. Participants completed the Individual Work Performance Questionnaire and the Utrecht Work Engagement Scale. Data were analysed using correlation and multiple regression to assess relationships between variables. Main findings: Both performance dimensions were positively associated with work engagement. Contextual performance showed a stronger relationship, suggesting behaviours such as cooperation, initiative and supporting colleagues play an important role in fostering engagement. Together, both dimensions explained a meaningful portion of variation in engagement levels. Practical/managerial implications: Organisations should develop performance management systems that recognise and reward both task and contextual performance. Leadership should encourage pro-social behaviours that strengthen social capital and sustain engagement. Contribution/value-add: This study provides empirical evidence from a South African multinational context demonstrating the differential predictive capacity of performance dimensions on engagement, highlighting contextual performance as central to fostering engaged workforces.",
+    "authors": [
+      "Nelesh Dhanpat"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "Sustainable paradox: navigating beliefs about the effects of global warming in pursuit of new desires in the luxury market",
+    "journal": "Asia Pacific Journal of Marketing and Logistics",
+    "year": "2026",
+    "date": "2026-05-29",
+    "doi": "10.1108/apjml-09-2025-2034",
+    "url": "https://doi.org/10.1108/apjml-09-2025-2034",
+    "abstract": "Purpose This study investigates how fashion consumers reconcile desires for sustainable luxury with intrinsic luxury values. It examines how global warming (GW) beliefs, organic fashion motivations, and intrinsic luxury values shape new luxury practices, such as shopping at online flash sales, rental websites or secondhand platforms. Design/methodology/approach The research constructs a theoretical model based on a prestige-seeking consumer behavior (PSCB) framework to examine relationships among GW beliefs, organic fashion motivations, hedonic and functional luxury values, and new luxury practices. Data collected from 410 questionnaires administered to panelists in the US via an online survey were analyzed using structural equation modeling (SEM) to investigate the relationships and test the hypotheses. Findings The findings reveal that GW beliefs enhance both hedonic and functional luxury values. Organic fashion motivations increase hedonic luxury values but decrease functional luxury values. Hedonic values are positively associated with new luxury practices, while functional (i.e. perfectionist) values are negatively associated with most practices, except for a null effect on shopping at flash sales. In the model's first stage, hedonic and perfectionist effects are equally represented; however, in the second stage, hedonic values are more prominent in motivating new luxury practices. Originality/value Drawing on PSCB, this study constructs an integrated model to examine the links of GW and organic fashion motivations to intrinsic luxury values and new luxury practices. The model enhances luxury literature by offering new insights on how hedonic and perfectionist effects influence new luxury practices in the digital age.",
+    "authors": [
+      "Charles A. Lawry",
+      "Nabanita Talukdar"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "Revealing environmental, social, and governance-driven conflict risk in global energy transition minerals supply",
+    "journal": "Communications Earth & Environment",
+    "year": "2026",
+    "date": "2026-05-29",
+    "doi": "10.1038/s43247-026-03689-4",
+    "url": "https://doi.org/10.1038/s43247-026-03689-4",
+    "abstract": "",
+    "authors": [
+      "Yongguang Zhu",
+      "Jinning Zhu",
+      "Xiaoyang Lin",
+      "Zhewei Yu"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Management",
-    "title": "Geography-Based Budget Allocation for Digital Transformation of SMTK in Maluku 3T",
-    "journal": "AMUYA: INDONESIAN JOURNAL OF MANAGEMENT REVIEWS",
+    "title": "How the Chinese Public Perceives South-East Asia: Affinity, Annoyance and Apprehension",
+    "journal": "The China Quarterly",
     "year": "2026",
-    "date": "2026-05-28",
-    "doi": "10.61860/amuya.v2i1.85",
-    "url": "https://doi.org/10.61860/amuya.v2i1.85",
-    "abstract": "This Policy Paper describes that digital transformation in religious secondary education is a strategic component of national education reform aimed at strengthening governance, accountability, and service quality. However, the implementation of digital transformation in Sekolah Menengah Teologi Kristen (SMTK) located in disadvantaged, frontier, and outermost (3T) areas of Maluku Province still faces structural constraints, particularly related to infrastructure availability and the design of budget allocation mechanisms. This study aims to analyze the problem of facilities and infrastructure budget allocation that has not yet been based on geographical needs and to examine its implications for the effectiveness of digital transformation. The study applies a qualitative policy analysis approach through document analysis using the perspectives of distributive justice, needs-based budgeting, and affirmative regional policy. The results indicate that the current allocation mechanism still relies on a uniform national formula and does not incorporate geographical weighting parameters or indicators of digital inequality. Consequently, resource distribution has not been fully responsive to the characteristics of 3T regions, resulting in limited institutional readiness and widening disparities in digital infrastructure support. This paper therefore recommends reformulating the budget allocation mechanism by integrating geographical weighting coefficients and digital infrastructure indicators into the funding formula to enhance proportionality in resource distribution and strengthen digital transformation in religious secondary education institutions in Maluku Province.",
+    "date": "2026-05-29",
+    "doi": "10.1017/s0305741026102240",
+    "url": "https://doi.org/10.1017/s0305741026102240",
+    "abstract": "Abstract This article explores how the Chinese public perceives South-East Asia. Using original survey data collected in China, it suggests three perceptual frames. The “affinity” frame, which is rooted in historical Chinese migration and diaspora ties, generates feelings of kinship and cultural connection. Conversely, the “annoyance” frame stems from contemporary geopolitical tensions, particularly South China Sea disputes, where several South-East Asian countries are viewed as provocateurs challenging China’s regional authority. The “apprehension” frame characterizes the region as exotic yet dangerous, a perception reinforced by recent cyber scams and criminal activities targeting Chinese citizens, creating stereotypes of South-East Asia as lawless and unsafe. The article analyses the survey data for the statistical distribution of these frames and discusses their political implications. By exploring how historical ties, geopolitical tensions and security concerns simultaneously shape Chinese public opinion, the article illuminates the complex perceptual landscape that may influence China’s diplomatic and economic relations with South-East Asia.",
     "authors": [
-      "Lulu Bin Tahir Achmad"
+      "Enze Han"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
