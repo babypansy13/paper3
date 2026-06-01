@@ -1,147 +1,155 @@
 [
   {
     "field": "Public Policy",
-    "title": "生态养殖场品牌化运营中的消费者信任机制与市场实现路径 <i><b>Consumer Trust Mechanism and Market Realization Path in the Branding Operation of Ecological Farms</b></i>",
-    "journal": "Journal of Frontier in Economic and Management Research",
-    "year": "2026",
-    "date": "2026-05-31",
-    "doi": "10.63944/gv88.jfemr",
-    "url": "https://doi.org/10.63944/gv88.jfemr",
-    "abstract": "With the frequent occurrence of food safety incidents and the awakening of residents' health consumption awareness, eco-farming products are increasingly favored by the market. However, a persistent \"trust deficit\" remains the core bottleneck constraining the branding operation and market expansion of ecological farms. Consumer skepticism over whether these products are \"truly ecological\" reflects the deep-seated predicament of the eco-agricultural product market under conditions of information asymmetry. Drawing on information asymmetry theory, trust theory, and brand equity theory as analytical frameworks, this paper systematically investigates the generation mechanism, influencing factors, and action pathways of consumer trust in the branding operation of ecological farms. The study maintains that consumer trust in ecological farming brands constitutes a composite system jointly constructed by three dimensions: cognitive trust, affective trust, and institutional trust. Its formation is interactively influenced by multiple factors, including perceived product quality, information transparency, brand reputation, third-party certification, social network word-of-mouth, and consumption experience. On this basis, the paper proposes a four-in-one market realization path consisting of \"whole-chain transparency construction — multi-dimensional trust signal transmission — community-based relationship cultivation — institutional credit endorsement,\" and conducts case analyses integrating typical practices in the ecological farming industry. The research aims to provide theoretical reference and practical guidance for ecological farms to break through trust barriers and achieve sustainable branded operations.",
+    "title": "High order smoothness for stochastic Navier-Stokes equations with transport and stretching noise on bounded domains",
+    "journal": "Nonlinear Analysis",
+    "year": "2024",
+    "date": "2026-06-01",
+    "doi": "10.1016/j.na.2025.114054",
+    "url": "https://www.semanticscholar.org/paper/5168d7082a9dc746c60e7d0ee6ee9a0ea6b65235",
+    "abstract": "We obtain energy estimates for a transport and stretching noise under Leray Projection on a 2D bounded convex domain, in Sobolev Spaces of arbitrarily high order. The estimates are taken in equivalent inner products, defined through powers of the Stokes Operator with a specific choice of Navier boundary conditions. We exploit fine properties of the noise in relation to the Stokes Operator to achieve cancellation of derivatives in the presence of the Leray Projector. As a result, we achieve an additional degree of regularity in the corresponding Stochastic Navier-Stokes Equation to attain a true strong solution of the original Stratonovich equation. Furthermore for any order of smoothness, we can construct a strong solution of a hyperdissipative version of the Stochastic Navier-Stokes Equation with the given regularity; hyperdissipation is only required to control the nonlinear term in the presence of a boundary. We supplement the result by obtaining smoothness without hyperdissipation on the torus, in 2D and 3D on the lifetime of solutions.",
     "authors": [
-      "江泽义",
-      "李文骥"
+      "D.P. Goodair"
     ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 3,
+    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "High-pressure induced microstructural evolution and phase transition in Ti-55511 alloy",
+    "journal": "Journal of Materials Science & Technology",
+    "year": "2026",
+    "date": "2026-06-01",
+    "doi": "10.1016/j.jmst.2025.08.030",
+    "url": "https://doi.org/10.1016/j.jmst.2025.08.030",
+    "abstract": "",
+    "authors": [
+      "Changchang Liu",
+      "Yanghuanzi Li",
+      "Lin Guo",
+      "Ji Gu"
+    ],
+    "citations": 2,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "Adaptive emergence of platform governance in contexts of underdeveloped markets and informality",
+    "journal": "Long Range Planning",
+    "year": "2026",
+    "date": "2026-06-01",
+    "doi": "10.1016/j.lrp.2026.102631",
+    "url": "https://doi.org/10.1016/j.lrp.2026.102631",
+    "abstract": "",
+    "authors": [
+      "Derrick Boakye",
+      "Karen Amissah",
+      "David Sarpong"
+    ],
+    "citations": 2,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Rethinking intimate partner violence risk: A Dyadic Socioecological Model of Adverse Relationship Pressures",
+    "journal": "Current Opinion in Psychology",
+    "year": "2026",
+    "date": "2026-06-01",
+    "doi": "10.1016/j.copsyc.2026.102272",
+    "url": "https://doi.org/10.1016/j.copsyc.2026.102272",
+    "abstract": "",
+    "authors": [
+      "Abriana M. Gresham",
+      "Timothy J. Valshtein",
+      "Chelsea M. Spencer",
+      "Jeffry A. Simpson"
+    ],
+    "citations": 1,
+    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Nature-based solutions for coastal protection: Untangling public knowledge and perception across Europe",
+    "journal": "Nature-Based Solutions",
+    "year": "2026",
+    "date": "2026-06-01",
+    "doi": "10.1016/j.nbsj.2025.100297",
+    "url": "https://doi.org/10.1016/j.nbsj.2025.100297",
+    "abstract": "",
+    "authors": [
+      "N. Pannozzo",
+      "N. Leonardi"
+    ],
+    "citations": 1,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "Weeds associated with cross border traffic, their approach and infestation rates in Zimbabwe",
-    "journal": "ISABB Journal of Food and Agricultural Sciences",
+    "title": "Émile Zola: Writing Modern Life by Rachel Bowlby (review)",
+    "journal": "Studies in the Novel",
     "year": "2026",
-    "date": "2026-05-31",
-    "doi": "10.5897/isabb-jfas2025.0192",
-    "url": "https://doi.org/10.5897/isabb-jfas2025.0192",
+    "date": "2026-06-01",
+    "doi": "10.1353/sdn.2026.a989852",
+    "url": "https://doi.org/10.1353/sdn.2026.a989852",
     "abstract": "",
     "authors": [
-      "Mudada N.",
-      "Chitamba J.",
-      "Nyangani E.",
-      "Chapano C."
+      "Jennifer Yee"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Mental Health",
-    "title": "Visual Stimulation–Induced Changes in Occipital Glucose Metabolism",
-    "journal": "Korean Journal of Nuclear Medicine Technology",
+    "title": "Using mobile phone connection data to contextualize epidemiological findings in Île-de-France during the 2024 Paris Olympic and Paralympic Games",
+    "journal": "Mass Gathering Medicine",
     "year": "2026",
-    "date": "2026-05-31",
-    "doi": "10.12972/kjnmt.2026.30.1.5",
-    "url": "https://doi.org/10.12972/kjnmt.2026.30.1.5",
-    "abstract": "18F-FDG Brain PET/CT is widely used to assess cerebral glucose metabolism. The occipital cortex is particularly sensitive to visual stimulation and may demonstrate altered metabolic activity depending on uptake conditions. Current guidelines recommend that patients remain awake with eyes open in a dark environment during the uptake phase; however, environmental control measures are not clearly standardized. A man in his early 30s underwent 18F-FDG Brain PET/CT. The initial scan demonstrated marked hypermetabolism in the occipital cortex. Reassessment of the uptake conditions revealed unintended exposure to external light despite adherence to instructions. A repeat scan was performed with the patient wearing an eye mask during uptake. On the repeat scan, occipital hypermetabolism resolved, and no significant hypometabolic abnormality was observed. This case illustrates that even minimal visual stimulation can significantly influence occipital FDG uptake and alter relative metabolic distribution. Such variability may confound image interpretation, particularly in neurodegenerative disorders such as dementia with Lewy bodies, in which occipital hypometabolism is characteristic. Strict environmental standardization, clear instructions, and documentation of eye status may improve diagnostic reliability. When environmental control is difficult, the use of an eye mask may be considered.",
+    "date": "2026-06-01",
+    "doi": "10.1016/j.mgmed.2026.100066",
+    "url": "https://doi.org/10.1016/j.mgmed.2026.100066",
+    "abstract": "",
     "authors": [
-      "Young-Ran Woo",
-      "Jae-Kwang Ryu"
+      "Anselme Pascal",
+      "Pascal Vilain",
+      "Yves Gallien",
+      "Nelly Fournet"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Consumer Research",
-    "title": "UrbanGrid - Realtime Construction and Property Management System",
-    "journal": "International Journal for Research in Applied Science and Engineering Technology",
-    "year": "2026",
-    "date": "2026-05-31",
-    "doi": "10.22214/ijraset.2026.81977",
-    "url": "https://doi.org/10.22214/ijraset.2026.81977",
-    "abstract": "The UrbanGrid is a real-time and web-based platform system built to improve construction and property management to make it simpler and more transparent for addressing common issues in real estate. The real estate industry often faces some problems, such as poor communication, unclear information, a lack of transparency, delays in updates, and UrbanGrid helps to minimise these problems by offering a simple and centralised system developed using HTML, CSS, and JavaScript. The user can easily browse property listings, and they keep track of the construction progress, send and raise a ticket for enquiries when its needed. The platform also has an AI chatbot that assists users in navigating and helps them find information quickly. Which features a search filter, dynamic and property displays, and a progress tracker. The platform system is straightforward to use and provides a user-friendly experience.",
-    "authors": [
-      "Nikita Mhatre"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Family Studies",
-    "title": "Traditional famine coping mechanisms of Semada Woreda, Amhara people, Northwestern Ethiopia",
-    "journal": "Journal of African Studies and Development",
+    "title": "Those who feel it know best: Unpacking the impacts of the 2023 Akosombo Dam spillage on downstream communities in Ghana",
+    "journal": "World Development Sustainability",
     "year": "2026",
-    "date": "2026-05-31",
-    "doi": "10.5897/jasd2025.0743",
-    "url": "https://doi.org/10.5897/jasd2025.0743",
+    "date": "2026-06-01",
+    "doi": "10.1016/j.wds.2026.100297",
+    "url": "https://doi.org/10.1016/j.wds.2026.100297",
     "abstract": "",
     "authors": [
-      "Yalew Alemayehu Mulugeta"
+      "Desmond Adjaison",
+      "Reforce Okwei",
+      "Emmanuel Sowatey",
+      "Elmond Bandauko"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Management",
-    "title": "Toward an end-to-end K-AI nursing ecosystem: digital twins across the care continuum",
-    "journal": "Journal of Korean Academy of Nursing",
+    "title": "Role of Palliative Care in Massive Transfusion Protocol",
+    "journal": "Journal of Pain and Symptom Management",
     "year": "2026",
-    "date": "2026-05-31",
-    "doi": "10.4040/jkan.25180",
-    "url": "https://doi.org/10.4040/jkan.25180",
+    "date": "2026-06-01",
+    "doi": "10.1016/j.jpainsymman.2026.04.521",
+    "url": "https://doi.org/10.1016/j.jpainsymman.2026.04.521",
     "abstract": "",
     "authors": [
-      "Jeung-Im Kim",
-      "Jiyeon Kang",
-      "YeoJin Im",
-      "Sung Reul Kim"
+      "Aarsh Desai",
+      "Aaron Nelson",
+      "Austin Frazer",
+      "Kasey E. Bessada"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "The Potential Of Promise Waterfall as A Tourist Attraction in The Context of Tourism Development In Baktiraja, Humbang Hasundutan Regency",
-    "journal": "International Journal of Management and Business Economics",
-    "year": "2026",
-    "date": "2026-05-31",
-    "doi": "10.58540/ijmebe.v4i3.1615",
-    "url": "https://doi.org/10.58540/ijmebe.v4i3.1615",
-    "abstract": "This study aims to analyze the potential of Janji Waterfall as a tourist attraction to boost tourism in Baktiraja Subdistrict, Humbang Hasundutan Regency. The research method employed was descriptive qualitative, using observation, interviews, and documentation. The results of the study indicate that Janji Waterfall possesses significant potential in terms of natural beauty (attractions) and adequate accessibility; however, amenities, management, and promotion remain suboptimal. These conditions have resulted in the number of tourist visits not yet increasing significantly. Supporting factors include natural potential and community involvement, while inhibiting factors consist of limited facilities and promotion. Therefore, development is needed through improved facilities, sustainable promotion, and cooperation between the government and the community so that tourism can develop optimally",
-    "authors": [
-      "Triwanci Sinaga",
-      "Mian Siahaan",
-      "Dearlina Sinaga"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "The Impact of Taliban Rule on Youth Rights in Afghanistan: An Analysis of Repression",
-    "journal": "Journal of Social Science and Humanities",
-    "year": "2026",
-    "date": "2026-05-31",
-    "doi": "10.53469/jssh.2026.8(05).18",
-    "url": "https://doi.org/10.53469/jssh.2026.8(05).18",
-    "abstract": "This research is going to investigate the negative impact of Taliban rule on youth’s right in Afghanistan. This research is so important because the young generation are considered as the backbone of a society and has played an effective role in the progress and development of all society, But unfortunately, in Afghanistan under the Taliban rule, young people have been deprived and restricted from accessing all their human rights in the political, economic and culture. this is a clear violation of human rights which is leaves negative effects on society. therefore, carrying out such research will determine what challenges the youth are facing under the Taliban rule and what negative effects will have in the national and international society until the international community and human rights organization support from youth’s right in Afghanistan. For doing this research the researcher has tried to collect data from Books, national and international online journal and websites.",
-    "authors": [
-      "Wasim Fathima Shah"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "InsightFlow: A Trust-Aware Multi-Dimensional Framework for Intelligent Product Evaluation Using Customer Reviews",
-    "journal": "International Journal for Research in Applied Science and Engineering Technology",
-    "year": "2026",
-    "date": "2026-05-31",
-    "doi": "10.22214/ijraset.2026.82598",
-    "url": "https://doi.org/10.22214/ijraset.2026.82598",
-    "abstract": "The amount of reviews on shopping platforms is reallyhugeanditisveryhardtocheckthemallmanually.It is even harder when people write reviews that can make other peoplenottrusttheratings.ThispaperisaboutInsightFlow, a system that helps figure out if reviews are real or not and if products are good or not. It looks at what people write in their reviews to compare products. To sort out reviews InsightFlow uses a combination of three things:LogisticRegression,BidirectionalLongShort-TermMem-ory and DistilBERT. This combination works well and is more accurate than using just one of them. It gets it right 92% of the time. InsightFlow also has something called the Dynamic Trust and EvaluationIndex(DTEI).Thisisawaytomeasurehowmuch wecantrustareview.Itlooksatfivethings:howsurepeople are about what they are saying, if the review might be fake, if people are being emotional, how old the review is and if people are talking about the same things. Each of these things is figured out on its own. To find reviews InsightFlow uses something called Sentence-BERT and a way to group similar things together. It also looksat how similar reviews are to each other. 18.5% Of reviews were flagged as suspicious. To find out what people are talking about inreviewsInsightFlowusessomethingcalledBERTopic.Tofigure outhowpeoplearefeelingitusesakindofclassifierthatcan tell the difference between seven emotions. When we tested InsightFlow on 20,000 reviews of electronics fromAmazonitworkedverywell.Itwasbetterthanlooking atstarratingsorhowpeoplefeltaboutproducts.Productsthat were really good had a score of about 0.755 and products that were not good had a lower score of about 0.493. This shows that InsightFlow is a way to make informed decisions when shopping online.",
-    "authors": [
-      "Sanket Natekar"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
