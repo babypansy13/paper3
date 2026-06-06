@@ -1,152 +1,158 @@
 [
   {
-    "field": "Marketing",
-    "title": "Gendered Livelihoods in Urban Informality: A Socio-Economic and Institutional Analysis of Women Street Vendors in Jharkhand, India",
-    "journal": "Science, Education and Innovations in the context of modern problems",
-    "year": "2026",
-    "date": "2026-06-11",
-    "doi": "10.56334/sei/9.7.3",
-    "url": "https://doi.org/10.56334/sei/9.7.3",
-    "abstract": "Street vending represents a pivotal component of the urban informal economy in developing countries, serving as a primary livelihood strategy for marginalized populations, particularly women. This study provides a comprehensive empirical analysis of the socio-economic conditions, livelihood vulnerabilities, and institutional challenges faced by women street vendors in Jharkhand, India—a region characterized by pronounced rural-to-urban migration and a substantial tribal population. The research is based on primary data collected through structured interviews with 120 women vendors across the cities of Ranchi and Jamshedpur. Employing a mixed-methods approach, the study integrates descriptive and inferential statistical analysis with qualitative insights to capture both measurable indicators and lived experiences. The analysis examines key dimensions including demographic characteristics, income structures, household responsibilities, working conditions, and access to institutional support. The findings reveal that women street vendors operate within conditions of persistent economic precarity, characterized by low and unstable incomes, limited educational attainment, financial exclusion, and inadequate legal protection. Although regulatory frameworks such as the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act (2014) formally recognize vendors’ rights, substantial implementation gaps continue to expose them to harassment, eviction risks, and administrative marginalization. Notably, despite these structural constraints, street vending functions as a critical source of economic agency and social empowerment, enabling women to sustain household livelihoods and assert a degree of autonomy in contexts of restricted formal employment opportunities. This duality underscores the complex nature of informal work as both a site of vulnerability and a mechanism of resilience. The study contributes to the literature on gendered urban informality by advancing a context-specific understanding of how socio-economic marginality, governance deficits, and institutional exclusion intersect in shaping livelihood outcomes. Policy implications highlight the necessity of inclusive urban planning, enhanced financial inclusion, effective legal enforcement, and gender-responsive welfare interventions. Such measures are essential for strengthening livelihood security and fostering equitable and sustainable urban development in emerging economies.",
-    "authors": [
-      "Ashna Manoram",
-      "Vinod Sen",
-      "Mohd. Nizamuddin",
-      "Abdul Latheef K"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "Century of Progress on the Structure of APOB-100 in Atherogenic Lipoproteins",
-    "journal": "Circulation Research",
-    "year": "2026",
-    "date": "2026-06-05",
-    "doi": "10.1161/circresaha.126.328575",
-    "url": "https://doi.org/10.1161/circresaha.126.328575",
-    "abstract": "APOB-100 (apolipoprotein B100) is the obligate structural protein of very low-density lipoprotein (VLDL), intermediate density lipoprotein, and low-density lipoprotein (LDL), with each atherogenic particle containing a single copy. Because circulating APOB concentration reflects particle number, it has emerged as a clinically important marker that may outperform LDL cholesterol in cardiovascular risk prediction. Historically, the large size, lipid dependence, and conformational diversity of APOB have hindered a detailed structural understanding. However, recent advances in cryo-electron microscopy and integrative modeling have transformed this landscape, yielding near-atomic models of APOB organization on human LDL and defining the structural basis for receptor recognition. This review traces the evolution of APOB structural concepts from its discovery as the main LDL scaffold to contemporary cryo-electron microscopy-derived architectures. The new structures reveal an extended scaffold that encircles the particle, accommodates large changes in lipid cargo, and presents multiple interaction surfaces for the LDL receptor. The new models reconcile decades of mutagenesis, antibody mapping, and cross-linking data and provide a mechanistic framework for understanding familial hypercholesterolemia variants, receptor binding stoichiometry, and the structural transitions that occur during VLDL to LDL remodeling. Despite these advances, intrinsic heterogeneity in particle size, lipid composition, and protein conformation imposes fundamental limits on achievable resolution, and we argue that APOB should be viewed as a dynamic structural ensemble rather than a single static molecule. Future work will require integration of structural models with targeted biochemical studies to define cooperative receptor binding mechanisms, structural determinants of remnant clearance, and the basis for association with exchangeable apolipoproteins and lipolysis regulators. Extending cryo electron microscopy to LDL subpopulations like lipoprotein(a) and VLDL remnants promises to establish new frameworks for linking APOB architecture to lipoprotein metabolism and cardiovascular disease.",
-    "authors": [
-      "Bethany Coleman",
-      "Laura A. Woollett",
-      "W. Sean Davidson"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Youth’s Online Activities, Metacognitive Orientations, and Intellectual Styles",
-    "journal": "Human Arenas",
-    "year": "2026",
-    "date": "2026-06-05",
-    "doi": "10.1007/s42087-026-00635-w",
-    "url": "https://doi.org/10.1007/s42087-026-00635-w",
-    "abstract": "",
-    "authors": [
-      "Aleksejs Šņitņikovs",
-      "Ilze Koroļeva",
-      "Jūlija Svitaja"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "XGBoost and LightGBM for Spectral Authentication of Pomegranate Juice Concentrate: A Comparison with Classical Chemometric Models",
-    "journal": "Food and Bioprocess Technology",
-    "year": "2026",
-    "date": "2026-06-05",
-    "doi": "10.1007/s11947-026-04429-4",
-    "url": "https://doi.org/10.1007/s11947-026-04429-4",
-    "abstract": "",
-    "authors": [
-      "Irem Yasa",
-      "Elif Ilgen",
-      "Cagri Cavdaroglu",
-      "Seda Uyar"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "Work without walls: a systematic review of cultural and national determinants in hybrid and remote work",
-    "journal": "European Journal of Training and Development",
-    "year": "2026",
-    "date": "2026-06-05",
-    "doi": "10.1108/ejtd-01-2026-0010",
-    "url": "https://doi.org/10.1108/ejtd-01-2026-0010",
-    "abstract": "Purpose This study aims to synthesize how cultural and national determinants influence the adoption, effectiveness and equity of hybrid and remote work arrangements. Guided by Hofstede’s cultural dimensions and institutional theory, it examines macro-level (national culture and policies), meso-level (organizational culture) and contextual factors (regional, industry and demographic) to provide a comprehensive understanding of flexible work dynamics in the post-COVID era. Design/methodology/approach A systematic review following PRISMA guidelines was conducted on 64 peer-reviewed studies published between 2014 and 2024, sourced from Web of Science and EBSCOhost EJS databases. Thematic analysis was used to synthesize the antecedents and outcomes of hybrid and remote work, with particular attention to cultural fit, institutional moderators and multi-level interactions. Data extraction used a structured review matrix, and study quality was appraised using the Mixed Methods Appraisal Tool (MMAT). Findings The authors’ analysis suggests that individualistic and low power-distance cultures are generally more compatible with remote work autonomy and are associated with higher satisfaction, engagement and innovation. In contrast, collectivist, high power-distance and high uncertainty-avoidance cultures experience greater challenges related to social isolation, ambiguity and technostress, particularly in fully remote settings. Hybrid arrangements may help mitigate these tensions by reintroducing structured interaction and relational coordination. Institutional supports, including labor protections and digital infrastructure, significantly shape adoption and equity, while trust-based organizational cultures enhance flexible work outcomes more effectively than presenteeism-oriented environments. Originality/value This study advances the remote and hybrid work literature by integrating Hofstede’s cultural dimensions, institutional theory and human resource development (HRD) perspectives within a multi-level framework. It introduces an integrated cultural–institutional HRD model that explains how macro-cultural, contextual and meso-level organizational factors jointly shape flexible work outcomes across diverse global contexts.",
-    "authors": [
-      "Maral Khanjani",
-      "Sehoon Kim",
-      "Hamid Reza Yazdani",
-      "Mohammad Reza Sadeghi"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Mental Health",
-    "title": "Triggering receptor expressed on myeloid cells 2-driven pancreatic macrophage crosstalk: Key regulator of obesity pathophysiology and metabolic dysregulation",
-    "journal": "World Journal of Biological Chemistry",
+    "title": "Two cases of mosaic germline SVA insertions in SMARCB1: implications for rhabdoid tumour predisposition diagnosis",
+    "journal": "npj Genomic Medicine",
     "year": "2026",
-    "date": "2026-06-05",
-    "doi": "10.4331/wjbc.v17.i2.118705",
-    "url": "https://doi.org/10.4331/wjbc.v17.i2.118705",
-    "abstract": "Obesity, a global epidemic, is closely linked to metabolic complications like insulin resistance and type 2 diabetes. Pancreatic dysfunction (impaired islet secretion and local inflammation) is central to this deterioration, yet the underlying mechanisms remain unclear. Pancreatic macrophages regulate tissue inflammation and metabolic homeostasis, but their context-specific polarization in obesity is undefined. This review discusses the role of triggering receptor expressed on myeloid cells 2 (TREM2) in modulating pancreatic macrophage behavior in the context of obesity, based on findings from diet-induced obese mouse models and ex vivo pancreatic analyses. Emerging evidence indicates that TREM2 expression is markedly upregulated in pancreatic macrophages of obese subjects, where TREM2-driven macrophage activation promotes pro-inflammatory cytokine release and disrupts macrophage-islet β-cell crosstalk. Transcriptomic profiling reveals that TREM2 signaling reshapes macrophage transcriptional landscapes, enhancing pro-inflammatory phenotypes while impairing islet-supporting capacity. Notably, macrophage-specific TREM2 ablation has been shown to ameliorate pancreatic inflammation, restore islet insulin secretion, and alleviate systemic metabolic disorders in obese mice. Collectively, these findings identify TREM2 as a pivotal molecular switch governing pancreatic macrophage-mediated metabolic dysfunction in obesity, highlighting TREM2+ pancreatic macrophages as a potential therapeutic target. These findings advance the understanding of immune-metabolic crosstalk in the pancreas, laying a foundation for developing novel immunometabolic interventions.",
+    "date": "2026-06-06",
+    "doi": "10.1038/s41525-026-00584-x",
+    "url": "https://doi.org/10.1038/s41525-026-00584-x",
+    "abstract": "",
     "authors": [
-      "Ao-Yun Zhang",
-      "Cong-Yi Xie",
-      "Xiao Song",
-      "Zi-Han Guo"
+      "Laura Raiti",
+      "Kyoko E. Yuki",
+      "Lise Cinq-Mars",
+      "Edward J. Higginbotham"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Public Policy",
-    "title": "Transcranial orbital approaches: comparison of the surgical access and the importance of the zygomatic arch removal",
-    "journal": "Neurosurgical Review",
+    "field": "Consumer Research",
+    "title": "The catalytic performance of novel (Co, Ni, Cu, Zn) phthalocyanines containing 2-methylresorcinol azo dyes in transfer hydrogenation reactions of aldehydes and ketones",
+    "journal": "Research on Chemical Intermediates",
     "year": "2026",
-    "date": "2026-06-05",
-    "doi": "10.1007/s10143-026-04355-1",
-    "url": "https://doi.org/10.1007/s10143-026-04355-1",
-    "abstract": "",
+    "date": "2026-06-06",
+    "doi": "10.1007/s11164-026-06043-7",
+    "url": "https://doi.org/10.1007/s11164-026-06043-7",
+    "abstract": "Abstract Hydrogen transfer reduction systems have attracted increasing attention from synthetic chemists due to their operational simplicity. Herein, we report the synthesis, characterization and catalytic activity of four newly designed metallophthalocyanines containing Co ( 2a ), Ni ( 2b ), Cu ( 2c ), and Zn ( 2d ) prepared from an azo-phthalonitrile derivative incorporating 2-methylresorcinol into the ligand framework. All synthesized compounds were characterized by FT-IR and UV–Vis spectroscopy, as well as elemental analysis. The catalytic activities of the metallophthalocyanines were evaluated in the transfer hydrogenation (TH) reactions of various aldehydes, ketones, and their derivatives under an inert atmosphere using 2-propanol as the hydrogen source. Nickel phthalocyanine ( 2b ) exhibited the highest catalytic performance, affording 99% conversion of acetophenone within 5 h and benzaldehyde within 1 h. The catalytic results revealed that the transfer hydrogenation activity depends not only on the metal center but also on the structural properties of the ligand environment surrounding the complex. Therefore, the catalytic efficiency of these systems is strongly governed by both the electronic nature of the central metal ion, and the substituent groups present in the ligand framework.",
     "authors": [
-      "Ahmet Faruk Ozdemir",
-      "Omer Furkan Turkis"
+      "Mesut Namlı",
+      "Uğur Işık",
+      "Cihan Kantar",
+      "Selami Şaşmaz"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "The Impact of Accountability and Transparency on Financial Report Quality (Case Study at the Regional Office of the Ministry of Religious Affairs, Gorontalo Province)",
+    "journal": "International Journal of Science and Environment (IJSE)",
+    "year": "2026",
+    "date": "2026-06-06",
+    "doi": "10.51601/ijse.v6i2.591",
+    "url": "https://doi.org/10.51601/ijse.v6i2.591",
+    "abstract": "This study aims to analyze the influence of accountability and transparency on the quality of financial statements at the Regional Office of the Ministry of Religious Affairs of Gorontalo Province. The background of this research is based on the importance of financial statement quality as a form of public accountability in realizing good governance. The phenomenon of significant fluctuations in balance sheet accounts, increasing operational deficit reports, and inconsistencies in financial disclosure indicate that there are still problems in the implementation of accountability and transparency principles. This study uses a quantitative approach with a survey method through distributing questionnaires to employees involved in the management and preparation of financial statements. The data were analyzed using multiple linear regression analysis techniques to determine the effect of each variable on the quality of financial statements. The results of this study are expected to provide an overview of the importance of implementing accountability and transparency in improving the quality of financial statements that are relevant, reliable, understandable, and comparable in accordance with Government Accounting Standards (SAP). In addition, this study is expected to become an evaluation material for government institutions in strengthening a transparent and accountable financial management system and increasing public trust in the management of state funds.",
+    "authors": [
+      "Muatiara Istyatun Anyo",
+      "Usman",
+      "Ayu Rakhma Wuryandini"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "The Social Genesis of Overconfidence: How Social Capital and Risk Tolerance Shape Investor Decisions",
-    "journal": "Advances in Management and Applied Economics",
+    "title": "The Election Of Regional Heads By The Regional People's Representative Council Is Reviewed From Fiqh Siyasah",
+    "journal": "Tasfiyah : Journal of Islamic Law and Sharia Economics",
     "year": "2026",
-    "date": "2026-06-05",
-    "doi": "10.47260/amae/1654",
-    "url": "https://doi.org/10.47260/amae/1654",
-    "abstract": "This study investigates whether social capital functions as a key antecedent of investor overconfidence and evaluates the mediating role of risk tolerance within this relationship. Using survey data from 425 investors and structural equation modeling, the analysis shows that social capital is positively associated with overconfidence, that risk tolerance also exhibits a positive relationship with overconfidence, and that risk tolerance partially mediates the influence of social capital on overconfidence. These findings highlight how investors’ relational resources shape risk attitudes and cognitive biases, extending behavioral finance research by offering a socially embedded explanation of overconfidence formation. The results further provide practical implications for financial advisors, platform designers, and policymakers seeking to mitigate socially driven overconfidence and excessive risk-taking through targeted education and intervention strategies. JEL classification numbers: D91, G41. Keywords: Social capital, Risk tolerance, Overconfidence, Behavioral finance, Investor psychology.",
+    "date": "2026-06-06",
+    "doi": "10.69836/tasfiyah.v2i1.746",
+    "url": "https://doi.org/10.69836/tasfiyah.v2i1.746",
+    "abstract": "The discourse on restoring the mechanism of regional head elections through the Regional People’s Representative Council (DPRD) has generated significant constitutional and democratic debate in Indonesia. While proponents argue that indirect elections may reduce political costs and minimize electoral conflicts, opponents contend that such a system risks weakening public participation and democratic accountability. In this context, the election of regional heads through the DPRD raises important questions regarding its compatibility with democratic principles and the values of fiqh siyasah within the Indonesian constitutional framework. The purpose of writing this article is to analyze the practice of electing regional heads by the Regional People's Representative Council (DPRD) in the perspective of Siyasah Dusturiyah, which is a branch of Islamic political science related to governance based on Islamic law. This research uses a normative method with a literature and legislation approach that includes positive legal analysis, democratic principles, and the concept of Siyasah Dusturiyah. The results of this study indicate that the election of regional heads by the Regional People’s Representative Council (DPRD) possesses constitutional legitimacy within Indonesia’s positive legal system, as reflected in Article 18 paragraph (4) of the 1945 Constitution, which allows regional heads to be elected democratically through either direct or representative mechanisms. From the perspective of fiqh siyasah, the DPRD-based election system may be considered permissible insofar as it upholds the principles of deliberation (shura), justice (‘adl), public welfare (maslahah), and accountability in governance. Accordingly, the legitimacy of this mechanism depends not merely on its procedural form, but on the extent to which the election process reflects the aspirations and interests of the people in accordance with the values of Islamic governance. This article recommends strengthening transparency and accountability in the election process, as well as optimizing the role of the DPRD as the people's representative to ensure that the election of regional heads is truly oriented towards the interests of the wider community.",
     "authors": [
-      "Sze-Hsun, Feng-Chen, Chih-Kang, Meng-Shu Chang, Lin, Lien, Wu"
+      "Annisa Mayang Tyaningrum"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Sustainable biodegradable packaging films based on cationic potato-peel starch/broccoli with edible inks",
+    "journal": "Journal of Food Measurement and Characterization",
+    "year": "2026",
+    "date": "2026-06-06",
+    "doi": "10.1007/s11694-026-04464-x",
+    "url": "https://doi.org/10.1007/s11694-026-04464-x",
+    "abstract": "",
+    "authors": [
+      "Saber Ibrahim",
+      "Omar R. Soliman",
+      "Hager Fahmy"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Structural basis for a filamentous morpheein model of human cystathionine beta-synthase",
+    "journal": "Nature Communications",
+    "year": "2026",
+    "date": "2026-06-06",
+    "doi": "10.1038/s41467-026-73198-7",
+    "url": "https://doi.org/10.1038/s41467-026-73198-7",
+    "abstract": "Abstract Human cystathionine beta-synthase (CBS) is a vital enzyme that regulates sulfur amino acid metabolism, hydrogen sulfide production, and cellular redox balance. Using a multidisciplinary approach, we demonstrate that CBS functions as a filamentous morpheein, with its stability, turnover, and activity governed by dynamic quaternary structural transitions. Three distinct filamentous assemblies were resolved by cryo-EM and are mediated by the oligomerization loop (residues 516–525): (i) ligand-free trans -dimers that form trans -basal filaments with basal stability and activity, (ii) adenosylornithine-bound cis -dimers that assemble into stabilized cis -basal filaments and (iii) S-adenosylmethionine-bound allo -dimers, which, together with cis -dimers, form highly stable, allo -activated stacked filaments. These reversible filamentous assemblies redefine CBS biology by integrating oligomerization and allosteric regulation within a morpheein framework. These findings provide a transformative perspective on CBS function and open avenues for pharmacological targeting of dysregulated CBS in various diseases including homocystinuria, cancer, and Down syndrome.",
+    "authors": [
+      "Inayathulla Mohammed",
+      "Ela Mijatovic",
+      "Thilo Magnus Philipp",
+      "Lucia Janickova"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "Securities class action is coming to “town”: the effect of a milestone lawsuit in China",
+    "journal": "Review of Accounting Studies",
+    "year": "2026",
+    "date": "2026-06-06",
+    "doi": "10.1007/s11142-026-09965-0",
+    "url": "https://doi.org/10.1007/s11142-026-09965-0",
+    "abstract": "",
+    "authors": [
+      "Henry He Huang",
+      "Shangkun Liang",
+      "Li Sun",
+      "Gang Zhao"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "Association of the Naples prognostic score with all-cause and cardiovascular mortality in U.S. patients with heart failure: a retrospective cohort study using NHANES 2001–2018",
+    "journal": "Journal of Health, Population and Nutrition",
+    "year": "2026",
+    "date": "2026-06-06",
+    "doi": "10.1186/s41043-026-01352-4",
+    "url": "https://doi.org/10.1186/s41043-026-01352-4",
+    "abstract": "",
+    "authors": [
+      "Ke Wang",
+      "Jinzhen Gong",
+      "Ziting Yuan",
+      "Ruiyan Wang"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Management",
-    "title": "Skin in the game",
-    "journal": "Strategic Direction",
+    "title": "Revitalization of the Deli River Landscape as a Public Space and Identity Medan City",
+    "journal": "Equivalent : Journal of Economic, Accounting and Management",
     "year": "2026",
     "date": "2026-06-05",
-    "doi": "10.1108/sd-04-2026-0114",
-    "url": "https://doi.org/10.1108/sd-04-2026-0114",
-    "abstract": "Purpose This paper aims to review the latest management developments across the globe and pinpoint practical implications from cutting-edge research and case studies. Design/methodology/approach This briefing is prepared by an independent writer who adds their own impartial comments and places the articles in context. Findings Digital transformation is something all firms have to deal with. Founder CEOs are shown to have the best results in managing this digital change compared to hired CEOs. Originality/value The briefing saves busy executives, strategists and researchers hours of reading time by selecting only the very best, most pertinent information and presenting it in a condensed and easy-to-digest format.",
-    "authors": [],
+    "doi": "10.61994/equivalent.v4i2.1899",
+    "url": "https://doi.org/10.61994/equivalent.v4i2.1899",
+    "abstract": "Urban river revitalization has become an important approach in strengthening public spaces and urban identity. The Deli River, as a major landscape element of Medan City, possesses significant social, historical, and cultural potential; however, its function as a public space has not been optimally developed. This study aims to analyze the revitalization of the Deli River landscape as a public space and its implications for the formation of Medan's urban identity. A mixed-methods approach was employed, combining descriptive quantitative analysis and qualitative analysis using a SWOT framework. Quantitative data were collected through questionnaires distributed to 100 respondents who actively use the riverfront area, while qualitative data were obtained through field observations, brief interviews, and documentation. The results indicate that the Deli River area still functions as an active social space, as reflected by the high intensity of social interactions among users. However, the quality of physical revitalization remains uneven, characterized by limited accessibility, poor environmental cleanliness, and unequal distribution of supporting facilities. In addition, cultural activities along the riverfront are sporadic and lack continuity. The SWOT analysis suggests that successful revitalization of the Deli River requires an integrated approach that combines physical improvement, strengthening of social functions, and community-based cultural development. This study contributes to the discourse on urban river revitalization by highlighting the importance of integrating social, physical, and cultural dimensions in shaping public spaces and urban identity.",
+    "authors": [
+      "Henry Paulus Lumbangaol",
+      "Cut Nuraini",
+      "Abdiyanto"
+    ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
