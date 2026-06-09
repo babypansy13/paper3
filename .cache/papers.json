@@ -1,153 +1,156 @@
 [
   {
-    "field": "Consumer Research",
-    "title": "Work-family conflict and professional identity among Chinese young faculty: examining the action paths and moderating mechanisms",
-    "journal": "BMC Psychology",
+    "field": "Marketing",
+    "title": "Yeast mitochondrial adaptation to freeze thaw stress depends on pre freeze fermentation state",
+    "journal": "npj Science of Food",
     "year": "2026",
-    "date": "2026-06-08",
-    "doi": "10.1186/s40359-026-04956-x",
-    "url": "https://doi.org/10.1186/s40359-026-04956-x",
+    "date": "2026-06-09",
+    "doi": "10.1038/s41538-026-00921-5",
+    "url": "https://doi.org/10.1038/s41538-026-00921-5",
     "abstract": "",
     "authors": [
-      "Chunmei Wang"
+      "Dongdong Xie",
+      "Xing Li",
+      "Jiaxin Zheng",
+      "Liang Zhao"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "Workplace wellbeing in the digital era: the moderating role of organizational innovation practices",
+    "journal": "European Journal of Innovation Management",
+    "year": "2026",
+    "date": "2026-06-09",
+    "doi": "10.1108/ejim-06-2025-0793",
+    "url": "https://doi.org/10.1108/ejim-06-2025-0793",
+    "abstract": "Purpose This paper analyses whether and how the establishments' innovation level moderates the relationship between electronic performance monitoring (EPM) and workplace wellbeing (WW). While previous studies have explored the effects of EPM on WW, empirical evidence remains mixed and has paid limited attention to organizational conditions that may shape these effects. Building on an integrated theoretical approach that combines the innovative work practices (IWP) framework and socio-technical systems theory within an innovation management perspective, we argue that an establishment's innovation profiles constitute a key contextual factor that conditions employees' responses to EPM practices. Design/methodology/approach Using microdata from 21,869 establishments with more than 10 employees across all European Union countries and the United Kingdom, drawn from the 2019 European Company Survey (ECS), a large-scale, cross-country dataset covering a wide range of industries and organizational types, we conduct a probit analysis stratified by establishment's innovation profiles (non-innovative, internally innovative and market-innovative). WW is captured through a composite indicator based on manager-reported measures of work climate, employee motivation, absenteeism and employee retention. Findings Our findings reveal that EPM has a negative and statistically significant association with WW. However, this negative relationship is not uniform across establishments. Rather, establishments' innovation profile plays a moderating role in the relationship between EPM and WW, with innovation acting as a buffering mechanism that attenuates the adverse effects of EPM on WW. In quantitative terms, the estimated marginal effects indicate a reduction of approximately 4.2% points in the probability of having WW levels above the sample median for non-innovative establishments, whereas the effect becomes statistically insignificant in establishments with innovative practices. These results hold across a broad cross-country and cross-sector sample of European establishments, although they are contingent on the organizational innovation environment in which EPM practices are implemented. Originality/value This study makes a unique contribution to the literature by demonstrating that the WW consequences of introducing EPM critically depend on establishments' innovation level. Theoretically, the study advances innovation management and socio-technical perspectives by demonstrating that innovation environments function as a boundary condition that shapes the wellbeing consequences of digital monitoring, thereby explaining the heterogeneous and often modest effects reported in prior research. This highlights the importance of innovation management for balancing efficiency gains from digitalization with employee wellbeing.",
+    "authors": [
+      "Javier Baquero-Pérez",
+      "Maricruz Lacalle-Calderon",
+      "Julimar Da Silva Bichara"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "Why the endowment effect reflects unbiased smart decision-making and can increase the willingness to trade",
+    "journal": "Review of Behavioral Economics",
+    "year": "2026",
+    "date": "2026-06-09",
+    "doi": "10.1108/rbe-02-2025-1007",
+    "url": "https://doi.org/10.1108/rbe-02-2025-1007",
+    "abstract": "This paper reinterprets the endowment effect, as revealed in the classic mug experiments by Kahneman, Knetsch and Thaler, not as evidence of cognitive bias, but as an expression of rational, context-sensitive behaviour. Building on Knetsch’s legacy and Lancaster’s product characteristics theory, it argues that post-possession valuation shifts reflect new, utility-enhancing attributes such as familiarity, identity and control. This revisionist account challenges the standard behavioural economics narrative and reshapes our understanding of contingent valuation, emphasizing the need to incorporate ownership dynamics into survey design. Uniquely, the paper demonstrates that the endowment effect can enhance willingness to trade – particularly when ownership reconfigures power and legitimacy, as exemplified in Indigenous participation in Canadian resource governance. Rather than suppressing market efficiency, the endowment effect may enable more inclusive and meaningful exchange. The result is a new behavioural model of trade grounded in experiential, political and social realities and consistent real-world rational decision-makers.",
+    "authors": [
+      "Morris Altman"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Validation of the Spanish Sexual Risk Behaviour Scale among adolescents, youth, and future health and educational professionals",
+    "journal": "BMC Psychology",
+    "year": "2026",
+    "date": "2026-06-09",
+    "doi": "10.1186/s40359-026-04971-y",
+    "url": "https://doi.org/10.1186/s40359-026-04971-y",
+    "abstract": "",
+    "authors": [
+      "Laura Alonso Martínez",
+      "María Consuelo Sáiz Manzanares",
+      "Isadora Gabriella Silva Palmieri",
+      "Gabriela Tavares Magnabosco"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
+    "field": "Mental Health",
+    "title": "Ultrasound hepatic elastography: A non-invasive indicator of insulin resistance in the pediatric population: A systematic review",
+    "journal": "World Journal of Clinical Pediatrics",
+    "year": "2026",
+    "date": "2026-06-09",
+    "doi": "10.5409/wjcp.v15.i2.115963",
+    "url": "https://doi.org/10.5409/wjcp.v15.i2.115963",
+    "abstract": "BACKGROUND Insulin resistance (IR) plays a pivotal role in the pathogenesis of metabolic dysfunction-associated steatotic liver disease. While non-invasive imaging methods are increasingly used in pediatrics, the extent to which hepatic elastography reflects IR in children remains unclear. AIM To evaluate the association between ultrasound-based hepatic elastography parameters and clinical indices of IR in the pediatric population. METHODS A systematic search of PubMed, Scopus, and Web of Science databases was conducted through October 2025. Studies assessing correlations between elastography parameters - controlled attenuation parameter (CAP) and liver stiffness measurement (LSM) - and IR indices were included. Data were pooled using random-effects meta-analysis with correlation coefficients (r ) as the primary effect size. Subgroup and sensitivity analyses examined differences by IR index, cohort characteristics, and elastography modality. RESULTS Sixteen studies, encompassing 2,032 children and adolescents, were included. The pooled correlation between hepatic elastography (CAP/LSM) and IR indices was r = 0.44 (95% confidence interval: 0.38-0.50; I 2 = 72%), indicating a moderate positive association. The strongest correlations were observed for adipose tissue IR (r = 0.65) and the metabolic score for IR (r = 0.49), surpassing simpler indices such as homeostatic model assessment of IR. CAP correlated moderately with early steatosis (r = 0.30-0.40), whereas LSM showed stronger associations with advanced fibrosis and systemic IR (r = 0.50-0.65). Heterogeneity was mainly attributed to differences in disease severity and measurement methods. CONCLUSION Ultrasound-based hepatic elastography provides a reliable, non-invasive surrogate for systemic metabolic dysfunction in pediatric metabolic dysfunction-associated steatotic liver disease. CAP reflects early, reversible hepatic fat accumulation, while LSM reflects more advanced fibrosis and systemic IR, and identifies fibrotic progression driven by chronic IR. The strongest associations with adipose tissue-IR and metabolic score-IR highlight the systemic, multisite nature of pediatric IR. Elastography thus holds promise as an integrated biomarker for IR severity, early risk stratification, and therapeutic monitoring in children and adolescents with metabolic risk factors.",
+    "authors": [
+      "Reem M Elbeltagi",
+      "Nermin K Saeed",
+      "Adel S Bediwy",
+      "Mohammed Al-Beltagi"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
     "field": "Family Studies",
-    "title": "Why users trust generative AI: an empirical exploration of trustworthiness dimensions and privacy disclosure",
-    "journal": "Online Information Review",
+    "title": "Transformational leadership and organizational performance: gaps and connections with integrated marketing communication and innovation performance",
+    "journal": "Leadership & Organization Development Journal",
     "year": "2026",
-    "date": "2026-06-08",
-    "doi": "10.1108/oir-07-2025-0550",
-    "url": "https://doi.org/10.1108/oir-07-2025-0550",
-    "abstract": "Purpose As generative AI technologies increasingly mediate user interactions and services, trust in these systems has become a key determinant of user engagement and data-sharing behavior. This study investigates trust formation mechanisms driving users’ willingness to disclose personal information to generative AI, identifying key trustworthiness dimensions and examining their impact on perceived trust and disclosure intention. Design/methodology/approach Two empirical studies were conducted. Study 1 employed exploratory and confirmatory factor analyses (N = 557) to develop a multidimensional trustworthiness scale, while Study 2 applied structural equation modeling (N = 251) to assess how these factors affect trust in AI and subsequent disclosure intention. Findings Six trustworthiness factors were identified under competence (intelligence, company reputation and technical security) and warmth (psychological security, responsibility and comfort) dimensions. Psychological security, responsibility and technical security significantly predicted users’ trust in generative AI, which strongly influenced intention to disclose personal information. Originality/value By focusing on the multidimensional nature of AI trustworthiness, this study identifies key antecedents and psychological mechanisms underlying users’ trust in generative AI and disclosure behavior. It contributes to the literature by developing and validating a reliable scale for measuring the trustworthiness of generative AI systems. The findings highlight that trust is shaped not only by technical factors such as technical security but also by perceived moral dimensions, including psychological security and responsibility, offering practical implications for designing AI systems that are both functionally robust and ethically reassuring. Peer review The peer review history for this article is available at: https://publons.com/publon/10.1108/OIR-07-2025-0550",
+    "date": "2026-06-09",
+    "doi": "10.1108/lodj-07-2025-0641",
+    "url": "https://doi.org/10.1108/lodj-07-2025-0641",
+    "abstract": "Purpose This study aims to investigate the state of the art regarding the relationships among transformational leadership (TL), integrated marketing communication (IMC), innovation performance (IP) and organizational performance (OP). Design/methodology/approach A systematic literature review (SLR) was conducted, covering 48 articles published between 2018 and 2023. The search was performed in three major international databases. The review mapped and analyzed the interrelationships among TL, IMC, IP and OP, highlighting theoretical gaps and directions for future research. Findings The results indicate that TL positively influences IP and OP, while IMC shows a positive association with both performance dimensions. Moreover, the findings suggest that IMC may operate as a mediating or moderating mechanism through which transformational leadership translates into innovation and organizational performance. Research limitations/implications This review is limited by its time frame (2018–2023) and the exclusive use of three international databases, which may have excluded relevant regional studies. Future research should expand the scope, incorporate more recent publications and empirically test the proposed conceptual framework. Practical implications The study offers actionable insights for managers by showing how aligning transformational leadership with integrated marketing communication practices can enhance strategic alignment, strengthen organizational culture, support innovation processes and improve organizational performance. Social implications By emphasizing leadership and communication practices that foster innovation and organizational resilience, this study contributes to discussions on sustainable economic growth and decent work, aligning with the United Nations Sustainable Development Goals, particularly SDG 8 (Decent Work and Economic Growth) and SDG 9 (Industry, Innovation and Infrastructure). Originality/value This paper contributes to the leadership and organizational development literature by synthesizing fragmented evidence, identifying underexplored relationships, and proposing an integrative research agenda that connects leadership, communication, innovation performance, and organizational performance.",
     "authors": [
-      "Jungwon Kim",
-      "Jungyong Ahn",
-      "Yongjun Sung"
+      "Andresa Erminda Spiess Leal D'Avila",
+      "Linda Jessica De Montreuil Carmona"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "TriGuard-Net: A Blockchain-enabled Hybrid Encryption and Ensemble Deep Learning Framework for Secure and Intelligent IoT DDoS Detection and Mitigation",
-    "journal": "International Journal of Information Technology and Computer Science",
-    "year": "2026",
-    "date": "2026-06-08",
-    "doi": "10.5815/ijitcs.2026.03.06",
-    "url": "https://doi.org/10.5815/ijitcs.2026.03.06",
-    "abstract": "In the Internet of Things (IoT) environment, a Distributed Denial-of-Service (DDoS) attack in the network causes poor performance and resource-limited issues to users. Existing systems do not provide real-time adaptability, leading to delayed mitigation. Also, centralized storage systems suffer from breaches and tampering. To tackle these issues, a secure and intelligent IoT DDoS detection and mitigation framework is presented that utilizes hybrid encryption, blockchain storage, ensemble deep learning (DL), and reinforcement learning (RL) to improve the accuracy, security, and efficiency of IoT networks against several cyber-attacks. The developed technique collects data from a dataset and pre-processes it for handling missing values and normalizes it for further analysis. Secondly, a hybrid encryption method combining Homomorphic Encryption (HE) and ChaCha20 is adopted for data encryption with optimal key selection using Dingo Optimizer (DOX). Then, the encrypted data is securely stored in blockchain through off-chain storage and on-chain hash storage to ensure data integrity and tamper-proof security. DDoS attack detection is performed using an ensemble model called TriGuard-Net that combines AlexNet, LSTM, and PSPNet, with optimizing hyperparameters using Fire Hawks Optimizer (FHO). Finally, an RL-based mitigation system using Deep Q-Network (DQN) helps in real-time attack mitigation and enhances IoT security. Experimental results reveal that the presented model offers superior performance by achieving an accuracy of 99%, a kappa score of 98%, an R2 Score of 97%, an MCC of 98%, a Jaccard Score of 98%, and a Hamming Loss of 0.006, thereby outperforming other current models.",
-    "authors": [
-      "Dhanya M. Rajan",
-      "D. John Aravindhar"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "The role of dark personality traits in masstige fashion consumption: evidence from an emerging market",
-    "journal": "Asia-Pacific Journal of Business Administration",
-    "year": "2026",
-    "date": "2026-06-08",
-    "doi": "10.1108/apjba-01-2026-0016",
-    "url": "https://doi.org/10.1108/apjba-01-2026-0016",
-    "abstract": "Purpose This study investigates the psychological drivers of masstige fashion consumption by integrating masstige theory and trait activation theory (TAT). A moderated mediation model is proposed in which dark personality traits influence consumers’ purchase intentions for masstige brands. Specifically, masstige brand equity (MBE) is hypothesized to mediate this relationship, while perceived prevalence of masstige consumption (PPMC) moderates the indirect effect. Design/methodology/approach A cross-sectional quantitative survey was conducted using a convenience sample of 303 fashion brand consumers in India. The proposed moderated mediation model was tested using Partial Least Squares Structural Equation Modeling Findings The results indicate that MBE mediates the relationship between dark personality traits and purchase intentions. Furthermore, PPMC significantly moderates the indirect effect only in the case of psychopathy by conditioning its influence on purchase intention through MBE and not in the case of narcissism and Machiavellianism. Research limitations/implications The study highlights the role of psychological drivers and dark personality traits in shaping masstige fashion brand evaluations and purchase intentions. The findings suggest that marketers in emerging markets should adopt tailored positioning and communication strategies aligned with consumers’ status-related and self-expressive motivations to enhance favorable brand evaluations and purchase intentions. Originality/value Although dark personality traits have been examined in luxury and counterfeit consumption contexts, limited research has explored their role in masstige fashion consumption. By integrating masstige theory with TAT, this study offers a nuanced understanding of how dark traits influence purchase intentions through MBE in an emerging market setting.",
-    "authors": [
-      "Infas Malik",
-      "Hem Chand Jain",
-      "Hamendra Kumar Dangi",
-      "Yogieta S. Mehra"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "The impact of the legal and cultural environment on whistleblowing in Russia",
-    "journal": "SAM Advanced Management Journal",
-    "year": "2026",
-    "date": "2026-06-08",
-    "doi": "10.1108/samamj-09-2025-0052",
-    "url": "https://doi.org/10.1108/samamj-09-2025-0052",
-    "abstract": "Purpose Whistleblower protection is an effective tool for combating fraud, mismanagement and corruption within organizations. It also promotes transparency and accountability in the private and public sectors. This study aims to examine the legal environment, cultural factors and their impact on the propensity to whistleblow in Russia. The analysis is based on a survey of Russian managers from various economic sectors and students pursuing an MBA. Design/methodology/approach Descriptive statistics, t-tests, ANOVA and Cronbach’s alpha were used to analyze the data. Findings The findings revealed that personal relationships (blat) significantly influence work relationships and the likelihood of whistleblowing. In contrast, monetary rewards had no impact on whistleblowing in Russia. The findings showed that older respondents were less favorable toward whistleblowing than younger respondents. The results of this study will assist policymakers, managers, accountants and other professionals conducting business in Russia. This paper provides new insights into whistleblowing in Russia. It explores how national culture, traditions and personal relationships influence Russian working adults’ propensity to whistleblow. Research limitations/implications A limitation of this study is the relatively small number of respondents who participated in the questionnaire with certified public accountants (CPA). Future research should expand the sample size and include a greater proportion of CPAs, as their perspectives are essential for enhancing the reliability, validity and applicability of the findings to the accounting profession. Practical implications This study provides new insights into whistleblowing in Russia, particularly how national culture, traditions and personal relationships influence Russians’ propensity to whistleblow. The findings will assist auditors and managers in assessing risks, strengthening internal controls and maintaining ethical standards in Russia. Social implications In addition, these results will enable American auditors and accountants to better anticipate and predict whistleblowing activities in the Russian market. Originality/value This study found that whistleblowing legislation in Russia is largely fragmented: whistleblowing does not function properly in practice, and Russians have a cultural aversion to whistleblowing.",
-    "authors": [
-      "Dina Clark",
-      "Natalia Ermasova",
-      "Victoria Geyfman"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Psychology",
-    "title": "The evolution trends and heterogeneities of ESG level at the provincial China",
-    "journal": "Humanities and Social Sciences Communications",
+    "title": "Switchable annulation paths to diverse N-bridged bicyclic scaffolds via ligand-directed dicarbonylation",
+    "journal": "Nature Communications",
     "year": "2026",
-    "date": "2026-06-08",
-    "doi": "10.1057/s41599-026-07878-6",
-    "url": "https://doi.org/10.1057/s41599-026-07878-6",
+    "date": "2026-06-09",
+    "doi": "10.1038/s41467-026-74395-0",
+    "url": "https://doi.org/10.1038/s41467-026-74395-0",
     "abstract": "",
     "authors": [
-      "Jingyi Li",
-      "Xin Shan"
+      "Yu-Kun Liu",
+      "Peng Yang",
+      "Le-Cheng Wang",
+      "Zhi-Peng Bao"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "The Effectiveness of Using the SIMPADA Application in Restaurant Tax Management at UPTB 5 Bapenda Surabaya",
-    "journal": "International Journal of Economics, Management and Accounting",
-    "year": "2026",
-    "date": "2026-06-08",
-    "doi": "10.61132/ijema.v3i2.1231",
-    "url": "https://doi.org/10.61132/ijema.v3i2.1231",
-    "abstract": "This study examines digital tax administration at UPTB 5 Bapenda Surabaya, focusing on the SIMPADA application for restaurant tax management. The main problems identified include low taxpayer compliance due to high business operational intensity, digital divide barriers, banking transfer errors, and unrecorded business closures that cause overstated tax receivables. To evaluate these issues, this study proposes a qualitative descriptive method based on participatory observation, focusing on physical-to-digital data synchronization. The main findings indicate that utilizing distinct sequential numbering on billing documents effectively reduces data entry errors. Furthermore, integrating field photographs and physical archive sheets successfully mitigates overstated receivable risks. In terms of law enforcement, the system operates as an objective Decision Support System, utilizing a threshold of two ignored invitation letters to escalate non-compliance into an Official Memo (Nota Dinas). In conclusion, while SIMPADA effectively optimizes revenue monitoring and administrative enforcement, it requires automated reminder notifications and inclusive visual guides to bridge taxpayers' operational and technological barriers.",
-    "authors": [
-      "Hikmatul Hasanah",
-      "Sri Trisnaningsih"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20portrait%20silhouette%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "Revealing moisture migration characteristics of Camellia Oleifera shell in hot air drying through steam partial pressure, moisture binding energy, shrinkage",
-    "journal": "Food Production, Processing and Nutrition",
+    "title": "Lean 4.0 and value co-creation as drivers of sustainable quality in port management: an empirical study in Brazilian terminals",
+    "journal": "International Journal of Quality & Reliability Management",
     "year": "2026",
-    "date": "2026-06-08",
-    "doi": "10.1186/s43014-026-00388-7",
-    "url": "https://doi.org/10.1186/s43014-026-00388-7",
-    "abstract": "",
+    "date": "2026-06-09",
+    "doi": "10.1108/ijqrm-05-2025-0188",
+    "url": "https://doi.org/10.1108/ijqrm-05-2025-0188",
+    "abstract": "Purpose This study evaluates the empirical interrelationship among Lean 4.0, value co-creation among port stakeholders and sustainability in the port sector, focusing on Brazilian terminals. It aims to identify enablers guiding operational excellence and sustainable development in complex port environments. Design/methodology/approach A hybrid multi-criteria decision-making approach combining the best-worst method and additive decision algorithm was employed alongside partial least squares structural equation modelling analysis. Data were collected from 107 Brazilian ports and terminals to quantify relationships among Lean 4.0, value co-creation and sustainability. Findings The study highlights Internet of Things, artificial intelligence and automation technologies as key enablers of Lean 4.0 in ports. Results show that Lean 4.0 and value co-creation jointly explain 33.8% of sustainability variance. Collaboration among stakeholders enhances operational efficiency, waste reduction and environmental performance, supporting circular economy practices. Lean 4.0's full potential emerges when combined with co-creation strategies rather than applied in isolation. Research limitations/implications The study focuses on Brazilian port terminals, limiting generalisability. Future research should explore other regions and longitudinal impacts, as well as interactions with circular economy and supply chain resilience strategies. Originality/value This research extends resource orchestration theory by empirically showing how Lean 4.0 and value co-creation jointly enhance sustainability in the port sector. It provides a sector-specific contribution while offering practical insights for quality managers and policymakers seeking to promote more sustainable, resilient and competitive port operations.",
     "authors": [
-      "Tao Li",
-      "Junming Zhang",
-      "Xin Tang",
-      "Muhua Liu"
+      "Andrei Bonamigo",
+      "José Eugênio Monteiro de Camargo Filho",
+      "Rafael Tezza",
+      "Daniel Luiz de Mattos Nascimento"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Mental Health",
-    "title": "Prevalence of Gastroesophageal reflux disease in patients with Idiopathic pulmonary fibrosis: a systematic review and meta-analysis",
-    "journal": "BMC Pulmonary Medicine",
+    "field": "Management",
+    "title": "Co-developing evidence on climate justice: learning from a dilemma game on sustainability assessment",
+    "journal": "Journal of the British Academy",
     "year": "2026",
-    "date": "2026-06-08",
-    "doi": "10.1186/s12890-026-04401-0",
-    "url": "https://doi.org/10.1186/s12890-026-04401-0",
-    "abstract": "",
+    "date": "2026-06-09",
+    "doi": "10.5871/jba/014.a14",
+    "url": "https://doi.org/10.5871/jba/014.a14",
+    "abstract": "Climate justice recognises climate change as a global chain of cause and effect in which those most affected are often not those responsible for, or benefiting from, its drivers. Meaningful involvement of citizens and diverse stakeholders is therefore critical for assessing the socio-environmental impacts of development interventions that may impede justice, as well as identifying vulnerabilities. This article presents the development of a multi-stakeholder climate justice game based on dilemma-focused case studies, designed to build sustainability impact assessment skills within community settings. While emphasising the educational value of the game and its pilot application in postgraduate education, the paper also highlights persistent gaps in translating learning into policymaking and decision-making. It outlines key elements of game design, interdisciplinary collaboration, and approaches to assessing socio-ecological risks. By integrating the Sustainable Development Goals and adopting a value-pluralistic lens, the game broadens participation and evidence use, demonstrating its potential for democratic deliberation and advancing just transition debates. This article is published in the Thematic Collection ‘Participatory Engagement and Game Playing for Achieving Sustainable Net-Zero Transition’, edited by Jing Zhao, Eirini Gallou, and Ievgeniia Kopytsia.",
     "authors": [
-      "Minghao Li",
-      "Jiang Yang",
-      "Huiru Li",
-      "Minghang Wang"
+      "Eirini Gallou",
+      "Andrew Crerand"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
