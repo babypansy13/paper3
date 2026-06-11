@@ -1,154 +1,155 @@
 [
   {
-    "field": "Marketing",
-    "title": "Who governs sustainable fashion? Responsibility distribution and governance coherence in sustainable fashion literature: a systematic literature review",
-    "journal": "Journal of Fashion Marketing and Management: An International Journal",
+    "field": "Mental Health",
+    "title": "IVUS-Guided versus Angiography-Guided PCI in Unprotected Left Main Coronary Disease",
+    "journal": "New England Journal of Medicine",
     "year": "2026",
-    "date": "2026-06-10",
-    "doi": "10.1108/jfmm-02-2025-0095",
-    "url": "https://doi.org/10.1108/jfmm-02-2025-0095",
-    "abstract": "Purpose This article aims to examine how responsibility for sustainable fashion governance is distributed across corporate, societal and governmental actors within existing sustainable fashion research and what this distribution reveals about the structure and coherence of sustainable fashion governance frameworks. Design/methodology/approach Following Siddaway et al. (2019), the systematic review analyzed 92 studies selected through a transparent screening process, including 72 articles, 11 book chapters, 2 policy reports and 6 conference papers. Findings Findings show that sustainable fashion literature is predominantly shaped through market-centered and consumer-oriented governance perspectives. Corporate actors are positioned as primary sustainable fashion drivers, while societal actors are increasingly responsibilized within sustainable fashion transitions. In contrast, governmental involvement remains comparatively underdeveloped, with policy discussions centered on isolated regulatory instruments rather than integrated governance frameworks. These patterns reveal a broader coherence gap within sustainable fashion governance discussions, where sustainability transitions are frequently framed through voluntary market participation without equivalent attention to governance across the broader fashion ecosystem. Originality/value This review advances a governance-oriented interpretation of how sustainable fashion responsibility is distributed across corporate, societal and governmental actors within sustainable fashion scholarship. By combining descriptive and thematic analysis and drawing on a service-dominant logic perspective (Vargo and Lusch, 2016), the study demonstrates how dominant sustainable fashion discussions remain structured around fragmented and market-oriented governance approaches, contributing to broader coherence gaps in sustainable fashion governance. The review further outlines recommendations for more integrated governance-oriented research across sustainable fashion systems.",
+    "date": "2026-06-11",
+    "doi": "10.1056/nejmoa2600440",
+    "url": "https://doi.org/10.1056/nejmoa2600440",
+    "abstract": "",
     "authors": [
-      "Vina Mohammed",
-      "Nathalie Veg-Sala"
+      "Luca Testa",
+      "Jose Maria De la Torre Hernandez",
+      "Giovanni Luigi De Maria",
+      "Daniel A. Jones"
+    ],
+    "citations": 10,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Indicators of Global Climate Change 2025: annual update of key indicators of the state of the climate system and human influence",
+    "journal": "Earth System Science Data",
+    "year": "2026",
+    "date": "2026-06-11",
+    "doi": "10.5194/essd-18-3889-2026",
+    "url": "https://www.semanticscholar.org/paper/12730c7dacce5ee6bab2989a934c2ffc0933538a",
+    "abstract": "Abstract. In a rapidly changing climate, evidence-based decision-making benefits from up-to-date and timely information. We track twelve key sets of indicators of the state of the climate system, closely following Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment report (AR6) methods, to produce our fourth annual publication. One of the indicators, the Earth's energy imbalance (EEI) provides a crucial integrative measure of the overall heating of the planet and the pace of climate change – this has more than doubled since the 1976–1995 period. A newly added indicator of temperature extremes, the number of days experiencing marine heatwaves, has more than tripled between 1991 and 2025. For the 2016–2025 decade average, observed warming relative to 1850–1900 was 1.26 [1.13 to 1.36] °C, of which 1.24 [1.0 to 1.5] °C was human-induced. Human-induced warming reached 1.37 °C relative to 1850–1900 in the year 2025, increasing at a rate of 0.27 [0.2–0.4] °C per decade over 2016–2025. This high rate of warming, which matches the all-time high seen last year in the instrumental record, was caused by a combination of greenhouse gas emissions being at an all-time high of 54.6 ± 5.5 GtCO2e yr−1 over the last decade (2015–2024), as well as reductions in the strength of aerosol cooling. Despite this, there is evidence that CO2 emission growth is slowing. The continuation of these annual updates could track decreases or increases in the rate of human influence and climatic changes presented here, reflecting the outcomes of societal choices during the critical 2020s decade. The data presented herein can provide a useful reference point for the drafting of the IPCC seventh assessment report. In total, we employ analysis from over 40 global datasets (https://doi.org/10.5281/zenodo.20499280, Smith et al., 2026a). Future monitoring of these indicators, such as ocean and satellite measurements of the Earth's energy imbalance, are threatened by geopolitical and public funding decisions. Our ability to consistently track many of the indicators requires the continuity of observation programs and coordination mechanisms, including the Global Climate Observing System (GCOS) program, that enable their effective integration and use.",
+    "authors": [
+      "P. Forster",
+      "T. Walsh",
+      "Chris Smith",
+      "W. Lamb"
+    ],
+    "citations": 1,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "Who should introduce smart products in platform supply chains: manufacturer or platform?",
+    "journal": "Industrial Management & Data Systems",
+    "year": "2026",
+    "date": "2026-06-11",
+    "doi": "10.1108/imds-01-2026-0026",
+    "url": "https://doi.org/10.1108/imds-01-2026-0026",
+    "abstract": "Purpose Motivated by the observed real-world practices that either manufacturers or platforms are actively introducing smart products (SPs), this paper investigates a practically important question in platform-based supply chains: whether SPs should be introduced by manufacturers or by platforms? Design/methodology/approach We develop a Stackelberg game framework to investigate three potential strategies for introducing SPs (i.e. no SPs, SPs are introduced by the manufacturer and SPs are introduced by the platform) within a platform-based supply chain consisting of one manufacturer and one platform. The equilibrium decisions and profit outcomes under the three supply chain models are analytically derived and systematically compared. Findings Either the manufacturer or the platform may possess a cost advantage in introducing SPs. Regardless of the introducer, the platform always benefits from the introduction of SPs. In contrast, when SPs are introduced by the platform, the manufacturer may be worse off. As a result, a strategic conflict may arise, since both the manufacturer and the platform achieve higher profits when they introduce SPs themselves. Interestingly, we identify conditions under which the platform optimally acts as a free rider by allowing the manufacturer to introduce SPs, thereby eliminating the conflict. Originality/value Departing from the products innovation literature and traditional store-brand encroachment literature that focuses on manufacturers' traditional products (TPs) innovation or retailers/platforms' TPs encroachment, this study develops an analytical framework to compare alternative introduction strategies for SPs in platform supply chains. The analysis identifies the conditions under which manufacturers or platforms optimally introduce SPs, clarifies how consumer valuation would affect pricing decisions, demand allocation and welfare outcomes and provides managerial implications for firms operating in digitally enabled markets.",
+    "authors": [
+      "Fei Tang",
+      "Xinru Yang",
+      "Senlin Xie",
+      "Wei Chen"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "When mentoring works for women founders: an output function of accelerator mentoring",
+    "journal": "Development and Learning in Organizations: An International Journal",
+    "year": "2026",
+    "date": "2026-06-11",
+    "doi": "10.1108/dlo-01-2026-0010",
+    "url": "https://doi.org/10.1108/dlo-01-2026-0010",
+    "abstract": "Purpose Mentoring is the signature learning mechanism of accelerators, yet increasing mentoring volume does not reliably produce founder momentum. This paper resolves that dissociation by modeling mentoring as an organizational learning system that, in this sample, appeared most useful when it produced specific functional outputs, not on relational intensity alone. Design/methodology/approach Semi-structured interviews with 15 women founders in accelerator and innovation-center contexts were analyzed using inductive coding and cross-case comparison to construct a thematic map of how mentoring signals are interpreted and converted into action under uncertainty. Findings Effective mentoring produces three outputs: (i) navigation clarity (what to do next and who to call), (ii) credible access via sponsorship (introductions and advocacy that alter opportunity structure) and (iii) usable feedback that supports near-term experimentation while preserving founder confidence and action capacity. Two cross-cutting conditions constrained whether these outputs emerged: translation scaffolds that make guidance portable across context and identity-coded credibility dynamics, and boundary governance that protects legitimacy and psychological safety. When outputs were unreliable, founders did not simply disengage; they appeared to filter mentoring signals and tighten boundaries in ways that protected action capacity but slowed iteration and attenuated learning transfer. Practical implications Accelerators should manage mentoring as infrastructure: engineer early navigation sprints, specify sponsorship as a deliverable and track conversion, standardize feedback hygiene into short-cycle experiments, embed portability checks and enforce boundary rules with no-fault rematching to restore learning flow. Originality/value The study offers an output-specified mentoring architecture with preliminary indicators of where mentoring systems may break down, enabling accelerators to shift from counting encounters to designing routines that more consistently produce venture movement.",
+    "authors": [
+      "Ginger Koto Vaughn",
+      "Rob E. Carpenter"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "What keeps users coming back? The influence of experiential value on food delivery app continuous usage intention among Iraqi consumers",
+    "journal": "International Journal of Quality and Service Sciences",
+    "year": "2026",
+    "date": "2026-06-11",
+    "doi": "10.1108/ijqss-11-2025-0331",
+    "url": "https://doi.org/10.1108/ijqss-11-2025-0331",
+    "abstract": "Purpose Guided by the stimulus–organism–response theory, this study aims to examine the factors affecting consumers’ continuous usage intention of food delivery apps (FDAs) among Iraqi consumers. Particularly, it examines how experiential value dimensions, namely, efficiency, service excellence, visual appeal and gamification affect perceived value, which in turn predicts continuous usage intention. In addition, promotion is examined as a moderator on the link between perceived value and the continuous usage intention. Design/methodology/approach Data were collected via an online questionnaire survey using a judgmental sampling approach, resulting in 302 valid responses from individuals with experience using FDAs. Partial least squares structural equation modeling technique was used to test the proposed framework. Findings The findings reveal that the experiential value dimensions significantly enhance perceived value, which eventually leads to continuous usage intention. Data also supported the mediating effect of perceived value between efficiency, service excellence and gamification on continuance intention, except for visual appeal. However, the moderating effect of promotion on the perceived value–continuous usage intention relationship was not supported. Practical implications FDA providers should strategically invest in enhancing experiential value rather than relying solely on basic functionality. Emphasis should be given to building service excellence to strengthen long-term user ties. Furthermore, integrating gamification, enhancing efficiency and focusing on visual appeal should be treated as baseline requirements to enhance customers’ perceived value, leading to continuous usage of the FDA. The findings suggest that promotions used in isolation do not meaningfully deepen the link between perceived value and continued use. As such, FDA providers may consider integrating promotions with experience-based features (e.g. gamified discounts or rewards tied to app behaviors) to support long-term retention. Originality/value This study provides a newer perspective by highlighting experiential values as the key antecedents of perceived value in the context of FDAs. Unlike previous work that primarily focused on technical or functional aspects, this research emphasizes emotional and aesthetic aspects, namely, efficiency, service excellence, visual appeal and gamification. The findings contribute to the evolving understanding of how experiential elements influence digital service usage.",
+    "authors": [
+      "Mustafa Nimah Younis Agha",
+      "Farzana Quoquab",
+      "Jihad Mohammad"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "Unveiling the drivers of remote employees’ intentions to use home as a service consumption hub: a configurational approach",
+    "journal": "Journal of Services Marketing",
+    "year": "2026",
+    "date": "2026-06-11",
+    "doi": "10.1108/jsm-11-2025-0862",
+    "url": "https://doi.org/10.1108/jsm-11-2025-0862",
+    "abstract": "Purpose The purpose of this study is to investigate the factors influencing consumers’ attitudes and intentions toward in-home service consumption in the context of post-pandemic remote work. Drawing on the Push–Pull–Mooring framework, the authors bridge the services marketing literature with human resource and organizational behavior perspectives by adopting a configurational approach. Design/methodology/approach A survey of 245 UK-based remote workers was conducted. Data were analyzed using fuzzy-set qualitative comparative analysis to identify multiple equifinal configurations of work-from-home psychological effects, individual motivations and home quality perceptions that drive in-home service consumption. Findings Multiple alternative sufficient configurations reveal distinct combinations of hedonic, functional and convenience motivations, home quality, boundary control and psychological work-related factors, underscoring configurational trade-offs and substitution effects in shaping consumer attitudes and intention behavior. The findings of this study confirm complex interactions that extend beyond conventional linear, net-effects models. Practical implications This study highlights the growing importance of home as a consumption hub amid increased remote work. This paper offers insights for service providers to segment remote workers and tailor their service design, communications and offerings accordingly. Policymakers and marketers can better support well-being and sustainable consumption by addressing boundary management and loneliness. Originality/value This research extends the Push–Pull–Mooring framework to a residential, non-commercial consumption setting and integrates the psychological consequences of remote work with in-home service consumption using fuzzy-set qualitative comparative analysis’ configurational approach.",
+    "authors": [
+      "Rodoula H. Tsiotsou",
+      "Avraam Papastathopoulos",
+      "Achilleas Boukis"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Family Studies",
-    "title": "Voluntary environmental governance and firm performance: the role of the green factory construction policy in China",
-    "journal": "Environment, Development and Sustainability",
-    "year": "2026",
-    "date": "2026-06-10",
-    "doi": "10.1007/s10668-026-07840-1",
-    "url": "https://doi.org/10.1007/s10668-026-07840-1",
-    "abstract": "",
-    "authors": [
-      "Wenhui Luo",
-      "Zhixiong Xu",
-      "Gennian Tang"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "Tree Inventory using Near-Field Communication (NFC) Tag",
-    "journal": "International Journal of Innovative Computing",
-    "year": "2026",
-    "date": "2026-06-10",
-    "doi": "10.11113/ijic.v16n1.588",
-    "url": "https://doi.org/10.11113/ijic.v16n1.588",
-    "abstract": "Urban green spaces play a vital role in community well-being; however, effectively maintaining and managing these spaces, particularly in terms of individual tree health, can be challenging. Conversely, Geographic Information Systems (GIS) technology offers a promising solution. This study aims to develop a web-based GIS system for tree park maintenance. The research problem stems from risks such as tree death, overgrowth, nutrient deficiencies, and pest infestations, which resulted from inadequate maintenance and monitoring practices, the current manual monitoring methods, and the lack of a dedicated maintenance system. The research objectives encompass reviewing existing approaches, developing a web-based GIS with Near Field Communication (NFC) technology, and conducting testing. The methodology involves the development of a web-based tree inventory system and its integration with the Web NFC API, following the System Development Life Cycle (SDLC). The output is a process flow for updating on-site tree inventory using the NFC tag feature through a web-based GIS application, which enables users to submit real-time maintenance activities and allows administrators to view the data. The benefits include enhanced durability and reliability in the field, as the use of NFC tags, compared to traditional QR codes, offers better resistance to weather conditions. This leads to more consistent data retrieval, improved monitoring and management, and informed decision-making for future maintenance, ultimately contributing to healthier and safer urban green spaces.",
-    "authors": [
-      "Awang Muhammed Nasyaruddin Rashid",
-      "Mohamad Hafis Izran Ishak",
-      "Nurul Hawani Idris"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "The role of self-control and chronotype in predicting bedtime procrastination セルフコントロールおよびクロノタイプと就寝時刻の先延ばしの関連",
-    "journal": "Journal of Health Psychology Research",
-    "year": "2026",
-    "date": "2026-06-10",
-    "doi": "10.11560/jhpr.24031160",
-    "url": "https://doi.org/10.11560/jhpr.24031160",
-    "abstract": "",
-    "authors": [
-      "Shion Miyagawa",
-      "Shunta Maeda"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "The role of AXIN2 gene variant in hypodontia: a case-control study",
-    "journal": "Egyptian Journal of Medical Human Genetics",
-    "year": "2026",
-    "date": "2026-06-10",
-    "doi": "10.1186/s43042-026-00889-7",
-    "url": "https://doi.org/10.1186/s43042-026-00889-7",
-    "abstract": "Abstract Background Hypodontia, the congenital absence of one or more teeth, is influenced by genetic factors, including variations in the Axis inhibition protein 2 ( AXIN2 ) gene. The rs7224837 A/G in AXIN2 has been implicated in tooth development, but its precise role remains unclear. This study aimed to investigate the association between rs7224837 A/G and hypodontia in a case-control design. Methods and Materials A total of 96 participants (41 hypodontia cases and 55 healthy controls) were genotyped for rs7224837 A/G using the polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) method. Allelic and genotypic frequencies were compared between groups using chi-square tests. Results Multivariable analysis with Bonferroni correction ( P < 0.01) revealed that the G allele of AXIN2 rs7224837 was significantly associated with reduced risk of hypodontia under allelic (OR = 0.25; 95% CI: 0.11–0.58; P = 0.001) and dominant models (OR = 0.25; 95% CI: 0.08–0.59; P = 0.008), suggesting a protective role for this variant. Conclusion This study demonstrates that the G allele of rs7224837 A/G may play a protective role against hypodontia, supporting the involvement of genetic variations in tooth agenesis.",
-    "authors": [
-      "Bahram Qalandarzehi",
-      "Alireza Arabshahi",
-      "Pegah Tehrani",
-      "Yegane Piroozan"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "The mediating role of job performance and satisfaction in the effect of digital leadership on heavy workload among healthcare workers",
-    "journal": "Journal of Health Organization and Management",
-    "year": "2026",
-    "date": "2026-06-10",
-    "doi": "10.1108/jhom-06-2025-0301",
-    "url": "https://doi.org/10.1108/jhom-06-2025-0301",
-    "abstract": "Purpose This study aims to investigate the mediating roles of job performance and job satisfaction in the effect of digital leadership on heavy workloads among healthcare workers. By focusing on the phenomenon of leadership in digital transformation in healthcare and its multi-level effects on employees, the research aims to make a unique contribution to the organizational behaviour and leadership literature. Design/methodology/approach The theoretical framework was developed using the Resource-Based View (RBV) and Job Demands-Resources (JD-R) theories. The structural model was tested using data obtained from 386 employees working in the healthcare sector in Turkey through the Smart-PLS application. Findings The study reveals that digital leadership has significant and positive effects on both job performance and job satisfaction. In addition, the study's findings indicate that digital leadership hurts heavy workloads, and this effect is indirectly mediated through job satisfaction. In addition to these findings, no significant effect of the job performance variable on heavy workload was found, thus not supporting the mediating role of this variable. Originality/value The study reveals that digital leadership can transform employees' workload perceptions not only through direct effect mechanisms but also through variables related to psychological well-being. This provides a comprehensive perspective in terms of contributing to the literature on digital leadership and heavy workloads.",
-    "authors": [
-      "Murat Sağbaş",
-      "Onur Oktaysoy",
-      "Ethem Topcuoglu"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "The gender (dis)advantage: assessing the impact of gender diversity on the efficiency of microfinance institutions in Africa",
-    "journal": "Corporate Governance: The International Journal of Business in Society",
-    "year": "2026",
-    "date": "2026-06-10",
-    "doi": "10.1108/cg-02-2025-0122",
-    "url": "https://doi.org/10.1108/cg-02-2025-0122",
-    "abstract": "Purpose This study aims to investigate the impact of gender diversity on the efficiency of microfinance institutions (MFIs) in Africa through the lens of social identity theory and Tokenism theory. The analysis focuses on gender diversity at three organizational levels: the board, management and loan officer levels. Design/methodology/approach The study uses a panel data set of 70 African MFIs covering the period from 2010 to 2018. In the first stage, data envelopment analysis is used to estimate efficiency scores. In the second stage, several regression techniques, including Truncated, Tobit and Logit models, are applied to examine the impact of gender diversity alongside other control variables. In addition, a two-step system generalized method of moments estimator is used to address potential endogeneity concerns. Findings The results indicate that greater gender diversity on corporate boards is associated with lower levels of financial, social and overall efficiency. Similarly, a higher proportion of female loan officers is negatively associated with financial and overall efficiency. In contrast, the presence of female managers is positively related to social efficiency. These findings underscore the complex and heterogeneous effects of gender diversity across different organizational levels on the multiple dimensions of MFIs’ efficiency. Originality/value To the best of the authors’ knowledge, this study is among the first to investigate the relationship between gender diversity and efficiency in African MFIs across all five regions – North, West, Central, Southern and East Africa. It contributes to a deeper understanding of the multifaceted interaction between gender diversity and MFI efficiency in the African context.",
-    "authors": [
-      "Mohamed El Gout",
-      "Abdallah Sadik",
-      "Md Aslam Mia"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Suicide by an improvised firearm, firecracker powder and a homemade, lathe-turned projectile: a case report",
-    "journal": "Sri Lanka Journal of Forensic Medicine, Science & Law",
-    "year": "2026",
-    "date": "2026-06-10",
-    "doi": "10.4038/sljfmsl.v17i5.8092",
-    "url": "https://doi.org/10.4038/sljfmsl.v17i5.8092",
-    "abstract": "Introduction: In Sri Lanka, most suicides are by hanging or poisoning, with firearm-related deaths being rare due to the regulation of the ownership through the “Firearm Ordinance”. Yet, improvised weapons may occasionally be used by individuals with technical skills who attempt to replicate firearm mechanisms. Black powder, easily obtained from firecrackers, once confined inside a metal tube, produces enough pressure to drive a projectile with surprising force. This case report describes an improvised firearm, propellant, and projectile used in a suicidal shooting and underlines the value of recognizing non-conventional gunshot injuries in forensic work.Case Presentation: A middle-aged man was found dead in his lathe workshop, lying on the back. He had a large wound on the right side of his head and a smaller wound on the left. A set of steel tubes clamped into a vice, a loose metallic projectile nearby, and a cigarette lighter in his hand suggested that he had constructed and used a homemade gun. The workshop also contained several handmade bullets and steel sheets marked by projectile impacts, indicating repeated experimentation. At autopsy, the right-sided wound showed blackening and burning typical of a contact discharge, while the left side showed a smaller exit wound. The skull was shattered with inward beveling at the entry and outward beveling at the exit, and the brain was extensively damaged. Calculations showed that about 72 g of black powder could generate roughly 216 kJ of energy, enough to propel a small projectile at speeds comparable to modern firearms. Death was certified as cranio-cerebral injuries caused by a metallic projectile traveling through the head.Conclusion: This case demonstrates that even firecracker powder, when confined, can act as a lethal propellant. The resulting wounds were indistinguishable from those caused by regular firearms. Forensic specialists should therefore consider the possibility of improvised weapons, especially in places where conventional firearms are scarce but pyrotechnic material is readily accessible.",
-    "authors": [
-      "C. D. Karunatilake",
-      "A. M. A. T. R. K. Alagiyawanna",
-      "C. K. Rajaguru"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Urban Studies",
-    "title": "Study on Vacant House Utilization for Promoting Residential Living in Important Preservation Districts for Groups of Traditional Buildings 重要伝統的建造物群保存地区における居住推進に向けた空き家活用に関する研究",
-    "journal": "Reports of the City Planning Institute of Japan",
+    "title": "Türkiye’de Oyun Temelli Öğretim Üzerine Yapılmış Lisansüstü Tezlerin İncelenmesi",
+    "journal": "Turkish Journal of Educational Studies",
     "year": "2026",
-    "date": "2026-06-10",
-    "doi": "10.11361/reportscpij.25.1_198",
-    "url": "https://doi.org/10.11361/reportscpij.25.1_198",
-    "abstract": "",
+    "date": "2026-06-11",
+    "doi": "10.33907/turkjes.1813908",
+    "url": "https://doi.org/10.33907/turkjes.1813908",
+    "abstract": "ÖzBu araştırmanın amacı, Türkiye’de oyun temelli öğretim üzerine yapılmış lisansüstü tezleri inceleyerek alandaki eğilimleri ortaya koymaktır. Çalışma kapsamında, Yükseköğretim Kurulu Ulusal Tez Merkezi’nde 2006–2025 yılları arasında yayımlanan 96 tez doküman analizi yöntemiyle değerlendirilmiştir. Veriler betimsel analiz tekniğiyle; tez türü, yıl, araştırma yöntemi, çalışma grubu ve incelenen değişkenler açısından analiz edilmiştir. Bulgular, tezlerin çoğunluğunun yüksek lisans düzeyinde yürütüldüğünü ve 2016 sonrası dönemde konuya yönelik akademik ilginin belirgin şekilde arttığını göstermektedir. Araştırmalarda en fazla nicel yöntemlerin tercih edildiği, karma yöntemlerin de önemli bir paya sahip olduğu; buna karşın nitel çalışmaların sınırlı kaldığı görülmüştür. Çalışmaların büyük ölçüde ilkokul ve ortaokul kademelerine odaklandığı, doktora tezlerinde ise okul öncesi dönemin ağırlık kazandığı belirlenmiştir. İncelenen tezlerde en sık ele alınan temalar “akademik başarı”, “beceri gelişimi” ve “öğrenme” olurken, motivasyon ve tasarım odaklı çalışmaların daha az yer aldığı tespit edilmiştir. Elde edilen sonuçlar, oyun temelli öğretimin eğitim alanında yaygın bir araştırma konusu olduğunu ortaya koymaktadır.Anahtar Kelimeler: Oyun temelli öğretim, akademik eğilimler, lisansüstü tezler, doküman analizi",
     "authors": [
-      "Kanako Nawa",
-      "Hayato Yoshida",
-      "Yuka Okai"
+      "Sinan Orhan"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "The relationship between social media use, quality of life, and clinical symptoms in schizophrenia: a cross-sectional study",
+    "journal": "BMC Psychology",
+    "year": "2026",
+    "date": "2026-06-11",
+    "doi": "10.1186/s40359-026-04973-w",
+    "url": "https://doi.org/10.1186/s40359-026-04973-w",
+    "abstract": "",
+    "authors": [
+      "Tulay Sati Kirkan",
+      "Ece Buyuksandalyaci Tunc",
+      "Gamze Demiray"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Does insecurity influence the financial inclusion-economic growth nexus in Africa? Insight from dynamic panel approach",
+    "journal": "Journal of Economic and Administrative Sciences",
+    "year": "2026",
+    "date": "2026-06-11",
+    "doi": "10.1108/jeas-09-2025-0638",
+    "url": "https://doi.org/10.1108/jeas-09-2025-0638",
+    "abstract": "Purpose Despite notable progress in promoting financial inclusion (FI) to drive economic growth (EG), Africa still lags behind other regions due to structural challenges, including inadequate infrastructure, regulatory barriers and low financial literacy, amongst others. More importantly, rising insecurity (INS) in the form of conflicts, terrorism, kidnapping, communal violence, etc., poses significant threats to the effectiveness of FI in fostering EG via disruption of financial systems, displacement of people, destruction of infrastructure and erosion of investor confidence. This study explores the influence of INS on the FI-EG nexus, particularly in Africa. Design/methodology/approach To assess the role of INS on the FI-EG nexus, this research employs the system-Generalized Method of Moments to analyse panel data for 39 African economies, further grouped into Lower Middle Income and Lower Income countries, during the 2004–2023 period. In addition, the study adopts the Principal Component Analysis (i.e. PCA) to construct the FI index. Findings The results portray that FI impacts EG positively (0.088/0.066), while rising INS erodes the growth-benefits of FI (−0.150/−0.184) in Africa in the full sample. This empirical evidence is consistent across different income groups. Moreover, agricultural output expansion promotes EG, but excess money supply impacts EG adversely. Research limitations/implications The study unravels the significance of ensuring greater security to reap the growth-benefits of FI in Africa. Originality/value The research is the first to explore the role of INS (proxied by military expenditure) on the FI-EG nexus in Africa.",
+    "authors": [
+      "Musa Abdullahi Sakanko",
+      "Nurudeen Abu",
+      "Nazatul Faizah Haron"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
