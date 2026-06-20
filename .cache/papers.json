@@ -1,153 +1,151 @@
 [
   {
-    "field": "Consumer Research",
-    "title": "uPAR/suPAR Signaling and Organ Crosstalk in Cardiovascular-Kidney-Metabolic Syndrome",
-    "journal": "Circulation Research",
+    "field": "Family Studies",
+    "title": "Relationship between Participation in Health Checkups and the Prevalence of Dyslipidemia among Korean Adults Aged 60 Years and Older",
+    "journal": "Korean Journal of Family Practice",
     "year": "2026",
-    "date": "2026-06-19",
-    "doi": "10.1161/circresaha.126.328563",
-    "url": "https://doi.org/10.1161/circresaha.126.328563",
-    "abstract": "Cardiovascular-kidney-metabolic syndrome is driven by inflammatory mechanisms that propagate injury across organ boundaries, yet the molecular mediators converting systemic inflammation into end-organ damage remain incompletely defined. Across multiple prospective cohorts, suPAR (soluble urokinase plasminogen activator receptor) is associated with incident cardiovascular events, heart failure, diabetes, and kidney disease progression, and genetic and experimental studies support a causal role. How a glycosylphosphatidylinositol-anchored receptor without a transmembrane domain initiates intracellular signaling has remained a fundamental paradox. A membrane-tethered receptor, uPAR, addresses this paradox by assembling lateral signalosomes with coreceptors including αvβ3 integrin, the receptor for advanced glycation end-products, and receptor tyrosine kinases on myeloid, endothelial, and vascular smooth muscle cells, transducing signals that drive atherosclerotic plaque inflammation, vascular remodeling, and maladaptive fibrosis. Proteolytic and lipolytic cleavage of uPAR releases suPAR and its fragments into the circulation; a cleavage/release switch that converts locally scaffolded signaling into diffuse systemic agonist activity and links inflammation in 1 tissue to injury in distant organs. SuPAR activates podocyte αvβ3 integrin and receptor for advanced glycation end-products, now identified as an obligate coreceptor, triggering a Rac1/NOX2–Src–TRPC6 (transient receptor potential canonical channel 6) cascade that produces proteinuria and glomerulosclerosis. The D2D3 cleavage fragment drives insulin-dependent diabetes in transgenic mice through direct β-cell toxicity, an effect reversed by anti-uPAR antibody. This framework reframes the uPAR/suPAR axis not as a single biomarker but as a compartmentalized signaling system operating in distinct modes across cardiovascular-kidney-metabolic-relevant cell types. We map pharmacologically tractable intervention nodes spanning transcriptional suppression, suPAR neutralization, receptor interface disruption, and downstream kinase and channel inhibition, and propose that matching therapeutic strategy to the predominant signaling mode may enable disease-context-dependent precision approaches to cardiovascular-kidney-metabolic syndrome.",
+    "date": "2026-06-20",
+    "doi": "10.21215/kjfp.2026.16.2.127",
+    "url": "https://doi.org/10.21215/kjfp.2026.16.2.127",
+    "abstract": "",
     "authors": [
-      "Salim S. Hayek",
-      "Stuart E. Dryer"
+      "Hyeong Seok Lim",
+      "Sang Hyun Cho"
+    ],
+    "citations": 1,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "مقام الصبر عند الصوفية",
+    "journal": "Arabian Gulf Journal of Humanities and Social Studies",
+    "year": "2026",
+    "date": "2026-06-20",
+    "doi": "10.64355/agjhss51532",
+    "url": "https://doi.org/10.64355/agjhss51532",
+    "abstract": "",
+    "authors": [
+      "شيبان ذياب علي"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Vertebral infection after kyphoplasty: distinguishing misdiagnosis from true postoperative infection and implications for management",
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "year": "2026",
+    "date": "2026-06-20",
+    "doi": "10.1186/s13018-026-07043-4",
+    "url": "https://doi.org/10.1186/s13018-026-07043-4",
+    "abstract": "",
+    "authors": [
+      "Bang-lin Xie",
+      "Jiang-yuan Xiong",
+      "Qi-hua Qi",
+      "Run-sheng Guo"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Unsupervised Differentiation of Hop Cultivars Using Atmospheric Pressure Laser Plasma Ionization Mass Spectrometry",
+    "journal": "Food Analytical Methods",
+    "year": "2026",
+    "date": "2026-06-20",
+    "doi": "10.1007/s12161-026-03175-9",
+    "url": "https://doi.org/10.1007/s12161-026-03175-9",
+    "abstract": "",
+    "authors": [
+      "K. Yu. Kravets",
+      "A. A. Grechnikov",
+      "O. A. Frolov"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "The Impact of an AI-Enhanced Teaching Model on Cultivating Clinical Reasoning in Ultrasound Diagnosis among Medical Students",
+    "journal": "Medical Science Educator",
+    "year": "2026",
+    "date": "2026-06-20",
+    "doi": "10.1007/s40670-026-02781-w",
+    "url": "https://doi.org/10.1007/s40670-026-02781-w",
+    "abstract": "",
+    "authors": [
+      "Pu Shiyi",
+      "Tian Ruimeng",
+      "Zhang Hongjiang",
+      "He Hongyun"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Public Policy",
-    "title": "Zetetic and epistemic deference in standpoint epistemology",
-    "journal": "Philosophical Studies",
+    "title": "The Impact of Mobile-Assisted Language Learning on EFL Students' Presentation Skills",
+    "journal": "Pedagogy Review",
     "year": "2026",
-    "date": "2026-06-19",
-    "doi": "10.1007/s11098-026-02559-1",
-    "url": "https://doi.org/10.1007/s11098-026-02559-1",
-    "abstract": "Abstract The Advantage Thesis is the centerpiece of standpoint epistemology. According to this thesis, standpoint occupants—those who bear a particular sort of epistemically fruitful relationship to marginalized social locations—have an epistemic advantage over those who do not, at least when it comes to questions concerning those social locations. Given this thesis, a question immediately arises: How should non-occupants respond? A common answer is epistemic deference. Non-occupants ought to defer to standpoint occupants when inquiring on relevant matters. Recently, however, the idea that standpoint epistemology calls for deference has been challenged. Opponents argue that epistemic deference is incurious, cowardly, or potentially harmful. But these worries are misplaced. They rest on three missteps: (1) conflating social and epistemic deference, (2) conflating settling p with settling why p , and (3) presupposing a maximalist conception of epistemic deference. Maximalism, however, falls short as a general account of epistemic deference, independent of the concerns of standpoint epistemology. Drawing on alternative accounts of deference in the literature, I show that epistemic deference is not inimical, but rather essential to the practices of inquiry that standpoint epistemologists recommend. After introducing and defending the term \"zetetic deference\" for the central feature of these practices, I show that epistemic deference is an essential component of them. In sum, epistemic deference is part, parcel, and prerequisite of the particular sort of courageous, inclusive inquiry standpoint theorists envision.",
+    "date": "2026-06-20",
+    "doi": "10.61436/pedrev/v5i1.pp136-146",
+    "url": "https://doi.org/10.61436/pedrev/v5i1.pp136-146",
+    "abstract": "Mobile-Assisted Language Learning (MALL) has emerged as a transformative catalyst in facilitating English as a Foreign Language instruction, particularly in enhancing speaking competencies. The primary objective of this study was to investigate the impact of MALL on EFL students’ presentation skills, focusing on how mobile technologies foster student-centered learning environments. By exploring the intersection of digital tools and pedagogical frameworks, the research sought to identify how mobile applications facilitate the development of complex speaking tasks. To achieve this, the study employed a mixed-method research design, integrating both quantitative and qualitative data to provide a comprehensive analysis of the phenomenon. The quantitative phase involved thirty-eight students from Universitas Negeri Yogyakarta, focusing on their use of various MALL applications to prepare for presentations. Data were analyzed using descriptive statistics to identify trends in proficiency gains. Simultaneously, the qualitative phase utilized semi-structured interviews and descriptive techniques to capture nuanced student experiences and perceptions. The findings of this study indicate that the integration of MALL substantially improves several key dimensions of oral proficiency, including pronunciation, vocabulary acquisition, and grammatical accuracy. Furthermore, mobile tools were found to be instrumental in helping students structure their presentation content and significantly bolster their self-confidence. The results suggest that the core drivers of these improvements are the opportunities for repeated, self-directed practice and the availability of immediate feedback provided by mobile platforms. Consequently, learners exhibited heightened motivation and a stronger willingness to engage in challenging speaking activities. In conclusion, this research emphasizes that when MALL is thoughtfully implemented with appropriate pedagogical scaffolding, it can significantly strengthen EFL students’ presentation skills and overall speaking fluency. The study suggests that educators should move beyond mere technology adoption, focusing instead on integrating MALL as a strategic component of communicative language teaching to foster autonomous, confident language learners. Keywords: EFL learner, MALL, presentation skill, speaking skill",
     "authors": [
-      "Catharine Saint-Croix"
+      "Riska Awaliyah",
+      "Ashadi Ashadi"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Mental Health",
-    "title": "VariantMedium: sensitive and generalizable somatic point mutation calling with 3D DenseNets trained and evaluated on experimental data",
-    "journal": "Genome Medicine",
+    "title": "Subareolar breast abscess in males",
+    "journal": "World Journal of Methodology",
     "year": "2026",
-    "date": "2026-06-19",
-    "doi": "10.1186/s13073-026-01675-1",
-    "url": "https://doi.org/10.1186/s13073-026-01675-1",
-    "abstract": "Abstract Background Accurately identifying somatic variants from genomic sequencing is crucial for understanding and treating cancer. Previously, methods based on statistics and heuristics, as well as methods based on machine learning were proposed for somatic single nucleotide variant (SNV) calling from matched tumor-normal data, but they suffer from low sensitivity especially in certain genomic regions. Methods Here we present VariantMedium, a somatic variant caller that combines a tree-based classifier with a 3D densely connected convolutional network (DenseNet) architecture. We trained and evaluated our model on experimentally confirmed variant data and improved it with an active learning strategy by experimentally confirming the predicted variants via targeted deep sequencing experiments. Overall, we used 336,839 variants from 2,956 samples with whole exome or genome sequencing for training and validation, and 118,887 variants from two independent studies with deep sequencing data for evaluation and benchmarking. Results VariantMedium shows highest sensitivity amongst benchmarked callers and achieves similar or better F1 scores in SNV calling. Its performance is particularly pronounced on genomic regions characterized by high sequencing error rates, achieving higher F1 scores than Mutect2 and Strelka2. Conclusions Our results demonstrate the strength of combining machine learning with high-quality experimental confirmation, enabling accurate somatic mutation detection even in low-mappability regions. We provide VariantMedium ( https://github.com/TRON-Bioinformatics/VariantMedium ) as an end-to-end pipeline to advance somatic mutation calling for precision medicine.",
+    "date": "2026-06-20",
+    "doi": "10.5662/wjm.v16.i2.114950",
+    "url": "https://doi.org/10.5662/wjm.v16.i2.114950",
+    "abstract": "BACKGROUND Subareolar breast abscess is extremely rare in males. Only a few cases of male breast abscess are reported in the literature till date. The clinical presentation of male breast include pain, periareolar swelling, tenderness and abscess formation. AIM To study occurrence of subareolar breast abscess in males. METHODS A retrospective study of 11 males from April 2014 to July 2024 is reported who presented with subareolar breast abscess. RESULTS Nine cases had uncomplicated and idiopathic abscess, and one has diabetes and another has underlying carcinoma breast. Incision drainage was done in 7 cases and one who has underlying carcinoma was managed by local toilet and antibiotics whereas rest two had needle aspiration for pus and other two had conservative treatment by antibiotics only. Pus culture predominantly yielded growth of Staphylococus . CONCLUSION Subareolar breast abscess is rare in males. Incision and drainage is treatment of choice in an uncomplicated cases.",
     "authors": [
-      "Özlem Muslu",
-      "Thomas Bukur",
-      "Pablo Riesgo-Ferreiro",
-      "Sameesh Kher"
+      "Imtiaz Wani",
+      "Gulam Naikoo",
+      "Rauf A Wani",
+      "Munir A Wani"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "Unveiling the Dual Facets of Extra-role Behavior: How Organizational Identification and Moral Attentiveness Matter",
-    "journal": "Advances in Management and Applied Economics",
+    "title": "PENGARUH SELF-LEADERSHIP DAN INTERPERSONAL COMMUNICATION TERHADAP SERVICE QUALITY",
+    "journal": "KENDALI: Economics and Social Humanities",
     "year": "2026",
-    "date": "2026-06-19",
-    "doi": "10.47260/amae/1658",
-    "url": "https://doi.org/10.47260/amae/1658",
-    "abstract": "This study examines the moderating roles of organizational identification and moral attentiveness in the relationship between organizational citizenship behavior (OCB) and unethical pro-organizational behavior (UPB). Drawing on a questionnaire survey, we test a set of hypotheses that differentiate between OCB directed toward the organization (OCBO) and OCB directed toward individuals (OCBI). The results indicate that organizational identification positively moderates the OCB-UPB relationship, such that the association is strengthened under higher levels of identification. This moderating effect is more pronounced for OCBO than for OCBI. In contrast, moral attentiveness exerts a negative moderating effect, attenuating the positive relationship between OCB and UPB; this buffering effect is stronger for OCBI than for OCBO. By unpacking these differential moderating patterns, the study advances understanding of the complex interplay between the “bright” and “dark” sides of extra-role behavior. It contributes to the organizational behavior literature by highlighting how identity-based and moral-cognitive mechanisms jointly shape the conditions under which OCB may foster ethically questionable actions. The findings also offer practical implications for organizations seeking to encourage citizenship behaviors while mitigating the risk of UPB. JEL classification numbers: M10, M12, M14. Keywords: Extra-role behavior, Organizational identification, Moral attentiveness, Organizational citizenship behavior, Unethical pro-organizational behavior.",
+    "date": "2026-06-20",
+    "doi": "10.58738/kendali.v4i3.1540",
+    "url": "https://doi.org/10.58738/kendali.v4i3.1540",
+    "abstract": "Penelitian ini bertujuan untuk menganalisis pengaruh self leadership dan interpersonal communication terhadap service quality pada karyawan Cak Ed Delivery Lamongan. Sampel dari penelitian ini adalah pelanggan dari Cak ED Delivery Lamongan yang berjumlah 150 responden dengan jenis sampel random. Jenis penelitian menggunakan kuantitatif komparatif kausal. Metode pengumpulan data melalui kuesioner, dengan menggunakan skala likert. Teknik analisis data menggunakan uji validitas, uji reliabilitas, uji normalitas, uji heteroskedastisitas uji autokorelasi, uji multikolinearitas, analisis regresi linear berganda, uji koefisien determinasi (R2), uji t, uji F dengan alat SPSS. Hasil penelitian menunjukkan bahwa self leadership memiliki pengaruh positif dan signifikan terhadap service quality, yang berarti semakin baik kemampuan karyawan dalam mengelola dan memotivasi diri, maka semakin tinggi kualitas pelayanan yang diberikan. Sementara itu, interpersonal communication tidak menunjukkan pengaruh positif yang signifikan terhadap service quality secara parsial. Hal ini mengindikasikan bahwa komunikasi interpersonal bukan merupakan faktor utama dalam menentukan kualitas pelayanan pada konteks jasa delivery. Namun demikian, secara simultan, self leadership dan interpersonal communication memiliki pengaruh positif dan signifikan terhadap service quality, yang menunjukkan bahwa kedua variabel tersebut secara bersama-sama mampu meningkatkan kualitas pelayanan. Secara keseluruhan, penelitian ini menyimpulkan bahwa self leadership merupakan faktor utama yang memengaruhi service quality, sedangkan interpersonal communication berperan sebagai faktor pendukung. Oleh karena itu, perusahaan disarankan untuk lebih memfokuskan pada pengembangan self leadership karyawan, tanpa mengabaikan pentingnya komunikasi interpersonal dalam mendukung kualitas pelayanan.",
     "authors": [
-      "Yi-Hui, Kuo-Feng, Chieh-Yu Ho, Cheng, Lin"
+      "Dinda Arum Zahrotun Nisa’",
+      "Moh. Heru Budi Santoso"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Psychology",
-    "title": "Unveiling of shifts in life meanings for Palestinians in the context of the Gaza war 2023: a quantitative study",
-    "journal": "Humanities and Social Sciences Communications",
+    "field": "Management",
+    "title": "Restoring integrity in nursing",
+    "journal": "Nursing Management",
     "year": "2026",
     "date": "2026-06-19",
-    "doi": "10.1057/s41599-026-07874-w",
-    "url": "https://doi.org/10.1057/s41599-026-07874-w",
+    "doi": "10.1097/nmg.0000000000000387",
+    "url": "https://doi.org/10.1097/nmg.0000000000000387",
     "abstract": "",
     "authors": [
-      "Oqab Jabali",
-      "Fakher Khalili",
-      "Munther Saeedi"
+      "Jonathan Recchi"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "Untethered thin-film neurostimulator wrapped around tiny nerve trunks for wireless neuromodulation",
-    "journal": "Science Advances",
-    "year": "2026",
-    "date": "2026-06-19",
-    "doi": "10.1126/sciadv.aec9247",
-    "url": "https://doi.org/10.1126/sciadv.aec9247",
-    "abstract": "Electrical stimulation of tiny peripheral nerve trunks for near-organ neuromodulation enables precise electroceutical therapy for refractory diseases, but long-term stable neuromodulation of these delicate, fragile nerve trunks remains an engineering challenge. Here, we report the development of NeuroWrap Ultrasonic Stimulator (NWUS), an untethered, self-adhesive thin-film neurostimulator capable of conformally wrapping around tiny nerve trunks. The untethered architecture can help avoid the damage or rupture of tiny nerves due to uncontrollable micromotion of lead wires during bodily movements. The NWUS is an ultrasound-responsive acoustoelectric converter with optimized impedance matching, which enables highly effective wireless electrical stimulation. The electroceutical application of NWUS was further illustrated in chronic vagus nerve stimulation for immunomodulation therapy in a rat model. The wireless neuromodulation therapy of rat experimental autoimmune myocarditis was proven to restore left ventricular function, suppress proinflammatory cytokine expression as well as macrophage infiltration within cardiac tissue, and promote regulatory T cell recruitment along with increased anti-inflammatory cytokine levels.",
-    "authors": [
-      "Renyuan Sun",
-      "Wenyuan Wang",
-      "Wenliang Liu",
-      "Ming Yang"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "The power of nutrition education: exploring the link between e-healthy diet literacy and ultra-processed food intake among female university students",
-    "journal": "Nutrition & Food Science",
-    "year": "2026",
-    "date": "2026-06-19",
-    "doi": "10.1108/nfs-12-2025-0430",
-    "url": "https://doi.org/10.1108/nfs-12-2025-0430",
-    "abstract": "Purpose Today, the consumption of ultra-processed foods (UPFs) is increasing, particularly among young adults, contributing to unhealthy dietary patterns. Digital nutrition literacy may be associated with food choices related to UPF consumption. Therefore, this study aimed to examine the relationship between e-healthy diet literacy and UPF consumption among university students and to explore whether this association differs between students enrolled in Nutrition and Dietetics programs and those studying in other departments. Design/methodology/approach The descriptive and cross-sectional study included 262 female university students. Participants' e-healthy diet literacy level was assessed using the E-healthy Diet Literacy Scale. At the same time, UPF consumption was evaluated using the Screening Questionnaire of Highly Processed Food Consumption. Findings Nutrition and dietetics students had a significantly lower UPF consumption score compared to students in other departments (5.5 ± 2.1 vs. 6.8 ± 2.3, p &lt; 0.001). E-healthy diet literacy total and subscale scores (excluding the understanding score) were significantly higher in this group (p&lt;0.001). Students with the lowest level of e-healthy diet literacy consumed more UPFs than those with the highest level of e-healthy diet literacy (p = 0.024). However, after adjusting for age, body mass index, smoking, alcohol consumption and department of study, the significance disappeared (p = 0.592). Originality/value The findings suggest that formal nutrition education and educational context may be associated with higher e-healthy diet literacy and lower UPF consumption among university students. The study also highlights the possible contribution of educational environment to dietary behaviors related to UPF consumption.",
-    "authors": [
-      "Elvan Yılmaz Akyüz",
-      "Tuğçe Özlü Karahan",
-      "Şevval Ören",
-      "Rümeysa Kavak"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "The place characteristics framework: identifying the symbolic DNA of place for visual identity design",
-    "journal": "Journal of Place Management and Development",
-    "year": "2026",
-    "date": "2026-06-19",
-    "doi": "10.1108/jpmd-09-2025-0118",
-    "url": "https://doi.org/10.1108/jpmd-09-2025-0118",
-    "abstract": "Purpose This paper aims to introduce the place characteristics framework (PCF), a design-informed tool that reframes place identity models through a symbolic lens to support the identification and organisation of visually and culturally meaningful attributes. The PCF categorises place characteristics across natural, built and social domains to structure early-stage symbolic inquiry. Design/methodology/approach The framework was developed through a multi-phase, mixed-method, design-led research process, including comparative synthesis of existing frameworks, visual analysis of curated national imagery and exploratory testing with practitioners and design students. Findings The study demonstrates how the PCF functions as a structured research scaffold, enabling designers and place practitioners to surface, organise and reflect on place-specific symbolic material prior to visual translation. Initial testing indicates its usefulness in supporting early-stage identity development within participatory and strategic contexts. Originality/value While place branding scholarship recognises the importance of symbolism, existing models provide limited structured support for identifying and organising “symbolic DNA” of place – the pool of culturally meaningful characteristics that can be translated into symbolic form. The PCF contributes a design-oriented perspective to place branding by offering a transferable framework that bridges conceptual place identity models and symbolic exploration.",
-    "authors": [
-      "Kathryn Dilanchian",
-      "Meghan Kelly",
-      "Russell Kennedy"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "Work autonomy as a moderator of coaching leadership's impact on job satisfaction and employee performance in Vietnamese startups",
-    "journal": "Asia-Pacific Journal of Business Administration",
-    "year": "2026",
-    "date": "2026-06-19",
-    "doi": "10.1108/apjba-06-2025-0433",
-    "url": "https://doi.org/10.1108/apjba-06-2025-0433",
-    "abstract": "Purpose Drawing on leadership and motivation theories, this study examines the effects of coaching leadership (CL) on job satisfaction (JS), innovative work behavior (IWB) and employee performance (EP) in Vietnamese startups. It also explores the mediating roles of JS and IWB, and the moderating effect of work autonomy (WAU). Design/methodology/approach The study utilized 424 valid survey responses from employees working in startup enterprises located in Hanoi, Da Nang and Ho Chi Minh City. Data analysis was conducted using partial least squares structural equation modeling (PLS-SEM) via SmartPLS 4.0 to evaluate the interrelationships among the variables. Findings The results confirm the direct effects of CL on JS, IWB and EP, as well as the influence of JS on both IWB and EP, and the impact of IWB on JS and EP. IWB partially mediates the effects of CL and JS on EP, while JS also partially mediates the effects of CL on EP and IWB. A notable finding of the study is the moderating role of WAU in the relationships between CL and JS, as well as between CL and EP. Research limitations/implications One limitation of the study is that the data were collected at a single point in time and from a single source, which may involve potential risks of common method bias and non-response bias, although diagnostic tests indicated that these biases had limited impact. Furthermore, the study was conducted within startups operating for less than five years in Vietnam; therefore, generalizing the findings to other types of organizations or different contexts should be approached with caution. Finally, WAU was found not to moderate the relationship between CL and IWB, which contrasts with the initial theoretical expectation. Practical implications CL emerges as an effective approach to enhance satisfaction, performance and innovation in startups, both within Vietnam and globally. Managers are encouraged to adopt this leadership style and focus on fostering employee outcomes such as job satisfaction, innovation and performance. Granting employees higher levels of autonomy appears to amplify the benefits of CL, particularly for satisfaction and performance, although additional or alternative strategies may be required to stimulate innovation. Originality/value The study contributes empirical evidence on the integrated relationship among CL, JS, IWB and EP in the context of startups in Vietnam – an area that remains underexplored in existing research. Its core value lies in identifying employee autonomy as a critical condition, thereby enriching theoretical understanding of the complex interactions between CL, JS, IWB and EP within early-stage organizations.",
-    "authors": [
-      "Bui Thi Thu Ha",
-      "Vu Thi Minh Xuan",
-      "Tran Duc Anh"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
