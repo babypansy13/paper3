@@ -1,145 +1,146 @@
 [
   {
     "field": "Public Policy",
-    "title": "“Being Human in a Mechanized World”: The Mediating Role of Life Satisfaction in the Relationship Between Digital Transformation and Entrepreneurial Intention in the Entrepreneurial Process",
-    "journal": "Bulletin of Economic Theory and Analysis",
+    "title": "“Reading” China’s Economic Development Through Energy Indexes",
+    "journal": "Economics and Public Policy",
     "year": "2026",
-    "date": "2026-06-28",
-    "doi": "10.25229/beta.1872121",
-    "url": "https://doi.org/10.25229/beta.1872121",
-    "abstract": "This study examines the cognitive and psychological effects of digital transformation by analyzing the relationship between Industry 4.0 awareness and entrepreneurial intention, with life satisfaction as a mediator. Based on the view that digitalization represents not only a technical shift but also a socio-psychological process influencing life satisfaction and future-oriented behaviors, this study tests a model developed within an integrative theoretical framework. Data collected from university students in Türkiye were analyzed using SPSS 23 and AMOS 21. Scale validity and reliability were supported through confirmatory factor analysis, and structural equation modeling results indicated that Industry 4.0 awareness significantly increased life satisfaction (β=.201, p",
+    "date": "2026-06-29",
+    "doi": "10.63313/epp.9039",
+    "url": "https://doi.org/10.63313/epp.9039",
+    "abstract": "This paper systematically analyzes the logic between China’s energy transition and economic development by constructing a quantitative analytical framework. The study introduces three core indexes—the Energy Consumption Growth Index, which measures gross domestic product (GDP) reliance on total energy scale; the Renewable Energy Contribution Index, which evaluates structural and qualitative improvements; and the Green Electricity Economic Contribution Index, which estimate the conversion of green efficiency into economic value—to dynamically assess the energy consumption characteristics of economic growth and the progress of green transition from a \" volume–structure–efficiency\" tripartite perspective. The research shows that China’s energy system has entered a positive synergy phase in which renewable energy dominates incremental growth and green power drives high-quality economic development.",
     "authors": [
-      "İbrahim Fırat"
+      "Chonghan Xu"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Marketing",
-    "title": "Ảnh hưởng của độ chín và điều kiện bảo quản đến thành phần polyphenol của trái giác (Cayratia trifolia) từ các vùng địa lý khác nhau ở Việt Nam",
-    "journal": "Quy Nhon University Journal of Science",
-    "year": "2026",
-    "date": "2026-06-28",
-    "doi": "10.52111/qnjs.2026.20308",
-    "url": "https://doi.org/10.52111/qnjs.2026.20308",
-    "abstract": "",
-    "authors": [],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Food Industry / Science / Design",
-    "title": "महिला कॉलेज व्याख्याताओं के सामाजिक जीवन की चुनौतियाँ: एक शोधात्मक अध्ययन",
-    "journal": "Anusanadhan: A Multidisciplinary International Journal (in Hindi)",
+    "title": "Unravelling the Relational Dimensions of Wellbeing in Flood-Prone Slum Communities in Indonesia: One-Size-Fits-All?",
+    "journal": "Applied Research in Quality of Life",
     "year": "2026",
-    "date": "2026-06-28",
-    "doi": "10.24321/2456.0510.202612",
-    "url": "https://doi.org/10.24321/2456.0510.202612",
-    "abstract": "",
+    "date": "2026-06-29",
+    "doi": "10.1007/s11482-026-10638-y",
+    "url": "https://doi.org/10.1007/s11482-026-10638-y",
+    "abstract": "Abstract This study investigates how residents of flood-prone slum areas of Indonesia construct and maintain wellbeing in the face of recurring environmental threats. Current wellbeing research often rests on component-based approaches that may under-represent the socially and culturally constituted nature of wellbeing in non-Western contexts. Drawing on White’s (2010, 2015) relational wellbeing framework, we adopt a sequential mixed-methods design combining a quantitative survey of 700 respondents across three flood-affected Indonesian cities, Bima ( n = 200), Pontianak ( n = 300), and Manado ( n = 200), with 37 in-depth qualitative interviews in the same locations. Within an abductive analytical strategy, qualitative material is applied to contextualize, interpret, and at times complicate the quantitative patterns, producing a culturally grounded yet comparable account of wellbeing. Principal Component Analysis yields eight wellbeing dimensions – Conviviality, Economic Resilience, Local Support System, Religiosity, Self-Competence, Security, Empowerment, and Reference Dependence – of which conviviality, economic resilience, and religiosity carry the highest factor loadings. Despite physical vulnerabilities, residents often remain in flood-prone areas, where strong social bonds, place attachment, and mutual support sustain wellbeing. Assuming dimensions are synergetic, we identify the most limiting dimension, the ‘binding constraint,’ per location and socio-demographic group, treating this as a diagnostic heuristic for policy prioritization rather than a causal claim. Conviviality, empowerment, and security emerge as distinct binding constraints across the three cities, showing that no single policy template fits all. The findings offer entry points for context-sensitive interventions and underscore the inseparability of wellbeing and resilience in vulnerable urban communities.",
     "authors": [
-      "चेतन लाल रेगर"
+      "Mellia Christia",
+      "Luuk van Kempen",
+      "Edwin de Jong"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Wild tomato genome assemblies reveal structural variants and repeat content act as recombination barriers",
-    "journal": "Nature Communications",
-    "year": "2026",
-    "date": "2026-06-28",
-    "doi": "10.1038/s41467-026-74784-5",
-    "url": "https://doi.org/10.1038/s41467-026-74784-5",
-    "abstract": "Abstract Crop wild relatives are used to improve cultivated plants and precise tracking of genetic introgression requires high-quality genome assemblies. Here we present de novo genome assemblies of two wild tomato species — the broadly stress-resistant Solanum pennellii (LA0716) and the salt-resistant Solanum cheesmaniae (LA1039). The improved S. pennellii genome adds 146 Mbp to the twelve chromosomes compared with the original reference. The alignment of the new assemblies with multiple gold-standard assemblies identified shared and species-specific structural variants. Analysis of repeat content demonstrates independent explosions of Tekay retrotransposons in S. pennellii and S. peruvianum . Genome sequencing of 709 recombinant plants derived from male and female backcrosses of three different hybrids reveals higher crossover rate in female meiosis. Conserved female-enhanced recombination regions were discovered and coldspots were attributed to megabase-scale inversions and insertion-deletion polymorphisms. Our S. pennellii and S. cheesmaniae genome assemblies reveal how repeat content diverged in nature and during breeding, and uncovers how both reproductive gender and structural variants dictate recombination landscapes in tomato hybrids.",
-    "authors": [
-      "Willem M. J. van Rengs",
-      "Roven Rommel Fuentes",
-      "Zahra Zangishei",
-      "Elias Primetis"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20portrait%20silhouette%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Tumor laterality in primary intestinal diffuse large B-cell lymphoma: A prognostic leap or an anatomical mirage?",
-    "journal": "World Journal of Gastroenterology",
-    "year": "2026",
-    "date": "2026-06-28",
-    "doi": "10.3748/wjg.118538",
-    "url": "https://doi.org/10.3748/wjg.118538",
-    "abstract": "Primary intestinal diffuse large B-cell lymphoma (PI-DLBCL) is a heterogeneous entity for which the International Prognostic Index offers suboptimal risk stratification. Drawing from the prognostic significance of tumor sidedness in colorectal cancer, recent research has explored whether anatomical laterality influences survival in PI-DBLCL. Previous research has identified left-sided PI-DLBCL as an independent poor prognostic factor and developed a superior laterality-integrated nomogram. In this opinion review, we dissect the methodological limitations, including its reliance on registry data lacking critical molecular and treatment variables, and the modest clinical magnitude of the laterality effect. We then delve into the plausible biological mechanisms underpinning this observation, such as embryologic, microbiomic, and immunological gradients along the intestinal axis, which may shape a distinct tumor microenvironment. Finally, we outline a future research agenda. While tumor laterality is a valuable supplementary prognostic indicator, it currently serves more as a “mirage” than a “leap” for guiding treatment. The path forward requires prospective, biologically annotated cohorts integrating spatial biology, multi-omics, and novel technologies like radiomics and spatial transcriptomics to translate this anatomical observation into clinically actionable insights for personalized management of PI-DLBCL.",
-    "authors": [
-      "Shi-Qiong Zhou",
-      "Chao-Qun Zhou",
-      "Qing-Hua Ke"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "The Interplay of Soft Skills, Digital Literacy, and Self-Efficacy in Shaping Work Readiness: A Structural Equation Modeling Study of Vocational High School Students",
-    "journal": "International Journal of Environment, Engineering and Education",
+    "title": "Tools used in the investment project management system at a high-tech company",
+    "journal": "Regional Economics Theory and Practice",
     "year": "2026",
-    "date": "2026-06-28",
-    "doi": "10.55151/ijeedu.v8i2.418",
-    "url": "https://doi.org/10.55151/ijeedu.v8i2.418",
-    "abstract": "Work readiness in vocational education is increasingly shaped by transferable competencies and students’ confidence in applying them in technology-rich workplaces. Although soft skills and digital literacy are widely promoted, evidence remains limited in Indonesian VET contexts regarding how these competencies translate into work readiness through self-efficacy. This study tested a structural mediation model in which soft skills and digital literacy predict work readiness both directly and indirectly via self-efficacy among vocational students who participated in MOOC-based upskilling. A cross-sectional survey was administered to 225 students from the Construction and Housing Engineering program across 22 vocational high schools in 16 districts/cities in South Sulawesi, Indonesia. All constructs were measured using five-point Likert scales, and covariance-based SEM was estimated in AMOS using Maximum Likelihood. The model demonstrated excellent fit (CMIN/DF=1.248, RMSEA=0.001, SRMR=0.005, GFI=0.921, CFI=0.996, TLI=0.989, PNFI=0.762). Soft skills positively predicted self-efficacy (β=0.574; p<0.001) and work readiness (β=0.652, p<0.05), while digital literacy also predicted self-efficacy (β=0.274, p<0.05) and work readiness (β = 0.663, p<0.001). Self-efficacy exhibited the strongest direct effect on work readiness (β=0.778, p<0.05) and partially mediated the effects of soft skills (indirect β=0.447, p<0.05) and digital literacy (indirect β=0.213, p<0.001). Overall, these findings propose an integrated competency–belief model for Indonesian vocational students in a MOOC participation context, highlighting self-efficacy as a key mechanism through which competencies contribute to work readiness. This contribution extends SEM-based evidence on vocational competency development by underscoring the importance of confidence-building alongside skills and digital capability training.",
+    "date": "2026-06-29",
+    "doi": "10.24891/sbwtrz",
+    "url": "https://doi.org/10.24891/sbwtrz",
+    "abstract": "Subject. Integration of organizational, financial-economic, and design solutions as a factor in the development of high-tech industrial enterprises. Objectives. Development and justification of a classification of tools used in the investment project management system, taking into account the functional features and technical capabilities of these tools. Methods. General scientific research methods were applied. Results. Broad functional groups of tools used for managing an investment project have been highlighted. Each group of tools is aimed at solving specific tasks; at the same time, the tools are used within a single digital environment of a high-tech enterprise, which ensures the consistency of managerial, financial-economic, and engineering-technological decisions. Conclusions. The effectiveness of managing an investment project in high-tech industries is determined not by implementing individual digital solutions, but by the degree of their end-to-end integration.",
     "authors": [
-      "Anas Arfandi",
-      "Musdalifah Musdalifah",
-      "Sudjani Sudjani",
-      "Abdul Haris Setiawan"
+      "Artur Yu. ABUZOV"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "Suicidal behaviour and resilience-related factors among adolescents in Poland and war-affected Western Ukraine",
-    "journal": "Child and Adolescent Psychiatry and Mental Health",
-    "year": "2026",
-    "date": "2026-06-28",
-    "doi": "10.1186/s13034-026-01126-0",
-    "url": "https://doi.org/10.1186/s13034-026-01126-0",
-    "abstract": "Abstract Background The purpose of the research was to verify compensatory and protective models of resilience [14, 27] , among adolescents from Poland and war-affected Ukraine. Guided by the socio-ecological model of resilience theory, we examined the relationship between several psychosocial risk and protective factors and suicidal behaviour among adolescents. Method Data were collected via online self-report questionnaires in Autumn 2024 from 14 to 15 year olds in Western Ukraine ( N = 2179) and Warsaw, the capital of Poland ( N = 1154). The response rate achieved was 75% in Lviv, 73% in Drohobych and 70% in Warsaw. Suicidal behaviour was measured by a 3-item Suicidal Thoughts and Behaviours scale adapted from the MINI Kid (Sheehan et al. 2010) (α = 0.87 − 0.90). Four groups of risk factors were examined: 1/ exposure to traumatic experiences, with a 9-item index, and victimization measured by two single questions; 2/ mental health problems (symptoms of depression measured by the shortened 4-item CES-D scale, non-suicidal self-injuries measured by a single question, problems of conduct measured with a 12-item index, problematic internet use measured with the Internet Disorder Scale – Short Form (IDS9-SF); 3/ substance use (alcohol, drug, cigarette and tranquiliser use, all measured with single questions); and 4/ personality characteristics that increase vulnerability (impulsiveness, measured by the Barratt Impulsiveness Scale–Brief (BIS-Brief), sensation seeking measured by a 6-item scale). Three groups of protective factors were also measured: 1/ parental/ familial (parental management, family relationships measured using the Brief Family Relationship Scale); 2/ school (school bonding measured with a 6-item scale, sense of safety at school measured by a single question); and 3/ individual (religiosity, measured by two single questions, individual physical activity measured by a single question, positive perception of the future, and five key aspects of positive youth development (connection, confidence, character, caring, competences), measured with the Positive Youth Development (PYD-VSF) scale. Hierarchical linear regression was conducted to test models of resilience. Results Descriptive analyses showed that significantly more teenagers in Warsaw (Poland) than in Lviv and Drohobych (Ukraine) had suicidal thoughts in the past 12 months (33.6% vs. 14.7%), had at some time planned suicide (35.5% vs. 16.9%), and had at some time attempted suicide (17% vs. 7.2%). In both countries, suicidal behaviours were significantly more prevalent among girls than boys. Further analyses also showed that adolescents in Warsaw were more exposed to significant risk factors than their peers in Lviv and Drohobych and, conversely, that youth in Lviv and Drohobych were more strongly protected against these risks than those in Warsaw. Regression analysis indicated that traumatic experiences, victimization, depressive symptoms, non-suicidal self-injury and the use of tranquilizers were associated with increased suicidal behaviour in both countries, whereas sensation seeking and drug use were associated with increased suicidal behaviour among Ukrainian youth. The results of regression showed also that a positive perception of the future and parental (on the part of the mother) management significantly reduced the risk of suicidal behaviour in both countries; however, a sense of safety at school proved to be a significant protective factor among Ukrainian adolescents, while self-confidence played that role in the Polish group. A block of four protective factors was associated with reduced risk of suicidal behaviour in both countries, supporting a compensatory model of resilience. Sense of safety at school moderated the relationship between traumatic experiences and suicidal behaviour in both countries, supporting a protective model of resilience, whereas self-confidence moderated this relationship in the Polish sample while parental management (on the part of the mother) moderated this relationship in in the Ukrainian sample. Overall, the regression model explained over 50% of the variance in suicidal behaviour in Ukrainian adolescents and 58.5% in Polish adolescents. Conclusions This study supports the usefulness of resilience models, demonstrating that individual strengths, family resources, and a safe school environment can moderate the negative consequences of traumatic experiences on adolescent suicidal behaviour. A specific implication of these findings is the need for targeted interventions that strengthen family and school support systems to reduce the risk of suicidal thoughts and behaviours among adolescents.",
-    "authors": [
-      "Krzysztof Ostaszewski",
-      "Agnieszka Bielawska",
-      "Anna Borucka",
-      "Jakub Greń"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "Perceptions of English Language teachers and learners on the educational affordances and challenges of Artificial Intelligence in language classrooms",
-    "journal": "International Journal of Language, English Studies, Translation, and Communication Research (IJLESTCR)",
-    "year": "2026",
-    "date": "2026-06-28",
-    "doi": "10.63498/ijlestcr9",
-    "url": "https://doi.org/10.63498/ijlestcr9",
-    "abstract": "",
-    "authors": [],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Management",
-    "title": "“Structural Analysis and Design Optimization of Steel I-Girder Bridges Using CSI Bridge Software.”",
-    "journal": "International Journal of Creative and Open Research in Engineering and Management",
+    "title": "Thyroid Dysfunction Roles in Iraqi Women with Infertility: A Cross-sectional Study",
+    "journal": "Journal of Womens Health Care and Management",
     "year": "2026",
-    "date": "2026-06-27",
-    "doi": "10.55041/ijcope.v2i6.355",
-    "url": "https://doi.org/10.55041/ijcope.v2i6.355",
-    "abstract": "Bridges play a vital role in modern transportation infrastructure and are essential components of road networks. With the continuous increase in traffic volume, bridges are subjected to repeated loading, which can lead to structural deterioration over time. Therefore, understanding the interaction between vehicles and bridge structures is crucial for ensuring their safety, durability, and serviceability. The primary objective of bridge engineering is to efficiently utilize structural materials and design methods to achieve optimal performance and economy. This study presents the analysis and design of a steel I-girder bridge and introduces a comprehensive design methodology developed during the research. The work focuses on evaluating the current design practices and comparing the provisions outlined in the Indian Roads Congress (IRC) specifications with those of the American Association of State Highway and Transportation Officials (AASHTO). The comparative assessment highlights the similarities and differences between the two design standards for steel I-girder bridges. The bridge model was developed and analyzed using CSI Bridge software, which provides a parametric, object-based modeling environment for bridge engineering applications. The software enables efficient creation of analytical bridge models while integrating material properties, geometric configurations, loading conditions, and design parameters within a unified framework. This object-oriented approach simplifies the modeling process and enhances the accuracy and efficiency of bridge analysis and design. Keywords: Steel I-Girder Bridge, Structural Analysis, Bridge Design, CSI Bridge Software, IRC Specifications, AASHTO Standards, Parametric Modeling.",
+    "date": "2026-06-29",
+    "doi": "10.47275/2692-0948-172",
+    "url": "https://doi.org/10.47275/2692-0948-172",
+    "abstract": "",
+    "authors": [],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "The laboratory K-curve: bridging diagnostic innovation and adoption",
+    "journal": "Clinical Chemistry and Laboratory Medicine (CCLM)",
+    "year": "2026",
+    "date": "2026-06-29",
+    "doi": "10.1515/cclm-2026-0958",
+    "url": "https://doi.org/10.1515/cclm-2026-0958",
+    "abstract": "",
     "authors": [
-      "Prof. Ashish shrivas Prof. Ashish shrivas",
-      "Dileep Ratnakar Dileep Ratnakar"
+      "Damien Gruson"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "The Quality of Health Care Services at The Alalak Selatan Community Health Center Banjarmasin City",
+    "journal": "International Journal of Educational Research & Social Sciences",
+    "year": "2026",
+    "date": "2026-06-29",
+    "doi": "10.51601/ijersc.v7i3.1040",
+    "url": "https://doi.org/10.51601/ijersc.v7i3.1040",
+    "abstract": "This study aims to determine the quality of health services at the Alalak Selatan Community Health Center in Banjarmasin City. This study employs a descriptive research design and a qualitative approach. Data collection was conducted through observation, interviews, and documentation. The findings of the study indicate that the quality of service at the Alalak Selatan Community Health Center, as measured by the timeliness of service—specifically regarding waiting times and processes—is not yet optimal and has not been able to fully meet the established completion targets. In terms of politeness and friendliness in providing service, the quality is quite good; however, friendliness tends to decrease when there are large numbers of patients in line. In terms of service accuracy, the quality is already good. The quality of public service, as measured by the ease of accessing services, is quite good, and the comfort level in receiving services is also quite good, although improvements are still needed. Therefore, it is necessary to optimize the use of the online queueing application with clear service time estimates. Direct outreach to the public regarding the use of the online queueing application should be conducted so that all patients can register through the application. Comfort in the patient waiting area should be improved, and additional computers should be provided to facilitate the service process.",
+    "authors": [
+      "Erna Suriyani",
+      "Deyanti",
+      "Yuliana Putri",
+      "Hedya Ivana Silam"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "Stress-consistent macroprudential overlay for derivative pricing",
+    "journal": "Review of Derivatives Research",
+    "year": "2026",
+    "date": "2026-06-29",
+    "doi": "10.1007/s11147-026-09241-y",
+    "url": "https://doi.org/10.1007/s11147-026-09241-y",
+    "abstract": "Abstract This paper sits at the intersection of derivative pricing and systemic-risk measurement by studying how system-wide tail dependence and crisis amplification can be incorporated into the valuation of European options. The research is motivated by the robust measurement of conditional downside vulnerability, and the adjustment of option values based on each asset’s individual contribution to systemic distress. We subsequently compare a conventional econometric approach against a more flexible machine-learning alternative for estimating this tail-risk component. Empirically, we find substantial heterogeneity in downside tail exposure across broad asset classes, implying that conditioning on systemic distress provides information beyond marginal (stand-alone) risk. We also show that the learning-based tail estimator produces systematically more conservative tail-risk assessments than the econometric baseline, suggesting that adaptive methods may better capture extreme, time-varying distress dynamics. Incorporating systemic tail risk into option pricing yields economically consistent effects–lower call values and higher put values–reflecting compensation for downside externalities that intensify under crisis regimes. Finally, we show that endogenizing the strength of the systemic adjustment generates plausible cross-asset variation, with pricing impacts primarily explained by differences in the individual assets’ contribution to systemic-risk spillovers.",
+    "authors": [
+      "Keorapetse Leballo",
+      "Jules Clement Mba"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "Social marketing pathways to sustainable micro, small and medium enterprises through single-use plastic reduction",
+    "journal": "Journal of Social Marketing",
+    "year": "2026",
+    "date": "2026-06-29",
+    "doi": "10.1108/jsocm-09-2025-0286",
+    "url": "https://doi.org/10.1108/jsocm-09-2025-0286",
+    "abstract": "Purpose This study aims to examine factors influencing the reduction of single-use plastics among food and beverage micro, small and medium enterprises (MSMEs) in Indonesia. It integrates four theoretical perspectives: Norm Activation Theory, Institutional Theory, Upper Echelon Theory and Resource-Based Theory, to explain internal motivations, external pressures, leadership commitment and resource availability Design/methodology/approach Data were collected from June to August 2025 using a structured questionnaire. Surveys were distributed online and via trained enumerators, yielding 488 valid responses. Data were analyzed using structural equation modeling. Findings MSMEs’ intention to reduce single-use plastics was driven by customer pressure, ascription of responsibility, resource availability and owner commitment. Government regulations, community influence and personal norms showed no significant effect. Strong intention led to actual practices, such as adopting eco-friendly packaging. Market forces and internal readiness were more effective than formal rules in driving sustainable change. Research limitations/implications Data were self-reported and cross-sectional, with limited sample representativeness. Future studies should use longitudinal designs, objective data and more representative sampling while separating individual and organizational levels. Practical implications MSME owners should gather customer feedback, strengthen resources, set plastic reduction targets and demonstrate visible commitment to build a sustainable and competitive business. Originality/value This study integrates four theoretical perspectives to provide a more holistic understanding of MSME environmental behavior. It combines internal moral drivers, external pressures, leadership and resources, offering insights for targeted social marketing interventions.",
+    "authors": [
+      "Budi Setiawan",
+      "Aang Munawar",
+      "Sri Rahayu Hijrah Hati"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Restructuring Crisis Response Programs as Civilian-Led: A Scoping Review",
+    "journal": "Administration and Policy in Mental Health and Mental Health Services Research",
+    "year": "2026",
+    "date": "2026-06-29",
+    "doi": "10.1007/s10488-026-01514-w",
+    "url": "https://doi.org/10.1007/s10488-026-01514-w",
+    "abstract": "Abstract Civilian-led crisis response teams provide emergency mental healthcare for individuals in acute distress in community settings, often without the involvement of police as first responders. These models represent one of several emerging alternatives to police-led crisis response and have gained attention for their potential to improve safety, trust, and care outcomes. Reports included in this scoping review discussed: the development, need, potential, implementation, and outcomes of civilian-led crisis response models. Covidence software was utilized by two independent reviewers to search 11 databases, with a third reviewer resolving conflicts. A dataset of 46 reports were then analyzed with thematic content analysis by a multidisciplinary team using critical theories to offer an exploration of how civilian-led crisis teams have begun to address the harms of policing responses to mental health. In exploring the key processes for civilian-led crisis response teams, three themes emerged. The first theme, Decentering Police, explores the growing collective awareness of the harms associated with police-involved crisis intervention and the corresponding need for alternative approaches, alongside efforts to establish a team composition that is intentionally distinct. The second theme, Team Scope of Practice, explores the subthemes of dispatch logistics and defining criteria for response. Team Sustainability is the third theme and explores how social and political will shape the uptake and long-term operation of civilian-led crisis programs.",
+    "authors": [
+      "Megan W. Rowe",
+      "Allannah Nguyen",
+      "Leyna Lowe",
+      "Kara Fletcher"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
