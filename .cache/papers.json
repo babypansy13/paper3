@@ -1,154 +1,158 @@
 [
   {
-    "field": "Marketing",
-    "title": "<b>Evidence on the Metaverse’s Impact in Higher Education: A Systematic Review and Meta-Analysis </b>",
-    "journal": "International Journal of Technology in Education and Science",
+    "field": "Management",
+    "title": "Влияние магнитного поля на сверхзвуковые флаттерные колебания прямоугольной пластинки, помещенной в температурное поле",
+    "journal": "Mechanics - Proceedings of National Academy of Sciences of Armenia",
     "year": "2026",
-    "date": "2026-07-04",
-    "doi": "10.46328/ijtes.8626",
-    "url": "https://ijtes.net/index.php/ijtes/article/download/8626/3045",
-    "abstract": "The results generally indicate that the Metaverse has promising potential for reshaping learning experiences in higher education, but further longitudinal and experimental studies are needed to explore its effectiveness across diverse disciplines and educational contexts.",
+    "date": "2026-07-05",
+    "doi": "10.54503/0002-3051-2026.79.1-2-74",
+    "url": "https://doi.org/10.54503/0002-3051-2026.79.1-2-74",
+    "abstract": "The nature of nonlinear oscillations of an isotropic rectangular plate in a supersonic gas flow in the presence of both thermal and magnetic fields is studied. The study was carried out taking into account two types of nonlinearity: aerodynamic (quadratic and cubic) and geometric (cubic). It was established that due to aerodynamic nonlinearity, the relation A(ν) (where A is the amplitude of nonlinear oscillations, ν is the parameter characterizing the velocity of the flowing gas) is a multivalued function in certain ranges of velocity ν. This fact is depicted in the graphs presented in the text in the form of different branches. In these figures, the lower branches are most likely unstable. The existence of such ranges of variation of v is shown, where flutter-type oscillations cannot be excited. The combined effect of thermal and magnetic fields on the behavior of nonlinear oscillations is studied.",
     "authors": [
-      "Ayman Mohammed Zohdi",
-      "Rayan Saad Dajam",
-      "F. Al-Hafdi",
-      "Waleed Salim Alhalafawy"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "Value discovery for carbon-neutral bonds under integrated environmental benefits and policy flexibility: evidence from five bonds in China",
-    "journal": "Environment, Development and Sustainability",
-    "year": "2026",
-    "date": "2026-07-04",
-    "doi": "10.1007/s10668-026-07913-1",
-    "url": "https://doi.org/10.1007/s10668-026-07913-1",
-    "abstract": "",
-    "authors": [
-      "Sisi He",
-      "Ling Liao",
-      "Danyao Li",
-      "Xiaodan Liu"
+      "М. А. Микилян",
+      "Р. О. Сагоян",
+      "И. А. Варданян"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "The Moderating Role of Hopefulness in the Relationship Between Resilience and Well-Being Among Mizo Cancer Patients",
-    "journal": "Mizo Studies Journal",
-    "year": "2026",
-    "date": "2026-07-04",
-    "doi": "10.22232/ms.2026.15.2.131",
-    "url": "https://doi.org/10.22232/ms.2026.15.2.131",
-    "abstract": "This study first attempts to determine the level of hopefulness, resilience, and psychological well-being among male and female cancer patients in Mizoram, and further examine the moderating role of hopefulness in the relationship between resilience and psychological well-being among three groups of cancer patients groups according to the stages of cancer illness. While cancer is conventionally classified into stages 0–IV, this study grouped stages into three broader categories for the analysis of psychological impact: Group 1 are in Stage 0–I, Group 2 are in Stage II–III, and Group 3 are Stage IV of cancer illness. The sample comprised 104 Mizo cancer patients. Psychological factors—hopefulness, resilience and psychological well-being—were studied. The findings indicated that there were not significant gender or cancer groups differences in the psychological variables of hopefulness, resilience, and psychological well-being. Hopefulness was found to moderate the relationship between resilience and psychological well-being among cancer patients in Mizoram.",
-    "authors": [
-      "Malsawmtluangi Chuauhang",
-      "HK Laldinpuii Fente"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Consumer Research",
-    "title": "The Degree of Contribution of Networked Leadership to Leadership Competencies in Government Schools Implementing the Tamam Project in the Sultanate of Oman",
-    "journal": "International Journal for Scientific Research",
+    "title": "VOICES OF RESILIENCE: LOCAL FLOOD MANAGEMENT PRACTICES IN BARANGAY BANQUERO, REINA MERCEDES, ISABELA",
+    "journal": "EPRA International Journal of Multidisciplinary Research (IJMR)",
     "year": "2026",
-    "date": "2026-07-04",
-    "doi": "10.59992/ijsr.2026.v5n7p2",
-    "url": "https://doi.org/10.59992/ijsr.2026.v5n7p2",
-    "abstract": "The study aimed to examine the extent of the contribution of network leadership to leadership competencies in public schools implementing the Tamam Project in the Sultanate of Oman. A mixed-methods approach was employed, and the study instruments consisted of a questionnaire and interviews. The questionnaire was developed with (70) items distributed across two dimensions: network leadership and leadership competencies. It was administered to a sample of (282) male and female teachers. Additionally, interviews were conducted with a purposive sample of (15) participants, including teachers, program coordinators, and school principals. The findings revealed that the level of network leadership practice in public schools implementing the Tamam Project in Oman was very high, as was the level of leadership competencies. The results also indicated the presence of strong and positive correlational relationships between the dimensions of network leadership and leadership competencies. Furthermore, Multiple Linear Regression analysis showed that the dimensions of network leadership could predict approximately 78.2% of the variance in the quality of leadership competencies in these schools. In light of these findings, the researchers recommend continuing to strengthen the implementation of network leadership in Tamam Project schools.",
+    "date": "2026-07-05",
+    "doi": "10.36713/epra30779",
+    "url": "https://doi.org/10.36713/epra30779",
+    "abstract": "This study explores the lived experiences and grassroots flood management practices of residents in Barangay Banquero, Reina Mercedes, Isabela—a high-risk rural community situated along the floodplains of the Cagayan River basin. While formal disaster frameworks rely heavily on top-down institutional mandates, this research examines the localized, human dimension of survival and community-driven resilience. Utilizing a qualitative phenomenological design, semi-structured interviews were conducted with fifteen long-term residents who have extensive histories of navigating severe flooding events. Through thematic analysis, the study reveals a sophisticated repertoire of self-reliant coping strategies, most notably the practice of \"vertical displacement\"—the multi-stage modification of household structures using makeshift lofts and elevated platforms to safeguard material assets. These practices are deeply sustained by kinship-based logistics and informal social networks that dictate organic evacuation movements. However, the findings reveal a critical \"preparedness ceiling,\" indicating that the escalating intensity of climate-driven typhoons has surpassed a threshold where personal preparation yields diminishing returns. This mismatch inflicts a recurring psychosomatic burden on residents, characterized by anticipatory panic and physical exhaustion. Ultimately, these insights highlight the urgent need for local disaster management policies to shift away from standardized relief and instead integrate, support, and institutionalize these organic grassroots strategies to build genuine community resilience.",
     "authors": [
-      "Ibtisam Alrahbiyah",
-      "Rabia Aldhuhli"
+      "Lapitan Arlene R",
+      "Baquiran Neslyn I",
+      "Cabalse, Princes Jamille L",
+      "Tacderan, John Carlo C"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "Tree Stem Perimeter Estimation for Forestry Robots via Residual Learning and LiDAR–RGB Fusion",
+    "journal": "International Journal of Automation Technology",
+    "year": "2026",
+    "date": "2026-07-05",
+    "doi": "10.20965/ijat.2026.p0330",
+    "url": "https://doi.org/10.20965/ijat.2026.p0330",
+    "abstract": "Accurate estimation of tree stem perimeter is essential for robotic forest mapping and inventory applications. While light detection and ranging (LiDAR)–camera fusion enables automated stem detection and geometric reconstruction, perimeter estimates derived from partial LiDAR observations exhibit systematic bias due to occlusions, limited angular coverage, and violations of ideal cylindrical assumptions. These effects introduce systematic errors that cannot be fully resolved by geometric reconstruction or temporal smoothing alone. This paper proposes a residual learning framework that enhances geometric perimeter estimation by learning a data-driven correction term while preserving the interpretability of the underlying model. A mobile robot equipped with a three-dimensional LiDAR and an RGB camera collects synchronized data in forest environments. Tree stems are detected in RGB images and associated with LiDAR points through calibrated projection. A geometric baseline perimeter is computed by fitting a circular model to a diameter-at-breast-height cross-section extracted from incomplete LiDAR observations. A shallow multilayer perceptron then predicts the residual between the geometric estimate and manually measured ground-truth perimeter using observation-derived features. Filtering improves stability but does not remove systematic bias, whereas residual learning achieves consistent bias correction. Experimental results demonstrate reductions exceeding 40% in both mean absolute and root mean squared errors, together with a substantial improvement in the coefficient of determination from 0.48 to 0.86. Error distributions become more centered and consistent across varying sensing distances and stem sizes, confirming robust generalization to unseen trees. The proposed method operates as a lightweight post-processing module, making it suitable for real-time deployment on mobile forestry robots.",
+    "authors": [
+      "Md Abul Munjer",
+      "Chi Jie Tan",
+      "Vincent Boufaroua",
+      "Abbe Mowshowitz"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Tales of total synthesis",
+    "journal": "Nature Reviews Chemistry",
+    "year": "2026",
+    "date": "2026-07-05",
+    "doi": "10.1038/s41570-026-00854-3",
+    "url": "https://doi.org/10.1038/s41570-026-00854-3",
+    "abstract": "",
+    "authors": [
+      "K. C. Nicolaou",
+      "Stephanie Greed"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "School-Enterprise Cooperation and Vocational Safety Literacy Formation: A Structural Equation Modeling Approach in Chinese Higher Vocational Colleges",
+    "journal": "Inclusive School Governance Review",
+    "year": "2026",
+    "date": "2026-07-05",
+    "doi": "10.63808/isgr.v2i2.341",
+    "url": "https://doi.org/10.63808/isgr.v2i2.341",
+    "abstract": "School-enterprise cooperation (SEC) is a central pillar of Chinese vocational education policy, yet how its specific dimensions affect students’ safety literacy remains empirically underexamined. This study disaggregates SEC into three dimensions: co-developed curriculum, enterprise practicum participation, and enterprise mentor guidance. Based on Theory of Planned Behavior, the mediation chain path of safety cognition→safety attitude→safety behavioral intention is examined to investigate the effect of three dimensions of SEC on vocational safety literacy. A total of 327 higher vocational students are surveyed in a district in Guangdong Province. Bootstrap mediation tests and structural equation modeling are used for statistical analysis. Results Enterprise practicum (β=0.31, p<0.001), guidance model (β=0.19, p<0.01) and co-developed curriculum (β=0.11, p<0.05), have the biggest direct effect (β) in chain mediation, with the first half “attitude to intention” (β=0.29) reaching significance. As the “last link of the chain”, practicum based experiential engagement may be need more to be emphasized rather than the curriculum reform alone, so does formalize safety mentorship.",
+    "authors": [
+      "Fangfang Zhang",
+      "Siok Peh Seah"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Rostral lesion shift and tract-specific degeneration drive functional heterogeneity in degenerative cervical myelopathy",
+    "journal": "Communications Medicine",
+    "year": "2026",
+    "date": "2026-07-05",
+    "doi": "10.1038/s43856-026-01764-7",
+    "url": "https://doi.org/10.1038/s43856-026-01764-7",
+    "abstract": "",
+    "authors": [
+      "Fauziyya Muhammad",
+      "Dario Pfyffer",
+      "Nicholas Dobson",
+      "Todd Parrish"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "Thangliana Nun Aṭanga Awptute Rilru: Postcolonialism Hmanga Thlirna",
-    "journal": "Mizo Studies Journal",
+    "title": "Reframing Zoonotic Spillover: Deforestation, Biodiversity Loss, and Climate Change as Molecular Epidemiological Risk Multipliers",
+    "journal": "Journal of Environment, Climate, and Ecology",
     "year": "2026",
-    "date": "2026-07-04",
-    "doi": "10.22232/ms.2026.15.2.61",
-    "url": "https://doi.org/10.22232/ms.2026.15.2.61",
-    "abstract": "Abstract This journal article, Thangliana Nun Aṭanga Awptute Rilru: Postcolonialism Hmanga Thlirna, studies the life and experiences of Thomas Herbert Lewin, who was popularly known among the Mizo people as Thangliana. During the British colonial period in the then Lushai Hills, Lewin developed a deep sympathy and affection for the Mizo people, their culture, customs, and way of life. Unlike many colonial officers who viewed the colonised people with superiority, Lewin attempted to understand and respect the Mizo community. However, his humane attitude and emotional closeness toward the Mizo created tension between him and his fellow British officials. As a result, he suffered criticism, misunderstanding, and isolation from his own colonial society. Using Postcolonial theory as the main framework, this study examines the complex relationship between coloniser and colonised through the experiences of Thangliana. The article explores how colonial ideology expected loyalty to imperial authority and discouraged emotional attachment to indigenous communities. It also analyses how Lewin’s position became conflicted as he stood between the British Empire and the Mizo people whom he admired. Through a postcolonial reading, the study highlights themes of identity, power, cultural conflict, alienation, and resistance within colonial discourse.",
+    "date": "2026-07-05",
+    "doi": "10.69739/jece.v3i2.2046",
+    "url": "https://doi.org/10.69739/jece.v3i2.2046",
+    "abstract": "This review argues that deforestation, biodiversity loss, and climate change must be redefined as measurable molecular epidemiological risk multipliers for zoonotic spillover, rather than merely background conditions. These interacting drivers have a direct effect on epidemiologically significant parameters like core density, genetic diversity of the virus, contact with the interface, and the capacity of the vectors. First, forest fragmentation and deforestation generate edge effects that cause reservoir species to move into human-altered landscapes and increase the vulnerability to pathogens such as Ebola and Nipah. Second, the loss of biodiversity due to disturbance caused by extra species also alters the composition of communities towards more competitive reservoir species, theoretically, residents of a protective dilution effect. Third, climate change increases viral replication in response to temperature and expands the geographic distribution of arthropod vectors, increasing the transmission of diseases like dengue and Lyme. The association of such macro-environmental transformations with the size-scale phenomena makes this manuscript illustrate how anthropogenic forces shape the biosphere structure to be disease-favourable. We come to the conclusion that reactive pathogen surveillance should not be used as an effective means of protecting against pandemics anymore. Rather, it requires a shift of paradigm where proactive forest protection, biodiversity protection and climate mitigation all become part of the working heart of One Health systems.",
     "authors": [
-      "Lalhnaihzuala"
+      "Kiranjot Kaur",
+      "Esoh Rene Tanwieh",
+      "Rajshreejeet Jayant Bhensdadiya",
+      "Brain Tarawo Kwinji"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Mental Health",
-    "title": "Testing the accuracy of Cameriere’s original and European formulae radiographic method of dental age estimation",
-    "journal": "International Journal of Legal Medicine",
-    "year": "2026",
-    "date": "2026-07-04",
-    "doi": "10.1007/s00414-026-03906-x",
-    "url": "https://doi.org/10.1007/s00414-026-03906-x",
-    "abstract": "",
-    "authors": [
-      "Aliff Syazaryl Aiman Azhar",
-      "Janet Ann Davies",
-      "Helen Mary Liversidge"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Sub-parts-per-billion CO2 Detection based on Dissipative Whispering Gallery Mode Microcavity Sensor",
-    "journal": "Nature Communications",
-    "year": "2026",
-    "date": "2026-07-04",
-    "doi": "10.1038/s41467-026-75218-y",
-    "url": "https://doi.org/10.1038/s41467-026-75218-y",
-    "abstract": "Abstract Whispering gallery mode microcavities provide strong light–matter interactions owing to their ultrahigh optical confinement, but the small gas refractive index change limits their ability to sense trace gases. Here we show that gas absorption can be detected using a dissipative sensing mechanism in a non-functionalized whispering gallery mode microcavity. Instead of tracking resonance frequency shifts used in conventional dispersive sensing, our method converts optical absorption into variations in resonance depth through thermally induced dissipation. Quantitative carbon dioxide detection was achieved over a concentration range of 1.5 to 400 parts per million with a correlation coefficients exceeding 0.99. The sensor reached a detection limit of 168 parts per trillion at an integration time of 400 seconds and an accuracy of approximately 0.4%. Continuous monitoring further demonstrated stable operation under ambient conditions. These results establish dissipative microcavity sensing as a promising approach for compact, low-cost, and highly sensitive trace gas detection.",
-    "authors": [
-      "Shujing Ruan",
-      "Guangzhen Gao",
-      "Jianing Zhang",
-      "Haotian Wang"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Food Industry / Science / Design",
-    "title": "Repurposing bleomycin against Acinetobacter baumannii HisG: computational, biophysical, and antibacterial evidence",
-    "journal": "Journal of Computer-Aided Molecular Design",
+    "title": "The evolution and determinants of green low-carbon technology cross-regional collaborative innovation networks: a patent-based analysis",
+    "journal": "Quality & Quantity",
     "year": "2026",
     "date": "2026-07-04",
-    "doi": "10.1007/s10822-026-00880-9",
-    "url": "https://doi.org/10.1007/s10822-026-00880-9",
+    "doi": "10.1007/s11135-026-02965-x",
+    "url": "https://doi.org/10.1007/s11135-026-02965-x",
     "abstract": "",
     "authors": [
-      "Baby Ilma",
-      "Pradeep Sharma",
-      "Nayyar Parvez"
+      "Ke Zhao",
+      "Zesen Wang",
+      "Yaming Zhang"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "Study of Geminivirus Infection in Red Chili Plants via Non-singular Fractional Operator",
-    "journal": "Proceedings of the National Academy of Sciences, India Section A: Physical Sciences",
+    "field": "Family Studies",
+    "title": "The Longitudinal Effect of Union and Housing Instability on Low-Income Fathers’ and Mothers’ Parenting Stress: An Exploratory Study of Variable- and Person-Centered Approaches",
+    "journal": "Family Transitions",
     "year": "2026",
-    "date": "2026-07-03",
-    "doi": "10.1007/s40010-026-01134-x",
-    "url": "https://doi.org/10.1007/s40010-026-01134-x",
+    "date": "2026-07-04",
+    "doi": "10.1080/28375300.2026.2693826",
+    "url": "https://doi.org/10.1080/28375300.2026.2693826",
     "abstract": "",
     "authors": [
-      "Anil Kumar",
-      "Pawan Kumar Shaw",
-      "Sunil Kumar"
+      "Jin Yao Kwan",
+      "In Young Park",
+      "Jennifer L. Bellamy",
+      "Aaron Banman"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
