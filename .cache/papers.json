@@ -1,158 +1,145 @@
 [
   {
-    "field": "Management",
-    "title": "Влияние магнитного поля на сверхзвуковые флаттерные колебания прямоугольной пластинки, помещенной в температурное поле",
-    "journal": "Mechanics - Proceedings of National Academy of Sciences of Armenia",
+    "field": "Food Industry / Science / Design",
+    "title": "Why are some food additives banned? The intersection of science and regulation",
+    "journal": "Food Production, Processing and Nutrition",
     "year": "2026",
-    "date": "2026-07-05",
-    "doi": "10.54503/0002-3051-2026.79.1-2-74",
-    "url": "https://doi.org/10.54503/0002-3051-2026.79.1-2-74",
-    "abstract": "The nature of nonlinear oscillations of an isotropic rectangular plate in a supersonic gas flow in the presence of both thermal and magnetic fields is studied. The study was carried out taking into account two types of nonlinearity: aerodynamic (quadratic and cubic) and geometric (cubic). It was established that due to aerodynamic nonlinearity, the relation A(ν) (where A is the amplitude of nonlinear oscillations, ν is the parameter characterizing the velocity of the flowing gas) is a multivalued function in certain ranges of velocity ν. This fact is depicted in the graphs presented in the text in the form of different branches. In these figures, the lower branches are most likely unstable. The existence of such ranges of variation of v is shown, where flutter-type oscillations cannot be excited. The combined effect of thermal and magnetic fields on the behavior of nonlinear oscillations is studied.",
+    "date": "2026-07-06",
+    "doi": "10.1186/s43014-026-00395-8",
+    "url": "https://doi.org/10.1186/s43014-026-00395-8",
+    "abstract": "",
     "authors": [
-      "М. А. Микилян",
-      "Р. О. Сагоян",
-      "И. А. Варданян"
+      "Renan Danielski",
+      "Marie E. Latulippe"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "VOICES OF RESILIENCE: LOCAL FLOOD MANAGEMENT PRACTICES IN BARANGAY BANQUERO, REINA MERCEDES, ISABELA",
-    "journal": "EPRA International Journal of Multidisciplinary Research (IJMR)",
-    "year": "2026",
-    "date": "2026-07-05",
-    "doi": "10.36713/epra30779",
-    "url": "https://doi.org/10.36713/epra30779",
-    "abstract": "This study explores the lived experiences and grassroots flood management practices of residents in Barangay Banquero, Reina Mercedes, Isabela—a high-risk rural community situated along the floodplains of the Cagayan River basin. While formal disaster frameworks rely heavily on top-down institutional mandates, this research examines the localized, human dimension of survival and community-driven resilience. Utilizing a qualitative phenomenological design, semi-structured interviews were conducted with fifteen long-term residents who have extensive histories of navigating severe flooding events. Through thematic analysis, the study reveals a sophisticated repertoire of self-reliant coping strategies, most notably the practice of \"vertical displacement\"—the multi-stage modification of household structures using makeshift lofts and elevated platforms to safeguard material assets. These practices are deeply sustained by kinship-based logistics and informal social networks that dictate organic evacuation movements. However, the findings reveal a critical \"preparedness ceiling,\" indicating that the escalating intensity of climate-driven typhoons has surpassed a threshold where personal preparation yields diminishing returns. This mismatch inflicts a recurring psychosomatic burden on residents, characterized by anticipatory panic and physical exhaustion. Ultimately, these insights highlight the urgent need for local disaster management policies to shift away from standardized relief and instead integrate, support, and institutionalize these organic grassroots strategies to build genuine community resilience.",
-    "authors": [
-      "Lapitan Arlene R",
-      "Baquiran Neslyn I",
-      "Cabalse, Princes Jamille L",
-      "Tacderan, John Carlo C"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Marketing",
-    "title": "Tree Stem Perimeter Estimation for Forestry Robots via Residual Learning and LiDAR–RGB Fusion",
-    "journal": "International Journal of Automation Technology",
+    "title": "Who can effectively use human digital twins? The roles of streamer category and format in shaping livestream interaction",
+    "journal": "Journal of Research in Interactive Marketing",
     "year": "2026",
-    "date": "2026-07-05",
-    "doi": "10.20965/ijat.2026.p0330",
-    "url": "https://doi.org/10.20965/ijat.2026.p0330",
-    "abstract": "Accurate estimation of tree stem perimeter is essential for robotic forest mapping and inventory applications. While light detection and ranging (LiDAR)–camera fusion enables automated stem detection and geometric reconstruction, perimeter estimates derived from partial LiDAR observations exhibit systematic bias due to occlusions, limited angular coverage, and violations of ideal cylindrical assumptions. These effects introduce systematic errors that cannot be fully resolved by geometric reconstruction or temporal smoothing alone. This paper proposes a residual learning framework that enhances geometric perimeter estimation by learning a data-driven correction term while preserving the interpretability of the underlying model. A mobile robot equipped with a three-dimensional LiDAR and an RGB camera collects synchronized data in forest environments. Tree stems are detected in RGB images and associated with LiDAR points through calibrated projection. A geometric baseline perimeter is computed by fitting a circular model to a diameter-at-breast-height cross-section extracted from incomplete LiDAR observations. A shallow multilayer perceptron then predicts the residual between the geometric estimate and manually measured ground-truth perimeter using observation-derived features. Filtering improves stability but does not remove systematic bias, whereas residual learning achieves consistent bias correction. Experimental results demonstrate reductions exceeding 40% in both mean absolute and root mean squared errors, together with a substantial improvement in the coefficient of determination from 0.48 to 0.86. Error distributions become more centered and consistent across varying sensing distances and stem sizes, confirming robust generalization to unseen trees. The proposed method operates as a lightweight post-processing module, making it suitable for real-time deployment on mobile forestry robots.",
+    "date": "2026-07-06",
+    "doi": "10.1108/jrim-08-2025-0510",
+    "url": "https://doi.org/10.1108/jrim-08-2025-0510",
+    "abstract": "Purpose Human digital twins (HDTs) are increasingly used in livestream e-commerce, yet their effects on consumer interaction remain unclear. Drawing on schema congruity theory, this research examines how streamer format (live human vs. HDTs) and streamer category (mega vs. micro) jointly shape interaction intentions and how these effects vary by product type. Design/methodology/approach Four experiments (N = 1,427) test the interaction between streamer format and category, examine perceived authenticity as the mechanism, rule out alternative mediators and identify product type (digital vs. physical) as a boundary condition. Findings For mega streamers, HDTs reduce interaction intentions relative to live humans; for micro streamers, streamer format has no significant effect. Perceived authenticity explains this pattern and the effect weakens for digital products. Originality/value This research shows when and why HDTs work in livestream e-commerce, extending digital streamer research and offering context-sensitive guidance for brands using identity-linked digital agents.",
     "authors": [
-      "Md Abul Munjer",
-      "Chi Jie Tan",
-      "Vincent Boufaroua",
-      "Abbe Mowshowitz"
+      "Xin Peng",
+      "Defeng Yang",
+      "Yu Sun",
+      "Junbao Wu"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Psychology",
-    "title": "Tales of total synthesis",
-    "journal": "Nature Reviews Chemistry",
+    "title": "Vibration-Based Tool Wear Monitoring in Turning Using Nonlinear Complexity Indicator and Decimated Padé Approximation Spectral Analysis",
+    "journal": "Journal of Intelligent Systems and Applied Data Science",
     "year": "2026",
-    "date": "2026-07-05",
-    "doi": "10.1038/s41570-026-00854-3",
-    "url": "https://doi.org/10.1038/s41570-026-00854-3",
-    "abstract": "",
+    "date": "2026-07-06",
+    "doi": "10.64680/jisads.v4i1.68",
+    "url": "https://doi.org/10.64680/jisads.v4i1.68",
+    "abstract": "This study investigates the evolution of vibration signals generated during the progressive wear of a cutting tool using a hybrid analytical framework that combines Decimated PadéApproximation spectral modeling and Rényi entropy analysis. Vibration signals representing new, moderately worn, and severely worn tool conditions were measured during machining. The time-domain observations reveal a clear transition from stable and periodic oscillations in the new tool state to irregular and broadband responses under severe wear. The Decimated PadéApproximation accurately reproduces the dominant harmonic components of the new tool and partially captures the nonlinear modulation associated with moderate wear, while its performance deteriorates as the signal becomes dominated by stochastic impacts. The frequency responses show that the main resonant components weaken and gradually merge into a broadband spectrum as wear progresses. The Rényi entropy results confirm this trend, indicating a steady increase in spectral dispersion and signal complexity. The combined interpretation of Padé-based resonance evolution and Rényi-based entropy growth provides a coherent description of the dynamic transition from deterministic to stochastic vibration behavior. The proposed approach establishes a solid foundation for vibration-based monitoring of tool degradation and supports the development of intelligent diagnostic and predictive maintenance systems for machining applications.",
     "authors": [
-      "K. C. Nicolaou",
-      "Stephanie Greed"
+      "Emmanuel Maki"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Venous excess ultrasound score detects systemic venous congestion in a left ventricular assist device patient: A case report",
+    "journal": "World Journal of Clinical Cases",
+    "year": "2026",
+    "date": "2026-07-06",
+    "doi": "10.12998/wjcc.119964",
+    "url": "https://doi.org/10.12998/wjcc.119964",
+    "abstract": "BACKGROUND Left ventricular assist devices (LVADs) are a well-known therapeutic option for patients with advanced heart failure. Pump speed directly influences ventricular dimensions, septal position, right ventricular (RV) loading conditions, and overall haemodynamics. Echocardiography remains crucial for the assessment of such patients, whereas the venous excess ultrasound score (VExUS) is an emerging bedside tool for evaluating systemic venous congestion. CASE SUMMARY A 45-year-old woman with advanced ischaemic cardiomyopathy was admitted to the intensive care unit after HeartMate 3 LVAD implantation. On the fourth postoperative day, she developed severe hypotension with low estimated pump flow and low pulsatility index (PI) while the LVAD was set at 5100 rpm. After an empiric 250 mL saline bolus, urgent transthoracic echocardiography showed a small left ventricular cavity, RV dilation, leftward septal shift, and features of ventricular interdependence. VExUS assessment demonstrated severe systemic venous congestion, with hepatic vein systolic flow reversal, marked portal vein pulsatility, and severely abnormal intrarenal venous Doppler flow. Based on combined echocardiographic, venous Doppler, and device findings, hypotension was attributed to suction-related ventricular interdependence and right-sided congestion rather than isolated hypovolaemia. LVAD speed was decreased from 5100 rpm to 4900 rpm, followed by rapid haemodynamic stabilisation, improved pump flow and PI, restoration of a midline septal position, and partial improvement in portal venous flow. CONCLUSION This case highlights the potential value of integrating VExUS with conventional echocardiography and LVAD parameter interpretation during postoperative haemodynamic instability. Serial venous Doppler assessment may help distinguish congestion-related ventricular interdependence from true hypovolaemia and support individualized adjustment of pump speed and fluid strategy. Further validation in LVAD populations is required.",
+    "authors": [
+      "Fotios Dimitriadis",
+      "Dimitrios Elaiopoulos",
+      "Michalis Antonopoulos",
+      "Giorgos Konstantinou"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Public Policy",
-    "title": "School-Enterprise Cooperation and Vocational Safety Literacy Formation: A Structural Equation Modeling Approach in Chinese Higher Vocational Colleges",
-    "journal": "Inclusive School Governance Review",
+    "title": "Trade-off between economic and social sustainability growth: the moderating role of CEO gender",
+    "journal": "Corporate Governance: The International Journal of Business in Society",
     "year": "2026",
-    "date": "2026-07-05",
-    "doi": "10.63808/isgr.v2i2.341",
-    "url": "https://doi.org/10.63808/isgr.v2i2.341",
-    "abstract": "School-enterprise cooperation (SEC) is a central pillar of Chinese vocational education policy, yet how its specific dimensions affect students’ safety literacy remains empirically underexamined. This study disaggregates SEC into three dimensions: co-developed curriculum, enterprise practicum participation, and enterprise mentor guidance. Based on Theory of Planned Behavior, the mediation chain path of safety cognition→safety attitude→safety behavioral intention is examined to investigate the effect of three dimensions of SEC on vocational safety literacy. A total of 327 higher vocational students are surveyed in a district in Guangdong Province. Bootstrap mediation tests and structural equation modeling are used for statistical analysis. Results Enterprise practicum (β=0.31, p<0.001), guidance model (β=0.19, p<0.01) and co-developed curriculum (β=0.11, p<0.05), have the biggest direct effect (β) in chain mediation, with the first half “attitude to intention” (β=0.29) reaching significance. As the “last link of the chain”, practicum based experiential engagement may be need more to be emphasized rather than the curriculum reform alone, so does formalize safety mentorship.",
+    "date": "2026-07-06",
+    "doi": "10.1108/cg-10-2025-0812",
+    "url": "https://doi.org/10.1108/cg-10-2025-0812",
+    "abstract": "Purpose This study aims to examine the potential trade-off between the two dimensions of sustainability − economic sustainability (ESGR) and social sustainability (SSGR). In addition, the study aims to explore the moderating role of CEO gender in this relationship, thereby assessing how executive characteristics influence the balance between economic and social dimensions of corporate sustainable growth. Design/methodology/approach This study uses panel data from 272 firms listed on the Ho Chi Minh and Hanoi Stock Exchanges over the period 2011–2022. Fixed effects models, generalized method of moments (GMM) and outlier-robust DFIT techniques are used to ensure robust estimation. Findings After controlling for firm-specific characteristics, resource constraints drive firms to adopt more conservative strategies, resulting in trade-offs between economic and social dimensions of sustainability. However, firms led by female CEOs are better able to mitigate the severity of these trade-offs, maintaining social sustainability alongside economic objectives. These findings highlight the role of CEO gender in shaping how firms allocate resources under constraints and balance competing sustainability goals. Originality/value This study provides new insights into sustainability by showing that economic and social dimensions involve inherent trade-offs. It further demonstrates that CEO gender moderates this relationship, with the trade-off between discretionary ESGR and SSGR being less pronounced in firms led by female CEOs. Drawing on stakeholder theory and social role theory, the study explains how leadership characteristics shape firms’ responses to competing stakeholder demands, highlighting the role of leadership composition in promoting more balanced sustainable growth.",
     "authors": [
-      "Fangfang Zhang",
-      "Siok Peh Seah"
+      "Chi Duong Thi"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Mental Health",
-    "title": "Rostral lesion shift and tract-specific degeneration drive functional heterogeneity in degenerative cervical myelopathy",
-    "journal": "Communications Medicine",
-    "year": "2026",
-    "date": "2026-07-05",
-    "doi": "10.1038/s43856-026-01764-7",
-    "url": "https://doi.org/10.1038/s43856-026-01764-7",
-    "abstract": "",
-    "authors": [
-      "Fauziyya Muhammad",
-      "Dario Pfyffer",
-      "Nicholas Dobson",
-      "Todd Parrish"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Urban Studies",
-    "title": "Reframing Zoonotic Spillover: Deforestation, Biodiversity Loss, and Climate Change as Molecular Epidemiological Risk Multipliers",
-    "journal": "Journal of Environment, Climate, and Ecology",
+    "title": "Totems of Power: A Bronze Cauldron and an Iron Adze from Poggio Civitate",
+    "journal": "Etruscan and Italic Studies",
     "year": "2026",
-    "date": "2026-07-05",
-    "doi": "10.69739/jece.v3i2.2046",
-    "url": "https://doi.org/10.69739/jece.v3i2.2046",
-    "abstract": "This review argues that deforestation, biodiversity loss, and climate change must be redefined as measurable molecular epidemiological risk multipliers for zoonotic spillover, rather than merely background conditions. These interacting drivers have a direct effect on epidemiologically significant parameters like core density, genetic diversity of the virus, contact with the interface, and the capacity of the vectors. First, forest fragmentation and deforestation generate edge effects that cause reservoir species to move into human-altered landscapes and increase the vulnerability to pathogens such as Ebola and Nipah. Second, the loss of biodiversity due to disturbance caused by extra species also alters the composition of communities towards more competitive reservoir species, theoretically, residents of a protective dilution effect. Third, climate change increases viral replication in response to temperature and expands the geographic distribution of arthropod vectors, increasing the transmission of diseases like dengue and Lyme. The association of such macro-environmental transformations with the size-scale phenomena makes this manuscript illustrate how anthropogenic forces shape the biosphere structure to be disease-favourable. We come to the conclusion that reactive pathogen surveillance should not be used as an effective means of protecting against pandemics anymore. Rather, it requires a shift of paradigm where proactive forest protection, biodiversity protection and climate mitigation all become part of the working heart of One Health systems.",
+    "date": "2026-07-06",
+    "doi": "10.1515/etst-2026-0002",
+    "url": "https://doi.org/10.1515/etst-2026-0002",
+    "abstract": "Abstract In 1971, a large bronze cauldron was recovered from the floor of Poggio Civitate’s Intermediate Phase elite residence. The cauldron was not restored until 2010 and during the process of its cleaning, an iron adze was recovered from within the vessel. Excavation records demonstrate that immediately surrounding the vessel were high concentrations of luxurious banqueting wares, finely carved bone, antler and ivory objects, and fragments of large ceramic vessels, all indicative of a storage area for elements of an opulent banquet service. The cauldron and adze’s association with a banquet service capable of provisioning scores of individuals suggests it was used in the context of communal banqueting and was part of the equipment employed in the performance of high-status identity within the community. The example of an adze from an aristocratic domestic context complements examples of similar objects included in elite burials of the same period, further illustrating the interplay between quotidian and funerary use of such materials.",
     "authors": [
-      "Kiranjot Kaur",
-      "Esoh Rene Tanwieh",
-      "Rajshreejeet Jayant Bhensdadiya",
-      "Brain Tarawo Kwinji"
+      "Anthony Tuck"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Food Industry / Science / Design",
-    "title": "The evolution and determinants of green low-carbon technology cross-regional collaborative innovation networks: a patent-based analysis",
-    "journal": "Quality & Quantity",
+    "field": "Consumer Research",
+    "title": "The basic psychological needs of fitness self-testing for Chinese male college students: a qualitative perspective",
+    "journal": "Frontiers in Psychology",
     "year": "2026",
-    "date": "2026-07-04",
-    "doi": "10.1007/s11135-026-02965-x",
-    "url": "https://doi.org/10.1007/s11135-026-02965-x",
-    "abstract": "",
+    "date": "2026-07-06",
+    "doi": "10.3389/fpsyg.2026.1865420",
+    "url": "https://doi.org/10.3389/fpsyg.2026.1865420",
+    "abstract": "Introduction Guided by Self-Determination Theory (SDT), this study examined Chinese male college freshmen’s perceptions of their fundamental psychological needs in relation to fitness self-testing. Specifically, the study focused on how the educational experience of independently monitoring and enhancing health-related fitness (HRF) supported—or challenged—the satisfaction of autonomy, competence, and relatedness. Methods Ten participants (age: 18–19 years old) were purposively sampled from those whose fitness testing scores ranked in the top or bottom 5% of the class at the end of a semester. Each participant completed monthly self-testing sessions over 4 months. Guided by the SDT, semi-structured in-depth interviews were conducted. Constant comparative analysis was used to analyze the data to generate themes. Observation notes and student reflections were utilized for data triangulation. Peer debriefing, member checking, and negative case analysis were conducted to establish the trustworthiness of the data. Results Four main themes emerged from the data: (a) Autonomy as empowerment and responsibility, (b) Competence satisfaction mixed with frustration, (c) Self-testing as a socially embedded practice, and (d) Self-testing as a catalyst for self-challenge, and self-regulated lifestyle development. Conclusion The three basic psychological needs in fitness self-testing, autonomy, competence, and relatedness, were central in this context. These findings can inform future fitness self-testing protocols that support student learning, HRF, and social belonging.",
     "authors": [
-      "Ke Zhao",
-      "Zesen Wang",
-      "Yaming Zhang"
+      "Xin Zhang",
+      "Jiren Zhang",
+      "Chenhao Wu",
+      "Yucen Li"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "The Longitudinal Effect of Union and Housing Instability on Low-Income Fathers’ and Mothers’ Parenting Stress: An Exploratory Study of Variable- and Person-Centered Approaches",
-    "journal": "Family Transitions",
+    "title": "The Impact of Global FinTech Development on Cross-Border Capital Flows and Regulatory Frameworks",
+    "journal": "Advances in Information Management and Economic Development Research",
     "year": "2026",
-    "date": "2026-07-04",
-    "doi": "10.1080/28375300.2026.2693826",
-    "url": "https://doi.org/10.1080/28375300.2026.2693826",
-    "abstract": "",
+    "date": "2026-07-06",
+    "doi": "10.70114/aimedr.2026.3.1.p9",
+    "url": "https://doi.org/10.70114/aimedr.2026.3.1.p9",
+    "abstract": "FinTech transforms cross-border payments from expensive, slow processes to cheaper, faster alternatives. Digital payment systems now handle more remittances and small transactions through official channels, with growth expected through the early 2030s. These changes affect how capital moves globally—funds flow more quickly and react faster to market signals. Stablecoins and cryptocurrencies create new payment routes that challenge traditional currency controls and money laundering prevention. Governments respond with updated payment regulations, instant settlement networks, open banking policies, and digital currency trials. This paper examines how technology and regulation interact in cross-border finance, proposing better international cooperation, tech-enabled oversight, stronger domestic systems, and consumer safeguards to capture efficiency gains while maintaining financial stability.",
     "authors": [
-      "Jin Yao Kwan",
-      "In Young Park",
-      "Jennifer L. Bellamy",
-      "Aaron Banman"
+      "Jing Hong"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Corrigendum",
+    "journal": "Proceedings of the Institution of Civil Engineers - Water Management",
+    "year": "2026",
+    "date": "2026-07-06",
+    "doi": "10.1680/jwama.25.00039a",
+    "url": "https://doi.org/10.1680/jwama.25.00039a",
+    "abstract": "",
+    "authors": [],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
