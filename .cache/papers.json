@@ -1,144 +1,149 @@
 [
   {
-    "field": "Food Industry / Science / Design",
-    "title": "Why are some food additives banned? The intersection of science and regulation",
-    "journal": "Food Production, Processing and Nutrition",
-    "year": "2026",
-    "date": "2026-07-06",
-    "doi": "10.1186/s43014-026-00395-8",
-    "url": "https://doi.org/10.1186/s43014-026-00395-8",
-    "abstract": "",
-    "authors": [
-      "Renan Danielski",
-      "Marie E. Latulippe"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "Who can effectively use human digital twins? The roles of streamer category and format in shaping livestream interaction",
-    "journal": "Journal of Research in Interactive Marketing",
-    "year": "2026",
-    "date": "2026-07-06",
-    "doi": "10.1108/jrim-08-2025-0510",
-    "url": "https://doi.org/10.1108/jrim-08-2025-0510",
-    "abstract": "Purpose Human digital twins (HDTs) are increasingly used in livestream e-commerce, yet their effects on consumer interaction remain unclear. Drawing on schema congruity theory, this research examines how streamer format (live human vs. HDTs) and streamer category (mega vs. micro) jointly shape interaction intentions and how these effects vary by product type. Design/methodology/approach Four experiments (N = 1,427) test the interaction between streamer format and category, examine perceived authenticity as the mechanism, rule out alternative mediators and identify product type (digital vs. physical) as a boundary condition. Findings For mega streamers, HDTs reduce interaction intentions relative to live humans; for micro streamers, streamer format has no significant effect. Perceived authenticity explains this pattern and the effect weakens for digital products. Originality/value This research shows when and why HDTs work in livestream e-commerce, extending digital streamer research and offering context-sensitive guidance for brands using identity-linked digital agents.",
-    "authors": [
-      "Xin Peng",
-      "Defeng Yang",
-      "Yu Sun",
-      "Junbao Wu"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Psychology",
-    "title": "Vibration-Based Tool Wear Monitoring in Turning Using Nonlinear Complexity Indicator and Decimated Padé Approximation Spectral Analysis",
-    "journal": "Journal of Intelligent Systems and Applied Data Science",
+    "title": "“Oriental Aesthetics” as Discursive Construction and Branded National Identity: A Study of Contemporary New Domestic Beauty Advertisements in China",
+    "journal": "Social Sciences and Humanities",
     "year": "2026",
-    "date": "2026-07-06",
-    "doi": "10.64680/jisads.v4i1.68",
-    "url": "https://doi.org/10.64680/jisads.v4i1.68",
-    "abstract": "This study investigates the evolution of vibration signals generated during the progressive wear of a cutting tool using a hybrid analytical framework that combines Decimated PadéApproximation spectral modeling and Rényi entropy analysis. Vibration signals representing new, moderately worn, and severely worn tool conditions were measured during machining. The time-domain observations reveal a clear transition from stable and periodic oscillations in the new tool state to irregular and broadband responses under severe wear. The Decimated PadéApproximation accurately reproduces the dominant harmonic components of the new tool and partially captures the nonlinear modulation associated with moderate wear, while its performance deteriorates as the signal becomes dominated by stochastic impacts. The frequency responses show that the main resonant components weaken and gradually merge into a broadband spectrum as wear progresses. The Rényi entropy results confirm this trend, indicating a steady increase in spectral dispersion and signal complexity. The combined interpretation of Padé-based resonance evolution and Rényi-based entropy growth provides a coherent description of the dynamic transition from deterministic to stochastic vibration behavior. The proposed approach establishes a solid foundation for vibration-based monitoring of tool degradation and supports the development of intelligent diagnostic and predictive maintenance systems for machining applications.",
+    "date": "2026-07-07",
+    "doi": "10.63313/ssh.9117",
+    "url": "https://doi.org/10.63313/ssh.9117",
+    "abstract": "This study examines the advertising practices of new domestic beauty brands against the backdrop of the Guochao movement. It investigates how these brands discursively construct “Oriental aesthetics” and explores the interplay between this discourse, consumer culture, and emerging consumer nationalism. In today’s context, “Oriental beauty” is not merely visual but has become a vehicle for cultural confidence and a symbol of identity for younger generations. Through highly stylized visual symbols and cultural narratives, these advertisements appeal to consumers eager to assert their cultural identity. The analysis reveals that these brands employ a hybrid discourse of “ancient wisdom + modern technology,” along with visual codes of “artisanal craftsmanship” and “imperial grandeur,” to transform their products into cultural symbols. However, consumer culture profoundly shapes this expression, making branded nationalism ambivalent: it challenges Western aesthetic hegemony yet risks a curated “Self-Orientalism”; it evokes cultural pride while potentially instituting a new “Chinese aesthetic discipline” that must be fulfilled through consumption. Ultimately, these advertisements serve as a microcosm for examining the intersections of identity, consumerism, and cultural nationalism in contemporary China.",
     "authors": [
-      "Emmanuel Maki"
+      "Peiyang Xu"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Mental Health",
-    "title": "Venous excess ultrasound score detects systemic venous congestion in a left ventricular assist device patient: A case report",
-    "journal": "World Journal of Clinical Cases",
+    "field": "Family Studies",
+    "title": "When young employees encounter setbacks in actual identity: the moderating effect of forgone identity dwelling",
+    "journal": "Career Development International",
     "year": "2026",
-    "date": "2026-07-06",
-    "doi": "10.12998/wjcc.119964",
-    "url": "https://doi.org/10.12998/wjcc.119964",
-    "abstract": "BACKGROUND Left ventricular assist devices (LVADs) are a well-known therapeutic option for patients with advanced heart failure. Pump speed directly influences ventricular dimensions, septal position, right ventricular (RV) loading conditions, and overall haemodynamics. Echocardiography remains crucial for the assessment of such patients, whereas the venous excess ultrasound score (VExUS) is an emerging bedside tool for evaluating systemic venous congestion. CASE SUMMARY A 45-year-old woman with advanced ischaemic cardiomyopathy was admitted to the intensive care unit after HeartMate 3 LVAD implantation. On the fourth postoperative day, she developed severe hypotension with low estimated pump flow and low pulsatility index (PI) while the LVAD was set at 5100 rpm. After an empiric 250 mL saline bolus, urgent transthoracic echocardiography showed a small left ventricular cavity, RV dilation, leftward septal shift, and features of ventricular interdependence. VExUS assessment demonstrated severe systemic venous congestion, with hepatic vein systolic flow reversal, marked portal vein pulsatility, and severely abnormal intrarenal venous Doppler flow. Based on combined echocardiographic, venous Doppler, and device findings, hypotension was attributed to suction-related ventricular interdependence and right-sided congestion rather than isolated hypovolaemia. LVAD speed was decreased from 5100 rpm to 4900 rpm, followed by rapid haemodynamic stabilisation, improved pump flow and PI, restoration of a midline septal position, and partial improvement in portal venous flow. CONCLUSION This case highlights the potential value of integrating VExUS with conventional echocardiography and LVAD parameter interpretation during postoperative haemodynamic instability. Serial venous Doppler assessment may help distinguish congestion-related ventricular interdependence from true hypovolaemia and support individualized adjustment of pump speed and fluid strategy. Further validation in LVAD populations is required.",
+    "date": "2026-07-07",
+    "doi": "10.1108/cdi-07-2025-0376",
+    "url": "https://doi.org/10.1108/cdi-07-2025-0376",
+    "abstract": "Purpose Previous research on perceived underqualification has primarily focused on the fit perspective or social comparison perspective, with limited attention given to the identity-related perspective. Drawing upon the self-affirmation theory, this study investigates how young employees' perceived underqualification influences their job search behavior and examines the moderating role of forgone identity dwelling. Design/methodology/approach We conducted two empirical studies including a three-wave field survey and a scenario experiment. Findings Our findings indicate that young employees' perceived underqualification negatively affected state self-esteem, which in turn increased job search behavior. Moreover, forgone identity dwelling weakened the negative effect of perceived underqualification on state self-esteem. Originality/value These findings enhance our understanding of perceived underqualification from the identity-related perspective, extend self-affirmation theory by incorporating the concept of the forgone self and contribute to forgone identity dwelling research by pointing out its new mechanism.",
     "authors": [
-      "Fotios Dimitriadis",
-      "Dimitrios Elaiopoulos",
-      "Michalis Antonopoulos",
-      "Giorgos Konstantinou"
+      "Hang Yang",
+      "Shiyong Xu",
+      "Zheyuan Wang"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Public Policy",
-    "title": "Trade-off between economic and social sustainability growth: the moderating role of CEO gender",
-    "journal": "Corporate Governance: The International Journal of Business in Society",
+    "title": "WHEN EMOTIONS SPIRAL: POLARIZATION AND RATIONAL RECONSTRUCTION IN ONLINE TEACHER DISCUSSIONS",
+    "journal": "European Journal of Education Studies",
     "year": "2026",
-    "date": "2026-07-06",
-    "doi": "10.1108/cg-10-2025-0812",
-    "url": "https://doi.org/10.1108/cg-10-2025-0812",
-    "abstract": "Purpose This study aims to examine the potential trade-off between the two dimensions of sustainability − economic sustainability (ESGR) and social sustainability (SSGR). In addition, the study aims to explore the moderating role of CEO gender in this relationship, thereby assessing how executive characteristics influence the balance between economic and social dimensions of corporate sustainable growth. Design/methodology/approach This study uses panel data from 272 firms listed on the Ho Chi Minh and Hanoi Stock Exchanges over the period 2011–2022. Fixed effects models, generalized method of moments (GMM) and outlier-robust DFIT techniques are used to ensure robust estimation. Findings After controlling for firm-specific characteristics, resource constraints drive firms to adopt more conservative strategies, resulting in trade-offs between economic and social dimensions of sustainability. However, firms led by female CEOs are better able to mitigate the severity of these trade-offs, maintaining social sustainability alongside economic objectives. These findings highlight the role of CEO gender in shaping how firms allocate resources under constraints and balance competing sustainability goals. Originality/value This study provides new insights into sustainability by showing that economic and social dimensions involve inherent trade-offs. It further demonstrates that CEO gender moderates this relationship, with the trade-off between discretionary ESGR and SSGR being less pronounced in firms led by female CEOs. Drawing on stakeholder theory and social role theory, the study explains how leadership characteristics shape firms’ responses to competing stakeholder demands, highlighting the role of leadership composition in promoting more balanced sustainable growth.",
+    "date": "2026-07-07",
+    "doi": "10.46827/ejes.v13i7.6837",
+    "url": "https://doi.org/10.46827/ejes.v13i7.6837",
+    "abstract": "<p>The teaching profession in China is culturally paradoxical: revered as spiritual patriarchs yet burdened by unlimited responsibility and public outrage. This study investigates how online discussions of teacher misconduct can escalate into emotional outbursts. Using grounded theory, we analyzed 4,000 user comments from eight incidents on Chinese social media between 2023 and 2025. The proposed Emotional Polarization Spiral model comprises six self‑reinforcing stages: fragmented triggering, emotional arousal, algorithmic amplification, echo chamber reinforcement, group polarization, and labeling simplification. The spiral revolves around cumulative erosion of public trust in teachers; each incident depletes trust capital and intensifies the next cycle. The model extends affective polarization research to a non‑Western, morally freighted occupation, specifies recursive emotion‑algorithm‑identity mechanisms, and adapts Habermas’s refeudalization thesis to China’s administered publicness. Practical implications for platform governance, cultural cultivation, professional empowerment, and shielded mini‑publics are discussed.</p>",
     "authors": [
-      "Chi Duong Thi"
+      "Fahui Fei"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "Vertical information sharing of reference quality in e-marketplaces",
+    "journal": "Journal of Business & Industrial Marketing",
+    "year": "2026",
+    "date": "2026-07-07",
+    "doi": "10.1108/jbim-10-2025-0948",
+    "url": "https://doi.org/10.1108/jbim-10-2025-0948",
+    "abstract": "Purpose The platform economy has enabled extensive information sharing among manufacturers, retailers, and e-commerce platforms. While existing studies primarily examine bilateral exchanges of demand or supply data, the rise of platform-provided customer analytics allows manufacturers to better understand consumers’ reference quality and refine their product quality decisions. Therefore, this study aims to investigate whether such analytics truly enhance customer satisfaction without prompting excessive or misdirected investments in product quality. Design/methodology/approach This study investigates a manufacturer’s optimal choice of information sources for product quality decisions by integrating game-theoretical modeling with numerical analysis. The model captures a multi-echelon supply chain consisting of a manufacturer, a retailer, a platform and end consumers. Findings The analysis shows that the manufacturer’s strategic choice of information source is jointly determined by its perception of the consumer's reference quality, the platform’s commission rate, and the retailer’s information service fee. Moreover, the manufacturer exhibits a stronger incentive to acquire customer analytics when it opens a direct distribution channel – selling directly on the platform rather than exclusively through the retailer. When platform commission rates are relatively low, the manufacturer is more inclined to align with the platform by adopting direct sales and procuring analytics services from the platform. Originality/value First, this research extends the information-sharing literature by shifting the focus from demand information to reference-quality information. Second, it fills an important gap by examining scenarios in which both an e-commerce platform and an online retailer offer customer analytics services to the manufacturer. Finally, it provides insights into best practices for leveraging big data analytics-enabled customer analytics in product quality design, thereby enriching supply chain research under vertical information asymmetry.",
+    "authors": [
+      "Zhaojun Yang",
+      "Yuke Hu",
+      "Jun Sun",
+      "Xu Hu"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Understanding mobile money usage among farmers in the hiran region of somalia: an extended technology acceptance model (TAM) approach",
+    "journal": "Agriculture & Food Security",
+    "year": "2026",
+    "date": "2026-07-07",
+    "doi": "10.1186/s40066-026-00641-9",
+    "url": "https://doi.org/10.1186/s40066-026-00641-9",
+    "abstract": "",
+    "authors": [
+      "Husein Osman Abdullahi",
+      "Murni Mahmud",
+      "Elin Eliana Abdul Rahim",
+      "Abdikarim Abi Hassan"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Understanding how burnout shapes teachers' behavioral responses through a scenario-based approach: insights from Thai middle school teachers",
+    "journal": "Middle Grades Research Journal",
+    "year": "2026",
+    "date": "2026-07-07",
+    "doi": "10.1108/mgrj-11-2025-0006",
+    "url": "https://doi.org/10.1108/mgrj-11-2025-0006",
+    "abstract": "Purpose By integrating scenario-based interviews with measures of teacher burnout, this study aims to provide a nuanced understanding of how teachers respond to students exhibiting challenging behaviors both during and after instructional periods. Consequently, this study sought to address the following research questions: RQ1: How do middle-school teachers with varying levels of burnout describe their approaches to managing student misbehavior and maintaining classroom discipline? RQ2: How does burnout influence middle-school teachers' willingness or ability to adapt pedagogical strategies in response to student disengagement or behavioral challenges? Design/methodology/approach Methodology Research Design Although this study was primarily qualitative, quantitative data were also collected, specifically measures of teacher burnout levels, to complement the qualitative exploration of teachers' responses in the scenario-based interviews. The quantitative component assessed burnout levels using a standardized questionnaire, while the qualitative component involved semi-structured interviews in which teachers were presented with a hypothetical student scenario. This design allowed for a nuanced understanding of how burnout may have influenced teachers' decision-making processes in real classroom situations. To enhance trustworthiness, attention was given to researcher positionality and analytic verification. The researcher maintained a reflexive stance throughout the study by acknowledging personal perspectives and potential biases related to teaching and education, ensuring that interpretations were grounded in the data rather than prior assumptions. In addition, the developed categories. Findings Results revealed that teachers with high or moderate burnout tended to adopt avoidant or punitive strategies, focusing on maintaining classroom order and limiting emotional involvement. Conversely, low-burnout teachers employed supportive and adaptive approaches, emphasizing dialogue, reflection, and flexible instructional strategies. Differences in practical decisions were observed both during classroom incidents and in post-class engagement, highlighting the impact of burnout on relational and pedagogical practices. Research limitations/implications While this study provides valuable insights into how burnout influences the behavioral responses of middle school teachers, several limitations must be acknowledged. First, the data collection relied on a scenario-based approach and self-reported measures. While scenarios allow for a standardized comparison of teacher decision-making, they may not fully capture the real-time emotional intensity and environmental pressures of an actual classroom incident. Additionally, it is important to note that the scenario-based design captures teachers' intended or reflective responses rather than their real-time practices, which unfold under immediate emotional, cognitive, and environmental pressures. In actual classroom situations, teachers must respond instantaneously to dynamic student behaviors, which may lead to reactions that differ from those articulated in a structured interview context. Teachers' professed strategies in an interview context may be influenced by social desirability bias, reflecting how they believe they should act rather than their instinctive reactions during a high-stress encounter with a young adolescent. Second, the participant pool consisted of 62 middle school teachers from specific urban and suburban contexts in Thailand. While this sample size provided rich qualitative depth, the findings may not be universally generalizable to all middle-level education settings, particularly those in different cultural or socio-economic environments. Furthermore, the cross-sectional nature of the study prevents the establishment of a causal relationship between burnout levels and specific management orientations. Given these limitations, several avenues for future research are recommended. Most importantly, future studies should employ quantitative research designs to strengthen and validate these findings. Large-scale longitudinal surveys could examine whether the four categories identified in this study (avoidant, referral, punitive and supportive) remain consistent across a broader, more diverse demographic of educators. Quantitative modeling, such as Structural Equation Modeling (SEM), could be used to measure the statistical strength of the relationship between specific dimensions of burnout, such as disengagement and exhaustion, and the likelihood of adopting punitive versus supportive orientations. Additionally, future research should incorporate objective observational data, such as classroom video analysis, to triangulate self-reported data with actual behavioral outcomes. Investigating the impact of these teacher responses on middle-level learners' academic engagement and emotional well-being would also provide a more holistic understanding of the burnout-management cycle. Finally, intervention studies are needed to determine if specific professional development programs focused on relational pedagogy and emotional regulation can effectively shift teachers from avoidant or punitive stances toward more supportive, developmentally responsive approaches. Practical implications The findings of this study underscore that teacher burnout is not only a matter of individual well-being but a critical determinant of classroom dynamics, disciplinary orientation, and student–teacher relationships (Jennings and Greenberg, 2009; Madigan and Kim, 2021). As burnout increases, teachers' behavioral management strategies shift from relational and supportive engagement toward procedural, punitive, or avoidant practices. This progression suggests that burnout diminishes teachers' emotional and cognitive resources, leading to reduced empathy, lower pedagogical adaptability, and weakened relational connections with students. Conversely, teachers with low burnout demonstrate greater emotional resilience, reflective capacity, and willingness to engage constructively with challenging student behaviors, thereby fostering a more inclusive and supportive classroom climate (Jennings and Greenberg, 2009). Collectively, these findings imply that addressing teacher burnout is essential not only for sustaining educator health but also for promoting positive student outcomes (Madigan and Kim, 2021). Institutional efforts to mitigate burnout, through workload management, emotional support systems, and professional development focused on relational and reflective teaching, may enhance teachers' capacity for adaptive classroom management and preserve the quality of student engagement. In essence, preventing and alleviating burnout is integral to sustaining both teacher effectiveness and the relational fabric of educational environments. Building on these insights, schools can translate relational pedagogy into actionable structures and daily practices. For example, middle grades teams may adopt advisory models in which a small group of students meets regularly with a designated teacher to build trust, monitor well-being, and provide consistent emotional support. Interdisciplinary team structures can further enable shared responsibility for student development, allowing teachers to collaboratively address behavioral and emotional needs rather than relying solely on individual classroom management. In practice, relational pedagogy may involve strategies such as daily check-ins, restorative conversations following conflicts, co-constructing classroom norms with students, and integrating social-emotional learning (SEL) into academic instruction through reflective discussions and perspective-taking activities. Professional development that models these practices, alongside opportunities for teacher collaboration and reflection, can help educators operationalize relational approaches in ways that are both sustainable and responsive to the complexities of middle grades classrooms. Although this study focuses on the Thai educational context, its findings align with international research on middle grades education, which consistently emphasizes the importance of strong teacher–student relationships during early adolescence. At this stage, students are particularly sensitive to the social and emotional climate of their classrooms. As a result, when teacher burnout weakens relational teaching practices, it poses a significant risk to students' academic progress and overall development across different contexts. Therefore, addressing teacher burnout is not only a local concern but also a global priority for ensuring the core goals of middle grades education are achieved. Originality/value These findings suggest that teacher burnout constrains emotional and cognitive resources, reducing empathy and adaptability, while lower burnout fosters resilience and constructive student interactions. Institutional interventions, including workload management, emotional support and professional development in relational pedagogy, may mitigate burnout and enhance both teacher effectiveness and student outcomes.",
+    "authors": [
+      "Supamongkol Kasemjitwat"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "Totems of Power: A Bronze Cauldron and an Iron Adze from Poggio Civitate",
-    "journal": "Etruscan and Italic Studies",
+    "title": "The school campus as a living laboratory: Examining opportunities and challenges for Urban Civic Ecology Education using a case study from Singapore",
+    "journal": "Urban Ecosystems",
     "year": "2026",
-    "date": "2026-07-06",
-    "doi": "10.1515/etst-2026-0002",
-    "url": "https://doi.org/10.1515/etst-2026-0002",
-    "abstract": "Abstract In 1971, a large bronze cauldron was recovered from the floor of Poggio Civitate’s Intermediate Phase elite residence. The cauldron was not restored until 2010 and during the process of its cleaning, an iron adze was recovered from within the vessel. Excavation records demonstrate that immediately surrounding the vessel were high concentrations of luxurious banqueting wares, finely carved bone, antler and ivory objects, and fragments of large ceramic vessels, all indicative of a storage area for elements of an opulent banquet service. The cauldron and adze’s association with a banquet service capable of provisioning scores of individuals suggests it was used in the context of communal banqueting and was part of the equipment employed in the performance of high-status identity within the community. The example of an adze from an aristocratic domestic context complements examples of similar objects included in elite burials of the same period, further illustrating the interplay between quotidian and funerary use of such materials.",
+    "date": "2026-07-07",
+    "doi": "10.1007/s11252-026-02057-6",
+    "url": "https://doi.org/10.1007/s11252-026-02057-6",
+    "abstract": "",
     "authors": [
-      "Anthony Tuck"
+      "Yun Hye Hwang"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Consumer Research",
-    "title": "The basic psychological needs of fitness self-testing for Chinese male college students: a qualitative perspective",
-    "journal": "Frontiers in Psychology",
+    "field": "Mental Health",
+    "title": "Resetting the fibrotic liver clock: NR1D1 couples Hedyotis diffusa to the HIF-1/urea-cycle-ammonia axis and stellate cell activation",
+    "journal": "World Journal of Gastroenterology",
     "year": "2026",
-    "date": "2026-07-06",
-    "doi": "10.3389/fpsyg.2026.1865420",
-    "url": "https://doi.org/10.3389/fpsyg.2026.1865420",
-    "abstract": "Introduction Guided by Self-Determination Theory (SDT), this study examined Chinese male college freshmen’s perceptions of their fundamental psychological needs in relation to fitness self-testing. Specifically, the study focused on how the educational experience of independently monitoring and enhancing health-related fitness (HRF) supported—or challenged—the satisfaction of autonomy, competence, and relatedness. Methods Ten participants (age: 18–19 years old) were purposively sampled from those whose fitness testing scores ranked in the top or bottom 5% of the class at the end of a semester. Each participant completed monthly self-testing sessions over 4 months. Guided by the SDT, semi-structured in-depth interviews were conducted. Constant comparative analysis was used to analyze the data to generate themes. Observation notes and student reflections were utilized for data triangulation. Peer debriefing, member checking, and negative case analysis were conducted to establish the trustworthiness of the data. Results Four main themes emerged from the data: (a) Autonomy as empowerment and responsibility, (b) Competence satisfaction mixed with frustration, (c) Self-testing as a socially embedded practice, and (d) Self-testing as a catalyst for self-challenge, and self-regulated lifestyle development. Conclusion The three basic psychological needs in fitness self-testing, autonomy, competence, and relatedness, were central in this context. These findings can inform future fitness self-testing protocols that support student learning, HRF, and social belonging.",
+    "date": "2026-07-07",
+    "doi": "10.3748/wjg.118561",
+    "url": "https://doi.org/10.3748/wjg.118561",
+    "abstract": "Hepatic fibrosis is a pivotal and reversible stage of chronic liver disease, yet approved antifibrotic therapies remain scarce. In World Journal of Gastroenterology , Xia et al reframes fibrosis as disordered circadian-hypoxia-metabolic crosstalk and highlights NR1D1-centered reprogramming of the HIF-1/urea-cycle-ammonia axis as a testable antifibrotic strategy. After identifying six Hedyotis diffusa injection (HDI)-derived constituents detectable in blood and liver, the authors integrate network pharmacology, Gene Expression Omnibus mining, and liver proteomics to nominate circadian rhythm regulation, hypoxia-inducible factor 1 signaling, and urea-cycle/ammonia metabolism as convergent hubs. In a carbon tetrachloride-induced mouse model, HDI reduces collagen deposition and α-smooth muscle actin expression and improves fibrosis-associated serum indices. Zeitgeber-time sampling indicates disrupted clock gene profiles in fibrotic liver and partial restoration after HDI, with prominent NR1D1 recovery. HDI also reduces hepatic HIF-1α abundance, restores carbamoyl phosphate synthetase 1 activity, and lowers hepatic ammonia. AAV9-mediated NR1D1 knockdown blunts these biochemical and histologic improvements, supporting target dependency. In vitro , ammonium chloride activates LX2 stellate cells and induces mitochondrial hyperfusion, consistent with local ammonia stress amplifying fibrogenic activation. Translational priorities include identifying the active HDI constituents and confirming direct NR1D1 engagement, validating efficacy across etiologic fibrosis models, and assessing ammonia/urea-cycle markers for patient selection, monitoring, and phase-aligned dosing.",
     "authors": [
-      "Xin Zhang",
-      "Jiren Zhang",
-      "Chenhao Wu",
-      "Yucen Li"
+      "Si-Rui Wang",
+      "Xin-Yu Lu",
+      "Guo-Ju Jin",
+      "Ting-Lan Cao"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "The Impact of Global FinTech Development on Cross-Border Capital Flows and Regulatory Frameworks",
-    "journal": "Advances in Information Management and Economic Development Research",
-    "year": "2026",
-    "date": "2026-07-06",
-    "doi": "10.70114/aimedr.2026.3.1.p9",
-    "url": "https://doi.org/10.70114/aimedr.2026.3.1.p9",
-    "abstract": "FinTech transforms cross-border payments from expensive, slow processes to cheaper, faster alternatives. Digital payment systems now handle more remittances and small transactions through official channels, with growth expected through the early 2030s. These changes affect how capital moves globally—funds flow more quickly and react faster to market signals. Stablecoins and cryptocurrencies create new payment routes that challenge traditional currency controls and money laundering prevention. Governments respond with updated payment regulations, instant settlement networks, open banking policies, and digital currency trials. This paper examines how technology and regulation interact in cross-border finance, proposing better international cooperation, tech-enabled oversight, stronger domestic systems, and consumer safeguards to capture efficiency gains while maintaining financial stability.",
-    "authors": [
-      "Jing Hong"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Management",
-    "title": "Corrigendum",
-    "journal": "Proceedings of the Institution of Civil Engineers - Water Management",
+    "title": "Institutional determinants and the IS success model enabling integrated project performance in construction projects: a dual-theory perspective",
+    "journal": "Engineering, Construction and Architectural Management",
     "year": "2026",
-    "date": "2026-07-06",
-    "doi": "10.1680/jwama.25.00039a",
-    "url": "https://doi.org/10.1680/jwama.25.00039a",
-    "abstract": "",
-    "authors": [],
+    "date": "2026-07-07",
+    "doi": "10.1108/ecam-01-2026-0112",
+    "url": "https://doi.org/10.1108/ecam-01-2026-0112",
+    "abstract": "Purpose This study examines how institutional pressures and organizational factors influence integrated project performance in construction through information systems (IS) success mechanisms. Design/methodology/approach A quantitative cross-sectional survey of 344 construction professionals was analyzed using partial least squares structural equation modelling (PLS-SEM). The study integrates institutional theory with the IS success model to test direct and mediated relationships. Findings System quality, information quality, service quality and system use significantly enhance integrated project performance. Coercive pressure, organizational readiness and strategic vision for innovation exert strong direct and indirect effects, while mimetic pressure shows selective influence and normative pressure remains limited. The model demonstrates substantial explanatory power and predictive relevance. Originality/value This study develops and empirically validates a dual-theory framework, showing that digital performance in construction depends on the alignment of institutional forces, organizational capability and effective system utilization.",
+    "authors": [
+      "Ahsan Waqar",
+      "Azlan Shah Ali",
+      "Mahanim Hanid"
+    ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
