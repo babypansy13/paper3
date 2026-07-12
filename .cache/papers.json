@@ -1,151 +1,159 @@
 [
   {
-    "field": "Public Policy",
-    "title": "‘You only care when it hurts’ - men’s engagement with their health: a qualitative interview study in Lower Austria",
-    "journal": "BMC Public Health",
+    "field": "Consumer Research",
+    "title": "Understanding The Drivers of Concurrent Floods and Droughts Under a Warming Climate (1981–2024) in Rwanda",
+    "journal": "AFRICAN JOURNAL OF APPLIED RESEARCH",
     "year": "2026",
-    "date": "2026-07-11",
-    "doi": "10.1186/s12889-026-28215-1",
-    "url": "https://doi.org/10.1186/s12889-026-28215-1",
-    "abstract": "",
+    "date": "2026-07-12",
+    "doi": "10.26437/7smxc740",
+    "url": "https://doi.org/10.26437/7smxc740",
+    "abstract": "Purpose: This paper analyses the trends and drivers of floods and droughts that frequently occur in Rwanda. Design/Methodology/Approach: The 44-year CHIRPS and ERA5 datasets were partitioned into 3 epochs to account for climatic oscillations like El Niño. The analysis was done through climatic water balance calculation, drought and flood monitoring indices, agricultural seasons analysis, and statistical analysis like trend detection, drought anatomy, and Extreme Value analysis. Research Limitation: The study is limited by technical constraints of the CHIRPS and ERA5 datasets, which may underestimate high-intensity peaks or miss low-level moisture in high-elevation regions. Findings: Temperature has increased since 1981, but precipitation shows a dip-and-recovery trend. Storms are becoming more explosive and less frequent. The agricultural season B is shorter than before. Droughts are caused primarily by increased evapotranspiration. Practical Implication: The results suggest a revision of infrastructure design standards, specifically drainage systems and IDF curves, to accommodate the \"new normal\" of explosive storms. More research is needed to improve rainwater harvesting. Social Implication: Increasing climate volatility threatens food security and rural livelihoods dependent on rain-fed agriculture. Originality/ Value: This paper provides a data-driven framework that integrates remote sensing and multidimensional indices to address research gaps in dual-hazard analysis in topographically complex, data-scarce regions.",
     "authors": [
-      "Ursula Griebler",
-      "Julia Daxenbichler",
-      "Isabel Moser",
-      "Nina Mitterbauer"
+      "L. Iraguha",
+      "D. O. Olukanni"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "Tree Collateral Loan as a Sustainable Financing Instrument: Evidence from Smallholders’ Livelihood Changes in Gunungkidul, Indonesia",
+    "journal": "Jurnal Manajemen Hutan Tropika (Journal of Tropical Forest Management)",
+    "year": "2026",
+    "date": "2026-07-12",
+    "doi": "10.7226/jtfm.32.3.257",
+    "url": "https://doi.org/10.7226/jtfm.32.3.257",
+    "abstract": "Tree-collateral loans have been introduced in Indonesia to ease liquidity constraints faced by smallholder forest farmers, who often resort to premature harvesting. This study evaluates the impacts of the forestry microcredit called pinjaman tunda tebang (PTT) scheme on household livelihood assets in Gunungkidul District, Yogyakarta. Data were collected from a survey of 180 households (90 borrowers and 90 non-borrowers). To reduce selection bias, propensity score matching was applied, yielding a balanced sample of 134 households (44 borrowers and 90 controls). The average treatment effect on the treated was then estimated across ten indicators representing financial, physical, human, social, and natural capitals. Results show that financial capital improved most, with borrowers more likely to diversify income, operate side businesses, and fall into higher monthly-income brackets. Natural and physical capitals showed modest differences, including larger forestland and higher-perceived infrastructure access, but these may reflect pre-existing assets rather than causal program impacts. By contrast, human and social capital were weaker, with borrowers participating less in training, reporting lower technical adequacy, and engaging less in farmer-group meetings. These findings highlight that while PTT is effective as a liquidity instrument, its transformative potential depends on integration with training and collective empowerment. For broader impact, rural microcredit must be coupled with extension services and group strengthening to align financial access with long-term rural livelihood resilience.",
+    "authors": [
+      "D B Permadi",
+      "A R Pambudi",
+      "R H Purwanto",
+      "T Atmojo"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Consumer Research",
-    "title": "WOMEN EMPOWERMENT AND LOCAL ECONOMIC DEVELOPMENT THROUGH COMMUNITY-BASED MICROFINANCE NETWORKS",
-    "journal": "EPRA International Journal of Agriculture and Rural Economic Research",
-    "year": "2026",
-    "date": "2026-07-11",
-    "doi": "10.36713/epra30845",
-    "url": "https://doi.org/10.36713/epra30845",
-    "abstract": "This conceptual paper examines the structural integration of community-based microfinance networks—exemplified by state-sponsored poverty eradication and women empowerment missions—into local governance frameworks. Moving beyond region-specific assessments, this study investigates how decentralized, three-tier community networks transform marginalized groups from passive welfare recipients into active economic agents. By synthesizing theoretical frameworks of gender equality, human capital optimization, and financial inclusion, the paper highlights how micro-credit recycling, localized democratic leadership, and capacity-building mechanisms foster multidimensional empowerment (economic, social, and psychological) among women.",
-    "authors": [
-      "Dr Sreekala M"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Utility of FDG PET/CT for detection of infective endocarditis in pediatric and young adult congenital heart disease",
-    "journal": "European Journal of Nuclear Medicine and Molecular Imaging",
-    "year": "2026",
-    "date": "2026-07-11",
-    "doi": "10.1007/s00259-026-08032-9",
-    "url": "https://doi.org/10.1007/s00259-026-08032-9",
-    "abstract": "",
-    "authors": [
-      "Matthew Cleveland",
-      "Hyeonseon Kim",
-      "Jason Gillum",
-      "Laura Drubach"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "Toxic metals in Cosmetic and Personal Care Products: Occurrence, Concentrations, and Health Risks",
-    "journal": "Biological Trace Element Research",
-    "year": "2026",
-    "date": "2026-07-11",
-    "doi": "10.1007/s12011-026-05220-4",
-    "url": "https://doi.org/10.1007/s12011-026-05220-4",
-    "abstract": "",
-    "authors": [
-      "Ebuka Chizitere Emenike",
-      "Kingsley O. Iwuozor",
-      "Suleiman Kamaldeen Olayinka",
-      "Oladimeji Oloruntobi Taiye"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Marketing",
-    "title": "SERVICE QUALITY GAPS IN OFFLINE RESTAURANTS: AN APPLICATION OF SERVQUAL",
-    "journal": "EPRA International Journal of Economics Business and Management Studies",
+    "title": "Quantum-safe DualRing with shorter signature and public key",
+    "journal": "International Journal of Information Security",
     "year": "2026",
-    "date": "2026-07-11",
-    "doi": "10.36713/epra28634",
-    "url": "https://doi.org/10.36713/epra28634",
-    "abstract": "Service quality has emerged as a critical determinant of customer satisfaction and competitive advantage in the restaurant industry. As customer expectations continue to evolve, restaurants must consistently deliver high-quality services to retain customers and sustain long-term business performance. The SERVQUAL model provides a widely accepted framework for assessing service quality by examining the gap between customer expectations and perceptions across multiple service dimensions. The present study applies the SERVQUAL model to evaluate service quality gaps in offline restaurant services. Data are collected from customers of restaurants operating through traditional dine-in service channels. The study examines customer expectations and perceptions with respect to key service quality dimensions, including tangibility, reliability, responsiveness, assurance, and empathy. Gap scores are computed by comparing perception and expectation ratings, and paired sample statistical techniques are employed to assess the significance of differences between expected and perceived service performance. The findings are expected to identify areas where service delivery falls short of customer expectations and provide insights for improving customer experience and service effectiveness. The study contributes to the service quality literature by offering empirical evidence on offline restaurant services and provides practical implications for restaurant managers seeking to enhance customer satisfaction and service excellence.",
+    "date": "2026-07-12",
+    "doi": "10.1007/s10207-026-01273-7",
+    "url": "https://doi.org/10.1007/s10207-026-01273-7",
+    "abstract": "",
     "authors": [
-      "Mrs. Sumathi",
-      "Dr. Veena M"
+      "Guangyu Liao",
+      "Zengpeng Li",
+      "Guangsheng Feng",
+      "Hongwu Lv"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Psychology",
-    "title": "Identification of VAYPQCV, a Gastrointestinally Stable Competitive DPP-IV Inhibitory Peptide from Bitter Leaf (Vernonia amygdalina)",
-    "journal": "Plant Foods for Human Nutrition",
+    "title": "Atmospheric CO₂-to-acetaldehyde artificial photosynthesis in metallo hydrogen-bonded organic frameworks",
+    "journal": "Nature Communications",
     "year": "2026",
-    "date": "2026-07-11",
-    "doi": "10.1007/s11130-026-01542-9",
-    "url": "https://doi.org/10.1007/s11130-026-01542-9",
-    "abstract": "",
+    "date": "2026-07-12",
+    "doi": "10.1038/s41467-026-75384-z",
+    "url": "https://doi.org/10.1038/s41467-026-75384-z",
+    "abstract": "Abstract Artificial photosynthesis of acetaldehyde from atmospheric CO 2 is highly promising, yet remains severely limited by low CO 2 concentration in air and sluggish proton transfer kinetics. Herein, we report metallo hydrogen-bonded organic frameworks (MHOFs) of HNNU-X (X = O, S, Se) which enable acetaldehyde synthesis directly from air, water, and natural sunlight. Among them, HNNU-Se exhibits a competitive acetaldehyde production rate of 557.1 μmol g⁻¹ h⁻¹ with high electron-based selectivity of 95% under outdoor conditions, without need of sacrificial agents. Mechanistic studies reveal that HNNU-X creates a proton-rich microenvironment in which [Zn(tpy)] 2+ cations function as CO 2 capture and activation sites for direct air capture, while [XCN] – anions serve as proton shuttles, facilitating rapid transfer of in-situ generated H⁺ from solar-driven water oxidation to adsorbed CO 2 . This work enables the synergistic coupling of CO 2 reduction and H 2 O oxidation, thereby achieving efficient artificial photosynthesis of acetaldehyde.",
     "authors": [
-      "Fitri Widya Handayani",
-      "Christoper Caesar Yudho Sutopo",
-      "Wei-Ting Hung",
-      "Isnawati"
+      "Jun Pang",
+      "Xinyu Bai",
+      "Junjie Dai",
+      "Sijie Liu"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Family Studies",
-    "title": "A Scoping Review of In-Law Abuse",
-    "journal": "Journal of Family Violence",
+    "field": "Mental Health",
+    "title": "КАДРОВОЕ ОБЕСПЕЧЕНИЕ ОПЕРАТОРОВ В СИСТЕМЕ ОПОВЕЩЕНИЯ НАСЕЛЕНИЯ: КОМПЕТЕНТНОСТНАЯ МОДЕЛЬ И АЛГОРИТМ КОМПЛЕКСНОЙ ОЦЕНКИ",
+    "journal": "Safety in the Modern World",
     "year": "2026",
     "date": "2026-07-11",
-    "doi": "10.1007/s10896-026-01143-9",
-    "url": "https://doi.org/10.1007/s10896-026-01143-9",
-    "abstract": "Abstract Purpose In-law abuse is a pervasive social problem with devastating physical, psychological, health, and social consequences. Despite its adverse effects, this form of violence has not received adequate scholarly attention; consequently, literature on it remains scarce. This scoping review aims to synthesise existing empirical findings on the prevalence, forms and victim-based classification of in-law abuse, drivers, consequences, and geographic coverage of studies on in-law abuse, as well as to identify gaps in the literature to guide future research. Methods A comprehensive search for empirical, peer-reviewed studies was conducted across six databases: ProQuest, Google Scholar, Web of Science, Scopus, PubMed, and Sabinet. A total of 14 empirical, peer-reviewed studies were included in the review, highlighting the scarcity of research on this topic. Results The findings reveal that while the phenomenon of in-law abuse can be found in India, Afghanistan, Côte d’Ivoire, and Mozambique, most studies are concentrated in South Asia, particularly in India. Evidence indicates that abuse against daughters-in-law is largely driven by socio-cultural and psychological factors, while research on risk factors for abuse against in-laws by daughters-in-law remains limited. Furthermore, although the review identified various types of in-law abuse, such as abuse of daughter-in-law, mother-in-law, father-in-law, and son-in-law, the literature predominantly focuses on abuse perpetrated by mothers-in-law against daughters-in-law. Conclusions The extant evidence base on in-law abuse is geographically concentrated in South Asia. While existing findings highlight the importance of socio-cultural factors, the phenomenon remains underexplored in the Global North, contributing to its relative absence from dominant family violence frameworks.",
+    "doi": "10.25629/smw.2026.02.03",
+    "url": "https://doi.org/10.25629/smw.2026.02.03",
+    "abstract": "Цель статьи – разработать практико-ориентированную модель кадрового обеспечения операторов систем поддержки принятия решений при оповещении населения об угрозе опасных метеорологических явлений. Методы: компетентностный и системный подходы, анализ трудовых задач, моделирование, экспертный опрос, тестирование на ситуационных кейсах. Предложена трёхкомпонентная модель профессиональной готовности, включающая уровень компетентностей, готовность к приёму и обработке информации, а также результативность в учениях и сменной работе. Коэффициенты значимости показателей и пороговые значения в модели определяются экспертным методом применительно к конкретной территории и функциональной роли оператора. Разработан алгоритм, связывающий профиль должности, экспертный опрос, тесты, симуляторные кейсы, расчёт интегрального индекса и индивидуальную траекторию развития. Демонстрационный расчёт иллюстрирует процедуру выбора рекомендации: самостоятельная работа, наставничество либо дополнительная подготовка. Практическая ценность заключается в снижении субъективности кадровых решений и в создании измеримой связи между подготовкой оператора, качеством управленческого решения и эффективностью оповещения. The paper develops a practice-oriented staffing model for decision-support-system operators who warn the public about hazardous weather events. The methods include a competency-based and system approach, task analysis, modelling, an expert survey and scenario-based testing. A three-component readiness model integrates competency level, information-processing readiness and performance in drills and shift work. Indicator weights and decision thresholds are to be determined by an expert method for a specific territory and the operator’s functional role. The algorithm connects a job profile, an expert survey, knowledge tests, simulator cases, an integrated readiness index and an individual development pathway. A demonstration calculation illustrates the procedure for choosing a recommendation: independent work, mentoring or additional training. The approach reduces the subjectivity of staffing decisions and creates a measurable relationship between operator training, decision quality and warning effectiveness.",
     "authors": [
-      "Lanre Abdul-Rasheed Sulaiman"
+      "С.Ю. Бутузов",
+      "Д.А. Бережной",
+      "Н.И. Ивакина"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "USE OF ARTIFICIAL INTELLIGENCE AND PREDICTIVE ANALYTICS IN FORECASTING LOGISTICS RISKS: CONTEMPORARY APPROACHES TO SUPPLY CHAIN RESILIENCE MANAGEMENT IN THE UNITED STATES",
-    "journal": "Green, Blue and Digital Economy Journal",
+    "title": "Work Family Conflict, Workload, and Female Employee Performance: The Mediating Role of Emotional Exhaustion",
+    "journal": "Journal of Global Economics, Management and Business Research",
     "year": "2026",
-    "date": "2026-07-10",
-    "doi": "10.30525/2661-5169/2026-2-4",
-    "url": "https://doi.org/10.30525/2661-5169/2026-2-4",
-    "abstract": "The purpose of the article is to examine contemporary approaches to the application of artificial intelligence (AI) and predictive analytics in logistics risk forecasting, analyze their implementation in supply chain management systems of U.S. enterprises, and develop the author's conceptual framework for integrating AI and predictive analytics into logistics risk management in order to enhance supply chain resilience in the context of the digital transformation of the U.S. economy. Research methodology. The methodological framework of the study is based on a combination of general scientific and specialized research methods. Methods of analysis, synthesis, and literature review were employed to systematize contemporary theoretical approaches to the application of AI and predictive analytics in logistics risk forecasting. A systems approach was used to examine the interrelationships among supply chain components and logistics risk management processes. Comparative analysis was applied to investigate AI implementation practices adopted by leading U.S. companies. The method of generalization was used to identify major trends in the digital transformation of logistics and to formulate the study's conclusions. A graphical method was employed to develop the author's conceptual framework for integrating AI and predictive analytics into a logistics risk forecasting system. Finally, the logical-analytical method was applied to substantiate directions for improving supply chain resilience management under conditions of economic digital transformation. Results. The findings indicate that the implementation of artificial intelligence and predictive analytics is fundamentally transforming logistics risk management by enabling a shift toward data-driven models based on continuous monitoring and forecasting of potential supply chain disruptions. The study demonstrates that the effectiveness of such systems depends on the integration of heterogeneous data sources, the application of machine learning algorithms, and their interaction with enterprise information platforms. The analysis of best practices adopted by leading U.S. enterprises made it possible to systematize the principal areas of AI application in logistics, including demand forecasting, transportation route optimization, inventory management, supplier reliability assessment, real-time monitoring of logistics operations, and decision support. The study found that the integrated use of these technologies significantly enhances the adaptability of supply chains to external risks. Practical implications. A major practical outcome of the research is the development of the proposed conceptual framework for integrating AI and predictive analytics into a logistics risk forecasting system. Unlike existing approaches, the proposed framework combines data collection and processing, intelligent forecasting, risk assessment, decision support, and a continuous model improvement mechanism based on newly generated data. This integrated approach provides a foundation for improving logistics management efficiency and strengthening supply chain resilience. The proposed framework may be applied by enterprises, logistics service providers, and other organizations in developing digital risk management strategies, as well as in future research on intelligent decision support systems for logistics. Value/Originality. The principal theoretical contribution of this study is the development of an original conceptual framework for integrating Artificial Intelligence and Predictive Analytics into logistics risk forecasting systems. The framework combines data acquisition, intelligent data analytics, risk forecasting, decision support, and the continuous improvement of predictive models within a unified digital architecture. The proposed approach may serve as a methodological foundation for the development of digital logistics management systems across enterprises operating in various industries.",
+    "date": "2026-07-11",
+    "doi": "10.56557/jgembr/2026/v18i310835",
+    "url": "https://doi.org/10.56557/jgembr/2026/v18i310835",
+    "abstract": "The increasing participation of women in the workforce has created challenges in balancing professional responsibilities and family roles, often leading to work-family conflict and increased workload. These conditions may trigger emotional exhaustion, which can negatively affect female employee performance, particularly in public sector organisations such as the Jakarta City Health Department. This study investigates the effect of work-family conflict and workload on female employee performance at the Jakarta City Health Department, with emotional exhaustion examined as a mediating variable. A quantitative causal approach was employed. Data were collected through questionnaires distributed to 157 female employees and analysed using IBM SPSS Statistics. The analysis included validity and reliability tests, classical assumption tests, multiple linear regression, coefficients of determination, and the Sobel test. The results show that Work-Family Conflict has a positive and significant effect on Emotional Exhaustion, with a regression coefficient of 0.323 and a significance value of 0.000. Workload also has a positive and significant effect on Emotional Exhaustion, with a regression coefficient of 0.465 and a significance value of 0.000. Furthermore, Work-Family Conflict, Workload, and Emotional Exhaustion have negative and significant effects on Female Employee Performance, with regression coefficients of -0.174, -0.146, and -0.410 and significance values of 0.005, 0.024, and 0.000, respectively. The Sobel test indicates that Emotional Exhaustion significantly mediates both relationships. The study concludes that Work-Family Conflict and Workload increase Emotional Exhaustion, while these variables reduce Female Employee Performance.",
     "authors": [
-      "Nazar Holovchuk"
+      "Rachmad Rasnova",
+      "Istiyaningrum Kemala Sari"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "The Evolving Role of Bariatric Surgery in Children and Adolescents Amid the Rise of GLP-1 Receptor Agonists",
+    "journal": "Quality in Sport",
+    "year": "2026",
+    "date": "2026-07-11",
+    "doi": "10.12775/qs.2026.62.73665",
+    "url": "https://doi.org/10.12775/qs.2026.62.73665",
+    "abstract": "Background. Pediatric obesity is a chronic, progressive disease associated with metabolic, cardiovascular, orthopedic and psychosocial complications. Metabolic and bariatric surgery can provide substantial and durable weight reduction in adolescents with severe obesity, but it is invasive and requires lifelong follow-up. The growing availability of glucagon-like peptide-1 receptor agonists may influence the role of surgery. Aim. This narrative review summarizes evidence on the indications, outcomes and complications of bariatric surgery in children and adolescents and discusses its evolving role in the era of GLP-1 receptor agonist therapy. Material and methods. PubMed, Scopus and Web of Science were searched for articles published between 2016 and 2026. Landmark studies and guidelines published before 2016 were also included. The search covered pediatric obesity, adolescent bariatric surgery, sleeve gastrectomy, Roux-en-Y gastric bypass, complications, type 2 diabetes, liraglutide, semaglutide and GLP-1 receptor agonists. Results. Metabolic and bariatric surgery provides the most established long-term evidence for substantial weight loss and improvement of obesity-related complications in adolescents with severe obesity. Liraglutide and semaglutide produce clinically meaningful short-term BMI reductions and may serve as alternatives or components of multimodal care. Surgery is also associated with improved mobility, physical function, musculoskeletal pain and health-related quality of life, whereas evidence on objectively measured fitness, participation in sport and routine perioperative use of GLP-1 receptor agonists remains limited. Conclusions. GLP-1 receptor agonists do not eliminate the need for metabolic and bariatric surgery in pediatric patients but may change treatment sequencing and shared decision-making. Care should be individualized, multidisciplinary and guided by effectiveness, psychological well-being and long-term safety.",
+    "authors": [
+      "Joanna Jabłońska",
+      "Joanna Wasik",
+      "Marta Armuła",
+      "Claire Bongage"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "Nut Consumption and Cardiovascular Disease Risk among Adults in Low- and Middle-income Countries - A Scoping Review",
+    "journal": "African Journal of Food, Agriculture, Nutrition and Development",
+    "year": "2026",
+    "date": "2026-07-11",
+    "doi": "10.18697/ajfand.152.26485",
+    "url": "https://doi.org/10.18697/ajfand.152.26485",
+    "abstract": "Cardiovascular disease remains the leading cause of death worldwide, with more than eighty percent of fatalities occurring in low- and middle-income countries. Dietary strategies, such as the inclusion of nuts, have attracted attention because nuts are nutrient-dense foods rich in healthy fats, proteins, vitamins, minerals, and bioactive compounds that influence cardiovascular risk factors. This review synthesises evidence from low- and middle-income countries on the effects of different types of nuts on major cardiometabolic indicators. Nineteen studies published over the past decade were identified through four major databases: PubMed, CINAHL, Scopus, and EBSCOhost. The analysis revealed that almonds were the most frequently studied nut, with three studies exclusively focused on almonds and two on Baru almonds. Mixed nuts featured in seven studies, while cashews appeared in two. Walnuts, pistachios, pecans, hazelnuts, and peanuts were each examined in only one study, indicating a significant research gap in these settings. The findings demonstrated varied effects of nut consumption on cardiovascular risk factors. Overall, nuts were associated with improved glycemic control, lower fasting blood glucose, and a reduced risk of type 2 diabetes mellitus. Frequent nut intake, whether short- or long-term, was linked to reduced prevalence and severity of metabolic syndrome and improved reversal rates. One study reported that pistachio-enriched diets lowered systolic blood pressure and improved vascular stress response, while cashew consumption specifically reduced systolic blood pressure without significant changes in lipid profiles or diastolic pressure. Evidence on lipid modulation was mixed: some studies reported increases in high-density lipoprotein cholesterol, whereas others found no significant effect. These findings suggest that incorporating nuts into diets in low- and middle-income countries may provide cardiometabolic benefits without adverse outcomes. In conclusion, this review highlights the potential of nuts as a potentially beneficial dietary strategy for reducing cardiovascular risk factors in resource-limited settings. However, the limited diversity of nuts studied and inconsistent findings on lipid profiles underscore the need for further research across different nut types and populations in low- and middle-income countries. Key words: cardiovascular disease, diabetes, dyslipidaemia, high blood pressure, nuts, risk factors",
+    "authors": [
+      "OD Braimoh",
+      "ZN Nxusani",
+      "A Tambe",
+      "MK Zuma"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Management",
-    "title": "The Role of Cybersecurity in Organizational Strategy and Corporate Governance",
-    "journal": "International Journal of Creative and Open Research in Engineering and Management",
+    "title": "More on landau’s theorem and conjugacy classes",
+    "journal": "The Quarterly Journal of Mathematics",
     "year": "2026",
-    "date": "2026-07-10",
-    "doi": "10.55041/ijcope.v2i7.099",
-    "url": "https://doi.org/10.55041/ijcope.v2i7.099",
-    "abstract": "This study examines the evolving role of cybersecurity in organizational strategy and corporate governance, moving beyond its traditional treatment as a purely technical, IT-level concern. Primary data was collected from 50 respondents across finance, healthcare, telecommunications, and technology sectors through a structured questionnaire, using a convenience sampling technique, supplemented by secondary data from organizational reports, academic journals, and case studies. The findings reveal that while cybersecurity awareness exists among employees, it remains inconsistent across roles and organizations, with weak passwords and lack of training identified as the most significant vulnerabilities. Foundational tools such as antivirus software, data encryption, and multi-factor authentication are widely adopted, but more advanced defences like intrusion detection systems remain underutilized. The study further finds that strategic integration of cybersecurity into governance frameworks is limited, with board-level and senior management involvement still insufficient in many organizations. Confidence in an organization's ability to recover from a cyberattack is only moderate, pointing to gaps in incident response and business continuity planning. The study concludes that cybersecurity must be repositioned from a technical function to a strategic, board-level priority, requiring stronger leadership involvement, continuous training, and more robust risk management frameworks. KEYWORDS Cybersecurity Governance, Corporate Governance, Organizational Strategy, Risk Management, Cybersecurity Awareness, Board-Level Oversight, Regulatory Compliance",
+    "date": "2026-07-11",
+    "doi": "10.1093/qmath/haag024",
+    "url": "https://doi.org/10.1093/qmath/haag024",
+    "abstract": "ABSTRACT In this paper we present two new results on the number of certain conjugacy classes of a finite group. For a finite group $G$, let $n(G)$ be the maximum of $k_{p}(G)$ taken over all primes $p$ where $k_{p}(G)$ denotes the number of conjugacy classes of nontrivial $p$-elements in $G$. Using a recent theorem of Giudici, Morgan and Praeger, we prove that there exists a function $f(x)$ with $f(x) \\rightarrow \\infty$ as $x \\rightarrow \\infty$ such that $n(G) \\ge f(|G|)$ for any finite group $G$. Let $G$ be a finite group, and let $p$ be a prime dividing $|G|$. Let $k_{p^{\\prime }}(G)$ denote the number of conjugacy classes of elements of $G$ whose orders are coprime to $p$. We show that either $p=11$ and $G=C_{11}^2\\rtimes \\text{SL}(2,5)$, or there exists a factorization $p-1 = ab$ with $a$ and $b$ positive integers, such that $k_{p}(G) \\ge a$ and $k_{p^{\\prime }}(G) \\ge b$ with equalities in both cases if and only if $G=C_p \\rtimes C_b$ with $C_G(C_p) = C_p$.",
     "authors": [
-      "Khushi K R Khushi K R",
-      "Lakshmi T Lakshmi T"
+      "Burcu Çinarci",
+      "Thomas Michael Keller",
+      "Attila Maróti",
+      "Iulian I Simion"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
