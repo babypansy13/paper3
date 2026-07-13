@@ -1,159 +1,151 @@
 [
   {
-    "field": "Consumer Research",
-    "title": "Understanding The Drivers of Concurrent Floods and Droughts Under a Warming Climate (1981–2024) in Rwanda",
-    "journal": "AFRICAN JOURNAL OF APPLIED RESEARCH",
+    "field": "Management",
+    "title": "ظاهرة الدولرة في العراق وأثرها على فعالية السياسة النقدية للمدة (2005-2025) The phenomenon of dollarization in Iraq and its impact on the effectiveness of monetary policy for the period (2005-2025)",
+    "journal": "Al-Ghary Journal of Economic and Administrative Sciences",
     "year": "2026",
-    "date": "2026-07-12",
-    "doi": "10.26437/7smxc740",
-    "url": "https://doi.org/10.26437/7smxc740",
-    "abstract": "Purpose: This paper analyses the trends and drivers of floods and droughts that frequently occur in Rwanda. Design/Methodology/Approach: The 44-year CHIRPS and ERA5 datasets were partitioned into 3 epochs to account for climatic oscillations like El Niño. The analysis was done through climatic water balance calculation, drought and flood monitoring indices, agricultural seasons analysis, and statistical analysis like trend detection, drought anatomy, and Extreme Value analysis. Research Limitation: The study is limited by technical constraints of the CHIRPS and ERA5 datasets, which may underestimate high-intensity peaks or miss low-level moisture in high-elevation regions. Findings: Temperature has increased since 1981, but precipitation shows a dip-and-recovery trend. Storms are becoming more explosive and less frequent. The agricultural season B is shorter than before. Droughts are caused primarily by increased evapotranspiration. Practical Implication: The results suggest a revision of infrastructure design standards, specifically drainage systems and IDF curves, to accommodate the \"new normal\" of explosive storms. More research is needed to improve rainwater harvesting. Social Implication: Increasing climate volatility threatens food security and rural livelihoods dependent on rain-fed agriculture. Originality/ Value: This paper provides a data-driven framework that integrates remote sensing and multidimensional indices to address research gaps in dual-hazard analysis in topographically complex, data-scarce regions.",
+    "date": "2026-07-13",
+    "doi": "10.36325/ghjec.v22i2.24469",
+    "url": "https://doi.org/10.36325/ghjec.v22i2.24469",
+    "abstract": "يهدف هذا البحث إلى تحليل ظاهرة الدولرة في العراق للمدة (2005–2025) وقياس أثرها على فعالية السياسة النقدية. اعتمد البحث على المنهجين الوصفي والقياسي، باستخدام نموذج الانحدار الخطي المتعدد ونموذج متجه الانحدار الذاتي (VAR)، بالاستناد إلى بيانات البنك المركزي العراقي. أظهرت النتائج الوصفية أن معدل الدولرة وصل إلى (123.32%) عام 2025، متجاوزاً حاجز 100% اعتباراً من عام 2023، مما يشير إلى تحول الاقتصاد نحو دولرة شبه كاملة، أما التحليل القياسي فكشف أن معامل الدولرة كان غير معنوي إحصائياً، مما يعني عدم وجود أثر مؤكد للدولرة على التضخم، بينما أظهر سعر الفائدة علاقة طردية ومعنوية مع التضخم مما يعكس تعطل قناة الفائدة التقليدية، وكان سعر الصرف غير معنوي، كما أظهر اختبار Granger عدم وجود علاقة سببية بين الدولرة والتضخم، هذا وأوصى البحث باستعادة الثقة بالدينار، وإعادة هيكلة سعر الفائدة ليجعل حقيقياً موجباً، وتقليص الفجوة بين سعري الصرف الرسمي والموازي، وتعزيز التنسيق بين السياسة المالية والنقدية.",
     "authors": [
-      "L. Iraguha",
-      "D. O. Olukanni"
+      "ولاء عبد النبي الجوراني"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "Tree Collateral Loan as a Sustainable Financing Instrument: Evidence from Smallholders’ Livelihood Changes in Gunungkidul, Indonesia",
-    "journal": "Jurnal Manajemen Hutan Tropika (Journal of Tropical Forest Management)",
-    "year": "2026",
-    "date": "2026-07-12",
-    "doi": "10.7226/jtfm.32.3.257",
-    "url": "https://doi.org/10.7226/jtfm.32.3.257",
-    "abstract": "Tree-collateral loans have been introduced in Indonesia to ease liquidity constraints faced by smallholder forest farmers, who often resort to premature harvesting. This study evaluates the impacts of the forestry microcredit called pinjaman tunda tebang (PTT) scheme on household livelihood assets in Gunungkidul District, Yogyakarta. Data were collected from a survey of 180 households (90 borrowers and 90 non-borrowers). To reduce selection bias, propensity score matching was applied, yielding a balanced sample of 134 households (44 borrowers and 90 controls). The average treatment effect on the treated was then estimated across ten indicators representing financial, physical, human, social, and natural capitals. Results show that financial capital improved most, with borrowers more likely to diversify income, operate side businesses, and fall into higher monthly-income brackets. Natural and physical capitals showed modest differences, including larger forestland and higher-perceived infrastructure access, but these may reflect pre-existing assets rather than causal program impacts. By contrast, human and social capital were weaker, with borrowers participating less in training, reporting lower technical adequacy, and engaging less in farmer-group meetings. These findings highlight that while PTT is effective as a liquidity instrument, its transformative potential depends on integration with training and collective empowerment. For broader impact, rural microcredit must be coupled with extension services and group strengthening to align financial access with long-term rural livelihood resilience.",
-    "authors": [
-      "D B Permadi",
-      "A R Pambudi",
-      "R H Purwanto",
-      "T Atmojo"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Marketing",
-    "title": "Quantum-safe DualRing with shorter signature and public key",
-    "journal": "International Journal of Information Security",
+    "title": "Who is (un)willing-to-pay-more for e-grocery shopping/delivery services? Answers via symmetric variable relationships and asymmetric case algorithms",
+    "journal": "Journal of Services Marketing",
     "year": "2026",
-    "date": "2026-07-12",
-    "doi": "10.1007/s10207-026-01273-7",
-    "url": "https://doi.org/10.1007/s10207-026-01273-7",
-    "abstract": "",
+    "date": "2026-07-13",
+    "doi": "10.1108/jsm-08-2025-0561",
+    "url": "https://doi.org/10.1108/jsm-08-2025-0561",
+    "abstract": "Purpose This study aims to investigate the drivers of consumer willingness-to-pay-more (WTPM) for e-grocery services. Using both symmetric and asymmetric modeling, the study examines how four factors – proactive customer orientation, value co-creation, customer brand engagement and online customer experience – influence consumers’ willingness-to-pay price premiums. Design/methodology/approach This study revisits prior Turkish e-grocery survey data to compare symmetric variable directional relationships (SVDRs) against asymmetric case algorithm models (ACAMs). Empirically, the study uses survey data. The ACAM approach relies on core tenets of complexity theory to go deeper into measuring specific cases willing and (separately) unwilling-to-pay-more for online shopping/delivery services. Findings The null hypothesis significance testing empirically support the positive SVDR hypotheses for the four consumer shopping-service orientations and WTPM for online services. ACAM results: Nearly all cases (i.e. respondents) filtered for high versus scores for both customer brand engagement and general online customer experience have high scores in WTPM for e-grocery services. Case configurations by demographic conditions deepens knowledge of how consumer shopping-service orientations impact who is and who is not WTPM for online shopping-services. Research limitations/implications The study here compares two distinct sets of “theory of mind” theoretical views (matrix versus Boolean based) and empirical findings in examining grocery shoppers willing versus not willing to pay more for e-grocery service. Originality/value This study shows that ACAMs offer a practical approach to empirically test comprehensive algorithm models of customer acceptance or rejection of online e-grocery services. It compares SVDRs using null hypothesis significance tests with ACAMs that rely on odds-ratio based evaluation of predictive accuracy.",
     "authors": [
-      "Guangyu Liao",
-      "Zengpeng Li",
-      "Guangsheng Feng",
-      "Hongwu Lv"
+      "Rıfgı Buğra Bağcı",
+      "Arch G. Woodside"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "Untangling the interplay between impervious surface landscape metric, thermal environment, and air pollution: a seasonal mediation analysis in Wuhan",
+    "journal": "Urban Informatics",
+    "year": "2026",
+    "date": "2026-07-13",
+    "doi": "10.1007/s44212-026-00111-4",
+    "url": "https://doi.org/10.1007/s44212-026-00111-4",
+    "abstract": "Abstract Urban morphology plays a pivotal role in shaping both air quality and thermal environments, yet their interactions remain insufficiently understood, particularly across different seasons. This study investigates the mediating role of land surface temperature (LST) in the relationship between impervious surface-based landscape metrics and PM 2.5 concentration, using Wuhan, China, as a case study. Drawing on remote sensing data from the year of 2023 and 2024, this study constructed seasonal mediation models to explore how impervious surface-based landscape metrics influence PM 2.5 either directly or through thermal pathways. In summer (August 2023), only the Area-Weighted Mean Shape Index (SHAPE_AM) showed a meaningful mediation pathway, exerting a significant indirect effect on LST via PM₂.₅ (ab = 0.0192, 95% BCI [0.0132, 0.0256]), although its dominant contribution remained direct (c′ = 0.115). Here, ab denotes the indirect effect through the mediator (LST), c′ represents the direct effect after controlling for mediation, c is the total effect, and BCI refers to the bias-corrected bootstrap confidence interval used to assess significance. Other indicators such as Percentage of Landscape (PLAND), Aggregation Index (AI) and Number of Patches (NP) exhibited negligible or non-significant mediation effects. In contrast, winter (January 2024) revealed more diverse pathways: PLAND (ab = 0.0029), AI (ab = 0.0022), and NP (ab = 0.0078) all displayed significant though modest indirect effects through LST, while SHAPE_AM showed a notable negative mediation effect (ab = –0.0444, 95% BCI [–0.0709, –0.0201]). Across both seasons, NP consistently exerted the strongest direct influence on PM₂.₅ (c′ = 0.3239 in winter; c′ = 0.0592 in summer), underscoring its critical role as a measure of landscape fragmentation. Taken together, these findings provide a clear take-home message: in summer, only SHAPE_AM matters via mediation; in winter, multiple metrics (PLAND, AI, NP) are involved; and across seasons, NP consistently dominates. This highlights the dual regulatory role of urban morphology and pollution in shaping urban climates and offers quantitative evidence for climate-responsive and pollution-sensitive urban planning.",
+    "authors": [
+      "Ruihan Qiu",
+      "Qingming Zhan",
+      "Shiqi Tu",
+      "Zhiyu Fan"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Translational register as factor of language change in Kanuri",
+    "journal": "International Journal of the Sociology of Language",
+    "year": "2026",
+    "date": "2026-07-13",
+    "doi": "10.1515/ijsl-2024-0165",
+    "url": "https://doi.org/10.1515/ijsl-2024-0165",
+    "abstract": "Abstract In Islamic West Africa, interpretation and translation of the Qur’an and other canonical Arabic texts into local languages have long been an integral part of exegetical practices, preaching and religious schooling conducted by Muslim clerics. Such scholarly activity has resulted in specialised linguistic registers bound to the source Arabic language with varying degree of influence on everyday speech. In most of the Muslim communities of West Africa, these registers are to an extent transparent to lay audience, which facilitates contact between the exegetical variety and commonly spoken vernaculars and creates the potential for register-induced change. In extreme cases however, the translational domain has sealed off an earlier stage of language, making the resultant linguistic code a different language unintelligible to common speakers. One such extreme case is Tarjumo Kanembu, a scholarly variety of Kanuri. Despite unintelligibility of Tarjumo Kanembu to lay Kanuri speakers, contact between the specialised code and spoken language does take place, especially during translational sessions and in metalinguistic conversations. The article traces the influence of Tarjumo Kanembu on lexical, phonological and grammatical structures of Kanuri and introduces a prototype-based definition of translational register.",
+    "authors": [
+      "Dmitry Bondarev"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "Towards neurodiversity-affirming practice in ABA schools",
+    "journal": "Tizard Learning Disability Review",
+    "year": "2026",
+    "date": "2026-07-13",
+    "doi": "10.1108/tldr-02-2026-0016",
+    "url": "https://doi.org/10.1108/tldr-02-2026-0016",
+    "abstract": "Purpose In recent years, growing recognition of neurodivergence has prompted a substantive reorientation in educational theory and practice. This paper aims to examine how some applied behaviour analysis (ABA) schools in the UK are beginning to position themselves within this wider shift towards educational approaches that affirm and accommodate neurodiversity. Design/methodology/approach Longstanding components of the ABA model are identified that align closely with neurodiversity-affirming principles. In addition, more recent refinements are described, including increased attention to the recognition of assent withdrawal behaviours, adaptations to early instructional programming, a deeper understanding of self-regulatory behaviours and a strengthened emphasis on the use of less intrusive prompting strategies. Findings This reflective paper summarises changes that have been made to practice in recent years, along with recommended strategies to ensure these changes are embedded and sustained within the school culture. These recommendations include the revision of school policies, a comprehensive review of the staff training programme and the creation of guidance documents to accompany published resources that are not fully neuro-affirming. It is noted that the process of embedding neurodiversity-affirming practice in an ABA school is a continuous and evolving process. Originality/value It is essential for all educational settings to critically reflect on their practice and identify where adjustments are required to ensure provision affirms neurodiversity and effectively supports the diverse learners within the school community.",
+    "authors": [
+      "Emma Hawkins",
+      "Kate Grant"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Psychology",
-    "title": "Atmospheric CO₂-to-acetaldehyde artificial photosynthesis in metallo hydrogen-bonded organic frameworks",
-    "journal": "Nature Communications",
+    "title": "Toleration, Treaty, and Dissent in William Penn’s “Holy Experiment”",
+    "journal": "Perspectives on Politics",
     "year": "2026",
-    "date": "2026-07-12",
-    "doi": "10.1038/s41467-026-75384-z",
-    "url": "https://doi.org/10.1038/s41467-026-75384-z",
-    "abstract": "Abstract Artificial photosynthesis of acetaldehyde from atmospheric CO 2 is highly promising, yet remains severely limited by low CO 2 concentration in air and sluggish proton transfer kinetics. Herein, we report metallo hydrogen-bonded organic frameworks (MHOFs) of HNNU-X (X = O, S, Se) which enable acetaldehyde synthesis directly from air, water, and natural sunlight. Among them, HNNU-Se exhibits a competitive acetaldehyde production rate of 557.1 μmol g⁻¹ h⁻¹ with high electron-based selectivity of 95% under outdoor conditions, without need of sacrificial agents. Mechanistic studies reveal that HNNU-X creates a proton-rich microenvironment in which [Zn(tpy)] 2+ cations function as CO 2 capture and activation sites for direct air capture, while [XCN] – anions serve as proton shuttles, facilitating rapid transfer of in-situ generated H⁺ from solar-driven water oxidation to adsorbed CO 2 . This work enables the synergistic coupling of CO 2 reduction and H 2 O oxidation, thereby achieving efficient artificial photosynthesis of acetaldehyde.",
+    "date": "2026-07-13",
+    "doi": "10.1017/s1537592726104812",
+    "url": "https://doi.org/10.1017/s1537592726104812",
+    "abstract": "Despite his role as colonial proprietor of Pennsylvania and an important voice in seventeenth-century debates concerning toleration, William Penn remains at the fringes of contemporary political theory. This is unfortunate because his story has a good deal to teach current readers about the promises and pitfalls of theorizing toleration in a pluralistic world. This article offers contributions to our understanding of the politics, philosophy, and history of the early modern Atlantic world by reconstructing Penn’s unique political theory of toleration in view of its colonial entanglements. It argues that the radical egalitarian impulse found in Penn’s thought was incompatible with the narrow catalog of “ancient rights and liberties of Englishmen” on which it is based, and explores the consequences of this disjuncture. The infant years of Penn’s “holy experiment” provide an enriching historical window into how English ancient constitutionalist ideals, transatlantic tolerationist discourses, and Indigenous practices of reciprocal treaty making were contested—rarely on equal footing—in the newly founded City of Brotherly Love.",
     "authors": [
-      "Jun Pang",
-      "Xinyu Bai",
-      "Junjie Dai",
-      "Sijie Liu"
+      "Joshua Santeusanio"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "Tightening the belt in tough times: performance commitments and labor shares of Chinese reverse mergers",
+    "journal": "China Accounting and Finance Review",
+    "year": "2026",
+    "date": "2026-07-13",
+    "doi": "10.1108/cafr-07-2025-0110",
+    "url": "https://doi.org/10.1108/cafr-07-2025-0110",
+    "abstract": "Purpose Reverse merger (RM) transactions in China are subject to mandatory performance commitments, imposing institution-driven performance pressure on RM firms in the early stages of listing. This paper investigates the impact of performance commitments on firm labor shares using manually collected data on RMs. Design/methodology/approach We manually compile a sample of all firms that went public through RMs as the treatment group. Each of the RM firms is matched with a comparable initial public offering (IPO) firm as the control group. We apply a difference-in-differences design to assess the impact of performance commitments on firm labor shares. We further examine whether this relationship differs based on firm financial pressure and labor quality. Our last analysis test whether the labor investment efficiency of RM firms is affected by performance commitment. Findings We find that RM firms experience a reduction in labor shares during the performance commitment period compared with IPO firms. This effect is particularly pronounced for firms characterized by high levels of debt burden, increased capital intensity and lower labor quality. Moreover, RM firms exhibit diminished labor-investment efficiency throughout the commitment period and lower performance thereafter. Practical implications Regulators may promote a comprehensive registration-based system grounded in information disclosure. A more efficient and transparent listing review process would reduce firms' incentives to pursue RMs and help alleviate the severe information asymmetry in the capital market. When formulating listing-regulation policies, regulators may look beyond the intended benefits and also assess the potential adverse effects on employee welfare. Originality/value Our findings corroborate the view that firms use labor share reductions as a key cost-saving response to the institution-driven performance pressure in RMs and shed light on the consequences of Chinese RM transaction institutions on employee welfare.",
+    "authors": [
+      "Lingxuan Yang",
+      "Jingyun Wang",
+      "Yanchun Xia",
+      "Yu Liu"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Mental Health",
-    "title": "КАДРОВОЕ ОБЕСПЕЧЕНИЕ ОПЕРАТОРОВ В СИСТЕМЕ ОПОВЕЩЕНИЯ НАСЕЛЕНИЯ: КОМПЕТЕНТНОСТНАЯ МОДЕЛЬ И АЛГОРИТМ КОМПЛЕКСНОЙ ОЦЕНКИ",
-    "journal": "Safety in the Modern World",
+    "title": "The efficacy of osteopathic manipulative medicine in the treatment of low back pain: a scoping review and meta-analysis of patient-reported outcomes",
+    "journal": "Journal of Osteopathic Medicine",
     "year": "2026",
-    "date": "2026-07-11",
-    "doi": "10.25629/smw.2026.02.03",
-    "url": "https://doi.org/10.25629/smw.2026.02.03",
-    "abstract": "Цель статьи – разработать практико-ориентированную модель кадрового обеспечения операторов систем поддержки принятия решений при оповещении населения об угрозе опасных метеорологических явлений. Методы: компетентностный и системный подходы, анализ трудовых задач, моделирование, экспертный опрос, тестирование на ситуационных кейсах. Предложена трёхкомпонентная модель профессиональной готовности, включающая уровень компетентностей, готовность к приёму и обработке информации, а также результативность в учениях и сменной работе. Коэффициенты значимости показателей и пороговые значения в модели определяются экспертным методом применительно к конкретной территории и функциональной роли оператора. Разработан алгоритм, связывающий профиль должности, экспертный опрос, тесты, симуляторные кейсы, расчёт интегрального индекса и индивидуальную траекторию развития. Демонстрационный расчёт иллюстрирует процедуру выбора рекомендации: самостоятельная работа, наставничество либо дополнительная подготовка. Практическая ценность заключается в снижении субъективности кадровых решений и в создании измеримой связи между подготовкой оператора, качеством управленческого решения и эффективностью оповещения. The paper develops a practice-oriented staffing model for decision-support-system operators who warn the public about hazardous weather events. The methods include a competency-based and system approach, task analysis, modelling, an expert survey and scenario-based testing. A three-component readiness model integrates competency level, information-processing readiness and performance in drills and shift work. Indicator weights and decision thresholds are to be determined by an expert method for a specific territory and the operator’s functional role. The algorithm connects a job profile, an expert survey, knowledge tests, simulator cases, an integrated readiness index and an individual development pathway. A demonstration calculation illustrates the procedure for choosing a recommendation: independent work, mentoring or additional training. The approach reduces the subjectivity of staffing decisions and creates a measurable relationship between operator training, decision quality and warning effectiveness.",
+    "date": "2026-07-13",
+    "doi": "10.1515/jom-2026-0017",
+    "url": "https://doi.org/10.1515/jom-2026-0017",
+    "abstract": "Abstract Context Osteopathic manipulative treatment (OMT) has been shown to have a mild to moderate treatment effect on reducing low back pain and disability. This scoping review investigated whether OMT is an effective procedure-based approach in the treatment of mechanical low back pain in adults. Objectives This study aims to determine the efficacy of OMT in the treatment of mechanical low back pain with regard to pain, disability, and quality of life (QoL) utilizing both a scoping review and meta-analysis from patient-reported outcome measures. Methods A scoping review approach was selected due to heterogeneity in patient populations as well as intervention delivery and outcome reporting. A systematic literature search, unrestricted by language, was performed from November 2024 through June 2025 in electronic databases. Searches from the reference lists of other manuscripts identified additional studies. Only prospective randomized controlled trials (RCTs) were included; specific back pain or the use of treatment modalities other than OMT by licensed osteopathic providers were excluded. Three validated survey measures were utilized to determine outcomes: visual analog scale (VAS), Roland-Morris Disability Questionnaire (RMDQ), and the Oswestry Disability Index (ODI). Data extracted from the articles was analyzed as a meta-analysis. Results In total, 2,516 articles were initially identified by our search criteria. Of those, 271 underwent full article review by two independent groups, ultimately resulting in the selection of 10 prospective RCTs that utilized OMT in the treatment of adult mechanical low back pain, including pregnant women. The use of OMT in the treatment of adult mechanical low back pain shows statistically significant improvement in patients’ perception of pain (VAS), ability to perform tasks of daily living (ODI), and functional status (RMDQ). Conclusions This scoping review mapped RCT evidence of OMT for mechanical low back pain and conducted structured data charting with quantitative synthesis where validated outcome measures overlapped. OMT is an effective treatment for mechanical low back pain in adult populations. Findings were consistent with moderate improvement of pain, QoL, and function with the use of OMT.",
     "authors": [
-      "С.Ю. Бутузов",
-      "Д.А. Бережной",
-      "Н.И. Ивакина"
+      "Kristin Putnam",
+      "Kelsey Harrington",
+      "Isain Zapata",
+      "Jensen Fisher"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Urban Studies",
-    "title": "Work Family Conflict, Workload, and Female Employee Performance: The Mediating Role of Emotional Exhaustion",
-    "journal": "Journal of Global Economics, Management and Business Research",
+    "field": "Consumer Research",
+    "title": "Reported safety events from ultrasound enhancing agents: a critical reappraisal",
+    "journal": "Echo Research & Practice",
     "year": "2026",
-    "date": "2026-07-11",
-    "doi": "10.56557/jgembr/2026/v18i310835",
-    "url": "https://doi.org/10.56557/jgembr/2026/v18i310835",
-    "abstract": "The increasing participation of women in the workforce has created challenges in balancing professional responsibilities and family roles, often leading to work-family conflict and increased workload. These conditions may trigger emotional exhaustion, which can negatively affect female employee performance, particularly in public sector organisations such as the Jakarta City Health Department. This study investigates the effect of work-family conflict and workload on female employee performance at the Jakarta City Health Department, with emotional exhaustion examined as a mediating variable. A quantitative causal approach was employed. Data were collected through questionnaires distributed to 157 female employees and analysed using IBM SPSS Statistics. The analysis included validity and reliability tests, classical assumption tests, multiple linear regression, coefficients of determination, and the Sobel test. The results show that Work-Family Conflict has a positive and significant effect on Emotional Exhaustion, with a regression coefficient of 0.323 and a significance value of 0.000. Workload also has a positive and significant effect on Emotional Exhaustion, with a regression coefficient of 0.465 and a significance value of 0.000. Furthermore, Work-Family Conflict, Workload, and Emotional Exhaustion have negative and significant effects on Female Employee Performance, with regression coefficients of -0.174, -0.146, and -0.410 and significance values of 0.005, 0.024, and 0.000, respectively. The Sobel test indicates that Emotional Exhaustion significantly mediates both relationships. The study concludes that Work-Family Conflict and Workload increase Emotional Exhaustion, while these variables reduce Female Employee Performance.",
+    "date": "2026-07-13",
+    "doi": "10.1186/s44156-026-00127-1",
+    "url": "https://doi.org/10.1186/s44156-026-00127-1",
+    "abstract": "Abstract Background Reported adverse events (AEs) to the Food and Drug Administration Adverse Event Reporting System (FAERS) have suggested an increased rate of serious AEs (SAEs) during the COVID-19 pandemic, but the extent to which this may be related to overall changes in reporting during this time period is uncertain. Accordingly, we aimed to evaluate trends in SAE reporting across commercially available ultrasound enhancing agent (UEA) brands as a function of overall trends in AE reporting. Methods We retrospectively analyzed the FAERS public database, 2014–2024, to evaluate risks of UEAs overall and by brand, compared to similar contrast media. Results Between 2014 and 2024, 21,960,760 AEs were reported to FAERS, of which 11,450,891 (52.1%) were categorized as SAEs. Overall SAE reports to FAERS increased from 678,953 in 2014 to 1,368,393 in 2021 before subsequently declining to 1,065,845 in 2024 (-7.9% change from 2021 to 2024). During the same period, overall death reports to FAERS increased from 124,055 in 2014 to 195,207 in 2018 before declining to 147,046 in 2024. During this period of decline, there was a 23.9% relative increase in SAEs to UEAs which peaked in 2023 at 350 before declining to 326 in 2024. Deaths attributed to SAEs increased from 1 in 2014 to 19 in 2023 before declining to 9 in 2024. Overall, these data suggest that 11.2% of the observed increase in SAEs to UEAs can be attributed to reporting changes. Despite changes in relative risks for SAEs, absolute SAE rates remained small and lower than other types of contrast media. Conclusions In this analysis of the FAERS dataset, 2014–2024, 11.2% of SAEs to UEAs were attributable to temporal changes in AE reporting. Absolute risks are small and declining, suggesting broad safety of UEAs as a class. Collectively, these results support continued use of UEAs, but motivate improved safety screening and preparedness to mitigate small but existing risks.",
     "authors": [
-      "Rachmad Rasnova",
-      "Istiyaningrum Kemala Sari"
+      "Jordan B. Strom",
+      "Nicholas Spetko",
+      "Constance E. M. Angell-James",
+      "Madeline A. Cassidy"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "The Evolving Role of Bariatric Surgery in Children and Adolescents Amid the Rise of GLP-1 Receptor Agonists",
-    "journal": "Quality in Sport",
-    "year": "2026",
-    "date": "2026-07-11",
-    "doi": "10.12775/qs.2026.62.73665",
-    "url": "https://doi.org/10.12775/qs.2026.62.73665",
-    "abstract": "Background. Pediatric obesity is a chronic, progressive disease associated with metabolic, cardiovascular, orthopedic and psychosocial complications. Metabolic and bariatric surgery can provide substantial and durable weight reduction in adolescents with severe obesity, but it is invasive and requires lifelong follow-up. The growing availability of glucagon-like peptide-1 receptor agonists may influence the role of surgery. Aim. This narrative review summarizes evidence on the indications, outcomes and complications of bariatric surgery in children and adolescents and discusses its evolving role in the era of GLP-1 receptor agonist therapy. Material and methods. PubMed, Scopus and Web of Science were searched for articles published between 2016 and 2026. Landmark studies and guidelines published before 2016 were also included. The search covered pediatric obesity, adolescent bariatric surgery, sleeve gastrectomy, Roux-en-Y gastric bypass, complications, type 2 diabetes, liraglutide, semaglutide and GLP-1 receptor agonists. Results. Metabolic and bariatric surgery provides the most established long-term evidence for substantial weight loss and improvement of obesity-related complications in adolescents with severe obesity. Liraglutide and semaglutide produce clinically meaningful short-term BMI reductions and may serve as alternatives or components of multimodal care. Surgery is also associated with improved mobility, physical function, musculoskeletal pain and health-related quality of life, whereas evidence on objectively measured fitness, participation in sport and routine perioperative use of GLP-1 receptor agonists remains limited. Conclusions. GLP-1 receptor agonists do not eliminate the need for metabolic and bariatric surgery in pediatric patients but may change treatment sequencing and shared decision-making. Care should be individualized, multidisciplinary and guided by effectiveness, psychological well-being and long-term safety.",
-    "authors": [
-      "Joanna Jabłońska",
-      "Joanna Wasik",
-      "Marta Armuła",
-      "Claire Bongage"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "Nut Consumption and Cardiovascular Disease Risk among Adults in Low- and Middle-income Countries - A Scoping Review",
-    "journal": "African Journal of Food, Agriculture, Nutrition and Development",
-    "year": "2026",
-    "date": "2026-07-11",
-    "doi": "10.18697/ajfand.152.26485",
-    "url": "https://doi.org/10.18697/ajfand.152.26485",
-    "abstract": "Cardiovascular disease remains the leading cause of death worldwide, with more than eighty percent of fatalities occurring in low- and middle-income countries. Dietary strategies, such as the inclusion of nuts, have attracted attention because nuts are nutrient-dense foods rich in healthy fats, proteins, vitamins, minerals, and bioactive compounds that influence cardiovascular risk factors. This review synthesises evidence from low- and middle-income countries on the effects of different types of nuts on major cardiometabolic indicators. Nineteen studies published over the past decade were identified through four major databases: PubMed, CINAHL, Scopus, and EBSCOhost. The analysis revealed that almonds were the most frequently studied nut, with three studies exclusively focused on almonds and two on Baru almonds. Mixed nuts featured in seven studies, while cashews appeared in two. Walnuts, pistachios, pecans, hazelnuts, and peanuts were each examined in only one study, indicating a significant research gap in these settings. The findings demonstrated varied effects of nut consumption on cardiovascular risk factors. Overall, nuts were associated with improved glycemic control, lower fasting blood glucose, and a reduced risk of type 2 diabetes mellitus. Frequent nut intake, whether short- or long-term, was linked to reduced prevalence and severity of metabolic syndrome and improved reversal rates. One study reported that pistachio-enriched diets lowered systolic blood pressure and improved vascular stress response, while cashew consumption specifically reduced systolic blood pressure without significant changes in lipid profiles or diastolic pressure. Evidence on lipid modulation was mixed: some studies reported increases in high-density lipoprotein cholesterol, whereas others found no significant effect. These findings suggest that incorporating nuts into diets in low- and middle-income countries may provide cardiometabolic benefits without adverse outcomes. In conclusion, this review highlights the potential of nuts as a potentially beneficial dietary strategy for reducing cardiovascular risk factors in resource-limited settings. However, the limited diversity of nuts studied and inconsistent findings on lipid profiles underscore the need for further research across different nut types and populations in low- and middle-income countries. Key words: cardiovascular disease, diabetes, dyslipidaemia, high blood pressure, nuts, risk factors",
-    "authors": [
-      "OD Braimoh",
-      "ZN Nxusani",
-      "A Tambe",
-      "MK Zuma"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "More on landau’s theorem and conjugacy classes",
-    "journal": "The Quarterly Journal of Mathematics",
-    "year": "2026",
-    "date": "2026-07-11",
-    "doi": "10.1093/qmath/haag024",
-    "url": "https://doi.org/10.1093/qmath/haag024",
-    "abstract": "ABSTRACT In this paper we present two new results on the number of certain conjugacy classes of a finite group. For a finite group $G$, let $n(G)$ be the maximum of $k_{p}(G)$ taken over all primes $p$ where $k_{p}(G)$ denotes the number of conjugacy classes of nontrivial $p$-elements in $G$. Using a recent theorem of Giudici, Morgan and Praeger, we prove that there exists a function $f(x)$ with $f(x) \\rightarrow \\infty$ as $x \\rightarrow \\infty$ such that $n(G) \\ge f(|G|)$ for any finite group $G$. Let $G$ be a finite group, and let $p$ be a prime dividing $|G|$. Let $k_{p^{\\prime }}(G)$ denote the number of conjugacy classes of elements of $G$ whose orders are coprime to $p$. We show that either $p=11$ and $G=C_{11}^2\\rtimes \\text{SL}(2,5)$, or there exists a factorization $p-1 = ab$ with $a$ and $b$ positive integers, such that $k_{p}(G) \\ge a$ and $k_{p^{\\prime }}(G) \\ge b$ with equalities in both cases if and only if $G=C_p \\rtimes C_b$ with $C_G(C_p) = C_p$.",
-    "authors": [
-      "Burcu Çinarci",
-      "Thomas Michael Keller",
-      "Attila Maróti",
-      "Iulian I Simion"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
