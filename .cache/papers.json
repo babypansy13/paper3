@@ -1,151 +1,148 @@
 [
   {
-    "field": "Management",
-    "title": "ظاهرة الدولرة في العراق وأثرها على فعالية السياسة النقدية للمدة (2005-2025) The phenomenon of dollarization in Iraq and its impact on the effectiveness of monetary policy for the period (2005-2025)",
-    "journal": "Al-Ghary Journal of Economic and Administrative Sciences",
-    "year": "2026",
-    "date": "2026-07-13",
-    "doi": "10.36325/ghjec.v22i2.24469",
-    "url": "https://doi.org/10.36325/ghjec.v22i2.24469",
-    "abstract": "يهدف هذا البحث إلى تحليل ظاهرة الدولرة في العراق للمدة (2005–2025) وقياس أثرها على فعالية السياسة النقدية. اعتمد البحث على المنهجين الوصفي والقياسي، باستخدام نموذج الانحدار الخطي المتعدد ونموذج متجه الانحدار الذاتي (VAR)، بالاستناد إلى بيانات البنك المركزي العراقي. أظهرت النتائج الوصفية أن معدل الدولرة وصل إلى (123.32%) عام 2025، متجاوزاً حاجز 100% اعتباراً من عام 2023، مما يشير إلى تحول الاقتصاد نحو دولرة شبه كاملة، أما التحليل القياسي فكشف أن معامل الدولرة كان غير معنوي إحصائياً، مما يعني عدم وجود أثر مؤكد للدولرة على التضخم، بينما أظهر سعر الفائدة علاقة طردية ومعنوية مع التضخم مما يعكس تعطل قناة الفائدة التقليدية، وكان سعر الصرف غير معنوي، كما أظهر اختبار Granger عدم وجود علاقة سببية بين الدولرة والتضخم، هذا وأوصى البحث باستعادة الثقة بالدينار، وإعادة هيكلة سعر الفائدة ليجعل حقيقياً موجباً، وتقليص الفجوة بين سعري الصرف الرسمي والموازي، وتعزيز التنسيق بين السياسة المالية والنقدية.",
-    "authors": [
-      "ولاء عبد النبي الجوراني"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "Who is (un)willing-to-pay-more for e-grocery shopping/delivery services? Answers via symmetric variable relationships and asymmetric case algorithms",
-    "journal": "Journal of Services Marketing",
-    "year": "2026",
-    "date": "2026-07-13",
-    "doi": "10.1108/jsm-08-2025-0561",
-    "url": "https://doi.org/10.1108/jsm-08-2025-0561",
-    "abstract": "Purpose This study aims to investigate the drivers of consumer willingness-to-pay-more (WTPM) for e-grocery services. Using both symmetric and asymmetric modeling, the study examines how four factors – proactive customer orientation, value co-creation, customer brand engagement and online customer experience – influence consumers’ willingness-to-pay price premiums. Design/methodology/approach This study revisits prior Turkish e-grocery survey data to compare symmetric variable directional relationships (SVDRs) against asymmetric case algorithm models (ACAMs). Empirically, the study uses survey data. The ACAM approach relies on core tenets of complexity theory to go deeper into measuring specific cases willing and (separately) unwilling-to-pay-more for online shopping/delivery services. Findings The null hypothesis significance testing empirically support the positive SVDR hypotheses for the four consumer shopping-service orientations and WTPM for online services. ACAM results: Nearly all cases (i.e. respondents) filtered for high versus scores for both customer brand engagement and general online customer experience have high scores in WTPM for e-grocery services. Case configurations by demographic conditions deepens knowledge of how consumer shopping-service orientations impact who is and who is not WTPM for online shopping-services. Research limitations/implications The study here compares two distinct sets of “theory of mind” theoretical views (matrix versus Boolean based) and empirical findings in examining grocery shoppers willing versus not willing to pay more for e-grocery service. Originality/value This study shows that ACAMs offer a practical approach to empirically test comprehensive algorithm models of customer acceptance or rejection of online e-grocery services. It compares SVDRs using null hypothesis significance tests with ACAMs that rely on odds-ratio based evaluation of predictive accuracy.",
-    "authors": [
-      "Rıfgı Buğra Bağcı",
-      "Arch G. Woodside"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Urban Studies",
-    "title": "Untangling the interplay between impervious surface landscape metric, thermal environment, and air pollution: a seasonal mediation analysis in Wuhan",
-    "journal": "Urban Informatics",
+    "title": "Поэтика романа Васила Попова «Время героя» в контексте оттепели",
+    "journal": "Chinese Journal of Slavic Studies",
     "year": "2026",
-    "date": "2026-07-13",
-    "doi": "10.1007/s44212-026-00111-4",
-    "url": "https://doi.org/10.1007/s44212-026-00111-4",
-    "abstract": "Abstract Urban morphology plays a pivotal role in shaping both air quality and thermal environments, yet their interactions remain insufficiently understood, particularly across different seasons. This study investigates the mediating role of land surface temperature (LST) in the relationship between impervious surface-based landscape metrics and PM 2.5 concentration, using Wuhan, China, as a case study. Drawing on remote sensing data from the year of 2023 and 2024, this study constructed seasonal mediation models to explore how impervious surface-based landscape metrics influence PM 2.5 either directly or through thermal pathways. In summer (August 2023), only the Area-Weighted Mean Shape Index (SHAPE_AM) showed a meaningful mediation pathway, exerting a significant indirect effect on LST via PM₂.₅ (ab = 0.0192, 95% BCI [0.0132, 0.0256]), although its dominant contribution remained direct (c′ = 0.115). Here, ab denotes the indirect effect through the mediator (LST), c′ represents the direct effect after controlling for mediation, c is the total effect, and BCI refers to the bias-corrected bootstrap confidence interval used to assess significance. Other indicators such as Percentage of Landscape (PLAND), Aggregation Index (AI) and Number of Patches (NP) exhibited negligible or non-significant mediation effects. In contrast, winter (January 2024) revealed more diverse pathways: PLAND (ab = 0.0029), AI (ab = 0.0022), and NP (ab = 0.0078) all displayed significant though modest indirect effects through LST, while SHAPE_AM showed a notable negative mediation effect (ab = –0.0444, 95% BCI [–0.0709, –0.0201]). Across both seasons, NP consistently exerted the strongest direct influence on PM₂.₅ (c′ = 0.3239 in winter; c′ = 0.0592 in summer), underscoring its critical role as a measure of landscape fragmentation. Taken together, these findings provide a clear take-home message: in summer, only SHAPE_AM matters via mediation; in winter, multiple metrics (PLAND, AI, NP) are involved; and across seasons, NP consistently dominates. This highlights the dual regulatory role of urban morphology and pollution in shaping urban climates and offers quantitative evidence for climate-responsive and pollution-sensitive urban planning.",
+    "date": "2026-07-14",
+    "doi": "10.1515/cjss-2026-0008",
+    "url": "https://doi.org/10.1515/cjss-2026-0008",
+    "abstract": "Аннотация Роман В. Попова «Время героя» (1968) анализируется в контексте болгарской оттепели. Несмотря на наличие образов и мотивов, характерных для оттепельной поэтики, произведение демонстрирует отход от соцреалистического канона и тяготение к модернизму, экспериментаторству, а также к эстетике «потерянного поколения» и латиноамериканского магического реализма. Рассматриваются ключевые элементы художественной структуры: циклическое время, деконструкция гендерных стереотипов, реабилитация телесности, оппозиция «своего» и «чужого» пространства. Отмечается особое место национальной мифологии и фольклора, которые становятся способом преодоления идеологических клише. Главный герой Калуд трактуется как интеллектуал-космополит хемингуэевского типа. Роман противопоставляет коллективистским мифам оттепели индивидуализм, экзистенциальную отчужденность и бездетность как симптом кризиса патриархальных ценностей. Исследование показывает, что эклектическая поэтика Попова знаменует поворот болгарской прозы к более сложному художественному языку, сочетающему национальные архетипы с мировыми модернистскими тенденциями.",
     "authors": [
-      "Ruihan Qiu",
-      "Qingming Zhan",
-      "Shiqi Tu",
-      "Zhiyu Fan"
+      "Наталия Димитрова Няголова"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Food Industry / Science / Design",
-    "title": "Translational register as factor of language change in Kanuri",
-    "journal": "International Journal of the Sociology of Language",
+    "field": "Public Policy",
+    "title": "Yash Pakka: Geared for sustainable future by creating a good garbage",
+    "journal": "Emerald Emerging Markets Case Studies",
     "year": "2026",
-    "date": "2026-07-13",
-    "doi": "10.1515/ijsl-2024-0165",
-    "url": "https://doi.org/10.1515/ijsl-2024-0165",
-    "abstract": "Abstract In Islamic West Africa, interpretation and translation of the Qur’an and other canonical Arabic texts into local languages have long been an integral part of exegetical practices, preaching and religious schooling conducted by Muslim clerics. Such scholarly activity has resulted in specialised linguistic registers bound to the source Arabic language with varying degree of influence on everyday speech. In most of the Muslim communities of West Africa, these registers are to an extent transparent to lay audience, which facilitates contact between the exegetical variety and commonly spoken vernaculars and creates the potential for register-induced change. In extreme cases however, the translational domain has sealed off an earlier stage of language, making the resultant linguistic code a different language unintelligible to common speakers. One such extreme case is Tarjumo Kanembu, a scholarly variety of Kanuri. Despite unintelligibility of Tarjumo Kanembu to lay Kanuri speakers, contact between the specialised code and spoken language does take place, especially during translational sessions and in metalinguistic conversations. The article traces the influence of Tarjumo Kanembu on lexical, phonological and grammatical structures of Kanuri and introduces a prototype-based definition of translational register.",
+    "date": "2026-07-14",
+    "doi": "10.1108/eemcs-06-2025-0313",
+    "url": "https://doi.org/10.1108/eemcs-06-2025-0313",
+    "abstract": "Learning outcomes Yash Pakka’s business model highlights the need for sustainability and why organisations should embrace it. The case can be used to teach circular economy and sustainability concepts and their importance to students; by going through this case, readers will be able to: Case overview/synopsis In its effort to become the frontrunner in providing sustainable, environmentally friendly packaging solutions, Yash Papers rebranded itself as Yash Pakka to demonstrate its commitment to offering innovative business solutions that can replace the most damaging and environmentally detrimental product: single-use plastic. Ved Krishna, the vice chairman of the company, was determined to give this company, which had existed for more than 40 years, a significant shift toward manufacturing sustainable products, as mandated by the United Nations Sustainable Development Goals. Yash Pakka developed a unique product offering using bagasse (a waste product of the sugar industry). The company offered four products – moulded products (under the brand name Chuk), pulp, paper and flexible packaging. Yash Pakka was on point when it came to sustainability initiatives and global market capture goals, but given the low awareness and high cost of production of such green products, what must Krishna to ensure its sustenance and increase its base in consumer markets (B2C) in India, along with growing presence in business markets (B2B)? The case is designed for teaching in the sub-field of marketing strategy and sustainable marketing, particularly focusing on consumer awareness, and B2B versus B2C market expansion in the sustainable packaging industry. It invites students to evaluate strategies for increasing product awareness and expanding Yash Pakka’s footprint in the consumer (B2C) segment while maintaining growth in business markets (B2B). Complexity academic level The course is suitable for management courses and modules at both undergraduate and postgraduate levels, focusing on sustainability, strategy and marketing. It can further be used in elective courses on circular economy, business and society and sustainability. Subject code CSS 8: Marketing.",
     "authors": [
-      "Dmitry Bondarev"
+      "Tulika Sharma",
+      "Rambalak Yadav",
+      "Somya Arora"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Public Policy",
-    "title": "Towards neurodiversity-affirming practice in ABA schools",
-    "journal": "Tizard Learning Disability Review",
+    "field": "Mental Health",
+    "title": "Whole-body TSPO-PET reveals stage-dependent disruption of systemic immune organ interactions in glioblastoma",
+    "journal": "European Journal of Nuclear Medicine and Molecular Imaging",
     "year": "2026",
-    "date": "2026-07-13",
-    "doi": "10.1108/tldr-02-2026-0016",
-    "url": "https://doi.org/10.1108/tldr-02-2026-0016",
-    "abstract": "Purpose In recent years, growing recognition of neurodivergence has prompted a substantive reorientation in educational theory and practice. This paper aims to examine how some applied behaviour analysis (ABA) schools in the UK are beginning to position themselves within this wider shift towards educational approaches that affirm and accommodate neurodiversity. Design/methodology/approach Longstanding components of the ABA model are identified that align closely with neurodiversity-affirming principles. In addition, more recent refinements are described, including increased attention to the recognition of assent withdrawal behaviours, adaptations to early instructional programming, a deeper understanding of self-regulatory behaviours and a strengthened emphasis on the use of less intrusive prompting strategies. Findings This reflective paper summarises changes that have been made to practice in recent years, along with recommended strategies to ensure these changes are embedded and sustained within the school culture. These recommendations include the revision of school policies, a comprehensive review of the staff training programme and the creation of guidance documents to accompany published resources that are not fully neuro-affirming. It is noted that the process of embedding neurodiversity-affirming practice in an ABA school is a continuous and evolving process. Originality/value It is essential for all educational settings to critically reflect on their practice and identify where adjustments are required to ensure provision affirms neurodiversity and effectively supports the diverse learners within the school community.",
+    "date": "2026-07-14",
+    "doi": "10.1007/s00259-026-08057-0",
+    "url": "https://doi.org/10.1007/s00259-026-08057-0",
+    "abstract": "Abstract Purpose Strong expression of the 18 kDa translocator protein (TSPO) is observed in glioma and tumor-associated myeloid cells within the tumor microenvironment. However, TSPO expression also extends beyond the tumor and may reflect systemic immune regulation. We therefore assessed inter-organ associations of TSPO expression in mice at different stages of glioblastoma using whole-body TSPO-PET imaging. Methods Whole-body TSPO-PET images were acquired using [ 18 F]GE-180 in sham-inoculated mice ( n = 18) and glioblastoma-bearing mice at early (5–13 days, n = 20) and late (18–19 days, n = 29) stages. The tumor and organs (brain, heart, lungs, skull, and various bones) were segmented to compare TSPO-PET signals between mouse cohorts. Pearson correlation served to analyze cohort-specific organ-organ interaction, and deviations were quantified using correlation abnormality scores. [ 18 F]DPA-714 TSPO-PET scans ( n = 53) of a validation cohort served for longitudinal assessment of TSPO organ-organ interaction, which was analyzed relative to tumor stage and survival. Results Late-stage glioblastoma mice showed increased TSPO expression in the tumor region, but no significant TSPO alterations in other organs. In contrast, organ-organ interactions, including lungs and non-tumor brain regions, were disrupted in early- and late-stage glioblastoma mice compared to sham mice. Late-stage glioblastoma mice had high correlation abnormality scores across several organ systems, as was also observed in data obtained with the second TSPO tracer. Longitudinal TSPO organ-organ interactions, but not TSPO-PET signals in single organs, were associated with tumor stage and survival. Conclusions Glioblastoma induces stage-dependent systemic TSPO alterations and organ–organ interaction changes, suggesting that whole-body TSPO-PET network analysis may track tumor-associated immune dynamics.",
     "authors": [
-      "Emma Hawkins",
-      "Kate Grant"
+      "Gloria Mueller",
+      "Artem Zatcepin",
+      "Laura M. Bartos",
+      "Leonie Hoermann"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "Unpacking complaint contagion in social networks: the moderating roles of network prominence and customer dependence",
+    "journal": "Journal of Services Marketing",
+    "year": "2026",
+    "date": "2026-07-14",
+    "doi": "10.1108/jsm-10-2025-0780",
+    "url": "https://doi.org/10.1108/jsm-10-2025-0780",
+    "abstract": "Purpose While customer complaint behavior is a critical issue for service firms, existing research has primarily focused on individual-level drivers and overlooked its social contagion mechanism. This paper aims to explore whether exposure to peers’ complaints in social networks influences an individual’s complaint behavior, and further clarify the moderating roles of network prominence and customer dependence in this relationship. Design/methodology/approach The empirical analysis uses longitudinal data from a provincial branch of a major Chinese cellular company, covering 4,579 customers over 13 months. The authors construct 13 monthly social networks based on customers’ call interactions, and use Cox proportional hazards models to test the hypotheses. Findings Results indicate that complaint exposure has a positive impact on an individual’s complaint behavior. Network prominence negatively moderates the relationship between complaint exposure and individual complaints while customer dependence positively moderates it. These findings remain consistent across robustness tests. Additional analyses further reveal that the effect of complaint exposure declines over time, and is more pronounced under extreme exposure conditions. Practical implications The outcomes provide actionable strategies for service firms to optimize complaint management. Firms should establish real-time social listening systems to monitor complaint clusters in social networks, implement targeted interventions for low-network-prominence customers and strengthen proactive engagement with high-dependence customers. Originality/value This study enriches the customer complaint literature by uncovering the social contagion mechanism of complaint behavior. It also extends Social Learning Theory to the domain of customer complaints by identifying network prominence and customer dependence as boundary conditions, and provides robust empirical evidence using large-scale longitudinal network data.",
+    "authors": [
+      "Wenhua Shi",
+      "Laien Huang",
+      "Yongwei Hu",
+      "Nan Jia"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Psychology",
-    "title": "Toleration, Treaty, and Dissent in William Penn’s “Holy Experiment”",
-    "journal": "Perspectives on Politics",
+    "title": "Unlocking innovation in the workplace",
+    "journal": "Human Resource Management International Digest",
     "year": "2026",
-    "date": "2026-07-13",
-    "doi": "10.1017/s1537592726104812",
-    "url": "https://doi.org/10.1017/s1537592726104812",
-    "abstract": "Despite his role as colonial proprietor of Pennsylvania and an important voice in seventeenth-century debates concerning toleration, William Penn remains at the fringes of contemporary political theory. This is unfortunate because his story has a good deal to teach current readers about the promises and pitfalls of theorizing toleration in a pluralistic world. This article offers contributions to our understanding of the politics, philosophy, and history of the early modern Atlantic world by reconstructing Penn’s unique political theory of toleration in view of its colonial entanglements. It argues that the radical egalitarian impulse found in Penn’s thought was incompatible with the narrow catalog of “ancient rights and liberties of Englishmen” on which it is based, and explores the consequences of this disjuncture. The infant years of Penn’s “holy experiment” provide an enriching historical window into how English ancient constitutionalist ideals, transatlantic tolerationist discourses, and Indigenous practices of reciprocal treaty making were contested—rarely on equal footing—in the newly founded City of Brotherly Love.",
-    "authors": [
-      "Joshua Santeusanio"
-    ],
+    "date": "2026-07-14",
+    "doi": "10.1108/hrmid-06-2026-0169",
+    "url": "https://doi.org/10.1108/hrmid-06-2026-0169",
+    "abstract": "Purpose This paper aims to review the latest management developments across the globe and pinpoint practical implications from cutting-edge research and case studies. Design/methodology/approach This briefing is prepared by an independent writer who adds their own impartial comments and places the articles in context. Findings Innovation among employees can increase through the impact of inclusive leadership. Actions of such leaders serve to psychologically empower individuals with the confidence to test new ideas and partake in decision-making. The likelihood of greater innovative contributions from employees is furthered when leaders build a positive organization climate in which errors are viewed as learning opportunities. Originality/value The briefing saves busy executives, strategists and researchers hours of reading time by selecting only the very best, most pertinent information and presenting it in a condensed and easy-to-digest format.",
+    "authors": [],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Family Studies",
-    "title": "Tightening the belt in tough times: performance commitments and labor shares of Chinese reverse mergers",
-    "journal": "China Accounting and Finance Review",
+    "field": "Food Industry / Science / Design",
+    "title": "Towards an empirically informed framework of Quality 5.0 benefits in South African manufacturing",
+    "journal": "International Journal of Quality and Service Sciences",
     "year": "2026",
-    "date": "2026-07-13",
-    "doi": "10.1108/cafr-07-2025-0110",
-    "url": "https://doi.org/10.1108/cafr-07-2025-0110",
-    "abstract": "Purpose Reverse merger (RM) transactions in China are subject to mandatory performance commitments, imposing institution-driven performance pressure on RM firms in the early stages of listing. This paper investigates the impact of performance commitments on firm labor shares using manually collected data on RMs. Design/methodology/approach We manually compile a sample of all firms that went public through RMs as the treatment group. Each of the RM firms is matched with a comparable initial public offering (IPO) firm as the control group. We apply a difference-in-differences design to assess the impact of performance commitments on firm labor shares. We further examine whether this relationship differs based on firm financial pressure and labor quality. Our last analysis test whether the labor investment efficiency of RM firms is affected by performance commitment. Findings We find that RM firms experience a reduction in labor shares during the performance commitment period compared with IPO firms. This effect is particularly pronounced for firms characterized by high levels of debt burden, increased capital intensity and lower labor quality. Moreover, RM firms exhibit diminished labor-investment efficiency throughout the commitment period and lower performance thereafter. Practical implications Regulators may promote a comprehensive registration-based system grounded in information disclosure. A more efficient and transparent listing review process would reduce firms' incentives to pursue RMs and help alleviate the severe information asymmetry in the capital market. When formulating listing-regulation policies, regulators may look beyond the intended benefits and also assess the potential adverse effects on employee welfare. Originality/value Our findings corroborate the view that firms use labor share reductions as a key cost-saving response to the institution-driven performance pressure in RMs and shed light on the consequences of Chinese RM transaction institutions on employee welfare.",
+    "date": "2026-07-14",
+    "doi": "10.1108/ijqss-01-2026-0002",
+    "url": "https://doi.org/10.1108/ijqss-01-2026-0002",
+    "abstract": "Purpose Quality 5.0 has emerged as a human-centric and sustainability-oriented reorientation of quality management within the broader Industry 5.0 discourse. Defined as a sociotechnical quality paradigm that integrates human well-being, environmental sustainability, organisational resilience and digitally enabled process excellence into a unified value-creation logic, Quality 5.0 remains conceptually underdeveloped and empirically underexplored, particularly in developing-economy contexts. This study aims to explore and operationalise practitioner-perceived Quality 5.0 benefits in South African manufacturing. Design/methodology/approach An exploratory quantitative research design was adopted. Data was collected from 276 manufacturing professionals using a structured questionnaire informed by Quality 4.0, Industry 5.0, sustainable quality management and service-oriented quality literature. Exploratory factor analysis with Varimax rotation was used to identify underlying benefit dimensions complemented by internal consistency assessment. Findings The analysis revealed a stable four-factor structure comprising process, people, planet and profit benefit dimensions. The findings indicate that practitioners interpret Quality 5.0 not as a continuation of technology-driven Quality 4.0, but as an integrative and stakeholder-oriented quality paradigm in which digital capabilities are reoriented to support human-centric outcomes, environmental responsibility and long-term organisational resilience. Research limitations/implications The study is exploratory in nature and limited by sectoral concentration. The findings should therefore be interpreted as indicative rather than definitive, providing a foundation for further large-scale and cross-contextual validation. Practical implications The results offer a diagnostic and sense-making framework for policymakers and industry leaders to identify priority value domains, align technology investments with human and sustainability outcomes and guide context-sensitive Quality 5.0 implementation strategies. Social implications The findings suggest that Quality 5.0 is increasingly perceived as a human-centric approach to quality management in manufacturing. The identification of people- and planet-related benefit dimensions indicates growing awareness of workforce development, human–machine collaboration and environmental responsibility as integral to quality performance. In a developing-economy context such as South Africa, this perception highlights the potential of Quality 5.0 to support improved job quality and more socially responsible manufacturing practices. These implications should be interpreted as indicative, with future research required to empirically assess social and workforce-level outcomes. Originality/value This study contributes to the emerging Quality 5.0 literature by offering one of the first empirically informed operationalisations of Quality 5.0 benefits in a developing-country manufacturing context. It provides a structured measurement foundation to support future theory refinement and empirical testing.",
     "authors": [
-      "Lingxuan Yang",
-      "Jingyun Wang",
-      "Yanchun Xia",
-      "Yu Liu"
+      "Nondumiso Goodness Mhlongo",
+      "Nita Sukdeo"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Mental Health",
-    "title": "The efficacy of osteopathic manipulative medicine in the treatment of low back pain: a scoping review and meta-analysis of patient-reported outcomes",
-    "journal": "Journal of Osteopathic Medicine",
+    "field": "Family Studies",
+    "title": "Thirty-three years after “Managing Acquisitions” reflections, insights, and research directions",
+    "journal": "Strategic Management Review",
     "year": "2026",
-    "date": "2026-07-13",
-    "doi": "10.1515/jom-2026-0017",
-    "url": "https://doi.org/10.1515/jom-2026-0017",
-    "abstract": "Abstract Context Osteopathic manipulative treatment (OMT) has been shown to have a mild to moderate treatment effect on reducing low back pain and disability. This scoping review investigated whether OMT is an effective procedure-based approach in the treatment of mechanical low back pain in adults. Objectives This study aims to determine the efficacy of OMT in the treatment of mechanical low back pain with regard to pain, disability, and quality of life (QoL) utilizing both a scoping review and meta-analysis from patient-reported outcome measures. Methods A scoping review approach was selected due to heterogeneity in patient populations as well as intervention delivery and outcome reporting. A systematic literature search, unrestricted by language, was performed from November 2024 through June 2025 in electronic databases. Searches from the reference lists of other manuscripts identified additional studies. Only prospective randomized controlled trials (RCTs) were included; specific back pain or the use of treatment modalities other than OMT by licensed osteopathic providers were excluded. Three validated survey measures were utilized to determine outcomes: visual analog scale (VAS), Roland-Morris Disability Questionnaire (RMDQ), and the Oswestry Disability Index (ODI). Data extracted from the articles was analyzed as a meta-analysis. Results In total, 2,516 articles were initially identified by our search criteria. Of those, 271 underwent full article review by two independent groups, ultimately resulting in the selection of 10 prospective RCTs that utilized OMT in the treatment of adult mechanical low back pain, including pregnant women. The use of OMT in the treatment of adult mechanical low back pain shows statistically significant improvement in patients’ perception of pain (VAS), ability to perform tasks of daily living (ODI), and functional status (RMDQ). Conclusions This scoping review mapped RCT evidence of OMT for mechanical low back pain and conducted structured data charting with quantitative synthesis where validated outcome measures overlapped. OMT is an effective treatment for mechanical low back pain in adult populations. Findings were consistent with moderate improvement of pain, QoL, and function with the use of OMT.",
+    "date": "2026-07-14",
+    "doi": "10.1108/smr-11-2022-0911",
+    "url": "https://doi.org/10.1108/smr-11-2022-0911",
+    "abstract": "More than three decades have passed since Haspeslagh and Jemison’s seminal book “Managing Acquisitions” was published. Yet, its impact is as alive and vibrant in scholarly work as it is in executive practice. In this essay, we look back to reflect on the book’s contributions and look forward to identify open research directions. We recognize five topic areas in which the book made substantial contributions, i.e. sources of value, decision-making, integration, learning to make acquisitions and strategic assembly. We then reveal how subsequent work has built upon the book, developing additional insights into each of these topic domains. Finally, we point out specific research themes that we believe offer a promising and exciting route forward for scholars, practitioners and policymakers in the wider domain of corporate strategy and development.",
     "authors": [
-      "Kristin Putnam",
-      "Kelsey Harrington",
-      "Isain Zapata",
-      "Jensen Fisher"
+      "Mario Schijven",
+      "Koen H. Heimeriks",
+      "Melissa E. Graebner",
+      "Philippe Haspeslagh"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Consumer Research",
-    "title": "Reported safety events from ultrasound enhancing agents: a critical reappraisal",
-    "journal": "Echo Research & Practice",
+    "title": "The Influence of Teachers' Teaching Style on the Learning Burnout and Learning Motivation of Secondary Vocational Students",
+    "journal": "Lecture Notes in Education Psychology and Public Media",
     "year": "2026",
-    "date": "2026-07-13",
-    "doi": "10.1186/s44156-026-00127-1",
-    "url": "https://doi.org/10.1186/s44156-026-00127-1",
-    "abstract": "Abstract Background Reported adverse events (AEs) to the Food and Drug Administration Adverse Event Reporting System (FAERS) have suggested an increased rate of serious AEs (SAEs) during the COVID-19 pandemic, but the extent to which this may be related to overall changes in reporting during this time period is uncertain. Accordingly, we aimed to evaluate trends in SAE reporting across commercially available ultrasound enhancing agent (UEA) brands as a function of overall trends in AE reporting. Methods We retrospectively analyzed the FAERS public database, 2014–2024, to evaluate risks of UEAs overall and by brand, compared to similar contrast media. Results Between 2014 and 2024, 21,960,760 AEs were reported to FAERS, of which 11,450,891 (52.1%) were categorized as SAEs. Overall SAE reports to FAERS increased from 678,953 in 2014 to 1,368,393 in 2021 before subsequently declining to 1,065,845 in 2024 (-7.9% change from 2021 to 2024). During the same period, overall death reports to FAERS increased from 124,055 in 2014 to 195,207 in 2018 before declining to 147,046 in 2024. During this period of decline, there was a 23.9% relative increase in SAEs to UEAs which peaked in 2023 at 350 before declining to 326 in 2024. Deaths attributed to SAEs increased from 1 in 2014 to 19 in 2023 before declining to 9 in 2024. Overall, these data suggest that 11.2% of the observed increase in SAEs to UEAs can be attributed to reporting changes. Despite changes in relative risks for SAEs, absolute SAE rates remained small and lower than other types of contrast media. Conclusions In this analysis of the FAERS dataset, 2014–2024, 11.2% of SAEs to UEAs were attributable to temporal changes in AE reporting. Absolute risks are small and declining, suggesting broad safety of UEAs as a class. Collectively, these results support continued use of UEAs, but motivate improved safety screening and preparedness to mitigate small but existing risks.",
+    "date": "2026-07-14",
+    "doi": "10.54254/2753-7048/2026.35200",
+    "url": "https://doi.org/10.54254/2753-7048/2026.35200",
+    "abstract": "At present, learning burnout and lack of learning motivation are common academic psychological problems of secondary vocational students, and the teaching style of teachers directly affects the classroom atmosphere. However, the existing research focuses more on the field of general education, lacking a systematic overview of how the teaching style under the middle vocational situation affects both negative and positive psychology. This article employs a systematic literature review to synthesize empirical studies of the impact of the four-dimensional teaching style model on the learning burnout and learning motivation of secondary vocational students. The study found that the cognitive-oriented style serves a preventive and motivational function by enhancing classroom participation, and the emotional-oriented style plays a buffer role by improving the teacher-student relationship, both of which constitute a \"cognitive-emotional\" dual-path mechanism. The teaching style also presents a \"double-edged sword\" effect, and the control style will significantly inhibit the learning motivation. Based on this, this article puts forward the following suggestions: secondary vocational teachers should integrate cognitive stimulation and emotional support so as to maximize the dual benefits of alleviating burnout and improving motivation; at the same time, differentiated teaching strategies should be implemented for different types of burnout, grades and professional characteristics to improve the accuracy and efficiency of teaching; in addition, should improve teachers' professional competence through teacher training and other measures, it helps teachers to avoid the formation of controlled teaching behaviour and reduce the risk of negative teaching style on students' learning motivation from the institutional level.",
     "authors": [
-      "Jordan B. Strom",
-      "Nicholas Spetko",
-      "Constance E. M. Angell-James",
-      "Madeline A. Cassidy"
+      "Xinrui Xie"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Editorial: The human infrastructure of organizations: leadership, trust, and engagement as foundations of effectiveness",
+    "journal": "Organization Management Journal",
+    "year": "2026",
+    "date": "2026-07-14",
+    "doi": "10.1108/omj-07-2026-983",
+    "url": "https://doi.org/10.1108/omj-07-2026-983",
+    "abstract": "",
+    "authors": [
+      "Robert M. Yawson",
+      "Vance Johnson Lewis"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
