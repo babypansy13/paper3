@@ -1,157 +1,160 @@
 [
   {
     "field": "Mental Health",
-    "title": "New-onset Anti-melanoma Differentiation-associated Gene 5 Antibody Positive Clinically Amyopathic Dermatomyositis Following COVID-19",
-    "journal": "Internal Medicine",
+    "title": "Efficacy and Safety of Obinutuzumab in Active Systemic Lupus Erythematosus",
+    "journal": "New England Journal of Medicine",
     "year": "2026",
-    "date": "2026-07-15",
-    "doi": "10.2169/internalmedicine.5163-24",
-    "url": "https://doi.org/10.2169/internalmedicine.5163-24",
+    "date": "2026-07-16",
+    "doi": "10.1056/nejmoa2516150",
+    "url": "https://doi.org/10.1056/nejmoa2516150",
     "abstract": "",
     "authors": [
-      "Yu Nakanishi",
-      "Hirofumi Watanabe",
-      "Mako Tsuyuki",
-      "Shinji Kakumoto"
+      "Richard A. Furie",
+      "Maria Dall’Era",
+      "Edward M. Vital",
+      "Jay P. Garg"
     ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 16,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Family Studies",
-    "title": "‘Protected Percutaneous Coronary Intervention’: A High-risk Proposition",
-    "journal": "US Cardiology Review",
+    "field": "Public Policy",
+    "title": "Urban aquatic ecosystems for human health and well-being – a scoping review",
+    "journal": "BMC Public Health",
     "year": "2026",
-    "date": "2026-07-15",
-    "doi": "10.15420/usc.2026.16",
-    "url": "https://doi.org/10.15420/usc.2026.16",
+    "date": "2026-07-16",
+    "doi": "10.1186/s12889-026-28432-8",
+    "url": "https://doi.org/10.1186/s12889-026-28432-8",
     "abstract": "",
     "authors": [
-      "Salman S Allana",
-      "Ki Park"
+      "May Linn Bokma Mørch",
+      "Dirk S. Schmeller",
+      "Ângela Freitas",
+      "Carina Dantas"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "Understanding farmers’ willingness to withdraw from rural homesteads in China",
+    "journal": "Review of Behavioral Economics",
+    "year": "2026",
+    "date": "2026-07-16",
+    "doi": "10.1108/rbe-04-2026-0018",
+    "url": "https://doi.org/10.1108/rbe-04-2026-0018",
+    "abstract": "This study examines psychological and behavioral determinants of farmers’ willingness to withdraw from rural homesteads (WWRH) in China by integrating construal level theory (CLT), theory of planned behavior (TPB) and the norm activation model (NAM). The study explains why present-oriented preferences impede voluntary participation and how policy interventions can shift individual decision-making toward long-term land reform goals. An integrated CLT-TPB-NAM framework was developed and tested using structural equation modeling. The model incorporates attitudinal dispositions, personal norms, perceived behavioral control, subjective norms and cognitive awareness via path analysis. Attitudinal dispositions exert the strongest influence on behavioral intention, followed by personal norms and perceived behavioral control. Awareness of consequences critically shapes both personal norms and attitudes, while strategic policy communication elevates construal levels. The integrated CLT-TPB-NAM framework advances behavioral land economics by demonstrating that construal-level elevation and awareness of consequences, rather than economic compensation alone, are the primary drivers of sustainable voluntary policy adoption.",
+    "authors": [
+      "Wen Fan",
+      "Lifang Zhang",
+      "Meiru Zhu",
+      "Fangping Rao"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Consumer Research",
-    "title": "What do we really know about aroma and nutritional profile of truffles? A critical review of sparse and fragmented evidence",
-    "journal": "European Food Research and Technology",
+    "title": "Trends in developmental milestone attainment among Israeli children between 2019 and 2024",
+    "journal": "Israel Journal of Health Policy Research",
     "year": "2026",
-    "date": "2026-07-15",
-    "doi": "10.1007/s00217-026-05226-1",
-    "url": "https://doi.org/10.1007/s00217-026-05226-1",
-    "abstract": "Abstract Truffles are hypogeous fungi highly prized for their distinctive aroma, which largely determines their culinary uses, market value, and symbolic status as luxury foods. Their gastronomic relevance is therefore primarily aroma-driven, whereas their nutritional significance is more difficult to define because truffles are consumed infrequently and in very small quantities. This review critically examines the current knowledge on true truffles ( Tuber spp.) by jointly considering aroma-related characteristics and nutritional composition. Emphasis is placed on the extent to which sensory information, odour-active compounds, consumer perception, and compositional data can support a scientifically robust evaluation of truffle quality. Current evidence indicates that truffle aroma has been studied far more extensively than nutritional composition, but the available literature remains fragmented and methodologically heterogeneous. Sensory studies are scarce, the application of the sensomics approach is still limited to a small number of species, and many investigations of volatile fractions rely on chemical profiling without adequately linking instrumental data to perceived aroma. Nutritional studies likewise suffer from incomplete species coverage, different analytical approaches, inconsistent reporting units, and limited consideration of the actual dietary relevance of truffles. Within this framework, the present review identifies the main knowledge gaps, discusses methodological weaknesses in the literature, and outlines priorities for future research. A more integrated and standardized approach is needed to assess truffles as complex food products, to distinguish genuine truffle quality from simplified flavouring-based representations, and to place their nutritional value in realistic relation to their actual patterns of consumption.",
+    "date": "2026-07-16",
+    "doi": "10.1186/s13584-026-00771-2",
+    "url": "https://doi.org/10.1186/s13584-026-00771-2",
+    "abstract": "Abstract Background Monitoring developmental milestones is essential for identifying at-risk populations and for guiding effective intervention programs. Our previous report examined milestone attainment among Israeli children from 2016 to 2020. Using a similar methodology, this study analyzes trends in developmental milestone attainment in the Israeli population from 2019 to 2024, with primary focus on 2019 to 2023 because of changes in evaluation policy. This follow-up report complements the earlier analysis by providing updated estimates for the post-COVID period and enabling assessment of temporal trends and potential changes in socioeconomic and regional disparities that could not be evaluated previously. Methods The dataset included over 1 million children with more than 5 million developmental assessments conducted at Maternal and Child Health Clinics (MCHCs) across Israel. These assessments were used to calculate failure rates across four developmental domains: language, social, gross motor, and fine motor skills, along with parental concern about child development. Data were stratified by maternal characteristics, such as age, education, employment, and marital status, and by family sociodemographic factors, including ethnicity, degree of Haredi observance and socioeconomic status. We applied multivariable logistic regression to estimate associations between sociodemographic factors and the odds of failure to attain milestones, while controlling for confounding. Results A mild overall increase in milestone failure rates was observed from 2019 to 2023. Disparities based on maternal characteristics, particularly lower education, divorce status, unemployment, advanced maternal age, and immigration background, widened notably during periods of national disruption (COVID-19 and the war). In contrast, gaps associated with ethnicity and socioeconomic status remained stable or narrowed. Parental concern increased across most groups, particularly among Bedouin parents, suggesting growing awareness. Conclusions Maternal-level characteristics were strongly associated with elevated developmental risk from 2019 to 2023, and may be particularly sensitive to national crises. The findings underscore the importance of strengthening parental awareness, prioritizing early identification of high-risk families, and maintaining access to developmental services during emergencies. The study’s insights can support decision-makers in education, health, welfare, and local authorities in developing evidence-based strategies to promote equity and resilience in early childhood development systems.",
     "authors": [
-      "Fausta Natella",
-      "Innocenzo Muzzalupo",
-      "Antonio Raffo"
+      "Irena Girshovitz",
+      "Guy Amit",
+      "Inbal Goldshtein",
+      "Pinchas Akiva"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Food Industry / Science / Design",
-    "title": "Valorisation of shelled and unshelled pumpkin seed by-products into functional edible films for strawberry quality preservation during storage",
-    "journal": "European Food Research and Technology",
+    "field": "Management",
+    "title": "The lonely worker: job outcomes and the role of supervisor value (in) congruence",
+    "journal": "International Journal of Productivity and Performance Management",
     "year": "2026",
-    "date": "2026-07-15",
-    "doi": "10.1007/s00217-026-05215-4",
-    "url": "https://doi.org/10.1007/s00217-026-05215-4",
-    "abstract": "",
+    "date": "2026-07-16",
+    "doi": "10.1108/ijppm-03-2025-0199",
+    "url": "https://doi.org/10.1108/ijppm-03-2025-0199",
+    "abstract": "Purpose This study aims to understand how loneliness at work affects employees' task performance and their involvement with their jobs. Since supervisors often play a central role in shaping employees' experiences, the study also looks at the effect of having shared values with one's supervisor on the proposed relationships at low levels of value congruence. By doing so, the study goes beyond the usual focus on peer relationships and brings attention to the importance of supervisor–employee value alignment in creating a sense of belonging at work. Design/methodology/approach Employing a quantitative design using PROCESS MACRO, the theoretical model was tested using data collected from 500 mid-level IT managers in two phases. Findings The results revealed that workplace loneliness significantly undermines both task performance and job involvement among employees. Importantly, the analysis showed that person–supervisor value congruence moderated these relationships. When value congruence was low, the detrimental effects of loneliness were amplified, indicating that a lack of alignment with supervisors makes employees more vulnerable to the emotional costs of loneliness at work. Originality/value The findings provide an early and novice perspective on loneliness beyond peer-to-peer relationship quality and reflect on the significance of value congruence with their supervisors. Moreover, the proposed model empirically establishes that lonely employees indulge more in negative information than positive by establishing that while positive value congruence does not affect any outcome, missing value congruence worsens the job outcomes.",
     "authors": [
-      "Özgül Altay",
-      "Özge Filiz",
-      "Ahmet Tarık Can",
-      "Figen Kaymak-Ertekin"
+      "Payal Anand"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Psychology",
-    "title": "Urban migration, eating behaviour and nutrition status: a study of young adults in paying guest facilities",
-    "journal": "International Journal of Migration, Health and Social Care",
+    "title": "Socioeconomic Status Measurement Considering Psychological Resistance to Response: Exploration of Variables Strongly Correlated with Household Income 心理的抵抗感に配慮した社会経済的地位測定法の検討――家庭年収と関連の強い変数の探索",
+    "journal": "The Japanese Journal of Personality",
     "year": "2026",
-    "date": "2026-07-15",
-    "doi": "10.1108/ijmhsc-08-2025-0104",
-    "url": "https://doi.org/10.1108/ijmhsc-08-2025-0104",
-    "abstract": "Purpose This study aims to assess the nutritional status, dietary patterns, eating behaviours and food choice determinants of young adults residing in paying guest (PG) accommodations in an urban Indian setting, and to examine their associations with eating-out practices. Design/methodology/approach A cross-sectional study was conducted among 100 young adults (50 men and 50 women) living in PG accommodations in Delhi. Nutritional status was assessed using anthropometric measurements including body mass index (BMI), waist circumference (WC) and body fat percentage. Dietary intake was assessed using a semi-quantitative food frequency questionnaire. Eating behaviours, eating-out patterns and food choice determinants were assessed using validated questionnaires. Independent and paired sample t-tests, Pearson correlation and chi-square analysis were applied, with statistical significance set at p &lt; 0.05. Findings Among men, 30% were overweight and 22% were obese, while among women, 24% were underweight, 22% overweight and 18% obese. Elevated WC was observed in 18% of men and 26% of women, and high body fat in 28% of men and 34% of women. Dietary data revealed low intake of milk and milk products, fruits and green leafy vegetables, alongside excess sugar consumption in both genders. Frequent eating out – particularly post-dinner – was significantly associated with BMI in men (χ² = 11.6, p = 0.036) and body fat percentage in women (χ² = 13.42, p = 0.033). Gender differences were evident in food choice drivers, with men influenced predominantly by mood, accessibility and sensory appeal, while women were more influenced by health concerns and mood-related factors. Originality/value This study provides novel insights into the intersection of urban migration, independent living arrangements and nutritional health among young adults in India. By focusing on PG residents – a relatively under-researched population – the findings highlight critical dietary vulnerabilities and underscore the need for targeted, context-specific nutritional interventions for young urban migrants.",
+    "date": "2026-07-16",
+    "doi": "10.2132/personality.35.1.9",
+    "url": "https://doi.org/10.2132/personality.35.1.9",
+    "abstract": "",
     "authors": [
-      "Karamjeet Kaur",
-      "Neha Bakshi",
-      "Lalita Verma"
+      "Ayaka Nakai",
+      "Hiroki Higuchi",
+      "Naomi Watanabe",
+      "Tessei Kobayashi"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Marketing",
-    "title": "Transforming supplier relationship-specific investments into buyer dependence: a relational view perspective",
-    "journal": "Journal of Business & Industrial Marketing",
+    "title": "Setting an alarm for food: how digital shelf-life labels reduce consumer food waste",
+    "journal": "Asia Pacific Journal of Marketing and Logistics",
     "year": "2026",
-    "date": "2026-07-15",
-    "doi": "10.1108/jbim-08-2025-0811",
-    "url": "https://doi.org/10.1108/jbim-08-2025-0811",
-    "abstract": "Purpose Although relationship-specific investments (RSIs) typically signal commitment, they may inadvertently heighten supplier vulnerability under power asymmetry. This study aims to address a critical gap: how suppliers actively transform these investments into buyer dependence. By shifting focus from the direct effects of RSIs to their strategic transformation, the authors explore how suppliers navigate power-asymmetric relationships. Design/methodology/approach Drawing on the relational view, this study develops and tests a mediation model in which proactive market orientation, information technology (IT) integration and collaborative joint efforts act as key relational mechanisms. Survey data were collected from 208 IT original equipment manufacturer (OEM) suppliers in China, and the proposed model was tested using structural equation modeling (SEM). Findings The results show that the effects of RSIs on buyer dependence are mediated through relational mechanisms, namely, proactive market orientation, IT integration and collaborative joint efforts, highlighting the importance of relational mechanisms in unlocking the value of RSIs. Originality/value This study advances the literature on buyer–supplier relationships by revealing the contingent nature of RSIs in power-asymmetric contexts. It extends the relational view by identifying key relational mechanisms through which suppliers can unlock relational rents and actively shape buyer dependence dynamics. The findings provide new insights into how structurally weaker suppliers can strategically manage RSIs and offer practical guidance for building stronger and more enduring relationships with dominant buyers.",
+    "date": "2026-07-16",
+    "doi": "10.1108/apjml-03-2026-0700",
+    "url": "https://doi.org/10.1108/apjml-03-2026-0700",
+    "abstract": "Purpose While prior research on food labeling has primarily focused on the content and clarity of expiration information, little is known about how the format of temporal information influences consumer behavior. This study examines the effect of digital shelf-life labels on consumer food waste and the underlying psychological mechanism. Design/methodology/approach This study employs two laboratory experiments and one field experiment to compare dynamic digital shelf-life labels with traditional static expiration labels, and to test the mediating role of present focus and the moderating role of food proximity to expiration. Findings Digital shelf-life labels significantly reduce consumer food waste compared to traditional labels. This effect is driven by a shift in consumers' temporal focus toward a present-focused temporal orientation, thereby promoting immediate consumption. Furthermore, the effect is contingent on food proximity to expiration, becoming stronger for products close to expiration but becoming insignificant for those far from expiration. Research limitations/implications This study has several limitations that offer directions for future research. First, it does not fully explore interaction costs and trust in digital labeling. The labels’ effectiveness relies on consumer engagement, which may be shaped by scanning effort, perceived usefulness, privacy concerns, and trust in digital information. Future research can examine how these factors influence adoption and behavior. Second, while this study includes online and field experiments, some controlled scenarios limit external validity. Future studies could enhance ecological validity by testing digital labels in real retail settings or using actual household consumption data. Practical implications For governments and regulators, shelf-life labeling policies should shift from static date displays to dynamic, time-sensitive systems. Regulators can integrate digital countdown labels into official standards and use incentives to promote wider adoption within food waste reduction frameworks. For food manufacturers and retailers, digital shelf-life labels serve as cost-effective behavioral intervention tools. Adding QR codes or low-cost smart labels helps draw attention to near-expiry products and boost timely consumption, thereby reducing inventory losses and improving supply-chain efficiency while linking sustainability to business performance. For consumer education and public welfare groups, digital labels act as gentle but effective nudges to strengthen consumers' temporal awareness and food responsibility. Originality/value This study extends food labeling research from static information provision to dynamic temporal framing, and reconceptualizes food labels as cognitive cues shaping consumers' temporal focus. It further identifies present-focused temporal orientation as a key mechanism and food proximity to expiration as a boundary condition, offering a process-based explanation of how digital temporal cues influence sustainable consumption behavior.",
     "authors": [
-      "Suicheng Li",
-      "Wenjing Hou",
-      "Lijie Ma"
+      "Qingsong Tian",
+      "Yan Lin",
+      "Wenbing Gao",
+      "Yan Yu"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Urban Studies",
-    "title": "Three-dimensional stability analysis of fault-controlled slopes using a column-based composite slip-surface framework",
-    "journal": "Bulletin of Engineering Geology and the Environment",
+    "field": "Family Studies",
+    "title": "Pengembangan Model Pembelajaran Renang Adaptif Berbasis Water Confidence bagi Siswa yang Mengalami Ketakutan Air",
+    "journal": "Indonesian Journal of Education and Development Research",
     "year": "2026",
-    "date": "2026-07-15",
-    "doi": "10.1007/s10064-026-05161-1",
-    "url": "https://doi.org/10.1007/s10064-026-05161-1",
-    "abstract": "",
+    "date": "2026-07-16",
+    "doi": "10.57235/ijedr.v4i2.8573",
+    "url": "https://doi.org/10.57235/ijedr.v4i2.8573",
+    "abstract": "Penelitian ini bertujuan untuk mengembangkan serta menguji efektivitas model pembelajaran renang adaptif berbasis water confidence bagi siswa yang mengalami ketakutan terhadap air dalam proses pembelajaran pendidikan jasmani. Ketakutan terhadap air merupakan salah satu hambatan psikologis yang sering ditemukan dalam pembelajaran renang, khususnya pada siswa pemula. Kondisi ini menyebabkan siswa mengalami kecemasan, kurang percaya diri, serta kesulitan dalam menguasai keterampilan dasar renang seperti mengapung, bernapas, dan bergerak di dalam air. Permasalahan tersebut menunjukkan perlunya suatu model pembelajaran yang tidak hanya berfokus pada aspek teknik, tetapi juga memperhatikan aspek psikologis siswa. Oleh karena itu, model pembelajaran renang adaptif berbasis water confidence dikembangkan sebagai pendekatan yang menekankan pada peningkatan rasa aman, kenyamanan, dan kepercayaan diri siswa melalui kegiatan bertahap, menyenangkan, dan sesuai dengan kemampuan individu. Penelitian ini menggunakan metode Penelitian Tindakan Kelas (PTK) yang dilaksanakan dalam dua siklus. Setiap siklus terdiri dari tahap perencanaan, pelaksanaan tindakan, observasi, dan refleksi. Subjek penelitian adalah siswa yang mengalami ketakutan terhadap air dalam pembelajaran renang. Teknik pengumpulan data dilakukan melalui observasi aktivitas siswa, tes keterampilan dasar renang, serta dokumentasi selama proses pembelajaran berlangsung. Analisis data dilakukan secara deskriptif untuk melihat peningkatan yang terjadi pada setiap siklus. Hasil penelitian menunjukkan bahwa penerapan model pembelajaran renang adaptif berbasis water confidence mampu meningkatkan keberanian siswa dalam berinteraksi dengan air, meningkatkan kepercayaan diri, serta memperbaiki keterampilan dasar renang secara signifikan. Selain itu, terjadi peningkatan keaktifan siswa dalam proses pembelajaran, dimana siswa lebih antusias, berpartisipasi aktif, dan mampu mengikuti instruksi dengan lebih baik. Dengan demikian, dapat disimpulkan bahwa model pembelajaran ini efektif digunakan untuk membantu siswa mengatasi ketakutan terhadap air serta meningkatkan kualitas pembelajaran renang.",
     "authors": [
-      "Yinxian Chen",
-      "Xianzhou Yu"
+      "Muhammad Yan Ahady",
+      "Nuansa Cristian S Pandia",
+      "Tuahta Arifin Ilham Hutahayan"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Public Policy",
-    "title": "The role of ESG risk and sustainability assurance in shaping firms’ financing constraints",
-    "journal": "Management & Sustainability: An Arab Review",
+    "field": "Food Industry / Science / Design",
+    "title": "Experimental Investigation of an Asymmetric Inerter Nonlinear Energy Sink for Vibration Control",
+    "journal": "International Journal of Structural Stability and Dynamics",
     "year": "2026",
-    "date": "2026-07-15",
-    "doi": "10.1108/msar-11-2025-0468",
-    "url": "https://doi.org/10.1108/msar-11-2025-0468",
-    "abstract": "Purpose This study examines the association between ESG risk, sustainability assurance, and firms’ financing constraints in an emerging market. Design/methodology/approach This study applies panel regression analysis to 75 firm-year observations of liquid and highly visible non-financial firms listed on the Indonesia Stock Exchange between 2019 and 2023. Financing constraints are proxied by the Kaplan–Zingales (KZ) Index, where higher KZ index values indicate greater financing constraints. Findings The results show a nuanced ESG risk–financing constraint relationship. ESG risk is marginally associated with the KZ index in the baseline model; however, the direction differs from the predicted relationship and is sensitive to the robustness specifications. Sustainability assurance is not significantly associated with financing constraints, suggesting that binary assurance does not function as a strong financing signal in this sample. Firm size is negatively and significantly associated with financing constraints, whereas leverage is not significantly associated. Originality/value This study contributes to the sustainable finance literature by examining ESG risk as a substantive risk signal and sustainability assurance as a credibility-enhancing mechanism in Indonesia, where ESG regulation, assurance practices, investor awareness, and governance systems are still evolving.",
+    "date": "2026-07-16",
+    "doi": "10.1142/s0219455427300059",
+    "url": "https://doi.org/10.1142/s0219455427300059",
+    "abstract": "Existing structural control devices such as nonlinear energy sinks (NESs) and tuned mass damper (TMD) have demonstrated outstanding control efficacy. However, they are susceptible to changes in structural frequency or excitation and require a large sliding mass or space for implementation, which impedes their widespread practical application. In this study, an asymmetric inerter (ASYMI) NES is proposed to improve control efficiency and reduce the mass of dampers. Based on a 1:8-scale two-story aluminum alloy frame structure constructed in a laboratory, the ASYMI NES is optimized and experimentally investigated. The structural parameters are identified by conducting free-vibration testing on the uncontrolled structure. In the laboratory, an adjustable inerter is designed using a gear-rack mechanism. Two seismic records are applied to the experimental structure in shaking table experiments to analyze the control effect of the ASYMI NES device under ground motion. The experimental results for a structure equipped with the control device is compared to the simulated data to analyze the reasons for the discrepancies between experimental and simulation results. The results revealed that the RMS and peak errors between the simulation and experimental results were both within 10%. Overall, the ASYMI NES demonstrated impressive control capabilities, even if the stiffness does not reach the optimal design stiffness during our experiments, indicating its strong potential for engineering applications.",
     "authors": [
-      "Erwin Saraswati",
-      "Nurul Kamilina Febriyanti Samal",
-      "Roshni Ann George",
-      "Achmad Iqbal"
+      "Zhibin Liu",
+      "Ping Tan",
+      "Jingjing Wang",
+      "Hongcan Yao"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "The influence of green supply chain management on competitive advantage: the role of generative artificial intelligence",
-    "journal": "Management & Sustainability: An Arab Review",
-    "year": "2026",
-    "date": "2026-07-15",
-    "doi": "10.1108/msar-07-2025-0239",
-    "url": "https://doi.org/10.1108/msar-07-2025-0239",
-    "abstract": "Purpose In response to unprecedented stakeholder pressure, firms are increasingly considering green supply chain management (GSCM) adoption to manage their environmental impact throughout the product life cycle. However, it is unclear whether and how GSCM can be transformed into a competitive advantage for adopting firms. Therefore, the purpose of this study is to examine the relationship between GSCM and competitive advantage and the mediating role of generative artificial intelligence (AI). Design/methodology/approach Based on a large-scale survey of large manufacturing firms across different sectors in Jordan, 300 responses were received and subsequently analysed using structural equation modelling. Findings The results reveal that GSCM have no direct impact on cost- and differentiation-based competitive advantage. The results also uncover that generative AI exerts a positive influence on both cost- and differentiation-based competitive advantage. Furthermore, the results demonstrate that generative AI plays a full mediating role in the relationship between GSCM and both cost- and differentiation-based competitive advantage. Research limitations/implications This study is cross-sectional, limited to one country and industrial sector and does not address whether the indirect effect of GSCM on competitive advantage via generative AI is universal or context-dependent. Social implications By demonstrating how GSCM can lead to competitive advantage, the study encourages wider adoption of GSCM among firms. This can contribute to reducing environmental impact and enhancing overall societal well-being. Originality/value This study highlights the critical role of firms’ technological capabilities in advancing the implementation of green initiatives and enhancing competitive advantage, providing valuable insights for firms striving to meet sustainability expectations and navigating the competitive landscape.",
-    "authors": [
-      "Omar Talal Almereb",
-      "Khai Wah Khaw",
-      "Mohammad Alghababsheh",
-      "Noorliza Karia"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
