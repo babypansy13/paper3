@@ -1,158 +1,150 @@
 [
   {
-    "field": "Psychology",
-    "title": "Seasonal Dynamics of Benthic Macroinvertebrates in Four Equatorial Forest Streams in the Mvila Division, Southern Cameroon",
-    "journal": "Nature Environment and Pollution Technology",
-    "year": "2026",
-    "date": "2026-07-17",
-    "doi": "10.46488/nept.2026.v25i02.d1849",
-    "url": "https://doi.org/10.46488/nept.2026.v25i02.d1849",
-    "abstract": "Seasonal variations are responsible for many of the disturbances observed in watercourses. This study aims to evaluate the seasonal dynamics of benthic macrofauna in the Metyi, Bengo, Sounou, and Lo’o watercourses in the Mvila Division. Sampling of benthic macroinvertebrates was carried out in 12 stations using the multi-habit/indat approach, using a 30 cm square dip net fitted. 3404 individuals of benthic macroinvertebrates (43.48% relative abundance) were counted in long dry season (LDS), 1839 individuals (23.49% relative abundance) in short rainy season (SRS), 1696 individuals (21.67% relative abundance) in long rainy season (LRS), and 889 individuals of benthic macroinvertebrates (11.36% relative abundance) in short dry season (SDS). In terms of diversity, a total of 174 taxa were identified: 111 in the LDS, 106 in the SRS, 92 in the LRS, and 51 in the SDS. Shannon and Weaver’s diversity index showed the lowest value in SDS, while its highest value was recorded during SRS, as was Pielou J Equitability index. The similarity index suggests that the seasons differ from one another. The LDS had the highest species richness and abundance, while the SRS had the highest diversity value according to Shannon and Weaver.",
-    "authors": [
-      "Mathias Nwaha",
-      "Jean Dzavi",
-      "Marie Anita Temgoua Zemo",
-      "Wilfreid Christiane Noel Betsi"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "Modelling Maintenance 4.0 enablers in manufacturing: a PLS-SEM–Bayesian network approach",
-    "journal": "Journal of Quality in Maintenance Engineering",
-    "year": "2026",
-    "date": "2026-07-17",
-    "doi": "10.1108/jqme-02-2026-0030",
-    "url": "https://doi.org/10.1108/jqme-02-2026-0030",
-    "abstract": "Purpose The research proposes an integrated hybrid partial least squares structural equation modelling (PLS-SEM) and Bayesian network (BN) approach to analyse the crucial enablers to Maintenance 4.0 adoption in manufacturing industries. Design/methodology/approach A detailed review of the literature is executed to identify the crucial enablers for maintenance adoption in the manufacturing sector. An initial hypothesised model is developed, factors loadings are evaluated, and model fit is confirmed using a PLS-SEM. In addition to that, a BN is modelled to examine the influence of enablers on the adoption of Maintenance 4.0 in the manufacturing sector. Further, to verify the robustness of the outcome of the study, sensitivity analysis is conducted. Findings The analysis reveals that the proposed PLS-SEM model is accurate and valid, categorising the enablers into four groups: organisation-related enablers, digital infrastructure and system support–related enablers, data-related enablers and people-related enablers. A machine learning-based BN technique was implemented to investigate the impact of the identified enablers on the adoption of Maintenance 4.0 in the manufacturing sector. Additional sensitivity analysis confirmed the accuracy of the BN model. Research limitations/implications The proposed methodology, adopted slightly complicated and laborious, provides an accurate and reliable framework for the BN model, which provides a more accurate and clear understanding of the enablers. Practical implications The findings of this research will be highly beneficial to manufacturing industries, enabling them to identify the most influential enablers for successful Maintenance 4.0 adoption and, consequently, improve the probability of success. Originality/value A hybrid framework combining PLS-SEM and machine learning is employed to examine complex systems such as Maintenance 4.0 enablers, allowing both statistical robustness and data-driven insights. The framework offers useful direction for policymakers and industry practitioners by clarifying how critical enablers can be utilized to improve the success rate of successful Maintenance 4.0 adoption.",
-    "authors": [
-      "Mahadev Laxman Naik",
-      "Milind Shrikant Kirkire"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Consumer Research",
-    "title": "Megakaryocytes Internalize and Are Activated by Immune Complexes",
-    "journal": "Circulation Research",
+    "title": "İlkokul Sınıflarında Birlikte Yemek Yemenin Sosyal Bağlara Etkisi: Nitel Bir Çalışma",
+    "journal": "Journal of Innovative Research in Social Studies",
     "year": "2026",
-    "date": "2026-07-17",
-    "doi": "10.1161/circresaha.125.327999",
-    "url": "https://doi.org/10.1161/circresaha.125.327999",
-    "abstract": "BACKGROUND: Receptors that bind antibodies are essential for protective adaptive immune responses against antibody-opsonized pathogens, yet their engagement by antibody-autoantigen complexes can drive chronic inflammation in autoimmune diseases. Megakaryocytes, the precursor cells of platelets, express such receptors. However, their response to immunoglobulin G antibodies remains unclear. METHODS: We used both systemic lupus erythematosus and COVID-19 as relevant examples of autoimmune and infection-driven contexts in which antibodies are involved to characterize human and mouse megakaryocyte responses. RESULTS: We found that megakaryocytes internalized immune complexes composed of autoantigens or SARS-CoV-2. In both human and mouse megakaryocytes, immune complexes triggered the release of chemokines and procoagulant extracellular vesicles. This process required FcγRIIA (Fc gamma receptor IIA) engagement, downstream Syk (spleen tyrosine kinase) signaling, and protein translation. A detailed analysis revealed that megakaryocyte-derived extracellular vesicles did not contain organelles and were largely indistinguishable from a subset of small-sized extracellular vesicles released by activated platelets. In FcγRIIA-transgenic mice, we analyzed megakaryocytes in both the bone marrow and lungs in a lupus model, whereas megakaryocytes were examined in the lungs in a COVID-19 model. In all cases, immunoglobulins were detected in close proximity to FcγRIIA-expressing megakaryocytes. Notably, the chemokine CXCL2 (C-X-C motif ligand-2) was increased in FcγRIIA-expressing mice under disease conditions. Tissue spatial analysis revealed that CXCL2 predominantly localized to megakaryocytes, supporting these cells as a major source. Furthermore, SARS-CoV-2 stimulated megakaryocytes to release CXCL2 only in the presence of IgG from SARS-CoV-2 immune individuals, and this response was strictly dependent on FcγRIIA expression. CONCLUSIONS: These findings suggest that megakaryocytes contribute to adaptive immune responses through FcγRIIA-mediated signaling.",
+    "date": "2026-07-18",
+    "doi": "10.47503/jirss.1927646",
+    "url": "https://doi.org/10.47503/jirss.1927646",
+    "abstract": "Alanyazındaki commensality (birlikte yemek yeme) çalışmalarının çoğu beslenme ve sağlık alanında yapılmıştır. Eğitim ortamındaki ilkokul öğrencileri üzerindeki sosyolojik etkileri ile ilgili yapılan çalışmalar oldukça sınırlıdır. Eğitim alanında sosyal sermaye kuramsal çerçevesiyle açıklanan çalışmaların sınırlı olduğu görülmektedir. Alanyazındaki söz konusu sınırlılıklardan hareketle bu araştırma; ilkokul öğrencileri arasındaki birlikte yemek yeme (commensality) pratiklerinin sosyal bağlar, grup aidiyeti ve kişisel iyi oluş üzerindeki etkilerini Coleman'ın sosyal sermaye teorisi üzerinden değerlendirmeyi amaçlamaktadır. Temel nitel araştırma deseninde tasarlanan bu çalışmada, Türkiye'nin iki farklı ilinde görev yapan 2 sınıf öğretmeni ve toplam 25 ilkokul 3. sınıf öğrencisi (8-9 yaş) ile 8 haftalık uzunlamasına araştırma yürütülmüştür. Haftada iki kez gerçekleştirilen commensality etkinliklerinde öğrenciler evlerinden getirdikleri yemekleri sınıf içinde paylaşmışlardır. Veriler öğretmen gözlem formları, odak grup görüşmeleri ve yarı-yapılandırılmış bireysel görüşmeler aracılığıyla toplanmış, tematik analiz yöntemiyle çözümlenmiştir. Coleman'ın sosyal sermaye teorisinin üç boyutu (yükümlülükler ve beklentiler, bilgi kanalları, normlar ve etkili yaptırımlar) commensality uygulamaları ile desteklenmiştir. Bu boyutların gelişmesiyle sosyal bağların güçlendiği ve çekingen öğrencilerin daha aktif katılım gösterdiği gözlenmiştir. Grup aidiyetinin geliştiği, öğrencilerin dil kullanımında ise “ben dili”nden “biz dili”ne yönelim olduğu gözlenmiştir. Araştırma, eğitim ortamlarında commensality'nin sosyal sermaye geliştirme potansiyelini ortaya koyarak, sınıf iklimi ve öğrenci davranışları üzerindeki olumlu etkilerini göstermektedir.",
     "authors": [
-      "Florian Puhm",
-      "Isabelle Allaeys",
-      "Eleonora Petito",
-      "Yaqiu Sang"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "Your voice takes me to the destination: the impact of AI streamer accent on viewers’ travel intention",
-    "journal": "Asia Pacific Journal of Marketing and Logistics",
-    "year": "2026",
-    "date": "2026-07-17",
-    "doi": "10.1108/apjml-12-2025-2712",
-    "url": "https://doi.org/10.1108/apjml-12-2025-2712",
-    "abstract": "Purpose Artificial intelligence (AI) streamers often promote destinations in Mandarin or destination dialect. However, existing research has not yet thoroughly explored the impact of AI streamer accent on viewers’ travel intention. Therefore, this study explores the impact of AI streamer accent (Mandarin vs destination dialect) on viewers’ travel intention. Design/methodology/approach Using social representation theory and cue consistency theory, we examine how AI streamer accent affects travel intention through four situational experiments. Findings Study 1 verified that destination dialect is more effective than Mandarin in enhancing viewers’ travel intention (n = 227). Study 2a examined the mediating effect of feeling of groundedness (n = 232). Study 2b reveals divergent mechanisms: the destination dialect increases travel intention via perceived authenticity for human streamers, but neither perceived authenticity nor perceived warmth mediates this effect for AI streamers. Instead, the dialect operates through feeling of groundedness (n = 312). Study 3 confirmed the moderating effect of background music consistency (n = 305). When background music consistency was high, viewers’ feeling of groundedness and travel intention were significantly enhanced. Originality/value This research provides valuable practical guidance for optimizing AI streamer voice strategies and enhancing viewers’ experiences in the digital context of travel destinations.",
-    "authors": [
-      "Weiping Yu",
-      "Siyu Ji",
-      "Xin Liao"
+      "Hüseyin Köksal",
+      "Ayşen Başar Sağlam",
+      "Yakup Can Tayfur"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Therapeutic Effects of Nerium oleander Bark Extract on Psoriatic Inflammation and ECM Damage in HaCaT cells",
+    "journal": "Journal of Apitherapy and Nature",
+    "year": "2026",
+    "date": "2026-07-18",
+    "doi": "10.35206/jan.1963431",
+    "url": "https://doi.org/10.35206/jan.1963431",
+    "abstract": "Psoriasis is a chronic inflammatory skin disease characterized by oxidative stress, persistent inflammatory signaling, keratinocyte hyperproliferation, and extracellular matrix (ECM) degradation. The present study investigated the phytochemical composition and anti-psoriatic potential of the methanolic bark extract of Nerium oleander. The phytochemical profile of the extract was characterized by ultra-high-performance liquid chromatography–high-resolution mass spectrometry (UHPLC–HRMS). Antioxidant activity was evaluated using ferric reducing antioxidant power (FRAP) and total antioxidant capacity (TOAC) assays, while anti-glycation activity was assessed through inhibition of advanced glycation end product (AGE) formation. ECM-protective activity was determined by collagenase, elastase, and hyaluronidase inhibition assays. Molecular effects were further investigated in lipopolysaccharide (LPS)-stimulated HaCaT keratinocytes using Western blotting, gelatin zymography, and quantitative real-time polymerase chain reaction (qRT-PCR) analyses. UHPLC–HRMS analysis revealed 70 phytochemicals, including phenolic acids, caffeoylquinic acid derivatives, flavonoids, coumarins, and cardenolides. The extract exhibited concentration-dependent antioxidant activity, with TOAC increasing from 65.36% to 81.27% and FRAP increasing from 48.21% to 65.25%. AGE formation was inhibited by up to 99.54%, while collagenase inhibition reached 90.55%. The extract also exhibited marked elastase and hyaluronidase inhibitory activities. In LPS-stimulated HaCaT cells, treatment with the extract suppressed receptor for advanced glycation end products (RAGE), phosphorylated nuclear factor kappa B (p-NF-κB), activator protein-1 (AP-1), tumor necrosis factor-alpha (TNF-α), interleukin-17 (IL-17), and interferon-gamma (IFN-γ) levels. In addition, matrix metalloproteinase-2 (MMP-2) and matrix metalloproteinase-9 (MMP-9) activities were reduced, while B-cell lymphoma 2 (BCL-2) and B-cell lymphoma-extra large (BCL-XL) expression levels decreased and p53 expression was restored. These findings demonstrate that N. oleander bark extract exerts multitarget anti-psoriatic effects by modulating oxidative stress, AGE-RAGE/NF-κB signaling, inflammatory cytokine production, ECM remodeling, and apoptosis-related pathways, supporting its potential as a phytotherapeutic candidate for psoriasis management.",
+    "authors": [
+      "İnci Kurt Celep"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20portrait%20silhouette%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Public Policy",
-    "title": "Well, he is Asian: exploring perceived racial tasking in the intercollegiate esports",
-    "journal": "Sport, Business and Management: An International Journal",
+    "title": "The role of social media platforms in shaping menstrual health literacy among adolescent girls: a scoping review",
+    "journal": "Journal of Public Health",
     "year": "2026",
-    "date": "2026-07-17",
-    "doi": "10.1108/sbm-12-2025-0340",
-    "url": "https://doi.org/10.1108/sbm-12-2025-0340",
-    "abstract": "Purpose While esports is a rapidly growing industry, studies have revealed evidence of a racial divide. Utilizing racial tasking theory, this study aims to explore the apparent racial divide within intercollegiate esports. Design/methodology/approach The authors employed semi-structured interviews and utilized deductive qualitative analysis. Findings The results revealed a perceived racial divide in intercollegiate esports, with conditional meritocracy functioning as a key mechanism sustaining it. More specifically, the analysis identifies conditional meritocracy as a key ideological mechanism through which racial tasking is reproduced in esports settings. This study also provided practical implications, such as creating opportunities for racial minority gamers to engage in games of interest without incurring financial burdens. The study further provided future research options, suggesting the exploration of perceptions among stakeholders who have access to gamers in elementary or middle school age groups. Originality/value The originality of this study lies in being one of the few attempts to explore the perceived racial divide in intercollegiate esports through a specific theory, racial tasking theory rather than using grounded theory, which enabled authors to systematically test and extend existing theory in new contexts rather than relying on emergent grounded theory approaches.",
+    "date": "2026-07-18",
+    "doi": "10.1007/s10389-026-02853-6",
+    "url": "https://doi.org/10.1007/s10389-026-02853-6",
+    "abstract": "",
     "authors": [
-      "Kibaek Kim",
-      "Rhema Fuller",
-      "Trevor Bopp",
-      "Robert Turick"
+      "Liann Rozenberg",
+      "Elijah Moothedan",
+      "Isabella Abraham",
+      "Avanthi Puvvala"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Mental Health",
-    "title": "Variance-aware penalized panel models for temporal risk detection from wearable sensor data",
-    "journal": "Journal of Translational Medicine",
+    "field": "Family Studies",
+    "title": "The Emergence of the Periphery Urban Satellite Suburbs Due to the New Government Housing Projects in Saudi Cities",
+    "journal": "Journal of Sustainable Development",
     "year": "2026",
-    "date": "2026-07-17",
-    "doi": "10.1186/s12967-026-08652-7",
-    "url": "https://doi.org/10.1186/s12967-026-08652-7",
-    "abstract": "Abstract Background Wearable devices generate continuous, high-resolution physiological data that offer opportunities for real-time assessment of stress, arousal, and early physiological deterioration, but existing pipelines often treat variability as nuisance noise or rely on labeled classifiers. We present a computational approach for subject-adaptive temporal risk detection that explicitly separates conditional mean and variance dynamics in high-dimensional multisubject sensor data. Results The proposed penalized panel ARX–GARCHX model integrates subject-specific baselines, shared autoregressive dynamics, sparse multimodal covariate effects, and covariate-dependent volatility. It produces an exceedance-based risk score that estimates the conditional probability of crossing an individualized physiological threshold. Simulation experiments across stable, seasonal, transient-regime, and sustained-regime settings showed that modeling covariate-driven variance improves recovery of threshold-exceedance risk when volatility is structured. In the Wearable Stress and Affect Detection (WESAD) demonstration, the score provided an interpretable, label-free temporal summary that separated stress-associated windows more clearly than raw heart-rate summaries and remained lightweight for streaming use. Conclusion Variance-aware penalized panel modeling provides a reproducible methodology for converting noisy wearable streams into subject-adaptive risk-state scores. It is intended for translational feature extraction, with prospective validation required before clinical decision support. Trial registration Not applicable. This study is a methodological article that uses publicly available secondary data and does not constitute a clinical trial.",
+    "date": "2026-07-18",
+    "doi": "10.5539/jsd.v19n5p1",
+    "url": "https://doi.org/10.5539/jsd.v19n5p1",
+    "abstract": "The government has been rapidly expanding large-scale housing initiatives to meet the goals of Saudi Vision 2030, such as boosting house ownership to 70% by 2030, in Saudi Arabia. This research compares the sustainability of the spatial development of mega government housing projects with existing inner-city residential neighbourhoods in Riyadh, Jeddah and Alhofuf. A comparative multiple-case study design was employed, drawing upon the SPECTRUM neighbourhood sustainability assessment framework to assess six case studies against the 10 dimensions of sustainability: accessibility, connectivity, infrastructure, public transport, housing provision, environmental quality, and public services. The results show that well-developed inner-city neighbourhoods routinely scored significantly higher in terms of sustainability than recent suburban housing developments. The suburban developments helped provide housing, but were overall less connected with cities, had poorer access to public transport, and more dependent upon existing cities for employment and essential services. The study concludes that future developments by the government should focus on infill development, phased urban development, integrated public transport provision and comprehensive infrastructure to enhance the sustainability of neighbourhoods and meet longer-term goals of Saudi Vision 2030.",
     "authors": [
-      "Zihao Wang",
-      "Min Lu"
+      "Abdulaziz Nasser Aldusari"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Role of obesity in orthopedic surgical outcomes and complications: A retrospective cohort study at King Fahad University Hospital",
+    "journal": "World Journal of Orthopedics",
+    "year": "2026",
+    "date": "2026-07-18",
+    "doi": "10.5312/wjo.121847",
+    "url": "https://doi.org/10.5312/wjo.121847",
+    "abstract": "BACKGROUND Obesity is a global health problem, and its prevalence continues to increase significantly each year. It is also associated with many major chronic diseases, such as diabetes and hypertension. Some studies suggest that obesity has a major impact on postoperative complications, but this remains an area of ongoing investigation. AIM To evaluate the association between obesity and obesity-associated chronic diseases and the risk of post-orthopedic surgical complications, and to compare the surgical success rate, patient outcomes, and patient satisfaction between obese and non-obese patients. METHODS A retrospective cohort study was conducted comparing obese and non-obese patients who underwent elective or emergency orthopedic surgery at King Fahad University Hospital, Al-Khobar, Saudi Arabia, between January 1, 2020, and November 30, 2024. A body mass index cutoff of 30 kg/m2 was used to classify obese patients, and all patients were aged 18 years or older. RESULTS After data collection and analysis, obese patients demonstrated a higher incidence of postsurgical complications and a lower success rate than non-obese patients. The complication rate was 26% (n = 48) in obese patients and 7% (n = 12) in non-obese patients. Obese patients had significantly higher complication rates than non-obese patients (odds ratio = 5.0; 95%CI: 2.5-9.8; P < 0.001). The success rate was 74% (n = 136) in obese patients, whereas it was 93% (n = 172) in non-obese patients. The success rate was significantly higher in non-obese patients than in obese patients (odds ratio = 5.0; 95%CI: 2.5-9.8; P < 0.001). CONCLUSION Obesity was significantly associated with higher postoperative complication rates and lower success rates. These findings highlight the importance of optimizing preoperative assessment in obese patients by incorporating preoperative weight management and enhanced follow-up care.",
+    "authors": [
+      "Ammar K Alomran",
+      "Sarah Alhaddad",
+      "Yazan Alqahtani",
+      "Yaser Bahri"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Urban Studies",
-    "title": "The influence of implant survival on cost-effectiveness in total knee arthroplasty: a patient-level discrete-event simulation study",
-    "journal": "Health Economics Review",
+    "field": "Marketing",
+    "title": "Predicting postoperative coronal imbalance in Lenke 1/2 adolescent idiopathic scoliosis: A machine learning model with clinical interpretability",
+    "journal": "International Orthopaedics",
     "year": "2026",
-    "date": "2026-07-17",
-    "doi": "10.1186/s13561-026-00822-z",
-    "url": "https://doi.org/10.1186/s13561-026-00822-z",
-    "abstract": "Abstract Background Although several studies have evaluated the cost-effectiveness of total knee arthroplasty (TKA) compared with conservative treatment, few have explored how implant revision rates may influence its long-term cost-effectiveness. The objective of this study was to evaluate the impact of implant revision rates on quality of life and cost-effectiveness in patients undergoing TKA. Methods A cost-utility analysis from a healthcare system perspective was conducted using an individualized discrete-event simulation model parameterized with data from a Spanish cohort of patients undergoing TKA. Quality-adjusted life years were calculated with the SF-6D index, and implant alternatives were compared by assigning age- and sex-specific revision rates to each simulated patient while projecting long-term quality of life and life expectancy according to general population standards. The prosthetic models compared were those associated with the highest (WorstKnee) and lowest (BestKnee) revision rates in the UK National Joint Registry. The primary outcome was the incremental cost-effectiveness ratio. Secondary analyses included budget impact and deterministic sensitivity analyses. Results The projected quality-adjusted life expectancy over 15 years was 9.767 QALYs for WorstKnee, compared with 10.004 QALYs for BestKnee. The incremental cost-effectiveness ratio was €6,219/QALY, which remained below the cost-effectiveness thresholds commonly used in Spain. Use of BestKnee was associated with an additional cost of €332.3 M over 15 years; however, it also led to a substantial reduction in revision surgeries, with 27,878 fewer procedures performed, resulting in gradual cost savings over time. Conclusion Within the price ranges currently observed in the Spanish National Health System, total knee prostheses associated with lower revision rates provide a favorable long-term cost-effectiveness profile and may reduce future revision burden despite their higher acquisition cost.",
+    "date": "2026-07-18",
+    "doi": "10.1007/s00264-026-06953-6",
+    "url": "https://doi.org/10.1007/s00264-026-06953-6",
+    "abstract": "Abstract Objectives Selective posterior thoracic fusion (sPTF) for Lenke 1/2 adolescent idiopathic scoliosis (AIS) aims to reconcile multi-planar correction with motion preservation. Nevertheless, postoperative coronal imbalance (CIB) frequently compromises these objectives. This study developed an interpretable machine learning architecture to stratify CIB risk and identify key predictors. Methods Data from 282 patients were analyzed. Following dual-stage dimensionality reduction (Boruta and LASSO) on 24 candidate predictors, ten machine learning architectures were trained and evaluated using split-sample internal validation. Model efficacy was evaluated via area under the curve (AUC), Brier score, and decision curve analysis, using SHapley Additive exPlanations (SHAP) framework for algorithmic transparency. Results The LightGBM model demonstrated favorable performance, achieving peak AUC of 0.885 (training) and 0.824 (internal validation). SHAP identified three key predictors: the spatial relationship between the lowest instrumented vertebra and the last substantially touching vertebra (LIV-LSTV), regional lumbar adaptability (Lumbar Modifier), and skeletal maturity (Risser grade). Lower LIV-LSTV values, Lumbar Modifiers C, and lower Risser grades were associated with a higher predicted risk of CIB. Conclusion This framework incorporates information on distal instrumentation selection, lumbar curve morphology, and skeletal maturity. The model may provide a preliminary basis for future preoperative CIB risk estimation and support a more informed assessment of the trade-off between deformity correction and preservation of lumbar motion segments. Independent external validation is required before the model can be used to guide surgical decision-making.",
     "authors": [
-      "Pablo Oscar Roza Miguel",
-      "Jorge Albareda Albareda",
-      "Nuria García-Rodríguez",
-      "Eduardo González Fidalgo"
+      "Tao Li",
+      "Chaofeng Guo",
+      "Sha Li"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Machine learning approaches for biomechanical and bioelectrical regulation in developmental tissue engineering 机器学习驱动的发育型组织工程中的生物力学与生物电调控",
+    "journal": "Bio-Design and Manufacturing",
+    "year": "2026",
+    "date": "2026-07-18",
+    "doi": "10.1631/bdm.2500560",
+    "url": "https://doi.org/10.1631/bdm.2500560",
+    "abstract": "Abstract Developmental tissue engineering is increasingly guided by the principles of morphogenesis, cellular self-organization, and dynamic microenvironmental regulation, moving beyond static scaffold design and towards adaptive, development-inspired strategies. Integrating insights from developmental biology has revealed new structural-functional relationships and more robust tissue maturation pathways, thereby unlocking biofabrication strategies that harness intrinsic biological regulatory mechanisms rather than imposing static architectures on engineered tissue. This review examines machine learning (ML) applications to tissue engineering within a developmental context, emphasizing how bioelectric, biomechanical, and morphogenic cues influence cell fate, tissue organization, and adaptive growth. We highlight how data-driven and physics-based models, surrogate modeling, and generative design can integrate complex biological data, simulate evolving microenvironments, and guide experimental biofabrication. Despite these advances, significant challenges remain, such as the integration of heterogeneous and multiscale biological data, limitations in model interpretability and generalizability, and ethical and regulatory considerations regarding data use and artificial intelligence (AI)-guided decision-making in biofabrication applications. Through the coupling of developmental principles with computational tools, ML-driven tissue engineering is nevertheless well positioned to enable more predictive, adaptive, and reproducible paradigms for creating functional living systems.",
+    "authors": [
+      "Miriam Filippi",
+      "Robert Katzschmann"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Management",
-    "title": "Strategic marketing and library visibility in the digital age: evidence from academic libraries in Nigeria",
-    "journal": "Library Management",
+    "title": "When does exercise hinder rather than halt tumor progression? The decisive role of immunotherapy responsiveness",
+    "journal": "Proceedings of the National Academy of Sciences",
     "year": "2026",
     "date": "2026-07-17",
-    "doi": "10.1108/lm-05-2026-0065",
-    "url": "https://doi.org/10.1108/lm-05-2026-0065",
-    "abstract": "Purpose This study examines the influence of strategic marketing on the visibility of academic libraries in Nigerian universities within the context of the digital age, where users increasingly bypass traditional library systems for online alternatives. The study is grounded in the Theory of Planned Behaviour. Design/methodology/approach A descriptive survey design with a correlational approach was adopted. Data were collected through electronic questionnaires from 314 library personnel purposively selected across the North-Central, South-South and South-West geopolitical zones of Nigeria. Data were analysed using descriptive statistics and Pearson’s correlation. Findings The findings revealed a high level of overall library visibility (x̄ = 3.10), although online visibility was only moderate. Strategic marketing practices were also adopted to a high extent (x̄ = 3.06); however, libraries tended to prioritise physical accessibility and collection development over digital access strategies. Key challenges identified included limited funding, inadequate ICT facilities, and staff resistance to innovation. The study further established a significant positive relationship between strategic marketing and library visibility (r = 0.53, p &lt; 0.05), indicating that increased marketing efforts are associated with improved visibility. Originality/value This study provides empirical evidence on the relationship between strategic marketing and library visibility within the Nigerian academic context. It contributes to the existing literature by highlighting the need for a more integrated and digitally oriented marketing approach to enhance the relevance and visibility of academic libraries in the digital era.",
+    "doi": "10.1073/pnas.2616250123",
+    "url": "https://doi.org/10.1073/pnas.2616250123",
+    "abstract": "",
     "authors": [
-      "Bilikis Adefunke Babarinde",
-      "Wole Michael Olatokun",
-      "Abdulahi Mayowa Olaniyi"
+      "Xin Zhou",
+      "Jingjing Liu",
+      "Qinglu Wang"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Family Studies",
-    "title": "Prevalence and associated risk factors of uterine fibroids in the Kingdom of Eswatini",
-    "journal": "South African Family Practice",
+    "field": "Urban Studies",
+    "title": "Wayfinding under uncertainty in a winter city: a self-reflexive video study of digital, spatial, and human cues in Asahikawa",
+    "journal": "International Journal of Tourism Cities",
     "year": "2026",
     "date": "2026-07-17",
-    "doi": "10.4102/safp.v68i1.6288",
-    "url": "https://doi.org/10.4102/safp.v68i1.6288",
-    "abstract": "Background: The global burden of uterine fibroids (UFs) has increased from 4.5% to 68.6%, but insufficient data in sub-Saharan Africa limit the development of effective prevention and treatment strategies. The study aimed to determine the prevalence and associated risk factors of symptomatic UFs in Eswatini. Methods: An analytical cross-sectional study used purposive sampling to enrol 645 women aged 25–64 years old with UFs or symptoms. Data were collected via face-to-face interviews with a standardised questionnaire and analysed with descriptive statistics and logistic regression. Results: The overall prevalence of UFs was 67.8% (437/645). A higher prevalence was evident in the age group 50 years and older (81.4%) compared to prevalence (33.3%) in the age group 25–29 years. Notably, high prevalence was among people with diabetes (88.5%), widows (80%), those with a primary level of education (79.1%), the obese (76.3%), Depo-Provera (75.6%) and Hhohho (76.3%) participants. The univariate analysis significant association show that: for (1) ages 30–34 years (OR: 2.33; 95% CI: 1.26–4.35, p < 0.007), 35–39 years (OR: 5.08; 95% CI: 2.82–9.36, p < 0.001), 40–44 years (OR: 7.77, 95% CI: 4.19–14.9, p < 0.001), 45–49 years (OR: 5.50; 95% CI: 2.96–10.5, p < 0.001) and 50+ years (OR: 8.80, 95% CI: 4.58–17.6, p < 0.001); (2) primary education (OR: 2.43; 95% CI: 1.27–4.84, p = 0.009), and secondary education (OR: 1.88; 95% CI: 1.12–3.18, p = 0.017); (3) been pregnant (OR: 1.53; 95% CI: 1.04–2.23, p = 0.029); (4) obesity (OR: 3.39, 95% CI:2.02–5.70, p < 0.001); and (5) overweight (OR: 1.71; 95% CI: 1.02–2.89, p = 0.044). After adjustments, age remained significantly associated. Conclusion: Uterine fibroids are highly prevalent and significantly associated with age, underscoring the need for targeted awareness and future research. Contribution: The study provided insights to inform policy and enhance preventive strategies within the sexual reproductive health programs.",
+    "doi": "10.1080/20565607.2026.2705900",
+    "url": "https://doi.org/10.1080/20565607.2026.2705900",
+    "abstract": "",
     "authors": [
-      "Vuyisile Ginindza",
-      "Makandwe Nyirenda",
-      "Ropo Ogunsakin",
-      "Themba Ginindza"
+      "Yukinori Watanabe"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
