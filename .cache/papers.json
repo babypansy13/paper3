@@ -1,147 +1,151 @@
 [
   {
-    "field": "Mental Health",
-    "title": "Enfortumab Vedotin and Pembrolizumab in Cisplatin-Eligible Bladder Cancer",
-    "journal": "New England Journal of Medicine",
+    "field": "Psychology",
+    "title": "“Overdependence on algorithms?”: how artificial intelligence ethical leadership can safeguard self-efficacy and spur innovation",
+    "journal": "Humanities and Social Sciences Communications",
     "year": "2026",
-    "date": "2026-07-23",
-    "doi": "10.1056/nejmoa2601486",
-    "url": "https://doi.org/10.1056/nejmoa2601486",
-    "abstract": "",
+    "date": "2026-07-24",
+    "doi": "10.1057/s41599-026-08430-2",
+    "url": "https://doi.org/10.1057/s41599-026-08430-2",
+    "abstract": "Abstract While the adoption of artificial intelligence (AI) is often heralded as a catalyst for cognitive augmentation, it simultaneously introduces a risk of cognitive offloading that may threaten human agency. Drawing on the human agency perspective of Social Cognitive Theory, this study investigates the paradoxical relationship between AI dependence and employee innovative behavior. We propose a moderated mediation model to explain how the dependence on “proxy agency” (AI dependence) has a reciprocal relationship with “personal agency” (self-efficacy) to influence innovation, and how AI ethical leadership functions as a contextual safeguard. We tested our hypotheses using data collected from 421 full-time employees in South Korea via a three-wave time-lagged research design. The results reveal a counterintuitive mechanism regarding the impact of AI. We found that AI dependence does not have a significant direct negative effect on innovative behavior. Instead, it inhibits innovation exclusively through a full mediation pathway by eroding employee self-efficacy. This indicates that the suppression of innovation is caused not by the technology itself, but by the “deprivation of mastery experiences” that accompanies over-dependence. Furthermore, we found that AI ethical leadership acts as a critical boundary condition. Under high levels of ethical leadership, the agency-eroding effect of AI dependence on self-efficacy was neutralized, thereby sustaining innovative behavior. These findings challenge technological determinism by highlighting the primacy of psychological resources and offer theoretical and practical insights for fostering a symbiotic human-AI relationship in the modern workplace.",
     "authors": [
-      "Matthew D. Galsky",
-      "Begoña P. Valderrama",
-      "Marco Maruzzo",
-      "Albert Font"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "“Human-like or cartoon-like?” The impact of virtual influencer style on consumer forgiveness propensity following service failures",
-    "journal": "Internet Research",
-    "year": "2026",
-    "date": "2026-07-23",
-    "doi": "10.1108/intr-12-2025-2029",
-    "url": "https://doi.org/10.1108/intr-12-2025-2029",
-    "abstract": "Purpose Virtual influencers have increasingly become a critical force in shaping consumer behavior. Accordingly, an in-depth examination of consumers’ response mechanisms following service failures by virtual influencers has emerged as an important research topic within the virtual influencer literature. Design/methodology/approach Using virtual influencer service failures as the research scenario, three experiments were conducted to examine consumers’ forgiveness propensity following service failures involving different types of virtual influencers. Findings The results of the three experiments show that, in service failure situations, compared with anthropomorphic virtual influencers, cartoon-like virtual influencers induce a higher level of consumer forgiveness propensity. This effect is mediated by responsibility attribution. Anthropomorphic virtual influencers are perceived as bearing greater responsibility because of their more salient human-like characteristics, which in turn, reduce consumers’ forgiveness propensity. The presence or absence of an algorithmic explanation affects consumers’ responsibility attribution for service failures, and uncanny perception negatively affects forgiveness propensity. Research limitations/implications This study focuses on recommendation failures and value-based failures and uses samples drawn from a specific cultural context. Future research could examine additional types of service failure, explore cross-cultural differences, and investigate dynamic service recovery processes over time. Practical implications The findings provide guidance for firms in selecting appropriate virtual influencer designs, managing algorithmic transparency, and developing effective service recovery strategies. Organizations should carefully balance anthropomorphic design and perceived uncanniness while tailoring communication strategies following service failures. Originality/value This study expands theoretical research on human–computer interaction and human-computer collaboration in the field of AI service marketing, while also providing practical insights for enterprises seeking to effectively optimize the remedial measures for virtual influencer service failures.",
-    "authors": [
-      "Yizhi Liu",
-      "Ying Luo",
-      "Yu Liu",
-      "Meixing Li"
+      "Byung-Jik Kim",
+      "Yeon-Jun Choi",
+      "Julak Lee"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Marketing",
-    "title": "“Don’t Know, Don’t Care?” How information and institutional reform affect voting in supranational elections: experimental evidence from the 2024 European Parliamentary elections",
-    "journal": "European Political Science Review",
+    "title": "mTOR signaling contributes to system-driven rhythmic gene expression in mouse liver",
+    "journal": "Science Advances",
     "year": "2026",
-    "date": "2026-07-23",
-    "doi": "10.1017/s1755773926100587",
-    "url": "https://doi.org/10.1017/s1755773926100587",
-    "abstract": "Abstract European elections consistently show lower turnout compared to national elections. Two types of explanations have been proposed. The first is the “don’t know” explanation: European citizens are not adequately informed about what the EU does, what the role of the European Parliament (EP) is, and what impact their vote can have. The second explanation is that they “don’t care”: voters do not care about European elections because they might think that EU policies do not affect them or that the European Parliament is not an important actor in EU politics. I use a between-subject survey experiment in 16 EU countries, with approximately 30,000 respondents, one month before the 2024 European elections, with a follow-up in the days after the vote, to see whether giving voters more information about what the European Parliament does and presenting respondents with hypothetical increases in the powers of the European Parliament, affects their intention to vote and eventual real-world vote. Results show that information increases likelihood to vote. Importantly, these effects last and increase actual voting propensity a month later. Surprisingly, hypothetical increases in the powers of the EP decrease the likelihood to vote among almost all groups of respondents. Among respondents that are skeptical of the EU or perceive a democratic deficit, this negative effect is more pronounced. Even among pro-EU respondents and among those that prefer to see a stronger role for the Commission, the backlash is strong. When considering increasing the powers of the EP, the European Union has little to gain and much to lose when it comes to civic participation. The EU needs to first improve its legitimacy before considering political reforms.",
+    "date": "2026-07-24",
+    "doi": "10.1126/sciadv.aec0131",
+    "url": "https://doi.org/10.1126/sciadv.aec0131",
+    "abstract": "Rhythmic gene expression is essential to the daily organization of biological processes. While cycling transcriptomes are regulated by circadian clocks present in nearly every cell, accumulating evidence indicates that they can also be initiated by rhythmic food-driven systemic signals independently of circadian clocks. The underlying mechanisms remain however largely unknown. Here, we show that signaling through the nutrient-sensing kinase mechanistic target of rapamycin (mTOR) is both necessary and sufficient to mediate food-driven hepatic rhythmic gene expression, rhythmic regulation of the liver metabolome, and endoplasmic reticulum stress response. Acute inhibition of mTOR before the active phase desynchronizes the phase of mTOR-driven rhythmic genes without affecting clock-controlled rhythmic genes, indicating that alignment of rhythmic mTOR activity to the circadian cycle is critical for overt cycling transcriptomes. These findings may explain how misalignment between clock and systemic signals contributes to disease and underscore the use of mTOR inhibitors for resynchronizing system-driven rhythms and alleviating circadian rhythm disorders.",
     "authors": [
-      "Alexandru D. Moise"
+      "Aishwarya Sahasrabudhe",
+      "Chanté R. Guy",
+      "Audrey Jacq",
+      "Chieh-Wen Ho"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Working mothers’ transition back to work",
-    "journal": "Human Resource Management International Digest",
-    "year": "2026",
-    "date": "2026-07-23",
-    "doi": "10.1108/hrmid-06-2026-0174",
-    "url": "https://doi.org/10.1108/hrmid-06-2026-0174",
-    "abstract": "Purpose This paper aims to review the latest management developments across the globe and pinpoint practical implications from cutting-edge research and case studies. Design/methodology/approach This briefing is prepared by an independent writer who adds their own impartial comments and places the articles in context. Findings A study explored the psychological challenges faced by working mothers as they return to employment following maternity leave, focusing on the cultural context of Japan. The main result was that the participants – 100 working mothers on maternity leave – increased their work-family balance self-efficacy after training, which contributed to better performance after returning to work. In addition, follow-up evaluations five years revealed that the benefits were long-lasting, often aiding career progression and encouraging women to take on leadership positions. Originality/value Originality: The briefing saves busy executives, strategists and researchers hours of reading time by selecting only the very best, most pertinent information and presenting it in a condensed and easy-to-digest format.",
-    "authors": [],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "Why improvements fail in the public sector – management models as barrier or enabler for improvements",
-    "journal": "International Journal of Quality & Reliability Management",
-    "year": "2026",
-    "date": "2026-07-23",
-    "doi": "10.1108/ijqrm-05-2025-0192",
-    "url": "https://doi.org/10.1108/ijqrm-05-2025-0192",
-    "abstract": "Purpose The purpose of this article is to explore the relationship between current public administration and management models and improvements, and especially how management models can be developed to support improvements. Design/methodology/approach The article takes an action research approach, drawing on data gathered during a four-year improvement initiative set in the public sector and especially the Swedish sick leave system. Findings By linking empirical data with coexisting public and administration and management, the study shows how current management models in the public sector do not support improvement initiatives. A proposal on how to develop the management models based on a value-centric approach and centred around the beneficiary is presented. The management model for improvement involves a pragmatic approach to problem-solving where leadership is distributed but at the same time adheres to the importance of a system perspective of improvements. Originality/value This article contributes to practice in terms of highlighting the dysfunctionalities of management models in the public sector, some of which are due to single management models and some due to hybridization between several models. The research develops the knowledge of why improvements fail and what to do about it, enabling future research to further develop management thinking within the public sector.",
-    "authors": [
-      "Daniel Gyllenhammar",
-      "Henrik Eriksson",
-      "Patrik Alexandersson"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "Web of science veri tabanındaki nöropazarlama çalışmalarının bibliyometrik analizi",
-    "journal": "Business Economics and Management Research Journal",
-    "year": "2026",
-    "date": "2026-07-23",
-    "doi": "10.58308/bemarej.1931721",
-    "url": "https://doi.org/10.58308/bemarej.1931721",
-    "abstract": "Bu çalışma, nöropazarlama alanının kavramsal çerçevesini, uygulama alanlarını ve kullanılan yöntemleri inceleyerek nörobilim ile pazarlama disiplinleri arasındaki etkileşimi ortaya koymayı amaçlamaktadır. Nöropazarlama, tüketicilerin bilinçaltı tepkilerini ve karar alma süreçlerini anlamak amacıyla nörolojik verilerden yararlanan disiplinler arası bir araştırma alanıdır. Çalışmada, marka imajı, reklam mesajı, ambalaj tasarımı ve ürün özelliklerinin tüketici davranışları üzerindeki bilişsel ve duygusal etkileri değerlendirilmektedir. Araştırmanın temel amacı, Web of Science (WoS) veri tabanında yer alan nöropazarlama konulu akademik çalışmaların bibliyometrik analizini gerçekleştirerek alanın güncel eğilimlerini, araştırma yoğunluğunu ve gelişim yönelimlerini ortaya koymaktır. Bulgular, nöropazarlamanın artan akademik ve pratik önemine işaret etmekte; gelecekte yapılacak çalışmalarda yöntemsel çeşitliliğin artırılması ve etik boyutların daha kapsamlı biçimde ele alınmasının gerekliliğini önermektedir.",
-    "authors": [
-      "Elif Sarikan",
-      "Davut Karaman"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Public Policy",
-    "title": "Uncertainty spillovers and portfolio resilience in agricultural commodity markets: a quantile VAR and cross-quantilogram approach",
-    "journal": "Agricultural Finance Review",
+    "title": "When resistance becomes knowledge: governing health-care AI through federated learning and explainable AI",
+    "journal": "VINE Journal of Information and Knowledge Management Systems",
     "year": "2026",
-    "date": "2026-07-23",
-    "doi": "10.1108/afr-10-2024-0167",
-    "url": "https://doi.org/10.1108/afr-10-2024-0167",
-    "abstract": "Purpose This study investigates the impact of macroeconomic uncertainty and green finance on the return dynamics of ten key agricultural commodities and dairy products – including cereals, vegetable oils, soft commodities and livestock – over the period from January 2013 to January 2023. It examines how geopolitical risk, financial stress, Twitter-based Economic Policy Uncertainty (EPU) and green bonds influence commodity markets across different states of uncertainty. Design/methodology/approach The empirical strategy combines a quantile vector autoregression (QVAR) framework and the cross-quantilogram (CQ) method to capture nonlinear, asymmetric and quantile-dependent effects. The QVAR model analyzes how shocks to uncertainty and green finance propagate across commodities at different points of the conditional distribution, while the CQ approach identifies directional and lead–lag dependencies. In addition, a quantile-based dynamic portfolio optimization framework is implemented using a baseline 12-month rolling window, complemented by 24- and 36-month estimation windows to assess the robustness of portfolio performance across varying macro-financial regimes. Findings The results show that financial stress and green bond shocks exert significant long-term effects on several key agricultural commodities, particularly cotton, canola and sunflower oil. In the short term, positive geopolitical shocks increase sunflower oil returns, while negative shocks are associated with declines in sugar returns. The CQ analysis reveals a pronounced negative dependence between geopolitical risk and a broad set of commodities (canola, coffee, maize, cotton, dairy and meat) during bullish market phases, a relationship that reverses under less favorable conditions. The portfolio analysis further shows that the mean–CVaR strategy delivers superior risk-adjusted performance under elevated uncertainty, whereas minimum variance and risk parity are more suitable in stable environments. Originality/value This study contributes to the literature by integrating quantile-based connectedness models with a dynamic portfolio optimization framework grounded in the empirical distribution of uncertainty. Unlike traditional approaches based on arbitrary binary classifications (e.g. calm versus crisis), the proposed framework captures heterogeneous market conditions in a continuous manner. The findings highlight the importance of accounting for asymmetric and distributional dynamics in commodity risk management and provide actionable insights for investors, fund managers and policymakers concerned with sustainable finance and global food security.",
+    "date": "2026-07-24",
+    "doi": "10.1108/vjikms-01-2026-0010",
+    "url": "https://doi.org/10.1108/vjikms-01-2026-0010",
+    "abstract": "Purpose Digital transformation in health care is frequently delayed by resistance, which is typically conceptualized as a barrier to AI adoption. This study aims to reframe resistance as a knowledge-generating signal, examining how it shapes organizational learning and knowledge governance during AI implementation in high-stakes, regulated settings. Design/methodology/approach The study draws on a canonical action research program conducted within the eHealth Network: Artificial Intelligence and Innovative ICT Tools Oriented toward Digital Diagnostics project. Empirical material was collected across nephrology, hepatology and diabetology through 55 interdisciplinary meetings, 17 semistructured interviews and extensive project documentation, enabling longitudinal analysis of how knowledge is produced, negotiated and institutionalized during AI implementation. Findings The findings show that resistance operates as diagnostic signal, revealing misalignments across conceptual, representational and evidential knowledge proximities. These tensions trigger the development of boundary infrastructures, including shared vocabularies, standardized test datasets and interdisciplinary routines, through which knowledge is created, validated and governed across professional communities. The analysis identifies two socio-technical mechanisms that mediate these knowledge tensions: federated learning, which functions as a knowledge-governance capability balancing data sovereignty with institutional learning and explainable AI, which, when institutionalized through clinical explanation rounds, supports collective sensemaking and embeds interpretability into everyday decision-making routines. Originality/value The study contributes to the knowledge management and information systems literature by reconceptualizing resistance as a generative constraint for governing knowledge in AI-enabled organizations. It advances understanding of how socio-technical mechanisms can transform resistance into an asset for organizational learning under epistemic pluralism, offering insights applicable beyond health care to other regulated and knowledge-intensive domains.",
     "authors": [
-      "Yesser Drira",
-      "Souha Boutouria",
-      "Mouna Boujelbéne"
+      "Giuseppe Lanfranchi",
+      "Roberto Marino",
+      "Guido Gembillo",
+      "Domenico Santoro"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "Trust and stewardship in the digital workplace: knowledge governance mechanisms and the quality of enterprise social media contributions",
-    "journal": "Journal of Knowledge Management",
+    "field": "Urban Studies",
+    "title": "Welfare impacts of non-timber forest product exploitation: evidence from rural households in Burkina Faso",
+    "journal": "Journal of Forest Economics",
     "year": "2026",
-    "date": "2026-07-23",
-    "doi": "10.1108/jkm-10-2025-1468",
-    "url": "https://doi.org/10.1108/jkm-10-2025-1468",
-    "abstract": "Purpose This study aims to explore the effects of formal and informal mechanisms for enterprise social media (ESM) knowledge governance on employee knowledge contribution quality through the mediating effects of epistemic trust and knowledge stewardship climate, with perceived ESM surveillance moderating both. Design/methodology/approach Data collected via online survey from 296 participants via Prolific Academic were analyzed by covariance-based structural equation modelling in AMOS 24.0. Findings The findings reveal that informal governance mechanisms better foster both epistemic trust and stewardship climate compared to formal ones. Both mediators positively predict contribution quality. However, perceived surveillance has a double impact, as it dampens the trust–contribution relationship and augments the stewardship-contribution relation. Originality/value Integrating knowledge governance theory with organizational justice theory, this study offers a novel moderated mediation model linking governance structures, psychological mechanisms and digital monitoring to the epistemic quality of enterprise knowledge contributions.",
+    "date": "2026-07-24",
+    "doi": "10.1108/jfe-12-2025-0063",
+    "url": "https://doi.org/10.1108/jfe-12-2025-0063",
+    "abstract": "This paper examines the relationship between non-timber forest product (NTFP) exploitation and the welfare of rural households in Burkina Faso. Using survey data collected from 528 rural households, this study uses an endogenous switching regression (ESR) model complemented by propensity score matching (PSM) as a robustness analysis. Household welfare is measured using two key indicators, namely, per capita income and per capita food expenditures. The empirical findings suggest that participation in NTFP exploitation is positively associated with household welfare outcomes. ESR estimates indicate that households engaged in NTFP exploitation would have experienced an average reduction of approximately €190.25 per capita in income and €144.24 per capita in food expenditures had they not participated in these activities. Conversely, nonparticipating households could potentially achieve gains of about €36.54 per capita in income and €74.79 per capita in food expenditures through participation in NTFP exploitation. Although the estimated treatment effects differ somewhat across econometric approaches, the PSM results remain qualitatively consistent with the ESR findings, supporting the robustness of the positive association between NTFP exploitation and household welfare. Overall, the results suggest that NTFP exploitation constitutes an important livelihood strategy for improving income and food security among rural households. However, the sustainability of these welfare gains may be threatened by the degradation of forest resources resulting from climate change and increasing exploitation pressure. The study therefore highlights the need to strengthen sustainable forest management policies, social protection mechanisms and alternative income diversification strategies in rural areas.",
     "authors": [
-      "Shihua Lin",
-      "Yanhui Nian"
+      "Issoufou Ouédraogo"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "Personal Freedom and Immigration in Nadine Gordimer's The Pickup",
-    "journal": "International Journal of Recent Development in Engineering and Technology",
+    "title": "Viewpoint – recruiting talent in the age of AI: essential human skills and effective hiring practices",
+    "journal": "Strategic HR Review",
     "year": "2026",
-    "date": "2026-07-23",
-    "doi": "10.54380/ijrdet0726_42",
-    "url": "https://doi.org/10.54380/ijrdet0726_42",
-    "abstract": "The Pickup is one of the few late novels of Nadine Gordimer's creative genius, which is not about the well-known political conflict of apartheid, but rather the equally thought- provoking subjects of migration, identity and belonging. Gordimer does not view immigration as a legal and administrative process. It is a very human process of exchanging emotional ties and moral choices. The transnational trauma experiences of her characters are connected to her search for dignity, selfhood and meaningful attachment. This paper aims to explore how the novel can be understood as a reinvention of the notion of personal freedom, constantly engaged in a \"conversation\" with the laws of immigration and cultural difference as well as the unequal allocation of global mobility. It is argued that Gordimer does not provide any ideological certainties in her close reading of the novel, but rather allows for migration as a condition which is a test of individual desire and one's ethical responsibility. Her success lies in the fact that she demonstrates that borders are only a factor of movement and passports, but it cannot necessarily determine human identity and belongingness. In the context of the current migration debate, the Pickup is very topical today, since it is not a political statement but the life experience which is being highlighted here.",
+    "date": "2026-07-24",
+    "doi": "10.1108/shr-06-2026-0067",
+    "url": "https://doi.org/10.1108/shr-06-2026-0067",
+    "abstract": "Purpose This study aims to identify the human competencies that artificial intelligence (AI) tools cannot replicate effectively. It proposes strategies for hiring managers to identify and assess such skills. It also provides a practical framework for business leaders to develop a skilled workforce in AI-augmented organizations. Design/methodology/approach This viewpoint builds on existing literature on human resource management in AI-enabled workplaces. The views are based on the author’s extensive hiring experience as a general manager/product management executive in the consumer electronics domain and recruitment interactions with 100 + candidates for over 20 roles. Structured conversations with 16 cross-functional executives across product management, marketing, engineering and HR were also leveraged for empirical insights. Findings Five areas of human skills consistently emerge as essential in the AI-enabled business landscape: intuition and experiential wisdom, critical thinking, storytelling, ethical governance and relationship intelligence. Conventional hiring processes are insufficient for identifying such talent. Redesigning job architecture and using realistic business case studies significantly improve hiring efficiency in AI-enabled organizations. Research limitations/implications The findings primarily reflect large enterprise context and North American business environment. Future research should explore applications in smaller organizations and other geographies. Empirical and practitioner observations refer to the consumer electronics manufacturing domain. AI requirements can vary across business sectors. Practical implications HR leaders and hiring managers should collaborate to rebuild job architectures and hiring practices to focus on essential human competencies that cannot be effectively replicated by AI tools. Interview protocols should be retooled to examine realistic business applications and interpersonal narration skills. Organizations should strategically integrate AI into business processes without diminishing the value of critical thinking, narration and relationship-building capabilities. Originality/value Literature on practitioner-centric and empirically informed frameworks for efficiently identifying essential human competencies is limited. This paper summarizes effective hiring strategies in the age of AI and executive insights validated through business experience. Practical solutions are provided to continuously adopt AI in business processes.",
     "authors": [
-      "Sarita Chauhan"
+      "Kedaresh Deshpande"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Treatment of Typical and Atypical Trigeminal Neuralgia with LINAC-Based Radiosurgery: Complications, Recurrence Rates and Long-Term Treatment Outcomes",
+    "journal": "Journal of Clinical Medicine",
+    "year": "2026",
+    "date": "2026-07-24",
+    "doi": "10.3390/jcm15155786",
+    "url": "https://doi.org/10.3390/jcm15155786",
+    "abstract": "Background/Objectives: Linear accelerator (LINAC)-based radiosurgery (SRS) is a well-established, non-invasive treatment for pharmacologically refractory trigeminal neuralgia. Despite its widespread use, long-term efficacy and recurrence rates remain incompletely defined, highlighting the need for extended follow-up studies to assess outcome durability. Methods: All patients diagnosed with trigeminal neuralgia and treated with LINAC-based SRS (60 Gy, 1–2 mm from the nerve root entry zone) between 2012 and 2019 at a single institution, a national reference center, were recruited for this study. Patients were divided into two categories based on the nature of their neuralgia: typical or atypical. Pain control was assessed using the Barrow Neurological Institute (BNI) scale at 12, 36 and 60 months, as well as time to improvement, recurrence, and adverse effects. Results: A total of 112 patients were analyzed, with a mean follow-up period of 105.14 (SD 30.65) months. Statistically significant differences in the success of pain control (BNI I–III) between patients with typical and atypical neuralgia were observed at all evaluated time points (12 months: 87.1% vs. 44.0%, 36 months: 77.0% vs. 22.0%, and 60 months: 60.7% vs. 18.0%) (p < 0.001). The mean time to improvement was 6.32 (SD 6.61) weeks (range 0–50), and the recurrence rate following initial improvement was 47.1%. Treatment-related adverse clinical events occurred in 5.4% of patients. Conclusions: Long-term pain control is achieved in refractory trigeminal neuralgia cases with LINAC-based SRS, especially in typical cases, with a low incidence of complications.",
+    "authors": [
+      "Marta López-Vicente",
+      "Nicolás Cordero-Tous",
+      "Carlos Sánchez-Corral",
+      "Juan Luis Osorio-Ceballos"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Teacher stress and coping: Literature review with implications for Ilocos Sur Division",
+    "journal": "International Journal of Research Studies in Education",
+    "year": "2026",
+    "date": "2026-07-24",
+    "doi": "10.5861/ijrse.2026.26290",
+    "url": "https://doi.org/10.5861/ijrse.2026.26290",
+    "abstract": "",
+    "authors": [
+      "Rachel Kaye Javines"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Restoration of degraded cropland in the Pearl River Delta, China, through integrated agronomic measures: a modeling approach",
+    "journal": "Frontiers in Sustainable Food Systems",
+    "year": "2026",
+    "date": "2026-07-24",
+    "doi": "10.3389/fsufs.2026.1879108",
+    "url": "https://doi.org/10.3389/fsufs.2026.1879108",
+    "abstract": "Introduction Guangdong Province is an important grain and agricultural product production area in China, but part of the cultivated land in the Pearl River Delta has long been faced with complex degradation problems such as soil acidification, heavy metal pollution and lack of available phosphorus. These factors have posed continuous pressure on the sustainable development of regional agriculture and the restoration of farmland ecological functions. Methods Based on the multi-source data of 10 typical degraded farmland samples in the Pearl River Delta, this study constructed an analysis framework combining random forest and response surface method. Firstly, the random forest model was used to identify the key variables closely related to the soil function restoration index; Then box - Behnken design and response surface methodology were used to evaluate the comprehensive effects of biochar dosage, lime dosage and legume crop configuration on soil physical and chemical properties, CD bioavailability and microbial diversity. Results The results showed that available phosphorus and pH were the two variables most closely related to soil functional recovery index. Compared with the traditional remediation treatment, the biochar lime combined treatment was related to the increase of soil porosity, soil organic carbon and the proportion of residual CD, indicating that it had better comprehensive performance in improving soil environmental conditions and promoting CD stabilization. Among the tested legume crops, Astragalus sinicus is relatively superior in nitrogen fixation ability, microbial diversity, available phosphorus improvement, soil organic carbon increase and CD bioavailability reduction. In general, the combination of biochar 8 T/ha, lime 3 T/HA and Astragalus sinicus achieved a relatively balanced result among soil function recovery index, CD bioavailability control and input cost. Discussion This study combined random forest key factor identification, response surface parameter optimization and field validation, and provided a more specific decision-making basis for the zoning restoration of acidified degraded farmland and the selection of comprehensive agronomic measures in the Pearl River Delta. The results are helpful to optimize the restoration scheme of degraded farmland from the perspective of comprehensive trade-off among soil function restoration, heavy metal stabilization and cost constraint.",
+    "authors": [
+      "Chaolin Huang",
+      "Roman Yaroshchuk"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "When leadership feels attainable: organizational cues shape black employees’ leadership aspirations",
+    "journal": "International Journal of Contemporary Hospitality Management",
+    "year": "2026",
+    "date": "2026-07-24",
+    "doi": "10.1108/ijchm-12-2025-1857",
+    "url": "https://doi.org/10.1108/ijchm-12-2025-1857",
+    "abstract": "Purpose Developing a sustainable managerial pipeline for black hospitality employees is crucial to establishing a more inclusive, equitable environment. This study aims to identify and assess barriers and facilitators that influence leadership self-efficacy, retention and intent to apply for leadership roles. Design/methodology/approach This study used an exploratory sequential mixed-methods design with black hourly hospitality employees. Study 1 (n = 20) conducted online structured interviews to identify barriers and facilitators to leadership. Partial least squares - structural equation modeling was used in Study 2 (n = 145) to test the effects of identified facilitators, and in Study 3 (n = 167) to test the effects of identified barriers on pipeline outcomes. Findings Seven themes emerged from the interviews. Quantitative results showed mentorship (theme 1), Employee resource groups (theme 2a), inclusive culture (theme 2 b), development (theme 3), help-seeking (theme 4a) and self-leadership (theme 4 b) improved leadership intent, retention and leadership self-efficacy. Customer-oriented racism (theme 5a), organizational-oriented racism (theme 5 b), evaluation bias (theme 6), generational conflict (theme 7a), ignorance excuse (theme 7 b) and stereotyping (theme 7c) negatively impacted all three outcomes. Research limitations/implications By identifying barriers and facilitators to leadership, the study illustrates why black employees remain underrepresented. Systemic issues, not employee aspirations, are the primary issue for the chronic underrepresentation. Originality/value This study takes an unconventional, bottom-up approach to examining the underrepresentation of black employees in leadership. Attribution theory is extended to include organizational attributes that lead to perceptions of success and failure.",
+    "authors": [
+      "Michelle Russen",
+      "Delton Gerard",
+      "Miranda Kitterlin-Lynch"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
