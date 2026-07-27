@@ -1,153 +1,152 @@
 [
   {
-    "field": "Mental Health",
-    "title": "Mesenchymal stem cell secretome and exosomes as potential advanced therapy medicinal products for treating a failing heart",
-    "journal": "World Journal of Stem Cells",
-    "year": "2026",
-    "date": "2026-07-26",
-    "doi": "10.4252/wjsc.113871",
-    "url": "https://doi.org/10.4252/wjsc.113871",
-    "abstract": "Heart failure results in impaired cardiac systolic and/or diastolic functions. Traditional pharmacological and non-pharmacological approaches provide, at best, only short-term symptomatic relief, and the long-term prognosis remains poor. Regenerative medicine, particularly mesenchymal stem cells (MSCs), presents a promising alternative for cardiac repair. Ye and Liu published a study in the recent issue of World Journal of Stem Cell highlights the cell-free therapy approach, focusing on the therapeutic potential of MSC-derived paracrine secretions, which exert crucial pleiotropic effects on cardiac repair and regeneration. Their mechanisms involve the seven primary modules that promote angiogenesis, inhibit apoptosis, reduce oxidative stress, modulate inflammatory responses, facilitate cardiomyogenesis, and reduce myocardial fibrosis. Furthermore, their complex repair mechanisms, regenerative pathways, and emerging strategies, which bring us a step closer to their clinical translation, have been discussed as part of the future perspective. While MSC-derived secretomes and exosomes show immense promise for myocardial reparability and improving cardiac function, further research is warranted to fully understand their roles, optimize techniques, and establish their safety and effectiveness for clinical use.",
-    "authors": [
-      "Syed Mohammad Habib",
-      "Mohammad Fateh Martini",
-      "Yacoub Nail Hamdan Abu-Hamdan",
-      "Omran Mohammed Marwan Shrebaty"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Public Policy",
-    "title": "வண்ணதாசனின் இயற்கை சார்ந்த மானுட வளர்ச்சி சிந்தனைகள்",
-    "journal": "Tamilmanam International Research Journal of Tamil Studies",
+    "title": "“Looks human, communicates warmly”: the impact of chatbots' anthropomorphic design cues on users' intention to adopt health information",
+    "journal": "Online Information Review",
     "year": "2026",
-    "date": "2026-07-26",
-    "doi": "10.63300/tm12022026.41",
-    "url": "https://doi.org/10.63300/tm12022026.41",
-    "abstract": "This research paper deeply analyzes the thoughts on nature-based human development expressed in the short stories and poems of Vannadasan (Kalyanji)—one of the premier creators of contemporary modern Tamil literature—from an ecocritical perspective. Vannadasan employs a literary technique that connects Tolkappiyar's Ainthinai (five landscapes) theory and Karupporul (native flora, fauna, and elements) traditions with modern contemporary realism. Rather than viewing nature as a mere background decoration, he establishes it as a spiritual extension of human emotions and an essential ecological balance. This paper explores how the Thamirabarani River, trees, flowers, and birds serve as driving forces for cultural and internal human development in his works. Furthermore, this paper highlights the creator's ecological warning: how the degradation caused to the Thamirabarani River by modern industrialization and sand mining inflicts deep fractures on human personality and moral values.",
+    "date": "2026-07-27",
+    "doi": "10.1108/oir-07-2025-0558",
+    "url": "https://doi.org/10.1108/oir-07-2025-0558",
+    "abstract": "Purpose This study aims to examine how anthropomorphic design cues in healthcare chatbots, specifically appearance and communication style, influence users' intention to adopt health information through perceived competence and perceived warmth in low-to moderate-risk health contexts. Design/methodology/approach Drawing on the persuasion knowledge model, elaboration likelihood model, stereotype content model and computers are social actors, we develop a research model and conduct two online experiments. Study 1 adopts a 2 × 2 between-subjects design with 352 participants to examine the effects of anthropomorphic appearance (with vs without human names and avatars) and communication style (task-oriented vs social-oriented) on users' adoption intention through perceived competence and warmth. Study 2 employs a 2 × 2 × 2 factorial design with 473 participants to validate the findings and examine the moderating roles of persuasion knowledge and health literacy. Findings The results indicate that anthropomorphic appearance enhances perceived competence and warmth. A task-oriented communication style increases perceived competence, whereas a social-oriented style enhances perceived warmth. Both perceived competence and warmth significantly increase users' adoption intention and mediate the effects of anthropomorphic appearance and communication style on adoption intention. Additionally, persuasion knowledge weakens the effects of anthropomorphic appearance but does not moderate the relationship between communication style and perceived warmth. Health literacy negatively moderates the relationship between perceived warmth and adoption intention, while positively moderating that between perceived competence and adoption intention. Originality/value This study extends existing research by simultaneously examining anthropomorphic appearance and communication style in healthcare chatbots and uncovering the underlying psychological mechanisms through which these cues influence users' adoption intention. Peer review The peer review history for this article is available at: Link to the website.",
     "authors": [
-      "சு. குணசேகரன்"
+      "Guo Li",
+      "Mark Xuefang Zhu",
+      "Shanshan Kong"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Marketing",
-    "title": "Zero-Sum node reconfiguration in a discrete spacetime substrate",
-    "journal": "Journal of High School Science",
-    "year": "2026",
-    "date": "2026-07-26",
-    "doi": "10.64336/001c.165628",
-    "url": "https://doi.org/10.64336/001c.165628",
-    "abstract": "The physical origin of late-time cosmic acceleration remains uncertain, motivating investigation of whether a discrete spacetime substrate can reproduce vacuum-like expansion without introducing an explicit cosmological constant. In this work, a phenomenological finite-capacity node model was developed to examine the cosmological consequences of an energy-conserving (zero-sum) discrete substrate and to evaluate its consistency with established cosmological constraints. Alternative dissipative and radiative variants were considered as consistency checks but were found to be incompatible with vacuum-like expansion or existing observational limits. Within the zero-sum framework, local compensation implies a robust k4-suppressed infrared correction to the primordial spectrum, while the broader blue-scar form was retained as a phenomenological template for small-scale observational testing. Representative realizations of this template were benchmarked against published 21-cm constraints on small-scale primordial power, yielding preliminary bounds on the observationally permissible blue-scar amplitude and turnover scale. Although the framework does not constitute a microscopic derivation of dark energy, the results demonstrate that an energy-conserving discrete-spacetime hypothesis can remain compatible with current cosmological observations while providing a constrained, testable phenomenological signature for future observational studies.",
-    "authors": [
-      "Sophia Piran",
-      "Brayden Hisco"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Consumer Research",
-    "title": "Unlocking Text Classification Through Supervised Learning Techniques",
-    "journal": "Journal of Advanced Research in Computational Linguistics: Journal of Computer Science Language",
+    "title": "[Insert Prompt for Title Here]: Executive Writing and AI-Mediated Philosophy",
+    "journal": "Human Affairs",
     "year": "2026",
-    "date": "2026-07-26",
-    "doi": "10.24321/3051.424x.202404",
-    "url": "https://doi.org/10.24321/3051.424x.202404",
-    "abstract": "",
+    "date": "2026-07-27",
+    "doi": "10.1515/humaff-2026-0004",
+    "url": "https://doi.org/10.1515/humaff-2026-0004",
+    "abstract": "It is argued that using LLMs in philosophical writing does not simply strengthen or weaken the tasks, skills, and methods involved in philosophical research; rather, it reorganizes them, potentially combining the displacement of established abilities with the emergence of new practices.",
     "authors": [
-      "Chandani ."
+      "Giacomo Pezzano"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Psychology",
-    "title": "Universal Planckian dissipation in the strange metal state of the cuprates",
-    "journal": "Nature Communications",
+    "field": "Marketing",
+    "title": "Ultrasound-Guided Plantar Fascia Release: Anatomic Evaluation of the Accuracy and Safety in Cadaveric Specimens",
+    "journal": "Journal of Orthopaedic Foot and Ankle Science",
     "year": "2026",
-    "date": "2026-07-26",
-    "doi": "10.1038/s41467-026-75673-7",
-    "url": "https://doi.org/10.1038/s41467-026-75673-7",
+    "date": "2026-07-27",
+    "doi": "10.64079/jofas.2025-0009",
+    "url": "https://doi.org/10.64079/jofas.2025-0009",
     "abstract": "",
     "authors": [
-      "A. Shekhter",
-      "B. J. Ramshaw",
-      "M. K. Chan",
-      "N. Harrison"
+      "Takahide Sasaki",
+      "Hiroaki Kurokawa",
+      "Yuki Ueno",
+      "Taro Fujimaki"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Food Industry / Science / Design",
-    "title": "Optimization of U-shaped disassembly line balancing based on adaptive roulette-flower pollination algorithm",
-    "journal": "International Journal on Interactive Design and Manufacturing (IJIDeM)",
+    "field": "Psychology",
+    "title": "Twin Cohorts Using Linked Administrative Data: A Rapid Review",
+    "journal": "Twin Research and Human Genetics",
     "year": "2026",
-    "date": "2026-07-26",
-    "doi": "10.1007/s12008-026-02664-9",
-    "url": "https://doi.org/10.1007/s12008-026-02664-9",
-    "abstract": "",
+    "date": "2026-07-27",
+    "doi": "10.1017/thg.2026.10081",
+    "url": "https://doi.org/10.1017/thg.2026.10081",
+    "abstract": "Abstract Twin research is increasingly integrating administrative data, from hospital, birth, and education registers, to understand human behavior, health, and disease. This includes administrative data to supplement existing twin-cohort databases or to identify new twin cohorts from only administrative datasets. We conducted a rapid review to identify twin cohorts that were collecting linked administrative data. We searched the Medline database and the Atlas of Longitudinal Cohort Studies for such twin studies. This included twin studies either linking data to pre-existing cohorts or studies identifying twin cohorts in administrative data. We identified 117 manuscripts or profiles featuring 47 unique twin cohorts and two multicohort consortia using linked administrative data, from countries across most global regions. We summarize how these cohorts were established, the data collected, and the size of the cohorts. We then discuss opportunities, challenges, and future research in twin research using linked administrative data.",
     "authors": [
-      "Jiaqi Hu",
-      "Yonggao Fu",
-      "Qingbao Yan",
-      "Ziao Zhou"
+      "Alexander Charles Campbell",
+      "Dorret I. Boomsma",
+      "Veronika V. Odintsova",
+      "Shuai Li"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Translational laboratory medicine and interdisciplinary biomarker discovery in sepsis: bridging molecular insights and clinical decision-making",
+    "journal": "Journal of Laboratory Medicine",
+    "year": "2026",
+    "date": "2026-07-27",
+    "doi": "10.1515/labmed-2026-0094",
+    "url": "https://doi.org/10.1515/labmed-2026-0094",
+    "abstract": "Abstract Sepsis remains a major global health burden characterized by high mortality and diagnostic uncertainty. Advances in laboratory medicine have made it a central field in translational biomarker discovery, integrating molecular biology, bioinformatics, and clinical sciences. This review summarizes recent evidence with a focus on the translational trajectory from biomarker identification to clinical implementation, including protein biomarkers, cellular biomarkers, and RNA profiling. Emphasis is placed on patient phenotyping approaches, multi-marker strategies, integrating multidimensional parameters from different biological systems by modern classifiers, and the evolving role of laboratory medicine as an interdisciplinary nucleus for improving sepsis diagnosis and prognostication.",
+    "authors": [
+      "Katharina Friedrich",
+      "Wolfgang Bauer",
+      "Kai Kappert"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "Global Survey, Schools of Architecture – Trends and Patterns (2025)",
-    "journal": "ABC2: Journal of Architecture, Building, Construction, and Cities",
+    "title": "The influence of construction business resilience and brand integrity on building crisis management strategies in the construction industry",
+    "journal": "International Journal of Disaster Resilience in the Built Environment",
     "year": "2026",
-    "date": "2026-07-26",
-    "doi": "10.66408/abc2.2026.104",
-    "url": "https://doi.org/10.66408/abc2.2026.104",
-    "abstract": "This report presents the most comprehensive global assessment of architectural education undertaken to date, analysing 345 accredited architecture programmes across 159 countries and all five UIA regions. Commissioned by the International Union of Architects and the UIA Architectural Education Commission (EDUCOM) and conducted between February and June 2025, the survey employs a nine-dimensional analytical framework, spanning curriculum structure, accreditation, faculty profiles, student outcomes, facilities, pedagogy, engagement, sustainability, and internationalisation, complemented by ten cross-cutting thematic lenses derived from the Commission's webinar series. Findings reveal a discipline at a contradiction point: allied-discipline integration is near-universal (99%), SDG alignment substantial (88%), and sustainability embedded in over 90% of curricula, yet health-centred design (22%), decolonised pedagogy (29%), and the architect's evolving professional identity (38%) remain marginal. The analysis reveals four systemic challenges: weak accountability and transparency, a widening digital infrastructure divide, the unfinished agenda of culturally plural and health-oriented curricula, and the gap between proclaimed professional values and curricular practice. The report concludes with a vision for architectural education that is empirically accountable, technologically equitable, culturally plural, and civic in orientation, providing an evidence base to inform curriculum reform, accreditation policy, and international collaboration worldwide.",
+    "date": "2026-07-27",
+    "doi": "10.1108/ijdrbe-01-2026-0013",
+    "url": "https://doi.org/10.1108/ijdrbe-01-2026-0013",
+    "abstract": "Purpose This study aims to investigate the influence of construction business resilience (CBR) and brand integrity (BI) on crisis management strategies (CMS) and their significance in the construction industry. Design/methodology/approach A quantitative research design was used, with data collected from 205 industry stakeholders via structured questionnaires. Multiple regression analysis evaluated the impact of CBR and BI on CMS, highlighting key relationships and trade-offs. Findings CBR is strongly and positively associated with CMS (B = 1.292, β = 0.971, p &lt; 0.001), underscoring the importance of resilience capabilities in maintaining operational continuity during disruptions. By contrast, BI shows a negative association with CMS (B = −0.405, β = −0.305, p &lt; 0.001), suggesting that reputation-related concerns can, in some contexts, temper or slow visible crisis responses rather than straightforwardly enhancing them. Research limitations/implications The use of a purposive, non-probabilistic sample of contractors, consultants and client representatives, skewed towards individuals with fewer than five years of experience, means the findings cannot be generalised to the entire Ghanaian construction industry and may reflect particular perceptions of crises and resilience. Practical implications Construction firms should integrate resilience into their operations by using early warning systems, conducting risk assessments and embracing technological advancements. Policies must prioritise stakeholder engagement, disaster preparedness and financial resilience to ensure a balance between BI and effective crisis response. Originality/value This study offers a new, integrated examination of CBR, BI and CMS within the Ghanaian construction industry, emphasising a context-contingent negative association between BI and crisis management responses.",
     "authors": [
-      "Ashraf M. Salama",
-      "Selma Harrington",
-      "Madhavi P. Patil"
+      "Francis Kwesi Bondinuba"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "The effect of particle size on techno-functional properties and biscuit quality of chickpea flour: a simple additive weighting (SAW) approach",
+    "journal": "International Journal of Food Engineering",
+    "year": "2026",
+    "date": "2026-07-27",
+    "doi": "10.1515/ijfe-2025-0221",
+    "url": "https://doi.org/10.1515/ijfe-2025-0221",
+    "abstract": "Abstract The particle size of flours plays a crucial role in enhancing their functionality by influencing surface area and the exposure of active sites, which in turn may improve solubility, dispersibility, and broaden their potential for various food applications. Therefore, in the present study, chickpea flour was prepared with five different particle sizes to develop biscuits. The effect of particle size on water and oil absorption capacity, bulk density properties, foaming capacity, swelling power and dispersibility of chickpea flour was investigated. In terms of particle size of flours, chickpea flour with the largest particle size (400 µm) showed the highest water absorption capacity at all substitution levels, outperforming the finer flour particles. Foaming capacity of chickpea flours with varying particle sizes ranged from 17.45 % to 30.42 %. Notably, the flour with a 200 μm particle size showed the highest foaming capacity, suggesting that this size is ideal for formulating protein-enriched foods that require aeration in their texture, such as cakes, ice cream and confectionery products. The fracturability values of the biscuit samples ranged from 22.7 mm to 23.88 mm, with a clear trend indicating that the breakability increased as the flour particle size increase. In terms of the particle size of the flours, chickpea flour with the largest particle size (400 μm) showed the highest water absorption capacity at all substitution levels, leaving behind finer flour particles. In terms of texture, the CF200 sample, which exhibited the lowest hardness value, also demonstrated the best overall textural properties, making it suitable for producing more desirable biscuit textures. Sensory analysis using the SAW technique revealed that the CFUS sample was the most preferred in terms of general acceptability, while the CF400 biscuit was the least favored. This study will provide a theoretical basis for the production of superior chickpea-based products in the food industry and will contribute to the production of high value-added products.",
+    "authors": [
+      "Elif Meltem Işçimen",
+      "Duygu Aslan Türker"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "“Can I Survive on My Own?”: Young People’s Perspectives on the Implementation of Transition Planning in Out-of-Home Care",
-    "journal": "Child and Adolescent Social Work Journal",
+    "title": "The economic dimension of climate-smart agriculture: bibliometric review of trends, challenges, and opportunities from an economic perspective",
+    "journal": "Environment, Development and Sustainability",
     "year": "2026",
-    "date": "2026-07-25",
-    "doi": "10.1007/s10560-026-01155-w",
-    "url": "https://doi.org/10.1007/s10560-026-01155-w",
-    "abstract": "Abstract Transition planning is a core child welfare practice designed to prepare young people (YP) in out-of-home care (OoHC) to live independently from Child Protection by age 18. It aims to address several domains shown to improve outcomes: active participation, housing, education and economic participation, independent living skills, and formal and informal support networks. Despite clear policy intent and evidence of what supports successful transitions, YP continue to experience inequitable outcomes after leaving OoHC. This study identified a range of structural and individual barriers and enablers influencing the implementation of transition planning and YP’s recommended strategies for improvement. Qualitative semi-structured interviews and one focus group were conducted with 27 YP currently living in, or recently transitioned from, foster, kinship, and residential OoHC in the Australian state of Victoria. The implementation of active participation was influenced by four factors (e.g., staff capability); education and economic participation by five factors (e.g., legislation); appropriate housing by three factors (e.g., housing availability); independent living skills by three factors (e.g., placement environments); and support networks by three factors (e.g., service design). Staff and carer capability was relevant across all domains, and legislation determined the parameters of support provided. Findings highlight the need to adapt transition-planning policy and service design to align with YP’s needs, strengthen workforce capability, enhance relational and placement stability, and increase access to safe housing and practical supports. Future research should co-design implementation strategies with YP and stakeholders to improve effective transition planning.",
+    "date": "2026-07-27",
+    "doi": "10.1007/s10668-026-07995-x",
+    "url": "https://doi.org/10.1007/s10668-026-07995-x",
+    "abstract": "",
     "authors": [
-      "Hayley Wainwright",
-      "Sofia Grage-Moore",
-      "Melissa Savaglio",
-      "Sarah Morris"
+      "Jing Zhao",
+      "Nurul Nadia Ramli",
+      "Nolila Mohd Nawi",
+      "Kelly Kai Seng Wong"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "Only for school heroes? A qualitative study of Argentine school principals under structural constraints",
-    "journal": "Educational Management Administration & Leadership",
+    "field": "Consumer Research",
+    "title": "Work–home interaction and flourishing: The sequential mediating role of social connectedness and positive coping",
+    "journal": "SA Journal of Industrial Psychology",
     "year": "2026",
-    "date": "2026-07-25",
-    "doi": "10.1177/17411432261471725",
-    "url": "https://doi.org/10.1177/17411432261471725",
-    "abstract": "This article examines school leadership under structural constraints in Argentina. Drawing primarily on 128 semistructured interviews with primary and secondary principals, and using regulatory analysis and official statistics for contextual triangulation, it analyzes how principals lead when distributed leadership is limited by hierarchical governance, concentrated accountability, weak inter-institutional support, scarce organizational time, and fragile collaborative structures. The findings show hybrid configurations in which collaboration, informal teacher leadership, and relational support coexist with individualized responsibility and institutional solitude. The article distinguishes educational infrastructure, understood as the broader institutional environment of leadership, from structural constraints, understood as restrictive conditions experienced by principals as relatively fixed limits on action. It argues that heroic leadership is not an individual trait or moral exception, but a structural effect of systems that depend on principals to compensate for regulatory, organizational, and relational deficits.",
+    "date": "2026-07-27",
+    "doi": "10.4102/sajip.v52i0.2418",
+    "url": "https://doi.org/10.4102/sajip.v52i0.2418",
+    "abstract": "Orientation: Knowledge workers navigating hybrid and digitally mediated work environments face heightened work-to-home interaction (WHI) demands that may influence their capacity to flourish. Research purpose: This study examined whether workplace social connectedness (WSC) and positive coping behaviour (PCB) sequentially mediate the relationships between four WHI sub-dimensions and flourishing among South African knowledge workers. Motivation for the study: Although flourishing is a key indicator of optimal functioning, limited research has explored how WHI influences flourishing through underlying social and personal resource mechanisms. Examining WSC and PCB as sequential mediators provides insight into these processes. Research approach/design and method: A quantitative, cross-sectional survey design was employed. Data were collected from a convenience sample of 427 South African knowledge workers using validated measurement instruments. Hayes’s PROCESS Macro (Model 6) was used to test sequential mediation effects. Main findings: Negative WHI and negative home-to-work interaction (HWI) were directly and negatively associated with flourishing. While total indirect effects were generally non-significant, specific indirect pathways emerged. Negative WHI was associated with lower flourishing through reduced WSC, whereas negative HWI was associated with lower flourishing through reduced PCB. For positive WHI, WSC independently mediated the relationship with flourishing, and a small but significant sequential indirect effect through WSC and PCB was observed. No indirect effects were found for positive HWI. Practical/managerial implications: Organisations should strengthen employees’ proactive coping capabilities and foster meaningful workplace connections to support resilience and well-being in hybrid work environments. Contribution/value-add: This study extends understanding of how social and personal resources relate to flourishing under competing work–home demands. The findings highlight the limited but meaningful role of sequential mediation in positive WHI and provide insights for human-centred human resource management practices aligned with Industry 5.0.",
     "authors": [
-      "Mariano Narodowski",
-      "Cristina Beatriz Carriego"
+      "Melissa du Plessis",
+      "Dion van Zyl"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
