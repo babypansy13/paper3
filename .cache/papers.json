@@ -1,152 +1,158 @@
 [
   {
-    "field": "Public Policy",
-    "title": "“Looks human, communicates warmly”: the impact of chatbots' anthropomorphic design cues on users' intention to adopt health information",
-    "journal": "Online Information Review",
+    "field": "Food Industry / Science / Design",
+    "title": "When a challenge becomes a threat: the nonlinear associations of job stressors with workplace bullying and other work outcomes",
+    "journal": "International Journal of Workplace Health Management",
     "year": "2026",
-    "date": "2026-07-27",
-    "doi": "10.1108/oir-07-2025-0558",
-    "url": "https://doi.org/10.1108/oir-07-2025-0558",
-    "abstract": "Purpose This study aims to examine how anthropomorphic design cues in healthcare chatbots, specifically appearance and communication style, influence users' intention to adopt health information through perceived competence and perceived warmth in low-to moderate-risk health contexts. Design/methodology/approach Drawing on the persuasion knowledge model, elaboration likelihood model, stereotype content model and computers are social actors, we develop a research model and conduct two online experiments. Study 1 adopts a 2 × 2 between-subjects design with 352 participants to examine the effects of anthropomorphic appearance (with vs without human names and avatars) and communication style (task-oriented vs social-oriented) on users' adoption intention through perceived competence and warmth. Study 2 employs a 2 × 2 × 2 factorial design with 473 participants to validate the findings and examine the moderating roles of persuasion knowledge and health literacy. Findings The results indicate that anthropomorphic appearance enhances perceived competence and warmth. A task-oriented communication style increases perceived competence, whereas a social-oriented style enhances perceived warmth. Both perceived competence and warmth significantly increase users' adoption intention and mediate the effects of anthropomorphic appearance and communication style on adoption intention. Additionally, persuasion knowledge weakens the effects of anthropomorphic appearance but does not moderate the relationship between communication style and perceived warmth. Health literacy negatively moderates the relationship between perceived warmth and adoption intention, while positively moderating that between perceived competence and adoption intention. Originality/value This study extends existing research by simultaneously examining anthropomorphic appearance and communication style in healthcare chatbots and uncovering the underlying psychological mechanisms through which these cues influence users' adoption intention. Peer review The peer review history for this article is available at: Link to the website.",
+    "date": "2026-07-28",
+    "doi": "10.1108/ijwhm-03-2026-0123",
+    "url": "https://doi.org/10.1108/ijwhm-03-2026-0123",
+    "abstract": "Purpose Work-related stress is a major concern for employee health and organisational functioning. While job demands are often linked to strain, some may also foster growth and development. Understanding when and under what conditions job stressors contribute to harm is therefore critical. This study examines nonlinear associations between challenge and hindrance stressors and key work outcomes within the challenge–hindrance stressor framework (CHSF), with particular focus on workplace bullying as a severe outcome of adverse working conditions. Design/methodology/approach Data were drawn from a prospective national probability sample of Swedish employees (N = 2,024). Linear, quadratic and moderation analyses were used to examine associations between job stressors at baseline and subsequent workplace bullying, job satisfaction, psychological distress, and turnover intention. Findings Challenge stressors showed curvilinear associations with all outcomes, with the most favourable outcomes at moderate levels. Hindrance stressors displayed mainly linear associations with poorer outcomes. Hindrance stressors also moderated the nonlinear effect of challenge stressors on workplace bullying, such that both low and high challenge levels were associated with greater bullying exposure when hindrance stressors were high. Practical implications The findings highlight the importance of assessing combinations of job stressors in workplace health management, as certain configurations may signal increased risk of bullying and other adverse outcomes. Originality/value This study contributes to a more nuanced understanding of the CHSF by integrating nonlinearity and stressor interactions, and advances the work environment hypothesis by demonstrating how combinations of job stressors influence the risk of workplace bullying.",
     "authors": [
-      "Guo Li",
-      "Mark Xuefang Zhu",
-      "Shanshan Kong"
+      "Michael Rosander"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "[Insert Prompt for Title Here]: Executive Writing and AI-Mediated Philosophy",
-    "journal": "Human Affairs",
-    "year": "2026",
-    "date": "2026-07-27",
-    "doi": "10.1515/humaff-2026-0004",
-    "url": "https://doi.org/10.1515/humaff-2026-0004",
-    "abstract": "It is argued that using LLMs in philosophical writing does not simply strengthen or weaken the tasks, skills, and methods involved in philosophical research; rather, it reorganizes them, potentially combining the displacement of established abilities with the emergence of new practices.",
-    "authors": [
-      "Giacomo Pezzano"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "Ultrasound-Guided Plantar Fascia Release: Anatomic Evaluation of the Accuracy and Safety in Cadaveric Specimens",
-    "journal": "Journal of Orthopaedic Foot and Ankle Science",
-    "year": "2026",
-    "date": "2026-07-27",
-    "doi": "10.64079/jofas.2025-0009",
-    "url": "https://doi.org/10.64079/jofas.2025-0009",
-    "abstract": "",
-    "authors": [
-      "Takahide Sasaki",
-      "Hiroaki Kurokawa",
-      "Yuki Ueno",
-      "Taro Fujimaki"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Twin Cohorts Using Linked Administrative Data: A Rapid Review",
-    "journal": "Twin Research and Human Genetics",
-    "year": "2026",
-    "date": "2026-07-27",
-    "doi": "10.1017/thg.2026.10081",
-    "url": "https://doi.org/10.1017/thg.2026.10081",
-    "abstract": "Abstract Twin research is increasingly integrating administrative data, from hospital, birth, and education registers, to understand human behavior, health, and disease. This includes administrative data to supplement existing twin-cohort databases or to identify new twin cohorts from only administrative datasets. We conducted a rapid review to identify twin cohorts that were collecting linked administrative data. We searched the Medline database and the Atlas of Longitudinal Cohort Studies for such twin studies. This included twin studies either linking data to pre-existing cohorts or studies identifying twin cohorts in administrative data. We identified 117 manuscripts or profiles featuring 47 unique twin cohorts and two multicohort consortia using linked administrative data, from countries across most global regions. We summarize how these cohorts were established, the data collected, and the size of the cohorts. We then discuss opportunities, challenges, and future research in twin research using linked administrative data.",
-    "authors": [
-      "Alexander Charles Campbell",
-      "Dorret I. Boomsma",
-      "Veronika V. Odintsova",
-      "Shuai Li"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Translational laboratory medicine and interdisciplinary biomarker discovery in sepsis: bridging molecular insights and clinical decision-making",
-    "journal": "Journal of Laboratory Medicine",
-    "year": "2026",
-    "date": "2026-07-27",
-    "doi": "10.1515/labmed-2026-0094",
-    "url": "https://doi.org/10.1515/labmed-2026-0094",
-    "abstract": "Abstract Sepsis remains a major global health burden characterized by high mortality and diagnostic uncertainty. Advances in laboratory medicine have made it a central field in translational biomarker discovery, integrating molecular biology, bioinformatics, and clinical sciences. This review summarizes recent evidence with a focus on the translational trajectory from biomarker identification to clinical implementation, including protein biomarkers, cellular biomarkers, and RNA profiling. Emphasis is placed on patient phenotyping approaches, multi-marker strategies, integrating multidimensional parameters from different biological systems by modern classifiers, and the evolving role of laboratory medicine as an interdisciplinary nucleus for improving sepsis diagnosis and prognostication.",
-    "authors": [
-      "Katharina Friedrich",
-      "Wolfgang Bauer",
-      "Kai Kappert"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "The influence of construction business resilience and brand integrity on building crisis management strategies in the construction industry",
-    "journal": "International Journal of Disaster Resilience in the Built Environment",
+    "title": "Valuation Adjustment Mechanisms in Private Equity: Enforceability, Risk Allocation, and Dispute Resolution",
+    "journal": "Advances in Economics, Management and Political Sciences",
     "year": "2026",
-    "date": "2026-07-27",
-    "doi": "10.1108/ijdrbe-01-2026-0013",
-    "url": "https://doi.org/10.1108/ijdrbe-01-2026-0013",
-    "abstract": "Purpose This study aims to investigate the influence of construction business resilience (CBR) and brand integrity (BI) on crisis management strategies (CMS) and their significance in the construction industry. Design/methodology/approach A quantitative research design was used, with data collected from 205 industry stakeholders via structured questionnaires. Multiple regression analysis evaluated the impact of CBR and BI on CMS, highlighting key relationships and trade-offs. Findings CBR is strongly and positively associated with CMS (B = 1.292, β = 0.971, p &lt; 0.001), underscoring the importance of resilience capabilities in maintaining operational continuity during disruptions. By contrast, BI shows a negative association with CMS (B = −0.405, β = −0.305, p &lt; 0.001), suggesting that reputation-related concerns can, in some contexts, temper or slow visible crisis responses rather than straightforwardly enhancing them. Research limitations/implications The use of a purposive, non-probabilistic sample of contractors, consultants and client representatives, skewed towards individuals with fewer than five years of experience, means the findings cannot be generalised to the entire Ghanaian construction industry and may reflect particular perceptions of crises and resilience. Practical implications Construction firms should integrate resilience into their operations by using early warning systems, conducting risk assessments and embracing technological advancements. Policies must prioritise stakeholder engagement, disaster preparedness and financial resilience to ensure a balance between BI and effective crisis response. Originality/value This study offers a new, integrated examination of CBR, BI and CMS within the Ghanaian construction industry, emphasising a context-contingent negative association between BI and crisis management responses.",
+    "date": "2026-07-28",
+    "doi": "10.54254/2754-1169/2026.ld35707",
+    "url": "https://doi.org/10.54254/2754-1169/2026.ld35707",
+    "abstract": "Valuation Adjustment Mechanisms (VAMs) come with many questions as to their enforceability, risk allocation and means of dispute-resolution under the current regulatory frameworks for private equity investments. The study dissects how the risk is allocated between the investors and the portfolio companies, key contractual features and maps the practical dispute-resolution routes by analysing selected case studies and a relevant regulatory guidance. The paper also recommends clause designs for the actionable sections of the paper and due diligence checklist for equity investments for better risk management and compliance. The results shed light on the design decisions of VAMs in the context of regulatory development, point out some of the typical challenges in terms of enforceability, and provide practical recommendations to practitioners, investors and regulators. The contribution is in the idea and the execution of connecting theory and practice, turning regulatory understanding into drafting guidance and due-diligence processes, and thus improving clarity, predictability and resilience in PE transactions.",
     "authors": [
-      "Francis Kwesi Bondinuba"
+      "Rui Li"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Food Industry / Science / Design",
-    "title": "The effect of particle size on techno-functional properties and biscuit quality of chickpea flour: a simple additive weighting (SAW) approach",
-    "journal": "International Journal of Food Engineering",
+    "field": "Marketing",
+    "title": "Understanding senior citizens' engagement with adaptive clothing brands: a social media marketing perspective",
+    "journal": "Journal of Fashion Marketing and Management: An International Journal",
     "year": "2026",
-    "date": "2026-07-27",
-    "doi": "10.1515/ijfe-2025-0221",
-    "url": "https://doi.org/10.1515/ijfe-2025-0221",
-    "abstract": "Abstract The particle size of flours plays a crucial role in enhancing their functionality by influencing surface area and the exposure of active sites, which in turn may improve solubility, dispersibility, and broaden their potential for various food applications. Therefore, in the present study, chickpea flour was prepared with five different particle sizes to develop biscuits. The effect of particle size on water and oil absorption capacity, bulk density properties, foaming capacity, swelling power and dispersibility of chickpea flour was investigated. In terms of particle size of flours, chickpea flour with the largest particle size (400 µm) showed the highest water absorption capacity at all substitution levels, outperforming the finer flour particles. Foaming capacity of chickpea flours with varying particle sizes ranged from 17.45 % to 30.42 %. Notably, the flour with a 200 μm particle size showed the highest foaming capacity, suggesting that this size is ideal for formulating protein-enriched foods that require aeration in their texture, such as cakes, ice cream and confectionery products. The fracturability values of the biscuit samples ranged from 22.7 mm to 23.88 mm, with a clear trend indicating that the breakability increased as the flour particle size increase. In terms of the particle size of the flours, chickpea flour with the largest particle size (400 μm) showed the highest water absorption capacity at all substitution levels, leaving behind finer flour particles. In terms of texture, the CF200 sample, which exhibited the lowest hardness value, also demonstrated the best overall textural properties, making it suitable for producing more desirable biscuit textures. Sensory analysis using the SAW technique revealed that the CFUS sample was the most preferred in terms of general acceptability, while the CF400 biscuit was the least favored. This study will provide a theoretical basis for the production of superior chickpea-based products in the food industry and will contribute to the production of high value-added products.",
+    "date": "2026-07-28",
+    "doi": "10.1108/jfmm-09-2025-0480",
+    "url": "https://doi.org/10.1108/jfmm-09-2025-0480",
+    "abstract": "Purpose This study aims to examine how adaptive clothing brands' social media marketing activities influence senior citizens' engagement intentions. It investigates the roles of perceived usefulness (PU) and ease of engagement in shaping seniors' willingness to interact with brand content online. Design/methodology/approach Data were collected through an online survey of adults aged 65+ who engage with adaptive clothing brands on social media. Measures were adapted from validated scales and assessed using a seven-point Likert scale. Partial least squares structural equation modeling was applied to test the proposed relationships. Findings PU, perceived ease of use, brand interaction and brand awareness significantly predicted engagement intention. In contrast, brand trust and privacy concerns were not significant predictors. Results suggest that seniors prioritize clarity, usability and interactive value in brand communication. Originality/value This study extends the technology acceptance model 2 to the context of senior consumers and adaptive apparel marketing, offering insights into how brands can design inclusive, senior-focused social media strategies.",
     "authors": [
-      "Elif Meltem Işçimen",
-      "Duygu Aslan Türker"
+      "Sneha Rani",
+      "Delisia Matthews",
+      "Lori Rothenberg",
+      "Kate Nartker"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "The economic dimension of climate-smart agriculture: bibliometric review of trends, challenges, and opportunities from an economic perspective",
-    "journal": "Environment, Development and Sustainability",
+    "title": "Understanding Gen Z females' purchase intentions towards green apparel: evidence from CEE countries",
+    "journal": "Asian Education and Development Studies",
     "year": "2026",
-    "date": "2026-07-27",
-    "doi": "10.1007/s10668-026-07995-x",
-    "url": "https://doi.org/10.1007/s10668-026-07995-x",
-    "abstract": "",
+    "date": "2026-07-28",
+    "doi": "10.1108/aeds-10-2025-0571",
+    "url": "https://doi.org/10.1108/aeds-10-2025-0571",
+    "abstract": "Purpose This study builds upon the Knowledge–Attitude–Behavior (KAB) framework and extends it by integrating the perspective of Social Identity Theory to examine the determinants of Gen Z female customers' purchase intentions toward green apparel and to assess the moderating role of greenwashing perceptions in these relationships. Design/methodology/approach A web-based structured survey was conducted on a non-probability sample of 464 respondents from Slovakia, the Czech Republic, Slovenia, and Lithuania. A two-step partial least squares structural equation modelling (PLS-SEM) approach was applied, and moderation analysis was used to examine whether the relationship between attitudes and purchase intentions depended on Gen Z females' perceptions of greenwashing related to sustainable apparel. Findings Attitudes are the most influential determinant of purchase intentions, followed by social norms and perceived knowledge of green apparel. Greenwashing perceptions have a negative moderating effect, weakening the positive relationship between attitudes and purchase intentions. Originality/value The findings provide practical insights for marketers, policymakers, and educators seeking to promote sustainable fashion and improve authentic communication regarding sustainable consumer behavior in the relatively under-researched context of CEE countries. In addition, research on the moderating role of greenwashing perceptions in shaping young consumers' purchase intentions related to green apparel within the KAB framework remains limited.",
     "authors": [
-      "Jing Zhao",
-      "Nurul Nadia Ramli",
-      "Nolila Mohd Nawi",
-      "Kelly Kai Seng Wong"
+      "Janka Taborecka",
+      "Tamara Rajic",
+      "Danguolė Oželienė",
+      "Tanja Sedej"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Timeliness-incentive home health management for metabolic dysfunction-associated steatotic liver disease",
+    "journal": "World Journal of Gastroenterology",
+    "year": "2026",
+    "date": "2026-07-28",
+    "doi": "10.3748/wjg.119134",
+    "url": "https://doi.org/10.3748/wjg.119134",
+    "abstract": "BACKGROUND The guidelines of the National Institute for Health and Care Excellence recommend lifestyle modification as the first-line treatment for patients with metabolic dysfunction-associated steatotic liver disease (MASLD); however, only 30% achieve sustained weight loss; precision nursing strategies are therefore needed to enhance behavioural maintenance and long-term outcomes. AIM To establish a home-based management protocol grounded in timeliness-incentive theory and demonstrated its clinical nursing effects through rigorous practice. METHODS From August 20 to September 3, 2024, 108 MASLD patients at the Second Affiliated Hospital of Chongqing Medical University were randomly allocated by sealed-envelope to seven-month timeliness-incentive or conventional home care; weight, hepatic steatosis, enzymes, lipids, Health-Promoting Lifestyle Profile II and Exercise of Self-Care Agency scores were assessed pre/post, with SPSS 26.0 deeming two-tailed P < 0.050 significant. RESULTS After seven months, the first group had less liver fat than the second group (P < 0.010). Their weight, aspartate aminotransferase, alanine aminotransferase, total cholesterol, triglycerides, low-density lipoprotein cholesterol went down (P < 0.050), and high-density lipoprotein cholesterol went up (P < 0.001). The first group also had better scores for eating, health duty, exercise, stress control, self-care duty, self-care skills, and health knowledge (P < 0.010). CONCLUSION Home health management interventions guided by timeliness incentive theory demonstrate significant improvements in liver function, lipid profiles, health-related behaviors, and self-management capabilities among patients with MASLD. These findings support the clinical utility and recommend further promotion of this intervention model.",
+    "authors": [
+      "Jia Mei",
+      "Yu-Di Jin",
+      "Yun-Cai Xie",
+      "Ping-Ping Huang"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "The spillover effect of corporate misconduct to bystander firms: evidence from an emerging economy",
+    "journal": "South Asian Journal of Business Studies",
+    "year": "2026",
+    "date": "2026-07-28",
+    "doi": "10.1108/sajbs-02-2025-0063",
+    "url": "https://doi.org/10.1108/sajbs-02-2025-0063",
+    "abstract": "Purpose Emerging crisis spillover research suggests that crisis spillover effects spread from one firm to another within an industry. Yet, this research remains unclear on the effect and contributing factors to the crisis spillover. We advance this research by examining two related questions: what is the effect of the misconduct of an accused firm on the performance of bystander firms within the same industry? How is this spillover effect affected by the organizational characteristics of the bystander firms? These research questions are put forth by drawing insights from the social categorization theory. Design/methodology/approach We used panel data (2010–2021), multivariate linear regression models based on CAR (±3), and the wavelet-transformed coherence (WTC) framework to examine dynamic spillover effects. Findings Our linear regression results show that product overlap, closer geographical proximity and political connections increase the negative spillover effect, measured by the duration of crisis spillover. Practical implications The findings of this study indicate that investors consider shared organizational characteristics as the basis for categorization. Managers should be aware that firms can be affected without even being involved in any misconduct from the stigma spillover of bystander firms in a similar industry. In addition to looking for crisis management strategies, managers should focus on the characteristics that could extend the negative effects of the accused firm's misconduct on their performance. Originality/value This study advances crisis spillover research by theorizing and empirically demonstrating that spillover effects are fundamentally shaped by categorical proximity between firms. By integrating social categorization theory, we show that investors rely on categorical cues to generalize misconduct from an accused firm to similar bystanders, thereby extending category-based inference mechanisms to the domain of corporate misconduct. In doing so, we extend the social categorization theory by moving beyond prior descriptive accounts of spillovers and providing a theoretically grounded explanation for heterogeneity in their magnitude and duration, identifying key boundary conditions under which category-based contagion is more likely to occur.",
+    "authors": [
+      "Abubakr Saeed",
+      "Jaithen Alharbi",
+      "Hafsa Awan",
+      "Nasrullah Nasrullah"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Consumer Research",
-    "title": "Work–home interaction and flourishing: The sequential mediating role of social connectedness and positive coping",
-    "journal": "SA Journal of Industrial Psychology",
+    "title": "The potential clinical relevance of the WISC-V in ADHD assessment: an analysis of structural models and within-subject cognitive discrepancies",
+    "journal": "BMC Psychology",
     "year": "2026",
-    "date": "2026-07-27",
-    "doi": "10.4102/sajip.v52i0.2418",
-    "url": "https://doi.org/10.4102/sajip.v52i0.2418",
-    "abstract": "Orientation: Knowledge workers navigating hybrid and digitally mediated work environments face heightened work-to-home interaction (WHI) demands that may influence their capacity to flourish. Research purpose: This study examined whether workplace social connectedness (WSC) and positive coping behaviour (PCB) sequentially mediate the relationships between four WHI sub-dimensions and flourishing among South African knowledge workers. Motivation for the study: Although flourishing is a key indicator of optimal functioning, limited research has explored how WHI influences flourishing through underlying social and personal resource mechanisms. Examining WSC and PCB as sequential mediators provides insight into these processes. Research approach/design and method: A quantitative, cross-sectional survey design was employed. Data were collected from a convenience sample of 427 South African knowledge workers using validated measurement instruments. Hayes’s PROCESS Macro (Model 6) was used to test sequential mediation effects. Main findings: Negative WHI and negative home-to-work interaction (HWI) were directly and negatively associated with flourishing. While total indirect effects were generally non-significant, specific indirect pathways emerged. Negative WHI was associated with lower flourishing through reduced WSC, whereas negative HWI was associated with lower flourishing through reduced PCB. For positive WHI, WSC independently mediated the relationship with flourishing, and a small but significant sequential indirect effect through WSC and PCB was observed. No indirect effects were found for positive HWI. Practical/managerial implications: Organisations should strengthen employees’ proactive coping capabilities and foster meaningful workplace connections to support resilience and well-being in hybrid work environments. Contribution/value-add: This study extends understanding of how social and personal resources relate to flourishing under competing work–home demands. The findings highlight the limited but meaningful role of sequential mediation in positive WHI and provide insights for human-centred human resource management practices aligned with Industry 5.0.",
+    "date": "2026-07-28",
+    "doi": "10.1186/s40359-026-05191-0",
+    "url": "https://doi.org/10.1186/s40359-026-05191-0",
+    "abstract": "",
     "authors": [
-      "Melissa du Plessis",
-      "Dion van Zyl"
+      "Javier Fenollar-Cortés",
+      "Aroa Caminero-Ruiz",
+      "Deseada Auxiliadora Ruiz-Aranda",
+      "Ignasi Navarro-Soria"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Sample diversity in research on knowledge management in SMEs: does it live up to its name?",
+    "journal": "Journal of Knowledge Management",
+    "year": "2026",
+    "date": "2026-07-28",
+    "doi": "10.1108/jkm-01-2026-0186",
+    "url": "https://doi.org/10.1108/jkm-01-2026-0186",
+    "abstract": "Purpose The aim of this study is to gain a deeper understanding of the samples used in published studies on knowledge management (KM) in small- and medium-sized enterprises (SMEs), particularly with regard to the company sizes, geographic origin and sectors studied. Careful sample selection and the disclosure of this information are crucial for scientific work and progress. Errors or omissions can lead to incorrect conclusions, as certain companies may be under-represented, over-represented or even completely excluded. A focus on sample diversity is especially relevant for KM in SMEs research due to the heterogeneity of these companies. Design/methodology/approach To identify relevant studies on sample diversity in existing research on KM in SMEs, the authors consulted papers from a recently published systematic literature review on this topic and supplemented them with current empirical studies. For this, the authors used a systematic literature search and the criteria used at that time. In total, this study includes 163 peer-reviewed papers published between 2001 and 2025 in reputable journals and retrieved from the Web of Science database. Findings The findings show that the examined research is limited not only in terms of the diversity of the companies studied but also in terms of the accuracy of the companies examined. There is a strong bias towards studies from Europe, with micro enterprises being under-represented and medium-sized enterprises over-represented. Many studies are unspecific regarding the nature of the firms studied or the industry. A conceptual framework is presented that encompasses the three contexts of company size, geographical origin and industry and highlights the necessity of a rigorous approach to firm selection and reporting in KM in SMEs research. Originality/value The authors are unaware of any comparable studies that explicitly highlight the importance of sample diversity and the associated disclosure for research on KM in SMEs. Therefore, they consider their study foundational work intended to enable more robust scientific research in this important field of study.",
+    "authors": [
+      "Susanne Durst",
+      "Talshyn Tokyzhanova",
+      "Ingi Runar Edvardsson",
+      "Samuel Foli"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "PENGARUH LITERASI DIGITAL TERHADAP PENGGUNAAN LAYANAN DIGITAL INDOMARET PADA KONSUMEN DI DESA SIDOREJO, LAMPUNG TIMUR",
+    "journal": "KENDALI: Economics and Social Humanities",
+    "year": "2026",
+    "date": "2026-07-28",
+    "doi": "10.58738/kendali.v5i1.1771",
+    "url": "https://doi.org/10.58738/kendali.v5i1.1771",
+    "abstract": "Transformasi digital pada sektor ritel mendorong perusahaan mengembangkan berbagai layanan digital untuk meningkatkan kemudahan transaksi dan pengalaman pelanggan. Indomaret sebagai salah satu perusahaan ritel modern menyediakan layanan digital melalui aplikasi Klik Indomaret, Indomaret Poinku, dan i.Saku. Namun, tingkat pemanfaatan layanan tersebut masih dipengaruhi oleh kemampuan literasi digital konsumen, khususnya pada masyarakat di wilayah pedesaan yang memiliki karakteristik penggunaan teknologi yang berbeda dibandingkan masyarakat perkotaan. Penelitian ini bertujuan untuk menganalisis pengaruh literasi digital terhadap penggunaan layanan digital pada konsumen Indomaret di Desa Sidorejo, Kabupaten Lampung Timur. Penelitian menggunakan pendekatan kuantitatif dengan desain penelitian eksplanatori. Sampel penelitian berjumlah 30 responden yang ditentukan menggunakan teknik sampling jenuh (total sampling). Data dikumpulkan melalui penyebaran kuesioner menggunakan skala Likert dan dianalisis menggunakan regresi linier sederhana dengan bantuan IBM SPSS Statistics versi 27. Hasil penelitian menunjukkan bahwa literasi digital berpengaruh positif dan signifikan terhadap penggunaan layanan digital, dengan koefisien regresi sebesar 0,683, nilai t hitung sebesar 6,079 pada tingkat signifikansi < 0,001, serta koefisien determinasi (R²) sebesar 0,569. Hasil tersebut menunjukkan bahwa literasi digital mampu menjelaskan 56,9% variasi penggunaan layanan digital, sedangkan 43,1% sisanya dipengaruhi oleh faktor lain di luar model penelitian. Temuan ini mengindikasikan bahwa peningkatan literasi digital dapat mendorong pemanfaatan layanan digital Indomaret secara lebih optimal. Oleh karena itu, perusahaan perlu memperkuat program edukasi digital melalui sosialisasi penggunaan aplikasi, pendampingan pelanggan, serta penyediaan media informasi yang mudah diakses untuk meningkatkan adopsi layanan digital, khususnya pada masyarakat di wilayah pedesaan.",
+    "authors": [
+      "Fiki Tazkiyya",
+      "Harto Harto",
+      "Dina Nadiyah Faiqoh",
+      "Diky Angga Hendrawan"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
