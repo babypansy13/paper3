@@ -1,147 +1,143 @@
 [
   {
     "field": "Urban Studies",
-    "title": "Zoning of retail trade in the diagnosis of retail service development in the Russian Federation and the Krasnoyarsk Krai",
-    "journal": "Regional Economics Theory and Practice",
+    "title": "Uncertainty-aware water-demand forecasting and leakage early warning with temporal fusion transformers and Bayesian model fusion",
+    "journal": "Smart and Sustainable Built Environment",
     "year": "2026",
-    "date": "2026-07-30",
-    "doi": "10.24891/muigkh",
-    "url": "https://doi.org/10.24891/muigkh",
-    "abstract": "Subject. Processes of production and exchange of material goods, development of service business processes that have a significant impact on customer loyalty. Objectives. Development of a methodological framework for strategic zoning of retail trade, allowing the identification of territorial disparities in service quality. Methods. General scientific research methods were applied. Results. The possibility of integrating analytical models into retail zoning practice has been justified, which creates a basis for differentiated regulation of the development of the retail sector, taking into account both quantitative and qualitative characteristics. Conclusions. Identifying stable strategic zones creates a structural map of the market, where each segment reflects not only economic indicators but also a specific service logic, the depth of interaction with the consumer, and the nature of competitive advantages.",
+    "date": "2026-07-31",
+    "doi": "10.1108/sasbe-03-2026-0270",
+    "url": "https://doi.org/10.1108/sasbe-03-2026-0270",
+    "abstract": "Purpose Water distribution systems face persistent challenges from leakage, with approximately 20% of distributed water lost in the UK. This study presents a unified framework for 24h water-demand forecasting and early-leakage warning, integrating classification, regression and uncertainty quantification within a temporal fusion transformer (TFT) architecture. Design/methodology/approach The framework evaluates three TFT variants: a recent-TFT (R-TFT) using one week of preceding flow, a lagged-TFT (L-TFT) using flow from two weeks prior and a combined-TFT (C-TFT) fusing both through Bayesian Markov chain Monte Carlo (MCMC) sensor fusion. It is trained and validated on approximately 18,600 flow groupings from ∼2,000 district metred areas in the UK, benchmarked against a vanilla long short-term memory (LSTM), the Informer transformer and the minimum night flow (MNF) industry standard, under both balanced and imbalanced class distributions. An operational decision framework translates the outputs into structured early warning protocols. Findings The C-TFT achieves the strongest overall performance, with the highest central-prediction accuracy (median index of agreement 0.901) and tightest uncertainty bounds (median prediction interval normalised average width 0.696). The classification head achieves an area under the receiver operating characteristic curve (ROC-AUC) of 0.906, with recall stable above 80% under imbalanced conditions, substantially outperforming the minimum night flow baseline (AUC 0.738). TFT interpretability through variable selection and attention mechanisms aligns with physical consumption dynamics. Originality/value No existing framework unifies flow forecasting, leakage classification, uncertainty quantification and interpretability within a single architecture. This work addresses that gap and demonstrates consistent performance across balanced and imbalanced evaluations, supporting deployment in operational environments where leakage events are rare.",
     "authors": [
-      "Ol’ga N. ESINA",
-      "Natal’ya N. TERESHCHENKO",
-      "Zoya V. ARDZHUMANOVA"
+      "Martin Rapp",
+      "Jawad Fayaz"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "Workplace Flexibility and Employee Performance among Accountants in the Manufacturing Industry: The Moderating Roles of Generational Cohorts and Work Models",
-    "journal": "The Review of Contemporary Scientific and Academic Studies",
-    "year": "2026",
-    "date": "2026-07-30",
-    "doi": "10.55454/rcsas.6.07.2026.002",
-    "url": "https://doi.org/10.55454/rcsas.6.07.2026.002",
-    "abstract": "",
-    "authors": [
-      "Nathaniel L. Sanguyo"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Why skills alone are not enough: belonging, recognition, and youth livelihoods in rural India",
-    "journal": "Humanities and Social Sciences Communications",
-    "year": "2026",
-    "date": "2026-07-30",
-    "doi": "10.1057/s41599-026-08490-4",
-    "url": "https://doi.org/10.1057/s41599-026-08490-4",
-    "abstract": "",
-    "authors": [
-      "Barbra Ncube",
-      "Puneeta Pandey"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "ViTfuse_GNN: Vision Transformer-based fusion with Graphical Neural Network for detection of Intrusions in Multimedia Healthcare",
-    "journal": "International Journal of Inventive Engineering and Sciences",
-    "year": "2026",
-    "date": "2026-07-30",
-    "doi": "10.35940/ijies.g1150.13070726",
-    "url": "https://www.ijies.org/wp-content/uploads/papers/v13i7/G115013070726.pdf",
-    "abstract": "ViTfuse_GNN, a novel hybrid framework that integrates Vision Transformer (ViT)-based multimodal feature fusion with Graph Neural Networks (GNN) for robust intrusion detection for multimedia healthcare intrusion detection is proposed.",
-    "authors": [
-      "Yashaswini K",
-      "Sharath M N"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "Venture capabilities, ecosystem conditioning and scaling pathways: evidence from technology startups in the Middle East",
-    "journal": "Journal of Small Business and Enterprise Development",
-    "year": "2026",
-    "date": "2026-07-30",
-    "doi": "10.1108/jsbed-08-2025-0578",
-    "url": "https://doi.org/10.1108/jsbed-08-2025-0578",
-    "abstract": "Purpose This research analyzes the impact of technology and technology-related startups operating within rapidly expanding, state-sponsored entrepreneurial ecosystems. While venture capabilities are often viewed as drivers of growth, little is known about how these capabilities are activated, validated and translated into scalable outcomes in contexts of strong state involvement and institutional transition. Using Saudi Arabia as the empirical setting, the study investigates how venture capabilities and ecosystem conditions interact to shape various scaling pathways. Design/methodology/approach The study draws on in-depth, semi-structured interviews with founders and senior executives from 26 Saudi technology and tech-enabled ventures. Using a Gioia-informed inductive approach, we developed a process-oriented analysis that links informant-voiced concepts to second-order themes and aggregate dimensions. Following an iterative review of the observed data structure, we propose a dynamic explanation of scaling pathways that are shaped by ecosystem conditioning mechanisms. Findings The findings show that scaling is a negotiated and path-dependent process rather than a direct outcome of ventures' capability. Thus, government support, accelerators, public procurement and ecosystem recognition can accelerate early growth, but they may also distort real signals by making supported milestones appear similar to sustainable market validation. The findings also reveal a capability-outcome decoupling phenomenon, where ventures strengthen internal financial, operational, product and talent capabilities but struggle to convert them into sustained scaling because of procurement bottlenecks, conservative investment behavior, market-readiness gaps and talent constraints. Originality/value The study contributes to scaling research by proposing that scaling is a process of capability conversion, conditioned by the ecosystem. Furthermore, it extends resource-based and entrepreneurial ecosystem perspectives by showing how state-led ecosystem architectures shape the timing, credibility and validation of venture capabilities in emerging and policy-driven contexts.",
-    "authors": [
-      "Nasser Alqahtani",
-      "Kwabena Frimpong",
-      "Christian Felzensztein"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Consumer Research",
-    "title": "Twinship in family and school contexts: mothers’ and teachers’ perceptions of individuality, learning, and behavioral regulation",
-    "journal": "European Journal of Psychology of Education",
+    "title": "Therapeutic Potential of Talahridaya Marma in Cardiovascular Homeostasis: A Clinical Review",
+    "journal": "International Journal for Research in Applied Science and Engineering Technology",
     "year": "2026",
-    "date": "2026-07-30",
-    "doi": "10.1007/s10212-026-01167-1",
-    "url": "https://doi.org/10.1007/s10212-026-01167-1",
-    "abstract": "",
+    "date": "2026-07-31",
+    "doi": "10.22214/ijraset.2026.84273",
+    "url": "https://doi.org/10.22214/ijraset.2026.84273",
+    "abstract": "Background: Systemic cardiovascular homeostasis requires an intricate balance between autonomic neurological pathways and hemodynamic adjustments. Traditional Ayurveda proposes Marma intervention, which involves the stimulation of specialized vital areas, as a non-invasive, reflexological modality to regulate systemic pathology. Talahridaya Marma is categorized as a muscle-dominant vital confluence (Mansa Marma) shares a profound conceptual and physiological relationship with the heart (Hridaya). Aim: This review evaluates the clinical and physiological mechanisms through which controlled stimulation of Talahridaya Marma can modulate cardiovascular variables, establishing a translational bridge between classical Vedic assertions and contemporary neuroradiology. Methodology & Mechanisms: By synthesizing classical Ayurvedic literature with current neuromuscular paradigms, we outline a plausible somato-autonomic reflex arc. Mechanical deformation of the peripheral receptors at this site triggers afferent signaling that upregulates the central vagal tone, suppresses hyperactive sympathetic discharge, and optimizes peripheral vascular resistance. Conclusion: Talahridaya Marma acts as an accessible peripheral switchboard capable of stabilizing autonomic fluctuation. It has strong therapeutic prospects as an integrative, drug-free intervention for stress-induced hypertension, tachycardia, and early-stage cardiovascular dysregulation.",
     "authors": [
-      "Muhammet Baştuğ",
-      "Metin Kocatürk"
+      "Dilip Kumar Agrawal",
+      "Sunil Kumar Yadav",
+      "Dharmendra Choudhary",
+      "Balram Jat"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Mental Health",
-    "title": "The relationship between childhood traumatic life experiences and social anxiety disorders",
-    "journal": "South African Journal of Psychiatry",
+    "field": "Public Policy",
+    "title": "The relationship between Perceived Threat from Proactive Newcomers and Learning Activities: The Mediating Role of Knowledge Sharing and the Moderating Role of Generalized Social Exchange Orientation",
+    "journal": "Korean Journal of Business Administration",
     "year": "2026",
-    "date": "2026-07-30",
-    "doi": "10.4102/sajpsychiatry.v32i0.2634",
-    "url": "https://doi.org/10.4102/sajpsychiatry.v32i0.2634",
-    "abstract": "Background: Childhood traumatic experiences are known to have profound and lasting effects on mental health; however, there are limited data on the relationship between types of childhood trauma and social anxiety in non-clinical populations. Aim: This study aimed to explore the associations between types of childhood trauma and social anxiety symptoms in non-clinical young adults. Setting: The study was conducted at the Faculty of Health Sciences of a university in Istanbul, Turkey. Methods: This cross-sectional study included 486 university students. Sample size was determined via G*Power analysis to ensure statistical power. Participants completed the Liebowitz Social Anxiety Scale (LSAS) and the Childhood Trauma Questionnaire (CTQ) to assess childhood trauma types and social anxiety symptoms. Data were analysed using stepwise multiple regression. Results: The mean age of the participants was 21.8 ± 4.0 years, and 81% were female, with emotional abuse and neglect scoring highest in both genders. The sample’s LSAS total mean score was 63.87 ± 11.68. When the subscales were compared by gender, females had significantly higher mean fear and avoidance scores than males (p < 0.05). The results show that childhood abuse and neglect were significant predictors of social anxiety and explained 23% of the social anxiety variance. Conclusion: Childhood abuse and neglect are clearly associated with social anxiety symptoms. Interventions and treatments for individuals with social anxiety should incorporate a detailed assessment of childhood trauma history, with a particular focus on emotional abuse and neglect. Contribution: This study contributes to the literature by clarifying the associations between specific types of childhood trauma and social anxiety symptoms in a non-clinical young adult population.",
+    "date": "2026-07-31",
+    "doi": "10.18032/kaaba.2026.39.6.1067",
+    "url": "https://doi.org/10.18032/kaaba.2026.39.6.1067",
+    "abstract": "",
     "authors": [
-      "Ayfer Ekim-Günaydın",
-      "Mazlum Çöpür"
+      "WonJae Kim"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "The Impact of Leaders' Social Intelligence on Organizational Creativity in Thailand's Pharmaceutical Industry",
+    "journal": "Asian Journal of Human Services",
+    "year": "2026",
+    "date": "2026-07-31",
+    "doi": "10.14391/ajhs.e3004.1.011",
+    "url": "https://doi.org/10.14391/ajhs.e3004.1.011",
+    "abstract": "",
+    "authors": [
+      "Hayanan KERDPITAL",
+      "Napassorn KERDPITAK"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "Service quality and student cynicism in higher education: the mediating role of perceived ethical climate",
-    "journal": "Quality Assurance in Education",
+    "title": "The Designer's Dilemma: Evaluating Hekkert's ViP and Brown's Design Thinking Through the Lens of Generative AI",
+    "journal": "International Journal of Arts Architecture & Design",
     "year": "2026",
-    "date": "2026-07-30",
-    "doi": "10.1108/qae-02-2026-0061",
-    "url": "https://doi.org/10.1108/qae-02-2026-0061",
-    "abstract": "Purpose This study examines the mediating role of perceived ethical climate (PEC) in the relationship between service quality and student cynicism (SC) in higher education. This study aims to examine whether PEC explains the relationship between perceived institutional quality and students’ cynical attitudes. Design/methodology/approach Data were collected from 424 senior undergraduate students at a public university in Türkiye. Validated scales measuring service quality, PEC and SC were used. Confirmatory factor analyses supported the measurement models. The hypothesized mediation model was tested using bootstrapped regression analysis. Findings Service quality was negatively associated with SC and positively associated with PEC, while PEC was negatively related to cynicism. Mediation analysis indicated that PEC partially mediates the relationship between service quality and student cynicism. The findings suggest that quality-oriented institutional practices may reduce SC by strengthening the PEC. Originality/value This study makes three key contributions. First, it integrates service quality, PEC and SC into a single theoretically grounded model, addressing an important gap in the higher education literature. Second, it empirically demonstrates the mediating role of PEC as a mechanism linking institutional quality perceptions to student attitudes. Third, it offers practical implications for higher education governance by showing how aligning quality management practices with ethical principles can reduce student cynicism.",
+    "date": "2026-07-31",
+    "doi": "10.62030/2026julypaper7",
+    "url": "https://doi.org/10.62030/2026julypaper7",
+    "abstract": "Examining Paul Hekkert's Vision in Product Design (ViP) and Tim Brown's Design Thinking, this paper interrogates their relevance in an era increasingly shaped by generative artificial intelligence. Both methodologies emerged from pre-AI paradigms ViP from Delft University's industrial design tradition (1990s–2011) and Design Thinking from IDEO's human-centered consultancy practice (2009). While each offers distinct approaches to fostering creativity, empathy, and structured innovation, the rapid integration of AI tools into design education raises fundamental questions about their continued validity. Through comparative analysis of primary texts, systematic literature review of recent empirical studies (2024–2026), and critical examination of AI capabilities, this paper argues that both methods exhibit significant limitations when confronted with AI's capacities in pattern recognition, idea generation, and user research simulation. However, their core values contextual awareness (ViP) and empathic engagement (Design Thinking) remain indispensable. The analysis further identifies an experience dependent asymmetry: AI augments novice designers' ideation while supporting experienced designers' refinement. Drawing on recent empirical evidence, the paper proposes a hybrid pedagogical framework that preserves human-centric values while strategically integrating AI as a collaborative design partner. The analysis suggests that design education must evolve from teaching fixed methodologies to cultivating metacognitive skills that enable designers to orchestrate human–AI creative collaboration.",
     "authors": [
-      "Muhammet İbrahim Akyürek",
-      "Mehmet Arslan"
+      "Rahat Varma"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "Family hands: remedy or poison? The curvilinear moderating role of family job involvement in hospitality entrepreneurs' job demands",
-    "journal": "Management Decision",
+    "field": "Marketing",
+    "title": "The Architecture of Enthusiasm: VOD視聴における「愛着」の構造と測定",
+    "journal": "Japan Marketing Review",
     "year": "2026",
-    "date": "2026-07-30",
-    "doi": "10.1108/md-09-2025-2605",
-    "url": "https://doi.org/10.1108/md-09-2025-2605",
-    "abstract": "Purpose In small businesses where entrepreneurs frequently involve family members, this study examines whether such involvement serves as a resource or a hindrance. Anchored in family embeddedness theory, this study proposes the curvilinear moderating effect of family members' job involvement on the relationship between job demands and satisfaction for entrepreneurs, mediated by work-family conflict (WFC) and work-family facilitation (WFF). Design/methodology/approach Data were collected from small business owners and their family members in Taiwan's hospitality sector, specifically bed and breakfast establishments. Structural equation modeling tested the mediated-moderation framework, capturing both linear and curvilinear effects. Findings The findings highlight the mediating role of WFF in the linkage between job demands and satisfaction for entrepreneurs. Intriguingly, the results reveal that the positive association between job demands and WFC intensifies at moderate levels of family members' job involvement, demonstrating a curvilinear moderating effect. Practical implications This study identifies governance and conflict-management strategies that owners can implement to manage varying levels of family involvement and improve coordination and satisfaction for entrepreneurs in small family-owned hospitality businesses. Originality/value By advancing the theoretical boundaries of family embeddedness theory, this study provides novel insights for understanding the dynamics of family-centric small businesses.",
+    "date": "2026-07-31",
+    "doi": "10.7222/marketingreview.2026.010",
+    "url": "https://doi.org/10.7222/marketingreview.2026.010",
+    "abstract": "",
     "authors": [
-      "Thuy Thi Thanh Nguyen",
-      "Man-Ling Chang"
+      "Kazuki Ueshima"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Synthesis, characterization, and antibacterial activity of Benzimidazole Schiff Bases and Bis(thiazolidin-4-one) Derivatives",
+    "journal": "World Journal of Chemical and Pharmaceutical Sciences",
+    "year": "2026",
+    "date": "2026-07-31",
+    "doi": "10.53346/wjcps.2026.9.1.0023",
+    "url": "https://doi.org/10.53346/wjcps.2026.9.1.0023",
+    "abstract": "A sequential synthetic route was developed for the preparation of benzimidazole-linked Schiff bases and bis(thiazolidin-4-one) derivatives. 4-(1H-Benzimidazol-2-yl)aniline (H1) was obtained by acid-promoted cyclocondensation of o-phenylenediamine with 4-aminobenzoic acid. Condensation of H1 with 4-aminoacetophenone afforded the mono-Schiffbase H2 while retaining a free para-amino group. Subsequent reactions of H2 with 4-methylbenzaldehyde and 4-bromobenzaldehyde yielded the bis-Schiff bases H3 and H4, respectively. Cyclization of H3 and H4 with thioglycolic acidin the presence of anhydrous zinc chloride produced the corresponding bis(thiazolidin-4-one) derivatives H5 and H6.The structures were evaluated using FTIR and NMR spectroscopy. Schiff-base formation was supported by theappearance of imine-related signals and the disappearance of the residual amino-group pattern after the secondcondensation, whereas ring closure was evidenced by thiazolidinone carbonyl absorptions and new aliphaticresonances assigned to the five-membered rings. Antibacterials activity is evaluate by the agar well diffusions methodagainst Escherichia coli and Staphylococcus aureus. The cyclize derivatives H5 and H6 produced larger inhibitions zonesthan their Schiff-base precursors, and H6 showed the greatest activition, with inhibition-zone diameters of 24 and 26mm against E. coli and S. aureus, respectively. These findings indicate that thiazolidin-4-one ring formation and the para-bromo substituent enhance the antibacterial response within the investigated series.",
+    "authors": [
+      "Fatima Abdulkareem Eraibi"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "Strengthening diabetes education and peer support in South Africa: Insights from a national stakeholder convening ahead of the 2025 Diabetes Summit",
+    "journal": "African Journal of Primary Health Care & Family Medicine",
+    "year": "2026",
+    "date": "2026-07-31",
+    "doi": "10.4102/phcfm.v18i2.5572",
+    "url": "https://doi.org/10.4102/phcfm.v18i2.5572",
+    "abstract": "No abstract available.",
+    "authors": [
+      "Lorrein S.P. Muhwava",
+      "Patrick Ngassa Piotie",
+      "Kibachio J. Mwangi",
+      "Melanie Pienaar"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "From risk to trust: Cybersecurity strategies for building digital confidence in Nigeria",
+    "journal": "Proceedings of the Nigerian Academy of Science",
+    "year": "2026",
+    "date": "2026-07-31",
+    "doi": "10.57046/bctt6925",
+    "url": "https://doi.org/10.57046/bctt6925",
+    "abstract": "Digital trust functions as a form of national capital that supports the growth and stability of Nigeria's digital economy. As digital platforms expand across finance, health, and governance, cybersecurity becomes essential for safeguarding data, systems, and user confidence. This paper examines the cybersecurity risk landscape in Nigeria, highlighting threats such as phishing, identity theft, and infrastructure vulnerabilities. It explores key strategies that enable digital trust, including strong policy frameworks, public-private collaboration, cyber literacy, secure infrastructure, and inclusive platform design. The paper concludes with actionable recommendations for enhancing digital trust and promoting inclusive digital participation across the country.",
+    "authors": [],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
