@@ -1,143 +1,159 @@
 [
   {
-    "field": "Urban Studies",
-    "title": "Uncertainty-aware water-demand forecasting and leakage early warning with temporal fusion transformers and Bayesian model fusion",
-    "journal": "Smart and Sustainable Built Environment",
-    "year": "2026",
-    "date": "2026-07-31",
-    "doi": "10.1108/sasbe-03-2026-0270",
-    "url": "https://doi.org/10.1108/sasbe-03-2026-0270",
-    "abstract": "Purpose Water distribution systems face persistent challenges from leakage, with approximately 20% of distributed water lost in the UK. This study presents a unified framework for 24h water-demand forecasting and early-leakage warning, integrating classification, regression and uncertainty quantification within a temporal fusion transformer (TFT) architecture. Design/methodology/approach The framework evaluates three TFT variants: a recent-TFT (R-TFT) using one week of preceding flow, a lagged-TFT (L-TFT) using flow from two weeks prior and a combined-TFT (C-TFT) fusing both through Bayesian Markov chain Monte Carlo (MCMC) sensor fusion. It is trained and validated on approximately 18,600 flow groupings from ∼2,000 district metred areas in the UK, benchmarked against a vanilla long short-term memory (LSTM), the Informer transformer and the minimum night flow (MNF) industry standard, under both balanced and imbalanced class distributions. An operational decision framework translates the outputs into structured early warning protocols. Findings The C-TFT achieves the strongest overall performance, with the highest central-prediction accuracy (median index of agreement 0.901) and tightest uncertainty bounds (median prediction interval normalised average width 0.696). The classification head achieves an area under the receiver operating characteristic curve (ROC-AUC) of 0.906, with recall stable above 80% under imbalanced conditions, substantially outperforming the minimum night flow baseline (AUC 0.738). TFT interpretability through variable selection and attention mechanisms aligns with physical consumption dynamics. Originality/value No existing framework unifies flow forecasting, leakage classification, uncertainty quantification and interpretability within a single architecture. This work addresses that gap and demonstrates consistent performance across balanced and imbalanced evaluations, supporting deployment in operational environments where leakage events are rare.",
-    "authors": [
-      "Martin Rapp",
-      "Jawad Fayaz"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "Therapeutic Potential of Talahridaya Marma in Cardiovascular Homeostasis: A Clinical Review",
-    "journal": "International Journal for Research in Applied Science and Engineering Technology",
-    "year": "2026",
-    "date": "2026-07-31",
-    "doi": "10.22214/ijraset.2026.84273",
-    "url": "https://doi.org/10.22214/ijraset.2026.84273",
-    "abstract": "Background: Systemic cardiovascular homeostasis requires an intricate balance between autonomic neurological pathways and hemodynamic adjustments. Traditional Ayurveda proposes Marma intervention, which involves the stimulation of specialized vital areas, as a non-invasive, reflexological modality to regulate systemic pathology. Talahridaya Marma is categorized as a muscle-dominant vital confluence (Mansa Marma) shares a profound conceptual and physiological relationship with the heart (Hridaya). Aim: This review evaluates the clinical and physiological mechanisms through which controlled stimulation of Talahridaya Marma can modulate cardiovascular variables, establishing a translational bridge between classical Vedic assertions and contemporary neuroradiology. Methodology & Mechanisms: By synthesizing classical Ayurvedic literature with current neuromuscular paradigms, we outline a plausible somato-autonomic reflex arc. Mechanical deformation of the peripheral receptors at this site triggers afferent signaling that upregulates the central vagal tone, suppresses hyperactive sympathetic discharge, and optimizes peripheral vascular resistance. Conclusion: Talahridaya Marma acts as an accessible peripheral switchboard capable of stabilizing autonomic fluctuation. It has strong therapeutic prospects as an integrative, drug-free intervention for stress-induced hypertension, tachycardia, and early-stage cardiovascular dysregulation.",
-    "authors": [
-      "Dilip Kumar Agrawal",
-      "Sunil Kumar Yadav",
-      "Dharmendra Choudhary",
-      "Balram Jat"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "The relationship between Perceived Threat from Proactive Newcomers and Learning Activities: The Mediating Role of Knowledge Sharing and the Moderating Role of Generalized Social Exchange Orientation",
-    "journal": "Korean Journal of Business Administration",
-    "year": "2026",
-    "date": "2026-07-31",
-    "doi": "10.18032/kaaba.2026.39.6.1067",
-    "url": "https://doi.org/10.18032/kaaba.2026.39.6.1067",
-    "abstract": "",
-    "authors": [
-      "WonJae Kim"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "The Impact of Leaders' Social Intelligence on Organizational Creativity in Thailand's Pharmaceutical Industry",
-    "journal": "Asian Journal of Human Services",
-    "year": "2026",
-    "date": "2026-07-31",
-    "doi": "10.14391/ajhs.e3004.1.011",
-    "url": "https://doi.org/10.14391/ajhs.e3004.1.011",
-    "abstract": "",
-    "authors": [
-      "Hayanan KERDPITAL",
-      "Napassorn KERDPITAK"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "The Designer's Dilemma: Evaluating Hekkert's ViP and Brown's Design Thinking Through the Lens of Generative AI",
-    "journal": "International Journal of Arts Architecture & Design",
-    "year": "2026",
-    "date": "2026-07-31",
-    "doi": "10.62030/2026julypaper7",
-    "url": "https://doi.org/10.62030/2026julypaper7",
-    "abstract": "Examining Paul Hekkert's Vision in Product Design (ViP) and Tim Brown's Design Thinking, this paper interrogates their relevance in an era increasingly shaped by generative artificial intelligence. Both methodologies emerged from pre-AI paradigms ViP from Delft University's industrial design tradition (1990s–2011) and Design Thinking from IDEO's human-centered consultancy practice (2009). While each offers distinct approaches to fostering creativity, empathy, and structured innovation, the rapid integration of AI tools into design education raises fundamental questions about their continued validity. Through comparative analysis of primary texts, systematic literature review of recent empirical studies (2024–2026), and critical examination of AI capabilities, this paper argues that both methods exhibit significant limitations when confronted with AI's capacities in pattern recognition, idea generation, and user research simulation. However, their core values contextual awareness (ViP) and empathic engagement (Design Thinking) remain indispensable. The analysis further identifies an experience dependent asymmetry: AI augments novice designers' ideation while supporting experienced designers' refinement. Drawing on recent empirical evidence, the paper proposes a hybrid pedagogical framework that preserves human-centric values while strategically integrating AI as a collaborative design partner. The analysis suggests that design education must evolve from teaching fixed methodologies to cultivating metacognitive skills that enable designers to orchestrate human–AI creative collaboration.",
-    "authors": [
-      "Rahat Varma"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Marketing",
-    "title": "The Architecture of Enthusiasm: VOD視聴における「愛着」の構造と測定",
-    "journal": "Japan Marketing Review",
-    "year": "2026",
-    "date": "2026-07-31",
-    "doi": "10.7222/marketingreview.2026.010",
-    "url": "https://doi.org/10.7222/marketingreview.2026.010",
+    "title": "Synergistic 0D/1D/2D engineering of Fe3O4/CNTCs/NiCoCu-LDH heterostructures for enhanced ultrathin broadband electromagnetic wave absorption",
+    "journal": "Journal of Materials Science & Technology",
+    "year": "2025",
+    "date": "2026-08-01",
+    "doi": "10.1016/j.jmst.2025.10.045",
+    "url": "https://www.semanticscholar.org/paper/a1c8bab11c65b6cdbef451e5c981c3b689cc9dd5",
     "abstract": "",
     "authors": [
-      "Kazuki Ueshima"
+      "Quan Wan",
+      "Bin Zhang",
+      "Liangchong Yu",
+      "Taolei Sun"
     ],
-    "citations": 0,
+    "citations": 2,
     "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Mental Health",
-    "title": "Synthesis, characterization, and antibacterial activity of Benzimidazole Schiff Bases and Bis(thiazolidin-4-one) Derivatives",
-    "journal": "World Journal of Chemical and Pharmaceutical Sciences",
+    "field": "Family Studies",
+    "title": "Quasi-experimental impacts of unconditional prenatal and infant cash transfers on postpartum parenting stress.",
+    "journal": "Journal of Family Psychology",
     "year": "2026",
-    "date": "2026-07-31",
-    "doi": "10.53346/wjcps.2026.9.1.0023",
-    "url": "https://doi.org/10.53346/wjcps.2026.9.1.0023",
-    "abstract": "A sequential synthetic route was developed for the preparation of benzimidazole-linked Schiff bases and bis(thiazolidin-4-one) derivatives. 4-(1H-Benzimidazol-2-yl)aniline (H1) was obtained by acid-promoted cyclocondensation of o-phenylenediamine with 4-aminobenzoic acid. Condensation of H1 with 4-aminoacetophenone afforded the mono-Schiffbase H2 while retaining a free para-amino group. Subsequent reactions of H2 with 4-methylbenzaldehyde and 4-bromobenzaldehyde yielded the bis-Schiff bases H3 and H4, respectively. Cyclization of H3 and H4 with thioglycolic acidin the presence of anhydrous zinc chloride produced the corresponding bis(thiazolidin-4-one) derivatives H5 and H6.The structures were evaluated using FTIR and NMR spectroscopy. Schiff-base formation was supported by theappearance of imine-related signals and the disappearance of the residual amino-group pattern after the secondcondensation, whereas ring closure was evidenced by thiazolidinone carbonyl absorptions and new aliphaticresonances assigned to the five-membered rings. Antibacterials activity is evaluate by the agar well diffusions methodagainst Escherichia coli and Staphylococcus aureus. The cyclize derivatives H5 and H6 produced larger inhibitions zonesthan their Schiff-base precursors, and H6 showed the greatest activition, with inhibition-zone diameters of 24 and 26mm against E. coli and S. aureus, respectively. These findings indicate that thiazolidin-4-one ring formation and the para-bromo substituent enhance the antibacterial response within the investigated series.",
+    "date": "2026-08-01",
+    "doi": "10.1037/fam0001471",
+    "url": "https://doi.org/10.1037/fam0001471",
+    "abstract": "",
     "authors": [
-      "Fatima Abdulkareem Eraibi"
+      "Eric D. Finegood",
+      "H. Luke Shaefer",
+      "Yasamean Zamani-Hank",
+      "Jenny LaChance"
     ],
-    "citations": 0,
+    "citations": 2,
+    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "Extremals for Poincaré-Sobolev sharp constants in Steiner symmetric sets",
+    "journal": "Nonlinear Analysis",
+    "year": "2026",
+    "date": "2026-08-01",
+    "doi": "10.1016/j.na.2026.114098",
+    "url": "https://doi.org/10.1016/j.na.2026.114098",
+    "abstract": "",
+    "authors": [
+      "Lorenzo Brasco",
+      "Luca Briani",
+      "Francesca Prinari"
+    ],
+    "citations": 2,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "When tech makes the team: Mind perception as a unifying framework for human and human-agent teams",
+    "journal": "Computers in Human Behavior",
+    "year": "2026",
+    "date": "2026-08-01",
+    "doi": "10.1016/j.chb.2026.109000",
+    "url": "https://www.semanticscholar.org/paper/4f403755e1881b872fbe293f7d8c3b2348957752",
+    "abstract": "",
+    "authors": [
+      "Alexandra M. Harris-Watson",
+      "L. E. Larson"
+    ],
+    "citations": 1,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20portrait%20silhouette%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "The association between anhedonia and obesity: A systematic review",
+    "journal": "Psychiatry Research",
+    "year": "2026",
+    "date": "2026-08-01",
+    "doi": "10.1016/j.psychres.2026.117192",
+    "url": "https://doi.org/10.1016/j.psychres.2026.117192",
+    "abstract": "",
+    "authors": [
+      "Nayla Hajje",
+      "Angela T.H. Kwan",
+      "Kayla M. Teopiz",
+      "Christine E. Dri"
+    ],
+    "citations": 1,
     "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Family Studies",
-    "title": "Strengthening diabetes education and peer support in South Africa: Insights from a national stakeholder convening ahead of the 2025 Diabetes Summit",
-    "journal": "African Journal of Primary Health Care & Family Medicine",
+    "field": "Urban Studies",
+    "title": "Resource and energy transition with digital governance for global decarbonomics",
+    "journal": "International Economics",
     "year": "2026",
-    "date": "2026-07-31",
-    "doi": "10.4102/phcfm.v18i2.5572",
-    "url": "https://doi.org/10.4102/phcfm.v18i2.5572",
-    "abstract": "No abstract available.",
+    "date": "2026-08-01",
+    "doi": "10.1016/j.inteco.2026.100696",
+    "url": "https://doi.org/10.1016/j.inteco.2026.100696",
+    "abstract": "",
     "authors": [
-      "Lorrein S.P. Muhwava",
-      "Patrick Ngassa Piotie",
-      "Kibachio J. Mwangi",
-      "Melanie Pienaar"
+      "Wajid Ali",
+      "Kavita Rana",
+      "Devi Prasad Dash"
     ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 1,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Neighborhood disadvantage and accelerated epigenetic aging in the early aftermath of trauma: The moderating role of individual psychological resources",
+    "journal": "Journal of Psychiatric Research",
+    "year": "2026",
+    "date": "2026-08-01",
+    "doi": "10.1016/j.jpsychires.2026.03.045",
+    "url": "https://doi.org/10.1016/j.jpsychires.2026.03.045",
+    "abstract": "",
+    "authors": [
+      "E. Kate Webb",
+      "Anthony S. Zannas",
+      "Sarah D. Linnstaedt",
+      "Stacey L. House"
+    ],
+    "citations": 1,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Management",
-    "title": "From risk to trust: Cybersecurity strategies for building digital confidence in Nigeria",
-    "journal": "Proceedings of the Nigerian Academy of Science",
+    "title": "Mitigating cognitive dissonance in cross-border e-commerce repurchases: The roles of information asymmetry, price advantage, and product uniqueness based on a longitudinal investigation",
+    "journal": "International Journal of Information Management",
     "year": "2026",
-    "date": "2026-07-31",
-    "doi": "10.57046/bctt6925",
-    "url": "https://doi.org/10.57046/bctt6925",
-    "abstract": "Digital trust functions as a form of national capital that supports the growth and stability of Nigeria's digital economy. As digital platforms expand across finance, health, and governance, cybersecurity becomes essential for safeguarding data, systems, and user confidence. This paper examines the cybersecurity risk landscape in Nigeria, highlighting threats such as phishing, identity theft, and infrastructure vulnerabilities. It explores key strategies that enable digital trust, including strong policy frameworks, public-private collaboration, cyber literacy, secure infrastructure, and inclusive platform design. The paper concludes with actionable recommendations for enhancing digital trust and promoting inclusive digital participation across the country.",
-    "authors": [],
-    "citations": 0,
+    "date": "2026-08-01",
+    "doi": "10.1016/j.ijinfomgt.2026.103061",
+    "url": "https://doi.org/10.1016/j.ijinfomgt.2026.103061",
+    "abstract": "",
+    "authors": [
+      "Jung-Chieh Lee",
+      "Jiang Zixuan",
+      "Liangnan Xiong"
+    ],
+    "citations": 1,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Mechanisms of fatigue crack growth anisotropy in laser additively manufactured TC11 alloy: Role of microstructure, orientation and slip activity",
+    "journal": "International Journal of Fatigue",
+    "year": "2026",
+    "date": "2026-08-01",
+    "doi": "10.1016/j.ijfatigue.2026.109594",
+    "url": "https://doi.org/10.1016/j.ijfatigue.2026.109594",
+    "abstract": "",
+    "authors": [
+      "Zhikuan Ran",
+      "Qingjun Zhou",
+      "Jilai Wang",
+      "Ning Guo"
+    ],
+    "citations": 1,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
