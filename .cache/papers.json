@@ -1,21 +1,103 @@
 [
   {
     "field": "Marketing",
-    "title": "Synergistic 0D/1D/2D engineering of Fe3O4/CNTCs/NiCoCu-LDH heterostructures for enhanced ultrathin broadband electromagnetic wave absorption",
-    "journal": "Journal of Materials Science & Technology",
-    "year": "2025",
-    "date": "2026-08-01",
-    "doi": "10.1016/j.jmst.2025.10.045",
-    "url": "https://www.semanticscholar.org/paper/a1c8bab11c65b6cdbef451e5c981c3b689cc9dd5",
+    "title": "Weighted Tree Seed Teaching–Learning-Based Optimization (WTSTLBO) Algorithm for the Static Economic Load Dispatch Problem",
+    "journal": "Journal of Contemporary Decision Science",
+    "year": "2026",
+    "date": "2026-08-02",
+    "doi": "10.67334/cds31202633",
+    "url": "https://doi.org/10.67334/cds31202633",
+    "abstract": "This study proposes a novel Weighted Tree-Seed Teaching–Learning-Based Optimization (WTSTLBO) algorithm to solve the Static Economic Load Dispatch (SELD) problem. The proposed algorithm integrates the exploration capability of the Tree-Seed Algorithm (TSA), the exploitation capability of the Teaching–Learning-Based Optimization (TLBO) algorithm, and an adaptive inertia-weight strategy to improve convergence speed and optimization accuracy. The SELD problem aims to minimize the total fuel cost while satisfying power balance, generator operating limits, transmission losses, and ramp-rate constraints. The performance of the proposed WTSTLBO algorithm is evaluated on standard IEEE 6-unit, 15-unit, and 40-unit test systems. Simulation results demonstrate that WTSTLBO outperforms the Genetic Algorithm (GA), Particle Swarm Optimization (PSO), TSA, Weighted TSA (WTSA), TLBO, Weighted TLBO (WTLBO), and the hybrid Tree-Seed Teaching–Learning-Based Optimization (TSTLBO) algorithm in terms of fuel cost, convergence speed, and robustness. The obtained results confirm the effectiveness and superiority of the proposed algorithm for solving complex large-scale economic load dispatch problems.",
+    "authors": [
+      "Aanchal",
+      "Parvesh Kumar",
+      "Sarika Jain",
+      "Rekha Rani"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "Urban high-rise compact form amplifies humid heat risk from vegetation transpiration",
+    "journal": "npj Urban Sustainability",
+    "year": "2026",
+    "date": "2026-08-02",
+    "doi": "10.1038/s42949-026-00459-1",
+    "url": "https://doi.org/10.1038/s42949-026-00459-1",
+    "abstract": "Abstract Urbanization has intensified human heat-stress risk. Although vegetation transpiration (Ec) can partly mitigate the urban heat island, the associated rise in local humidity may also exacerbate heat stress. How rapid urbanization and its associated three-dimensional (3D) urban form regulate vegetation’s coupled “cooling–humidifying” effect remains poorly understood. To address this gap, we analyzed 251 rapidly developing cities in China, classified them into four background-climate types based on temperature and specific humidity, constructed a 3D urban form index, and assessed the impacts of Ec on wet-bulb temperature (Tw) and how these impacts vary across different urban forms. Results show that as the background climate becomes hotter and more humid, Ec is increasingly likely to have a warming effect on Tw. In humid heat cities, the number of cities in which Ec exhibits a warming effect on Tw increases, and 63.8% of this upward trend is attributable to urbanization. Under high-rise compact forms, Ec raises Tw primarily by significantly enhancing humidity, while the cooling pathway is not significant. For the same Ec increase, the population-weighted Tw exposure intensity is 23 times that of low-rise dispersed forms ( p < 0.05). These findings underscore the need to account for 3D form when evaluating vegetation cooling in humid heat regions and to mitigate health risks through coordinated optimization of urban form and vegetation configuration.",
+    "authors": [
+      "Yang Zhang",
+      "Kun Yang",
+      "Yanhui Zhu",
+      "Shihong Du"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "The economic impact of COVID-19: losses and resilience factors",
+    "journal": "Humanities and Social Sciences Communications",
+    "year": "2026",
+    "date": "2026-08-02",
+    "doi": "10.1057/s41599-026-08489-x",
+    "url": "https://doi.org/10.1057/s41599-026-08489-x",
     "abstract": "",
     "authors": [
-      "Quan Wan",
-      "Bin Zhang",
-      "Liangchong Yu",
-      "Taolei Sun"
+      "Woraphon Yamaka",
+      "Namchok Chimprang",
+      "Paravee Maneejuk",
+      "Roengchai Tansuchat"
     ],
-    "citations": 2,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Study of Audio-Visual Stimuli with Solfeggio Frequencies for Autonomic Nervous System (ANS) Function Using Polyvagal Heart Rate Variability (pHRV) 5-Axis Model: Frequency-Related Exploratory Research-B",
+    "journal": "Archives in Traditional and Complementary Medicine",
+    "year": "2026",
+    "date": "2026-08-02",
+    "doi": "10.36266/atcm/133",
+    "url": "https://doi.org/10.36266/atcm/133",
+    "abstract": "",
+    "authors": [],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Late preterm hypoglycemia through the lens of long-term evidence",
+    "journal": "Pediatric Research",
+    "year": "2026",
+    "date": "2026-08-02",
+    "doi": "10.1038/s41390-026-05316-6",
+    "url": "https://doi.org/10.1038/s41390-026-05316-6",
+    "abstract": "",
+    "authors": [
+      "Ursula Felderhoff-Müser"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "A qualitative study on how and why families engage with diverse antenatal care systems in rural eastern Zimbabwe",
+    "journal": "Discover Public Health",
+    "year": "2026",
+    "date": "2026-08-02",
+    "doi": "10.1186/s12982-026-02542-5",
+    "url": "https://doi.org/10.1186/s12982-026-02542-5",
+    "abstract": "",
+    "authors": [
+      "Anthony Shuko Musiwa",
+      "Vandna Sinha",
+      "Morten Skovdal",
+      "Jill Hanley"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
@@ -36,92 +118,6 @@
     "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Public Policy",
-    "title": "Extremals for Poincaré-Sobolev sharp constants in Steiner symmetric sets",
-    "journal": "Nonlinear Analysis",
-    "year": "2026",
-    "date": "2026-08-01",
-    "doi": "10.1016/j.na.2026.114098",
-    "url": "https://doi.org/10.1016/j.na.2026.114098",
-    "abstract": "",
-    "authors": [
-      "Lorenzo Brasco",
-      "Luca Briani",
-      "Francesca Prinari"
-    ],
-    "citations": 2,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "When tech makes the team: Mind perception as a unifying framework for human and human-agent teams",
-    "journal": "Computers in Human Behavior",
-    "year": "2026",
-    "date": "2026-08-01",
-    "doi": "10.1016/j.chb.2026.109000",
-    "url": "https://www.semanticscholar.org/paper/4f403755e1881b872fbe293f7d8c3b2348957752",
-    "abstract": "",
-    "authors": [
-      "Alexandra M. Harris-Watson",
-      "L. E. Larson"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20portrait%20silhouette%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "The association between anhedonia and obesity: A systematic review",
-    "journal": "Psychiatry Research",
-    "year": "2026",
-    "date": "2026-08-01",
-    "doi": "10.1016/j.psychres.2026.117192",
-    "url": "https://doi.org/10.1016/j.psychres.2026.117192",
-    "abstract": "",
-    "authors": [
-      "Nayla Hajje",
-      "Angela T.H. Kwan",
-      "Kayla M. Teopiz",
-      "Christine E. Dri"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "Resource and energy transition with digital governance for global decarbonomics",
-    "journal": "International Economics",
-    "year": "2026",
-    "date": "2026-08-01",
-    "doi": "10.1016/j.inteco.2026.100696",
-    "url": "https://doi.org/10.1016/j.inteco.2026.100696",
-    "abstract": "",
-    "authors": [
-      "Wajid Ali",
-      "Kavita Rana",
-      "Devi Prasad Dash"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "Neighborhood disadvantage and accelerated epigenetic aging in the early aftermath of trauma: The moderating role of individual psychological resources",
-    "journal": "Journal of Psychiatric Research",
-    "year": "2026",
-    "date": "2026-08-01",
-    "doi": "10.1016/j.jpsychires.2026.03.045",
-    "url": "https://doi.org/10.1016/j.jpsychires.2026.03.045",
-    "abstract": "",
-    "authors": [
-      "E. Kate Webb",
-      "Anthony S. Zannas",
-      "Sarah D. Linnstaedt",
-      "Stacey L. House"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Management",
     "title": "Mitigating cognitive dissonance in cross-border e-commerce repurchases: The roles of information asymmetry, price advantage, and product uniqueness based on a longitudinal investigation",
     "journal": "International Journal of Information Management",
@@ -140,20 +136,20 @@
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "Mechanisms of fatigue crack growth anisotropy in laser additively manufactured TC11 alloy: Role of microstructure, orientation and slip activity",
-    "journal": "International Journal of Fatigue",
+    "title": "Combined effects of natrium citricum with sodium carbonate on the promotion of quality profiles and sensorial attributes of phosphate-free frankfurters",
+    "journal": "Food Control",
     "year": "2026",
     "date": "2026-08-01",
-    "doi": "10.1016/j.ijfatigue.2026.109594",
-    "url": "https://doi.org/10.1016/j.ijfatigue.2026.109594",
+    "doi": "10.1016/j.foodcont.2026.112081",
+    "url": "https://doi.org/10.1016/j.foodcont.2026.112081",
     "abstract": "",
     "authors": [
-      "Zhikuan Ran",
-      "Qingjun Zhou",
-      "Jilai Wang",
-      "Ning Guo"
+      "Honglei Zhao",
+      "Yuan Meng",
+      "Jingming Zhang",
+      "Chuanai Cao"
     ],
     "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
