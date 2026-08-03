@@ -1,155 +1,155 @@
 [
   {
-    "field": "Marketing",
-    "title": "Weighted Tree Seed Teaching–Learning-Based Optimization (WTSTLBO) Algorithm for the Static Economic Load Dispatch Problem",
-    "journal": "Journal of Contemporary Decision Science",
-    "year": "2026",
-    "date": "2026-08-02",
-    "doi": "10.67334/cds31202633",
-    "url": "https://doi.org/10.67334/cds31202633",
-    "abstract": "This study proposes a novel Weighted Tree-Seed Teaching–Learning-Based Optimization (WTSTLBO) algorithm to solve the Static Economic Load Dispatch (SELD) problem. The proposed algorithm integrates the exploration capability of the Tree-Seed Algorithm (TSA), the exploitation capability of the Teaching–Learning-Based Optimization (TLBO) algorithm, and an adaptive inertia-weight strategy to improve convergence speed and optimization accuracy. The SELD problem aims to minimize the total fuel cost while satisfying power balance, generator operating limits, transmission losses, and ramp-rate constraints. The performance of the proposed WTSTLBO algorithm is evaluated on standard IEEE 6-unit, 15-unit, and 40-unit test systems. Simulation results demonstrate that WTSTLBO outperforms the Genetic Algorithm (GA), Particle Swarm Optimization (PSO), TSA, Weighted TSA (WTSA), TLBO, Weighted TLBO (WTLBO), and the hybrid Tree-Seed Teaching–Learning-Based Optimization (TSTLBO) algorithm in terms of fuel cost, convergence speed, and robustness. The obtained results confirm the effectiveness and superiority of the proposed algorithm for solving complex large-scale economic load dispatch problems.",
-    "authors": [
-      "Aanchal",
-      "Parvesh Kumar",
-      "Sarika Jain",
-      "Rekha Rani"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "Urban high-rise compact form amplifies humid heat risk from vegetation transpiration",
-    "journal": "npj Urban Sustainability",
-    "year": "2026",
-    "date": "2026-08-02",
-    "doi": "10.1038/s42949-026-00459-1",
-    "url": "https://doi.org/10.1038/s42949-026-00459-1",
-    "abstract": "Abstract Urbanization has intensified human heat-stress risk. Although vegetation transpiration (Ec) can partly mitigate the urban heat island, the associated rise in local humidity may also exacerbate heat stress. How rapid urbanization and its associated three-dimensional (3D) urban form regulate vegetation’s coupled “cooling–humidifying” effect remains poorly understood. To address this gap, we analyzed 251 rapidly developing cities in China, classified them into four background-climate types based on temperature and specific humidity, constructed a 3D urban form index, and assessed the impacts of Ec on wet-bulb temperature (Tw) and how these impacts vary across different urban forms. Results show that as the background climate becomes hotter and more humid, Ec is increasingly likely to have a warming effect on Tw. In humid heat cities, the number of cities in which Ec exhibits a warming effect on Tw increases, and 63.8% of this upward trend is attributable to urbanization. Under high-rise compact forms, Ec raises Tw primarily by significantly enhancing humidity, while the cooling pathway is not significant. For the same Ec increase, the population-weighted Tw exposure intensity is 23 times that of low-rise dispersed forms ( p < 0.05). These findings underscore the need to account for 3D form when evaluating vegetation cooling in humid heat regions and to mitigate health risks through coordinated optimization of urban form and vegetation configuration.",
-    "authors": [
-      "Yang Zhang",
-      "Kun Yang",
-      "Yanhui Zhu",
-      "Shihong Du"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "The economic impact of COVID-19: losses and resilience factors",
-    "journal": "Humanities and Social Sciences Communications",
-    "year": "2026",
-    "date": "2026-08-02",
-    "doi": "10.1057/s41599-026-08489-x",
-    "url": "https://doi.org/10.1057/s41599-026-08489-x",
-    "abstract": "",
-    "authors": [
-      "Woraphon Yamaka",
-      "Namchok Chimprang",
-      "Paravee Maneejuk",
-      "Roengchai Tansuchat"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Study of Audio-Visual Stimuli with Solfeggio Frequencies for Autonomic Nervous System (ANS) Function Using Polyvagal Heart Rate Variability (pHRV) 5-Axis Model: Frequency-Related Exploratory Research-B",
-    "journal": "Archives in Traditional and Complementary Medicine",
-    "year": "2026",
-    "date": "2026-08-02",
-    "doi": "10.36266/atcm/133",
-    "url": "https://doi.org/10.36266/atcm/133",
-    "abstract": "",
-    "authors": [],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "Late preterm hypoglycemia through the lens of long-term evidence",
-    "journal": "Pediatric Research",
-    "year": "2026",
-    "date": "2026-08-02",
-    "doi": "10.1038/s41390-026-05316-6",
-    "url": "https://doi.org/10.1038/s41390-026-05316-6",
-    "abstract": "",
-    "authors": [
-      "Ursula Felderhoff-Müser"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Public Policy",
-    "title": "A qualitative study on how and why families engage with diverse antenatal care systems in rural eastern Zimbabwe",
-    "journal": "Discover Public Health",
+    "title": "Who leads? Unpacking the effects of generative AI–employee collaboration on job satisfaction",
+    "journal": "International Journal of Contemporary Hospitality Management",
     "year": "2026",
-    "date": "2026-08-02",
-    "doi": "10.1186/s12982-026-02542-5",
-    "url": "https://doi.org/10.1186/s12982-026-02542-5",
-    "abstract": "",
+    "date": "2026-08-03",
+    "doi": "10.1108/ijchm-12-2025-1778",
+    "url": "https://doi.org/10.1108/ijchm-12-2025-1778",
+    "abstract": "Purpose With generative artificial intelligence (GenAI) increasingly embedded in hotel service processes, human–AI collaboration is shifting from simple automation to cognitive collaboration. Yet it remains unclear whether generative AI empowers employees or creates psychological challenges. Drawing on self-determination theory, social cognitive theory and regulatory focus theory, this study aims to develop a theoretical model examining the effects of GenAI–employee collaboration (employee-led vs GenAI-led) on hotel employees’ job satisfaction. Design/methodology/approach This study conducted two scenario-based experiments and one field experiment. Study 1 tested the main effect of GenAI-employee collaboration on job satisfaction and the mediating role of AI self-efficacy. Study 2 used a field experiment across three hotels with different star ratings to test the robustness and external validity of the findings. Study 3 adopted a 2 × 2 between-subjects design to examine the moderating role of work regulatory focus and the moderated mediation mechanism. Findings This study demonstrates that employee-led collaboration leads to higher job satisfaction than GenAI-led collaboration. AI self-efficacy mediates the relationship between collaboration type and job satisfaction. Work regulatory focus further moderates these effects. Promotion-focused employees report higher AI self-efficacy and job satisfaction under employee-led collaboration, whereas prevention-focused employees report higher AI self-efficacy and job satisfaction under GenAI-led collaboration. Practical implications Hotels should align generative AI workflows with task characteristics and employees’ motivational orientations. Employee-led collaboration is better suited to complex service tasks, while GenAI-led collaboration is better suited to standardized tasks. Managers should also enhance employees’ AI self-efficacy through scenario-based training and feedback. Originality/value This study shifts attention from whether generative AI is used to who leads GenAI-employee collaboration. It identifies AI self-efficacy as a key mechanism and work regulatory focus as a boundary condition. It also deepens understanding of human-technology fit in GenAI-employee collaboration.",
     "authors": [
-      "Anthony Shuko Musiwa",
-      "Vandna Sinha",
-      "Morten Skovdal",
-      "Jill Hanley"
+      "Pengyi Shen",
+      "Xianye Liu",
+      "Jinan Xu"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "Quasi-experimental impacts of unconditional prenatal and infant cash transfers on postpartum parenting stress.",
-    "journal": "Journal of Family Psychology",
+    "title": "When leaders are real, do colleagues still compete? Unpacking the envy–gossip–knowledge chain",
+    "journal": "Leadership & Organization Development Journal",
     "year": "2026",
-    "date": "2026-08-01",
-    "doi": "10.1037/fam0001471",
-    "url": "https://doi.org/10.1037/fam0001471",
-    "abstract": "",
+    "date": "2026-08-03",
+    "doi": "10.1108/lodj-01-2026-0006",
+    "url": "https://doi.org/10.1108/lodj-01-2026-0006",
+    "abstract": "Purpose The main aim of this study was to explore how coworker competitiveness shapes knowledge-hiding behaviour in knowledge-intensive sectors, focusing on the mediating roles of being envied at work and perceived negative workplace gossip and the moderating influence of authentic leadership. Design/methodology/approach Data were gathered from a 2-wave survey of 228 professionals in India's information technology (IT) and banking sectors and analysed through the lens of social comparison theory and conservation of resources theory. Findings The analysis revealed that coworker competitiveness did not directly predict knowledge hiding or envy, but it significantly reduced negative workplace gossip. Gossip, rather than envy, emerged as the key relational mechanism driving knowledge hiding. Authentic leadership does not moderate these dynamics, suggesting that leadership interventions alone may not neutralise competitive tensions. Originality/value This research advances theory by demonstrating that competitiveness in structured, high-pressure environments can coexist with cooperation and may even suppress gossip. It reframes gossip as the critical link between rivalry and knowledge withholding in organisational behaviour literature. Practically, the findings underscore the need for team-level and cultural interventions beyond leadership training to foster open knowledge exchange.",
     "authors": [
-      "Eric D. Finegood",
-      "H. Luke Shaefer",
-      "Yasamean Zamani-Hank",
-      "Jenny LaChance"
+      "Shalini Srivastava",
+      "Swati Dhir",
+      "Aastha Tripathi"
     ],
-    "citations": 2,
-    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "Mitigating cognitive dissonance in cross-border e-commerce repurchases: The roles of information asymmetry, price advantage, and product uniqueness based on a longitudinal investigation",
-    "journal": "International Journal of Information Management",
+    "field": "Consumer Research",
+    "title": "When does corporate social responsibility build consumer loyalty? Cultural values as stage-specific moderators of identification processes",
+    "journal": "Journal of Consumer Marketing",
     "year": "2026",
-    "date": "2026-08-01",
-    "doi": "10.1016/j.ijinfomgt.2026.103061",
-    "url": "https://doi.org/10.1016/j.ijinfomgt.2026.103061",
-    "abstract": "",
+    "date": "2026-08-03",
+    "doi": "10.1108/jcm-04-2025-7812",
+    "url": "https://doi.org/10.1108/jcm-04-2025-7812",
+    "abstract": "Purpose Existing research offers limited explanation of how individual cultural values influence the psychological processes linking corporate social responsibility (CSR) to consumer loyalty. This study aims to examine two sequential relationships, namely CSR action to corporate-consumer identification (CCI) and CCI to consumer loyalty and investigates whether individual cultural value orientations moderate these two relationships differently. Design/methodology/approach A moderated mediation model is tested using survey data from 630 Chinese consumers of ethical food products. CCI serves as the mediator between CSR and consumer loyalty and five Hofstede cultural dimensions operate as moderators across two distinct paths: the CSR to CCI path (identification formation) and the CCI to loyalty path (loyalty maintenance). Findings Results show that identification partially mediates the CSR–loyalty relationship. Collectivism exerts the strongest moderating influence across both stages – identification formation and loyalty maintenance. Power distance shows asymmetric effects, weakening identification formation but strengthening loyalty maintenance. Uncertainty avoidance and long-term orientation enhance both stages, while masculinity shows no effect. Originality/value This study specifies which cultural values influence identification-based loyalty formation, distinguishes moderation at the identification formation stage (CSR to CCI) from moderation at the loyalty maintenance stage (CCI to loyalty) and identifies which dimensions are most relevant in CSR contexts. Findings guide managers in allocating CSR investments and communication efforts across culturally heterogeneous consumer segments.",
     "authors": [
-      "Jung-Chieh Lee",
-      "Jiang Zixuan",
-      "Liangnan Xiong"
+      "Hui Jin",
+      "Luyu Yang",
+      "Zhibin Lin",
+      "Hongqiao Song"
     ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "Virtual or human? The interaction between influencer type and psychological distance to destinations in shaping visit intention",
+    "journal": "Asia Pacific Journal of Marketing and Logistics",
+    "year": "2026",
+    "date": "2026-08-03",
+    "doi": "10.1108/apjml-02-2026-0283",
+    "url": "https://doi.org/10.1108/apjml-02-2026-0283",
+    "abstract": "Purpose The purpose of this study is to investigate the fit effect between influencer type (virtual vs. human) and tourists' psychological distance, and to examine the serial mediating roles of perceived credibility and perceived diagnosticity in this relationship. Design/methodology/approach Across two online experiments and a lab experiment, this research tested its hypotheses through three online experiments. All studies utilized a 2 (influencer type: human vs. virtual) × 2 (psychological distance: high vs. low) between-subjects design. A total of 1,067 valid participants were recruited across the studies via the Credamo platform (Studies 1 & 2) and a university in Beijing (Study 3), after excluding those who failed attention checks. The studies systematically manipulated spatial (Study 1) and temporal (Studies 2 & 3) distance to a destination and presented participants with promotional content from either a human or a virtual influencer. Validated scales measured visit intention as the key dependent variable, alongside manipulation checks for influencer type and psychological distance. Studies 1 and 2 established the basic congruence effect, while Study 3 replicated the finding with different stimuli and employed bootstrapping mediation analysis (PROCESS macro) to test the proposed serial mediation mechanism via perceived credibility and perceived diagnosticity. Findings Through three experiments, this study demonstrates the congruence effect between influencer type (virtual vs. human) and tourists' psychological distance (spatial vs. temporal) on visit intention. Specifically, Study 1 reveals that when a destination is perceived as psychologically close (vs. distant), tourists exhibit higher visit intention when it is endorsed by a human (vs. virtual) influencer. Study 2 replicates this finding by manipulating the temporal dimension of psychological distance. Study 3 further strengthens the robustness of the results using different experimental stimuli. Moreover, this research identifies the underlying mechanism, demonstrating that perceived credibility and perceived diagnosticity play a serial mediating role in this process. Originality/value This study makes a key original contribution by being the first to identify and explain the congruence effect between influencer type (virtual vs. human) and tourists' psychological distance to a destination, grounded in construal level theory (CLT). Its value is twofold: theoretically, it advances influencer marketing and CLT by identifying key boundary conditions and validating the serial “perceived credibility → perceived diagnosticity” mechanism. Practically, it provides a novel, actionable framework for tourism marketers to dynamically select influencer types (virtual for distant, human for close destinations) to maximize promotional effectiveness and audience engagement.",
+    "authors": [
+      "Yafeng Fan",
+      "Luyao Zhang",
+      "Yan Wang"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "Combined effects of natrium citricum with sodium carbonate on the promotion of quality profiles and sensorial attributes of phosphate-free frankfurters",
-    "journal": "Food Control",
+    "title": "Understanding student participation in teaching evaluations: a systematic review of psychological motivators and barriers",
+    "journal": "Quality Assurance in Education",
     "year": "2026",
-    "date": "2026-08-01",
-    "doi": "10.1016/j.foodcont.2026.112081",
-    "url": "https://doi.org/10.1016/j.foodcont.2026.112081",
+    "date": "2026-08-03",
+    "doi": "10.1108/qae-02-2026-0073",
+    "url": "https://doi.org/10.1108/qae-02-2026-0073",
+    "abstract": "Purpose Student evaluation of teaching (SET) are pivotal to quality assurance in higher education, yet participation rates remain inconsistent. Despite considerable research on structural influences, limited attention has been given to the psychological processes underlying students’ participation, with little systematic integration within motivational frameworks. This review aims to examine psychological determinants shaping students’ participation in SET through the complementary lenses of self-determination theory (SDT) and expectancy–value theory (EVT). Design/methodology/approach A comprehensive search across four databases following preferred reporting items for systematic reviews and meta-analyses 2020 guidelines identified 29 peer-reviewed empirical studies, which were screened, coded and thematically analysed within SDT and EVT constructs. Findings Perceived usefulness of feedback, intrinsic motivation and sense of responsibility towards the academic community were the most consistent motivators. Key barriers included distrust in feedback utility, limited transparency, anonymity concerns, fear of repercussions and time constraints. Extrinsic incentives improved response rates in some studies but did not reliably enhance feedback quality; reducing survey length did not consistently improve participation, indicating structural changes alone are insufficient without addressing motivational factors. Practical implications Institutions should foster transparent, autonomy-supportive evaluation environments that explicitly communicate how student feedback informs improvement. Grade-contingent incentives should be replaced with trust-based engagement strategies. Originality/value This review provides a systematic integration of SDT and EVT as complementary frameworks for understanding SET participation behaviour and proposes evidence-informed recommendations to foster evaluation environments that cultivate trust, thereby strengthening SET as a credible quality assurance mechanism in higher education.",
+    "authors": [
+      "Tanushree Sau",
+      "Ahmed Sameer"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Trends and fluctuations in technical performance in the 2010–2022 FIBA women’s basketball world cup",
+    "journal": "BMC Sports Science, Medicine and Rehabilitation",
+    "year": "2026",
+    "date": "2026-08-03",
+    "doi": "10.1186/s13102-026-01939-8",
+    "url": "https://doi.org/10.1186/s13102-026-01939-8",
     "abstract": "",
     "authors": [
-      "Honglei Zhao",
-      "Yuan Meng",
-      "Jingming Zhang",
-      "Chuanai Cao"
+      "Yihong Zhang",
+      "Jie Wang"
     ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "The evolution, dynamic mechanisms and trends of China's marine economic security policy: a bibliometric study based on policy texts from the 1990s to 2025",
+    "journal": "Marine Economics and Management",
+    "year": "2026",
+    "date": "2026-08-03",
+    "doi": "10.1108/maem-04-2026-0009",
+    "url": "https://doi.org/10.1108/maem-04-2026-0009",
+    "abstract": "Purpose This study aims to systematically analyze the evolutionary process, stage characteristics, and logical driving forces of China’s marine economic security policies (1990s–2025). It further explores policy implications and future trends to support the sustainable security of marine economic activities and overall national security. Design/methodology/approach Based on a literature review of marine economic security theory, 63 national and local policy documents are classified into multiple stages. Policy text measurement methods − word frequency analysis, social network analysis, and keyword co-word analysis − are adopted to quantitatively identify policy evolution patterns, characteristics and driving forces. Findings The results reveal distinct evolutionary stages of marine economic security policies with unique characteristics. The logical driving forces shift from initial policy guidance to systematic construction and high-quality development orientation. Key policy focus areas evolve, reflecting the dynamic adaptation to national marine economic development needs. Originality/value This study systematically traces the evolution of China’s marine economic security policies from the 1990s to 2025 and quantitatively analyzes policy text features. It fills the gap in long-term research on this topic and provides empirical support for improving marine economic security governance.",
+    "authors": [
+      "Xiaofan Zhang",
+      "Yinghui Ma",
+      "Xin Luo"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "The Multi-Layered Effect of Panaxatriol Saponins in Preventing Diabetic Nephropathy in Mice",
+    "journal": "Integrative Medicine in Nephrology and Andrology",
+    "year": "2026",
+    "date": "2026-08-03",
+    "doi": "10.1097/imna-d-26-00027",
+    "url": "https://doi.org/10.1097/imna-d-26-00027",
+    "abstract": "Background: Diabetic nephropathy (DN) is a common microvascular complication of diabetes and the leading cause of end-stage renal disease (ESRD). Nearly 40% of people with diabetes will develop DN, and DN accounts for 23% of ESRD cases in China. Dysfunction of the gut-kidney axis, characterized by impaired intestinal barrier function and gut microbiota dysbiosis, exacerbates renal inflammation and fibrosis under sustained hyperglycemia. Panaxatriol saponins (PTS), bioactive constituents of the traditional Chinese medicine Panax notoginseng , have been reported to improve blood circulation, resolve stasis, enhance microcirculation, and improve vascular function. However, the effects of PTS on DN are unknown. This study sought to investigate the effect and underlying mechanism of PTS in DN. Methods: Male C57BLKs/J db./m and db./db. mice (8-9 weeks old; 23-25 g) were selected. For db./db. mice, three doses (30, 60, and 120 mg/kg) of PTS, as well as positive controls Irbesartan and Keluoxin, were administered orally to evaluate their effects. Several tests were conducted, including serum analysis, kidney histology, electron microscopy, Western blotting, immunofluorescence, qRT-PCR, 16S rRNA gene sequencing, RNA-sequencing, and metabolomic analysis. Results: PTS significantly reduced albuminuria, improved dyslipidemia, and decreased systemic inflammation in DN mice. It also outperformed two positive-control drugs in mitigating glomerular glycogen deposition, collagen accumulation, basement membrane thickening, and podocyte injury; it downregulated renal pro-inflammatory cytokines and fibrotic markers, probably by suppressing TNF, PI3K-Akt, JAK-STAT, and ECM signaling pathways. PTS restored intestinal tight-junction genes (Tjp1, Occludin, Jam-1) and E-cadherin to repair intestinal barrier damage. It reversed gut microbiota dysbiosis by upregulating protective Ligilactobacillus and decreasing harmful HT002 . Twelve co-altered gut-kidney metabolites were identified, which were closely correlated with renal inflammatory and fibrotic gene programs; PTS reversed these metabolic disturbances at the same time. Conclusion: These findings indicate that PTS mitigate the progression of DN due to its integrated effects on renal inflammation/fibrosis, intestinal barrier integrity, and gut microbiota composition. The ability of PTS to modulate the gut-kidney axis suggests a promising therapeutic strategy for DN, thereby addressing the pressing clinical demand for effective interventions.",
+    "authors": [
+      "Fan Guo",
+      "Weijing Lai",
+      "Cheng Chen",
+      "Xiaoyu Dai"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Experiences of adolescents in bushfire-prone regions: a qualitative meta-synthesis",
+    "journal": "Disaster Prevention and Management: An International Journal",
+    "year": "2026",
+    "date": "2026-08-03",
+    "doi": "10.1108/dpm-03-2026-0100",
+    "url": "https://doi.org/10.1108/dpm-03-2026-0100",
+    "abstract": "Purpose With bushfires becoming an ever-increasing threat to communities globally, this meta-synthesis aimed to explore the lived experiences of young people impacted by bushfire events. Design/methodology/approach A systematic search identified any qualitative studies exploring the lived experiences of young people aged 10–24 who have been exposed to bushfires. A thematic meta-synthesis was then conducted to synthesise key themes and overarching narratives relating to young people experience following bushfire. Findings The systematic search found four relevant studies that met the inclusion criteria. The thematic synthesis revealed two main overarching themes: “Reaction and action”, detailing both the impact and response of young people following bushfire, and “Support comes in many forms”, which captured the various ways that young people are supported in the aftermath of a bushfire event. Amongst the themes, bushfire has the potential to influence psychological and behavioural wellbeing of young people, though young people also described how such events can be a catalyst for personal growth and stronger connections to peers and community. Originality/value This is among the first qualitative meta-syntheses to centre the first-hand accounts of young people's bushfire experiences, addressing a gap in a literature that has predominantly relied on quantitative, symptom-focused measures or adult-mediated reporting.",
+    "authors": [
+      "Paul Kemel",
+      "Joanne E. Porter",
+      "Louisa Remedios"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
