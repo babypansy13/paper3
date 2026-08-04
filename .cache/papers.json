@@ -1,155 +1,158 @@
 [
   {
     "field": "Public Policy",
-    "title": "Who leads? Unpacking the effects of generative AI–employee collaboration on job satisfaction",
-    "journal": "International Journal of Contemporary Hospitality Management",
+    "title": "Quantifying Patellofemoral Instability in a Sea of Metrics",
+    "journal": "Sports Medicine and Arthroscopy Review",
     "year": "2026",
-    "date": "2026-08-03",
-    "doi": "10.1108/ijchm-12-2025-1778",
-    "url": "https://doi.org/10.1108/ijchm-12-2025-1778",
-    "abstract": "Purpose With generative artificial intelligence (GenAI) increasingly embedded in hotel service processes, human–AI collaboration is shifting from simple automation to cognitive collaboration. Yet it remains unclear whether generative AI empowers employees or creates psychological challenges. Drawing on self-determination theory, social cognitive theory and regulatory focus theory, this study aims to develop a theoretical model examining the effects of GenAI–employee collaboration (employee-led vs GenAI-led) on hotel employees’ job satisfaction. Design/methodology/approach This study conducted two scenario-based experiments and one field experiment. Study 1 tested the main effect of GenAI-employee collaboration on job satisfaction and the mediating role of AI self-efficacy. Study 2 used a field experiment across three hotels with different star ratings to test the robustness and external validity of the findings. Study 3 adopted a 2 × 2 between-subjects design to examine the moderating role of work regulatory focus and the moderated mediation mechanism. Findings This study demonstrates that employee-led collaboration leads to higher job satisfaction than GenAI-led collaboration. AI self-efficacy mediates the relationship between collaboration type and job satisfaction. Work regulatory focus further moderates these effects. Promotion-focused employees report higher AI self-efficacy and job satisfaction under employee-led collaboration, whereas prevention-focused employees report higher AI self-efficacy and job satisfaction under GenAI-led collaboration. Practical implications Hotels should align generative AI workflows with task characteristics and employees’ motivational orientations. Employee-led collaboration is better suited to complex service tasks, while GenAI-led collaboration is better suited to standardized tasks. Managers should also enhance employees’ AI self-efficacy through scenario-based training and feedback. Originality/value This study shifts attention from whether generative AI is used to who leads GenAI-employee collaboration. It identifies AI self-efficacy as a key mechanism and work regulatory focus as a boundary condition. It also deepens understanding of human-technology fit in GenAI-employee collaboration.",
+    "date": "2026-08-04",
+    "doi": "10.1097/jsa.0000000000000449",
+    "url": "https://doi.org/10.1097/jsa.0000000000000449",
+    "abstract": "Patellofemoral instability is a spectrum of disorders in which the patella loses normal tracking within the trochlear groove, presenting as subluxation or dislocation. Accurate quantification is essential for guiding treatment, yet no unified clinical and imaging scoring system exists. Patient-reported outcome measures remain inconsistent, with frequent reliance on general knee scores rather than tools specifically designed for patellofemoral instability. Imaging assessment requires multiple parameters, including patellar height, tibial tuberosity–trochlear groove distance, and trochlear morphology, but these are limited by static measurement and interobserver variability. This review examines current challenges in the diagnosis and management of patellofemoral instability and also highlights how artificial intelligence and machine learning models may support clinicians by improving diagnostic accuracy, risk stratification, and personalized treatment strategies.",
     "authors": [
-      "Pengyi Shen",
-      "Xianye Liu",
-      "Jinan Xu"
+      "Ali Ridha",
+      "Aditya Vijay",
+      "Mohammad Monem",
+      "Deiary F. Kader"
     ],
-    "citations": 0,
+    "citations": 2,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "When leaders are real, do colleagues still compete? Unpacking the envy–gossip–knowledge chain",
+    "title": "Work-life balance orientations among digitally connected leaders in health and social care: a qualitative study",
     "journal": "Leadership & Organization Development Journal",
     "year": "2026",
-    "date": "2026-08-03",
-    "doi": "10.1108/lodj-01-2026-0006",
-    "url": "https://doi.org/10.1108/lodj-01-2026-0006",
-    "abstract": "Purpose The main aim of this study was to explore how coworker competitiveness shapes knowledge-hiding behaviour in knowledge-intensive sectors, focusing on the mediating roles of being envied at work and perceived negative workplace gossip and the moderating influence of authentic leadership. Design/methodology/approach Data were gathered from a 2-wave survey of 228 professionals in India's information technology (IT) and banking sectors and analysed through the lens of social comparison theory and conservation of resources theory. Findings The analysis revealed that coworker competitiveness did not directly predict knowledge hiding or envy, but it significantly reduced negative workplace gossip. Gossip, rather than envy, emerged as the key relational mechanism driving knowledge hiding. Authentic leadership does not moderate these dynamics, suggesting that leadership interventions alone may not neutralise competitive tensions. Originality/value This research advances theory by demonstrating that competitiveness in structured, high-pressure environments can coexist with cooperation and may even suppress gossip. It reframes gossip as the critical link between rivalry and knowledge withholding in organisational behaviour literature. Practically, the findings underscore the need for team-level and cultural interventions beyond leadership training to foster open knowledge exchange.",
+    "date": "2026-08-04",
+    "doi": "10.1108/lodj-02-2026-0164",
+    "url": "https://doi.org/10.1108/lodj-02-2026-0164",
+    "abstract": "Purpose This study aims to examine how health and social care executives in England and Wales construct and manage work–life boundaries in digitally connected leadership roles and how boundary practices shape the enactment of transformational leadership across public and private contexts. Design/methodology/approach The study adopts a qualitative design using semi-structured interviews (n = 19) with health and social care executives, analysed through Braun and Clarke's (2022) six-step thematic analysis procedure using NVivo 12. Findings Executives enacted work–life balance (WLB) through three inductively derived interpretive frames, termed here “WLB orientations”: balance achievers, balance sceptics and dynamic regulators. These orientations are distinct from existing boundary management typologies in that they capture how executives construct the meaning and achievability of balance rather than their preferences for boundary integration or segmentation. Transformational leadership functioned as boundary work but differed by sector; public sector leaders relied on relational care under constraint, while private sector leaders embedded empowerment and well-being practices supported by more integrated digital infrastructure. Practical implications The study highlights the need for organisations to formalise digital communication norms, develop executive boundary competence as a measurable leadership capability and treat technology investment as a well-being intervention, particularly in NHS and publicly funded care settings. Originality/value This study contributes a WLB orientation typology by proposing three distinct interpretive frames (balance achievers, balance sceptics and dynamic regulators) and shows how transformational leadership sustainability depends on sectoral conditions and digital infrastructures.",
     "authors": [
-      "Shalini Srivastava",
-      "Swati Dhir",
-      "Aastha Tripathi"
+      "Florence Chiwetu",
+      "Olatunji David Adekoya",
+      "Toyin Aderiye"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "When does corporate social responsibility build consumer loyalty? Cultural values as stage-specific moderators of identification processes",
-    "journal": "Journal of Consumer Marketing",
-    "year": "2026",
-    "date": "2026-08-03",
-    "doi": "10.1108/jcm-04-2025-7812",
-    "url": "https://doi.org/10.1108/jcm-04-2025-7812",
-    "abstract": "Purpose Existing research offers limited explanation of how individual cultural values influence the psychological processes linking corporate social responsibility (CSR) to consumer loyalty. This study aims to examine two sequential relationships, namely CSR action to corporate-consumer identification (CCI) and CCI to consumer loyalty and investigates whether individual cultural value orientations moderate these two relationships differently. Design/methodology/approach A moderated mediation model is tested using survey data from 630 Chinese consumers of ethical food products. CCI serves as the mediator between CSR and consumer loyalty and five Hofstede cultural dimensions operate as moderators across two distinct paths: the CSR to CCI path (identification formation) and the CCI to loyalty path (loyalty maintenance). Findings Results show that identification partially mediates the CSR–loyalty relationship. Collectivism exerts the strongest moderating influence across both stages – identification formation and loyalty maintenance. Power distance shows asymmetric effects, weakening identification formation but strengthening loyalty maintenance. Uncertainty avoidance and long-term orientation enhance both stages, while masculinity shows no effect. Originality/value This study specifies which cultural values influence identification-based loyalty formation, distinguishes moderation at the identification formation stage (CSR to CCI) from moderation at the loyalty maintenance stage (CCI to loyalty) and identifies which dimensions are most relevant in CSR contexts. Findings guide managers in allocating CSR investments and communication efforts across culturally heterogeneous consumer segments.",
-    "authors": [
-      "Hui Jin",
-      "Luyu Yang",
-      "Zhibin Lin",
-      "Hongqiao Song"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Marketing",
-    "title": "Virtual or human? The interaction between influencer type and psychological distance to destinations in shaping visit intention",
-    "journal": "Asia Pacific Journal of Marketing and Logistics",
+    "title": "Why do we start—and stop—exercising? Exploring the enactive and vicarious mechanisms in fitness apps",
+    "journal": "International Journal of Sports Marketing and Sponsorship",
     "year": "2026",
-    "date": "2026-08-03",
-    "doi": "10.1108/apjml-02-2026-0283",
-    "url": "https://doi.org/10.1108/apjml-02-2026-0283",
-    "abstract": "Purpose The purpose of this study is to investigate the fit effect between influencer type (virtual vs. human) and tourists' psychological distance, and to examine the serial mediating roles of perceived credibility and perceived diagnosticity in this relationship. Design/methodology/approach Across two online experiments and a lab experiment, this research tested its hypotheses through three online experiments. All studies utilized a 2 (influencer type: human vs. virtual) × 2 (psychological distance: high vs. low) between-subjects design. A total of 1,067 valid participants were recruited across the studies via the Credamo platform (Studies 1 & 2) and a university in Beijing (Study 3), after excluding those who failed attention checks. The studies systematically manipulated spatial (Study 1) and temporal (Studies 2 & 3) distance to a destination and presented participants with promotional content from either a human or a virtual influencer. Validated scales measured visit intention as the key dependent variable, alongside manipulation checks for influencer type and psychological distance. Studies 1 and 2 established the basic congruence effect, while Study 3 replicated the finding with different stimuli and employed bootstrapping mediation analysis (PROCESS macro) to test the proposed serial mediation mechanism via perceived credibility and perceived diagnosticity. Findings Through three experiments, this study demonstrates the congruence effect between influencer type (virtual vs. human) and tourists' psychological distance (spatial vs. temporal) on visit intention. Specifically, Study 1 reveals that when a destination is perceived as psychologically close (vs. distant), tourists exhibit higher visit intention when it is endorsed by a human (vs. virtual) influencer. Study 2 replicates this finding by manipulating the temporal dimension of psychological distance. Study 3 further strengthens the robustness of the results using different experimental stimuli. Moreover, this research identifies the underlying mechanism, demonstrating that perceived credibility and perceived diagnosticity play a serial mediating role in this process. Originality/value This study makes a key original contribution by being the first to identify and explain the congruence effect between influencer type (virtual vs. human) and tourists' psychological distance to a destination, grounded in construal level theory (CLT). Its value is twofold: theoretically, it advances influencer marketing and CLT by identifying key boundary conditions and validating the serial “perceived credibility → perceived diagnosticity” mechanism. Practically, it provides a novel, actionable framework for tourism marketers to dynamically select influencer types (virtual for distant, human for close destinations) to maximize promotional effectiveness and audience engagement.",
+    "date": "2026-08-04",
+    "doi": "10.1108/ijsms-03-2026-0185",
+    "url": "https://doi.org/10.1108/ijsms-03-2026-0185",
+    "abstract": "Purpose This study examines how gamification features in fitness apps shape users’ intention to exercise regularly and why such motivation often fails to develop into sustained exercise behavior. Drawing on social cognitive theory, it explains how achievement-based and social-based features operate through enactive and vicarious learning to strengthen self-efficacy. Design/methodology/approach A two-study design was employed. Study 1 used a quantitative survey of Strava users to test the relationships among achievement-based features, social-based features, self-efficacy and intention to exercise regularly. Study 2 used semi-structured interviews to corroborate and extend the quantitative findings by exploring why app-generated motivation often weakens before becoming routine behavior. Findings Achievement-based and social-based features significantly increase the intention to exercise regularly. Self-efficacy showed stronger mediation for social-based features, whereas its mediating role for achievement-based features was weak. Furthermore, achievement-based features provide mastery cues that support active learning, while social-based features stimulate vicarious learning through peer visibility and social persuasion. However, qualitative findings reveal a clear gap between intention and behavioral routine: gamification features often actually act as barriers to motivation for regular exercise, in addition to the internal and external barriers users face. Originality/value This study expands the gamification literature by showing that the motivational effects generated by gamification features tend to be fragile and depend on how users perceive the value of the features they use. This study conceptualizes fitness apps as digital learning environments where achievement- and social-based features shape self-efficacy through enactive and vicarious pathways. The value of this study lies in showing the limited role of fitness apps as tools for sustainable exercise behavior intervention.",
     "authors": [
-      "Yafeng Fan",
-      "Luyao Zhang",
-      "Yan Wang"
+      "Hafizh Fitrianna",
+      "Yuliansah Yuliansah",
+      "Yunus Agung Kristanto"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "Understanding student participation in teaching evaluations: a systematic review of psychological motivators and barriers",
-    "journal": "Quality Assurance in Education",
+    "title": "What's causing the biochar adoption gap? Practitioner reflections on perceived barriers and opportunities among smallholder farmers in Southeast Asia",
+    "journal": "Frontiers in Sustainable Food Systems",
     "year": "2026",
-    "date": "2026-08-03",
-    "doi": "10.1108/qae-02-2026-0073",
-    "url": "https://doi.org/10.1108/qae-02-2026-0073",
-    "abstract": "Purpose Student evaluation of teaching (SET) are pivotal to quality assurance in higher education, yet participation rates remain inconsistent. Despite considerable research on structural influences, limited attention has been given to the psychological processes underlying students’ participation, with little systematic integration within motivational frameworks. This review aims to examine psychological determinants shaping students’ participation in SET through the complementary lenses of self-determination theory (SDT) and expectancy–value theory (EVT). Design/methodology/approach A comprehensive search across four databases following preferred reporting items for systematic reviews and meta-analyses 2020 guidelines identified 29 peer-reviewed empirical studies, which were screened, coded and thematically analysed within SDT and EVT constructs. Findings Perceived usefulness of feedback, intrinsic motivation and sense of responsibility towards the academic community were the most consistent motivators. Key barriers included distrust in feedback utility, limited transparency, anonymity concerns, fear of repercussions and time constraints. Extrinsic incentives improved response rates in some studies but did not reliably enhance feedback quality; reducing survey length did not consistently improve participation, indicating structural changes alone are insufficient without addressing motivational factors. Practical implications Institutions should foster transparent, autonomy-supportive evaluation environments that explicitly communicate how student feedback informs improvement. Grade-contingent incentives should be replaced with trust-based engagement strategies. Originality/value This review provides a systematic integration of SDT and EVT as complementary frameworks for understanding SET participation behaviour and proposes evidence-informed recommendations to foster evaluation environments that cultivate trust, thereby strengthening SET as a credible quality assurance mechanism in higher education.",
+    "date": "2026-08-04",
+    "doi": "10.3389/fsufs.2026.1810930",
+    "url": "https://doi.org/10.3389/fsufs.2026.1810930",
+    "abstract": "While Biochar demonstrates agronomic potential for soil improvement, crop productivity, and carbon sequestration, limited research has examined adoption patterns and implementation barriers among small-scale farmers through a sustainability lens. Employing a qualitative self-study design, this community case study reflects upon biochar extension programming delivered by Civil Society Organization (CSO) extension practitioners across Southeast Asia. Authors found that despite biochar's consistently high interest among learners and established scientific merit, sustained, multiseason adoption among smallholder farmers remains limited. Observed patterns that constrain adoption across several Southeast Asian countries include the labor necessary to produce recommended volumes at the artisanal kiln scale, and significant opportunity costs within small-scale farming systems. Successful, sustained adoption generally emerged from two contexts: 1) strategic and intensive horticultural applications, such as within greenhouse, nursery, and small plot production settings, and 2) enterprise operations with a pre-existing biomass waste management problem, uniformly sized feedstock, and sufficient scale to access carbon credit markets. Practitioner reflections suggest that effective biochar extension programming should clearly communicate biochar's realistic agronomic benefits and timelines, and better target their programming toward high-return applications or as an enterprise development opportunity rather than in promoting biochar production and soil incorporation as a universally applicable, farm-level practice among small-scale farmers.",
     "authors": [
-      "Tanushree Sau",
-      "Ahmed Sameer"
+      "Michelle Hung",
+      "Stacy Swartz",
+      "Abram J. Bicksler",
+      "Brian Flanagan"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Psychology",
-    "title": "Trends and fluctuations in technical performance in the 2010–2022 FIBA women’s basketball world cup",
-    "journal": "BMC Sports Science, Medicine and Rehabilitation",
+    "title": "Ultrafast switching of optical properties in a doped semiconductor by intense femtosecond laser pulses",
+    "journal": "Light: Science & Applications",
     "year": "2026",
-    "date": "2026-08-03",
-    "doi": "10.1186/s13102-026-01939-8",
-    "url": "https://doi.org/10.1186/s13102-026-01939-8",
-    "abstract": "",
+    "date": "2026-08-04",
+    "doi": "10.1038/s41377-026-02346-x",
+    "url": "https://doi.org/10.1038/s41377-026-02346-x",
+    "abstract": "Abstract The rapid switching of materials when excited by ultrashort pulses of light is central for many optical technologies, and in particular to the developing field of time-varying metamaterials. These out-of-equilibrium interactions are difficult to capture with traditional theoretical models. Here we combine experiments and theory to unravel different regimes of interactions and a response saturation for a 44 fs, near-infrared pump pulse exciting a switchable doped semiconductor indium tin oxide thin film target. We model this process as a change in plasma frequency due to the excitation of hot electrons in a non-parabolic conduction band, which increases their effective mass. Our calculations show that saturation at high pump intensities arises because the pump heavily depopulates electrons from below the Fermi level. Excellent agreement with values extracted from experimental data confirms our model. For lower pump intensities, a two-temperature model is consistent with our data, but at higher intensities, it is apparent that other processes are at work, which we attribute to Auger transitions from the valence band, which introduce complex structure into the response, due to non-equilibrium rearrangement of energy between electrons and holes.",
     "authors": [
-      "Yihong Zhang",
-      "Jie Wang"
+      "Yan Li",
+      "Stefano Vezzoli",
+      "Tim Klee",
+      "Joseph J. Broughton"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "The evolution, dynamic mechanisms and trends of China's marine economic security policy: a bibliometric study based on policy texts from the 1990s to 2025",
-    "journal": "Marine Economics and Management",
-    "year": "2026",
-    "date": "2026-08-03",
-    "doi": "10.1108/maem-04-2026-0009",
-    "url": "https://doi.org/10.1108/maem-04-2026-0009",
-    "abstract": "Purpose This study aims to systematically analyze the evolutionary process, stage characteristics, and logical driving forces of China’s marine economic security policies (1990s–2025). It further explores policy implications and future trends to support the sustainable security of marine economic activities and overall national security. Design/methodology/approach Based on a literature review of marine economic security theory, 63 national and local policy documents are classified into multiple stages. Policy text measurement methods − word frequency analysis, social network analysis, and keyword co-word analysis − are adopted to quantitatively identify policy evolution patterns, characteristics and driving forces. Findings The results reveal distinct evolutionary stages of marine economic security policies with unique characteristics. The logical driving forces shift from initial policy guidance to systematic construction and high-quality development orientation. Key policy focus areas evolve, reflecting the dynamic adaptation to national marine economic development needs. Originality/value This study systematically traces the evolution of China’s marine economic security policies from the 1990s to 2025 and quantitatively analyzes policy text features. It fills the gap in long-term research on this topic and provides empirical support for improving marine economic security governance.",
-    "authors": [
-      "Xiaofan Zhang",
-      "Yinghui Ma",
-      "Xin Luo"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "The Multi-Layered Effect of Panaxatriol Saponins in Preventing Diabetic Nephropathy in Mice",
-    "journal": "Integrative Medicine in Nephrology and Andrology",
-    "year": "2026",
-    "date": "2026-08-03",
-    "doi": "10.1097/imna-d-26-00027",
-    "url": "https://doi.org/10.1097/imna-d-26-00027",
-    "abstract": "Background: Diabetic nephropathy (DN) is a common microvascular complication of diabetes and the leading cause of end-stage renal disease (ESRD). Nearly 40% of people with diabetes will develop DN, and DN accounts for 23% of ESRD cases in China. Dysfunction of the gut-kidney axis, characterized by impaired intestinal barrier function and gut microbiota dysbiosis, exacerbates renal inflammation and fibrosis under sustained hyperglycemia. Panaxatriol saponins (PTS), bioactive constituents of the traditional Chinese medicine Panax notoginseng , have been reported to improve blood circulation, resolve stasis, enhance microcirculation, and improve vascular function. However, the effects of PTS on DN are unknown. This study sought to investigate the effect and underlying mechanism of PTS in DN. Methods: Male C57BLKs/J db./m and db./db. mice (8-9 weeks old; 23-25 g) were selected. For db./db. mice, three doses (30, 60, and 120 mg/kg) of PTS, as well as positive controls Irbesartan and Keluoxin, were administered orally to evaluate their effects. Several tests were conducted, including serum analysis, kidney histology, electron microscopy, Western blotting, immunofluorescence, qRT-PCR, 16S rRNA gene sequencing, RNA-sequencing, and metabolomic analysis. Results: PTS significantly reduced albuminuria, improved dyslipidemia, and decreased systemic inflammation in DN mice. It also outperformed two positive-control drugs in mitigating glomerular glycogen deposition, collagen accumulation, basement membrane thickening, and podocyte injury; it downregulated renal pro-inflammatory cytokines and fibrotic markers, probably by suppressing TNF, PI3K-Akt, JAK-STAT, and ECM signaling pathways. PTS restored intestinal tight-junction genes (Tjp1, Occludin, Jam-1) and E-cadherin to repair intestinal barrier damage. It reversed gut microbiota dysbiosis by upregulating protective Ligilactobacillus and decreasing harmful HT002 . Twelve co-altered gut-kidney metabolites were identified, which were closely correlated with renal inflammatory and fibrotic gene programs; PTS reversed these metabolic disturbances at the same time. Conclusion: These findings indicate that PTS mitigate the progression of DN due to its integrated effects on renal inflammation/fibrosis, intestinal barrier integrity, and gut microbiota composition. The ability of PTS to modulate the gut-kidney axis suggests a promising therapeutic strategy for DN, thereby addressing the pressing clinical demand for effective interventions.",
-    "authors": [
-      "Fan Guo",
-      "Weijing Lai",
-      "Cheng Chen",
-      "Xiaoyu Dai"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20portrait%20silhouette%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Management",
-    "title": "Experiences of adolescents in bushfire-prone regions: a qualitative meta-synthesis",
-    "journal": "Disaster Prevention and Management: An International Journal",
+    "title": "Transcending professional barrier: knowledge sharing and social network in China's health organizations",
+    "journal": "Journal of Health Organization and Management",
     "year": "2026",
-    "date": "2026-08-03",
-    "doi": "10.1108/dpm-03-2026-0100",
-    "url": "https://doi.org/10.1108/dpm-03-2026-0100",
-    "abstract": "Purpose With bushfires becoming an ever-increasing threat to communities globally, this meta-synthesis aimed to explore the lived experiences of young people impacted by bushfire events. Design/methodology/approach A systematic search identified any qualitative studies exploring the lived experiences of young people aged 10–24 who have been exposed to bushfires. A thematic meta-synthesis was then conducted to synthesise key themes and overarching narratives relating to young people experience following bushfire. Findings The systematic search found four relevant studies that met the inclusion criteria. The thematic synthesis revealed two main overarching themes: “Reaction and action”, detailing both the impact and response of young people following bushfire, and “Support comes in many forms”, which captured the various ways that young people are supported in the aftermath of a bushfire event. Amongst the themes, bushfire has the potential to influence psychological and behavioural wellbeing of young people, though young people also described how such events can be a catalyst for personal growth and stronger connections to peers and community. Originality/value This is among the first qualitative meta-syntheses to centre the first-hand accounts of young people's bushfire experiences, addressing a gap in a literature that has predominantly relied on quantitative, symptom-focused measures or adult-mediated reporting.",
+    "date": "2026-08-04",
+    "doi": "10.1108/jhom-10-2025-0690",
+    "url": "https://doi.org/10.1108/jhom-10-2025-0690",
+    "abstract": "Purpose This study investigates how social networks transcend professional barriers to facilitate knowledge sharing in China's medical organizations, examining the mediating roles of positive emotions and relationship quality and exploring configurational paths to successful sharing. Design/methodology/approach A mixed-methods design combining Structural Equation Modeling (SEM) and Qualitative Comparative Analysis (QCA) was employed using data from 2,300 employees across 23 Tertiary Grade A hospitals in Beijing. SEM tested linear paths and mediation effects, while QCA identified equifinal configurations for high knowledge sharing. Findings SEM confirms social networks positively correlate with knowledge sharing. Positive emotions and relationship quality act as significant mediators, with relationship quality showing the strongest effect. QCA reveals three equifinal configurations: (1) professional synergy (high special heterogeneity, network density and positive emotion); (2) relational cohesion (high relationship quality, network density, low general heterogeneity and positive emotion) and (3) diversity-catalyst (high general and special heterogeneity with positive emotion, even when relationship quality is low). Positive emotion is a necessary condition across all successful paths. Originality/value This study provides organization-level evidence from real-world medical settings, integrates structural, cognitive and relational dimensions of social capital and combines SEM with QCA to uncover equifinality and compensatory mechanisms unattainable through linear methods alone. Identifying positive emotion as a non-negotiable catalyst reconfigures knowledge governance theory in professional complex systems.",
     "authors": [
-      "Paul Kemel",
-      "Joanne E. Porter",
-      "Louisa Remedios"
+      "Yuanqing Cai",
+      "Zhezhe Duan",
+      "Xingyu Qian"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "The nonlinear nexus between fintech startups and bank stability: evidence from the Indian economy",
+    "journal": "South Asian Journal of Business Studies",
+    "year": "2026",
+    "date": "2026-08-04",
+    "doi": "10.1108/sajbs-04-2025-0157",
+    "url": "https://doi.org/10.1108/sajbs-04-2025-0157",
+    "abstract": "Purpose The emergence of fintech startups is revolutionizing the financial landscape while challenging the stability of traditional banks. This study examines the nonlinear relationship between the proliferation of fintech startups and the stability of banks in India, with the moderating role of relative bank size. Design/methodology/approach The study utilizes panel data from Indian banks spanning 2008–2023. A feasible generalized least squares method is chosen for its ability to address heteroscedasticity and autocorrelation to test the hypothesized relationship. The findings are further validated through multiple robustness and verification checks. Findings The findings present a nonlinear relationship between fintech proliferation and bank stability. The moderate range of fintech growth is associated with strong stability indicators, whereas higher levels coincide with weaker stability outcomes within the sample period. The relationship appears to be heterogeneous, with bank size conditioning the vigor and persistence of the observed relationship. Practical implications The findings suggest that regulators and bank managers may benefit from close monitoring of the pace and structure of fintech expansion. The relative-scale differences emphasize the significance of adaptive governance, as well as supervisory oversight in evolving fintech ecosystems. Originality/value This study provides novel evidence from India by examining threshold effects in the fintech-bank stability relationship and explicitly modeling size as a moderating factor within a rapidly evolving fintech ecosystem. The findings provide exploratory evidence and encourage subsequent research.",
+    "authors": [
+      "Satpreet Kaur",
+      "Rajeev Kumar Panda"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Teknologi dan Inovasi dalam Pengendalian Mutu Pendidikan serta Peran Pemimpin Lembaga, Guru dan Dosen",
+    "journal": "Journal of Authentic Research",
+    "year": "2026",
+    "date": "2026-08-04",
+    "doi": "10.36312/jar.v5i3.6391",
+    "url": "https://doi.org/10.36312/jar.v5i3.6391",
+    "abstract": "Transformasi digital telah memperluas pemanfaatan teknologi dalam penjaminan mutu pendidikan. Namun, kajian mengenai digitalisasi sistem mutu, kepemimpinan digital, dan profesionalisme pendidik masih sering dibahas secara terpisah. Penelitian ini bertujuan menganalisis keterkaitan ketiga komponen tersebut melalui pendekatan kajian kepustakaan. Literatur diperoleh dari Google Scholar, Garuda, Crossref, dan Dimensions dengan rentang publikasi 2020–2025, kemudian dipilih berdasarkan relevansi, ketersediaan naskah lengkap, dan kesesuaian dengan fokus kajian. Data dianalisis menggunakan analisis isi dan analisis tematik. Hasil sintesis menghasilkan empat tema utama, yaitu digitalisasi sistem penjaminan mutu, supervisi akademik berbasis digital, kepemimpinan digital, serta peran guru dan dosen dalam inovasi pendidikan. Teknologi memperkuat pengelolaan informasi, monitoring, evaluasi berbasis data, dan dokumentasi mutu. Supervisi digital mendukung pembinaan pendidik melalui observasi, umpan balik, refleksi, dan tindak lanjut yang sistematis. Kepemimpinan digital menghubungkan sistem teknologi dengan pengambilan keputusan, sedangkan pendidik menjadi pelaksana utama inovasi pembelajaran. Penelitian ini menegaskan bahwa mutu pendidikan berkembang melalui interaksi sistem digital, kepemimpinan, dan profesionalisme pendidik, dengan teknologi sebagai pendukung tata kelola mutu. Digital transformation has expanded the use of technology in educational quality assurance. However, previous studies have generally examined the digitalization of quality assurance systems, digital leadership, and educator professionalism as separate issues. This study aims to analyze the interrelationships among these three components through a library research approach. The literature was collected from Google Scholar, Garuda, Crossref, and Dimensions, covering publications from 2020 to 2025, and selected based on relevance, full-text availability, and alignment with the study objectives. Data were analyzed using content analysis and thematic analysis. The synthesis identified four major themes: the digitalization of educational quality assurance systems, digital academic supervision, digital leadership, and the roles of teachers and lecturers in educational innovation. The findings indicate that technology strengthens information management, data-driven monitoring and evaluation, and quality assurance documentation. Digital academic supervision enhances educators' professional development through systematic observation, feedback, reflection, and follow-up. Digital leadership bridges technological systems and organizational decision-making, while teachers and lecturers serve as the primary agents of educational innovation. This study concludes that educational quality assurance evolves through the interaction of digital systems, digital leadership, and educator professionalism, with technology serving as an enabler of effective quality governance.",
+    "authors": [
+      "Lalu Teguh Darmawangsa",
+      "M. Amiril Hamzah",
+      "Cahye Cahye",
+      "Baiq Mery Norita"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Public Policy Approaches to Addressing Adult Obesity: A Position Paper From the American College of Physicians",
+    "journal": "Annals of Internal Medicine",
+    "year": "2026",
+    "date": "2026-08-04",
+    "doi": "10.7326/annals-26-00864",
+    "url": "https://doi.org/10.7326/annals-26-00864",
+    "abstract": "",
+    "authors": [
+      "Ryan Crowley",
+      "Micah Beachy",
+      "Priscilla Carr"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
