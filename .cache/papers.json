@@ -1,153 +1,153 @@
 [
   {
-    "field": "Marketing",
-    "title": "تحليل تحديات تطبيق إدارة الجودة الشاملة في المؤسسات الليبية (طرابلس) دراسة ميدانية Analysis of the Challenges of Implementing Total Quality Management in Libyan Institutions (Tripoli): A Field Study",
-    "journal": "Comprehensive Journal of Science",
-    "year": "2026",
-    "date": "2026-08-08",
-    "doi": "10.65405/96qz3c14",
-    "url": "https://doi.org/10.65405/96qz3c14",
-    "abstract": "هدفت هذه الدراسة إلى تحليل تحديات تطبيق إدارة الجودة الشاملة في المؤسسات الليبية بمدينة طرابلس، مع التعرف على العقبات الإدارية والفنية والثقافية وتأثيرها على جودة الخدمات والأداء المؤسسي. اعتمدت الدراسة المنهج الوصفي التحليلي، وجمعت البيانات باستخدام استبيان ميداني موجه لموظفي الإدارات العليا والمتوسطة، مدعومًا بمقابلات شبه منظمة وتحليل وثائقي، وحُللّت النتائج إحصائيًا باستخدام SPSS. أظهرت النتائج أن أبرز التحديات تشمل ضعف الهيكل التنظيمي، نقص التدريب، مقاومة التغيير، ضعف نظم المعلومات، قلة الموارد والتكنولوجيا، صعوبة قياس الأداء، الثقافة المؤسسية التقليدية، العوامل الاقتصادية والسياسية، والفجوات بين المعايير الدولية ومتطلبات المؤسسات المحلية، مما يؤثر بشكل ملموس على جودة الخدمات وكفاءة الأداء.",
-    "authors": [
-      "اسماء مصطفى عمر نصر"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "UNDERSTANDING THE DYNAMICS OF POLICY IMPLEMENTATION FIDELITY AND ACCOUNTABILITY IN SCHOOL OPERATIONS: A STRUCTURAL EQUATION MODELING STUDY ON THE ROLE OF SCHOOL-BASED MANAGEMENT",
-    "journal": "EPRA International Journal of Environmental Economics Commerce and Educational Management",
-    "year": "2026",
-    "date": "2026-08-08",
-    "doi": "10.36713/epra28823",
-    "url": "https://doi.org/10.36713/epra28823",
-    "abstract": "This study aimed to examine how school-based management engagement mediates the relationship between policy implementation fidelity and accountability in school operations. A non-experimental quantitative design with a descriptive-correlational approach was used, and 281 elementary school teachers from Carmen District, Davao del Norte were selected through simple random sampling. Data were collected using a validated and pilot-tested adapted questionnaire. Results revealed that policy implementation fidelity was frequently practiced, especially in applying policies consistently and gathering feedback for review. Accountability in school operations was also extensively observed, although ethical adherence was only sometimes demonstrated. Teacher engagement in school-based management was moderately evident, especially in decision-making, but less in planning and budgeting activities. Correlation analysis showed a strong positive relationship between policy fidelity and accountability, and a moderate link with teacher engagement. Mediation analysis revealed that school-based management engagement partially explained the influence of policy fidelity on accountability. These findings confirm that consistent policy practices enhance both transparency and teacher participation in governance. Strengthening communication, ethical standards, and participatory mechanisms is vital for improving school operations.",
-    "authors": [
-      "Marivic R Faeldin"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Research trends and gaps in canoe sprint training: a scoping review",
-    "journal": "BMC Sports Science, Medicine and Rehabilitation",
-    "year": "2026",
-    "date": "2026-08-08",
-    "doi": "10.1186/s13102-026-01950-z",
-    "url": "https://doi.org/10.1186/s13102-026-01950-z",
-    "abstract": "",
-    "authors": [
-      "Munhyeon Hwang",
-      "Joeun Jung",
-      "Sujin Kim",
-      "Eunwook Chang"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Consumer Research",
-    "title": "Ragexe - Llm-Rag Automation: Intelligent Function Execution and Secure System Orchestration",
-    "journal": "International Journal of Innovations & Research Analysis",
+    "title": "The Role of Rhodiola rosea in Immunity through a Functional Nutrition Lens",
+    "journal": "International Journal of Research and Review",
     "year": "2026",
-    "date": "2026-08-08",
-    "doi": "10.62823/ijira/06.3(i).9202",
-    "url": "https://doi.org/10.62823/ijira/06.3(i).9202",
-    "abstract": "LLMs and RAG have very good capabilities to reason about context and semantic mapping. However, existing AI solutions have been limited in the sense that they can only generate text-based responses, without executing any commands in a safe manner. This research paper proposes LLM-RAG Automation: Intelligent Function Execution and Secure System Orchestration, an intelligent automation solution that bridges the gap between natural language processing and autonomous executable workflows. LLM-RAG maps the intent of the users to pre-validated capabilities using PostgreSQL and pgvector. In order to make sure that the solution is secure, the multi-agent engine (which is made up of planning, execution, validation, and security components) performs risk assessment before executing tasks in a sandboxed environment. Instead of relying on scripts or generating executable code through LLMs, the proposed solution leverages pre-validated executable functions to make sure that the task execution is always reliable. Through empirical studies, we demonstrate that retrieval of the function minimizes execution latency and prevents any kind of unsafe command orchestration through multi-step workflows.",
+    "date": "2026-08-09",
+    "doi": "10.52403/ijrr.20260407",
+    "url": "https://doi.org/10.52403/ijrr.20260407",
+    "abstract": "This review examines how R. rosea affects the immune system through a functional nutrition lens through a functional nutrition framework that specifically studied hypothalamic-pituitary-adrenal (HPA) axis regulation and stress-immune interactions.",
     "authors": [
-      "Avanish Cowkur",
-      "Rohan Nambiar",
-      "Rishi Nambiar",
-      "V Sukanya"
+      "Snigdha Ranjan",
+      "Anupriya Borah",
+      "Saloni Kulkarni",
+      "Mugdha Pradhan"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Food Industry / Science / Design",
-    "title": "From seeds to plant-based milk: nutritional and bioactive characterization of munguba (Pachira aquatica) and its derived beverage",
-    "journal": "Journal of Food Measurement and Characterization",
+    "field": "Management",
+    "title": "The Impact of Nation Brand Dimensions on the International Reputation of the State of Qatar: An Application of the Anholt Nation Brand Hexagon Model",
+    "journal": "International Journal of Financial, Administrative, and Economic Sciences",
     "year": "2026",
-    "date": "2026-08-08",
-    "doi": "10.1007/s11694-026-04798-6",
-    "url": "https://doi.org/10.1007/s11694-026-04798-6",
-    "abstract": "",
+    "date": "2026-08-09",
+    "doi": "10.59992/ijfaes.2026.v5n8p4",
+    "url": "https://doi.org/10.59992/ijfaes.2026.v5n8p4",
+    "abstract": "This study aims to examine the impact of nation branding dimensions, based on Anholt's Nation Brand Hexagon model, on the international reputation of Qatar. It analyzes six core dimensions: governance, exports, tourism, investment and immigration, culture and heritage, and people. The study is grounded in the observation that Arabic literature addressing this relationship remains limited, despite Qatar's continuous efforts to strengthen its global presence through investment, sports, diplomacy, energy, and media. The study adopts a descriptive-analytical approach combined with a case-study method, using a questionnaire distributed to academics, economic experts, international relations specialists, media professionals, and practitioners in the investment and tourism sectors, covering the period 2019–2025. Findings reveal a statistically significant positive effect of all six hexagon dimensions on Qatar's international reputation, with sample respondents rating these dimensions highly. Governance was found to enhance reputation through efficient and credible public policy; investment and immigration attract talent and capital; while culture, heritage, tourism, and the image of the Qatari people all serve as key contributors to a positive international perception. Hosting major international events was also shown to significantly boost Qatar's global visibility. The study recommends sustaining an integrated national strategy for nation-brand management, strengthening coordination among government entities, further developing the investment climate, supporting cultural initiatives, expanding public diplomacy programs, and conducting periodic studies to monitor the evolution of Qatar's international reputation using recognized international indices.",
     "authors": [
-      "Luiz Henrique de Oliveira Cruz",
-      "Raíssa Machado Nascimento",
-      "Jorge Silva Pinho-Jr",
-      "Débora Nascimento Eiriz"
+      "Omer Elhussein"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Psychology",
-    "title": "Developing and testing a measurement of behavioral intention towards artificial intelligence in EFL/ESL learning: taking individual differences into the equation",
-    "journal": "Humanities and Social Sciences Communications",
+    "title": "The Contribution of Health Psychology to the Explanation of Health Behavior: An Integrative Analysis in Light of the Biopsychosocial Model and Its Implications for Social Health Work",
+    "journal": "International Journal of Humanities, Education, and Social Sciences",
     "year": "2026",
-    "date": "2026-08-08",
-    "doi": "10.1057/s41599-026-08668-w",
-    "url": "https://doi.org/10.1057/s41599-026-08668-w",
-    "abstract": "",
+    "date": "2026-08-09",
+    "doi": "10.58578/ijhess.v4i3.9682",
+    "url": "https://doi.org/10.58578/ijhess.v4i3.9682",
+    "abstract": "In recent decades, the understanding of health and illness has undergone a profound epistemological shift, moving beyond purely biomedical explanations toward more integrative and multidimensional approaches. Within this context, Health Psychology has emerged as an interdisciplinary field concerned with examining the dynamic interactions between psychological, social, and biological factors in shaping health-related behaviors. This study aims to analyze the contribution of Health Psychology to understanding health behavior within the framework of the biopsychosocial model, while highlighting its implications for social work practice in healthcare settings. It also explores the role of psychosocial professionals in enhancing treatment adherence and promoting patients’ psychosocial adjustment through evidence-based interventions. The study adopts a descriptive-analytical approach based on a critical review of relevant literature, complemented by an illustrative case study to demonstrate the complex interplay of determinants influencing health behavior. The findings indicate that health behaviors are shaped by the interaction of psychological variables (e.g., health perceptions and self-efficacy), social determinants (e.g., social support and cultural context), and biological factors, thereby underscoring the limitations of reductionist biomedical models. The study concludes that integrating Health Psychology principles into social work practice enhances the effectiveness of healthcare, improves quality of life, and strengthens interdisciplinary collaboration within healthcare institutions. This study contributes to the existing literature by providing an integrative analytical framework linking Health Psychology with social work practice in healthcare settings, particularly within under-researched Arab contexts. It also offers a conceptual bridge between theory and practice through the application of the biopsychosocial model in a real-world illustrative case.",
     "authors": [
-      "Duhuang Chen",
-      "Lexi Xiaoduo Li"
+      "Housni Kossai"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Urban Studies",
-    "title": "Masculinity Norms and Their Economic Implications",
-    "journal": "Annual Review of Economics",
+    "field": "Marketing",
+    "title": "The Catholic Church’s Pastoral Communications and Their Implications for Church-State Relations in Post-Colonial Zambia (1964-2026)",
+    "journal": "International Journal of Humanities, Education, and Social Sciences",
     "year": "2026",
-    "date": "2026-08-07",
-    "doi": "10.1146/annurev-economics-051624-065932",
-    "url": "https://doi.org/10.1146/annurev-economics-051624-065932",
-    "abstract": "While economists have extensively studied gender norms affecting women, masculinity norms—social norms about how men should behave—remain underexplored. This review first synthesizes how other disciplines have studied masculinity, providing economists with conceptual foundations and empirical patterns for understanding masculinity norms. We then discuss how the study of masculinity norms can inform the economics literature on gender gaps and men's outcomes across multiple domains: health behavior, labor supply and occupational choice, violence and aggression, and political preferences. We also discuss paths for the transmission and persistence of these norms. Finally, using novel survey data from 70 countries, we present five stylized facts about masculinity norms. Adherence to masculinity norms varies substantially across countries and predicts a range of socioeconomic and political outcomes.",
+    "date": "2026-08-09",
+    "doi": "10.58578/ijhess.v4i3.9418",
+    "url": "https://doi.org/10.58578/ijhess.v4i3.9418",
+    "abstract": "The Roman Catholic Church (RCC) has historically played a significant role in shaping political, economic, and social discourse in Zambia, yet the evolution of its relationship with the State across successive political regimes requires further systematic examination. This study traces the historical trajectory of RCC–state relations in Zambia from independence in 1964 to 2026 through pastoral letters issued by the Catholic Bishops’ Conference of Zambia on matters of national concern. It aims to analyze the development and dynamics of RCC–state relations, examine the implications of pastoral communication for these relations, and propose a communication framework for reducing institutional tension. A qualitative research approach was employed, drawing on literature review, document analysis, and narrative analysis, with the data subsequently analyzed thematically. Guided by political-institutional transformation theory, the study examines changes in church–state relations across political transitions, particularly from the United National Independence Party (UNIP) era to the current United Party for National Development (UPND) administration. The findings reveal that pastoral statements on the state of the nation have a dual implication: they enable the RCC to advocate for social justice and freedoms and to provide institutional checks and balances, while simultaneously contributing to tensions and widening the relational gap between the Church and the State. The study concludes that pastoral communication remains an influential mechanism through which the RCC engages with governance and national development, but its effectiveness depends on communication structures capable of balancing prophetic advocacy with constructive institutional engagement. Accordingly, the study recommends the re-evaluation and adoption of communication structures that foster cooperation, sustained dialogue, and mutual understanding in the interests of the Zambian people and national development. This study contributes to the literature on church–state relations by providing a historically grounded analysis of pastoral communication in Zambia and by proposing a framework for strengthening sustainable dialogue between religious and state institutions.",
     "authors": [
-      "Ieda Matavelli",
-      "Pauline Grosjean",
-      "Ralph De Haas",
-      "Victoria Baranov"
+      "Chanda Armstrong"
     ],
-    "citations": 2,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Evaluation of the Systemic Immune-Inflammation Index and Hemoglobin Albumin Lymphocyte Platelet Score in Celiac Patients: A Retrospective Single-Center Study",
+    "journal": "Turkish Journal of Internal Medicine",
+    "year": "2026",
+    "date": "2026-08-09",
+    "doi": "10.46310/tjim.1976086",
+    "url": "https://doi.org/10.46310/tjim.1976086",
+    "abstract": "Objective: Celiac disease (CD) is a chronic immune-mediated enteropathy diagnosed using serological tests and histopathological evaluation of duodenal biopsies according to the Marsh classification. Because biopsy is invasive, attention has shifted toward simple inflammatory biomarkers derived from routine laboratory parameters, such as the Systemic Immune-Inflammation Index (SII) and hemoglobin–albumin–lymphocyte–platelet (HALP) score, which reflect systemic inflammatory and immune-nutritional status. This study evaluated the diagnostic value of SII and HALP and their ability to predict the histopathological severity in patients with CD.Methods: This retrospective observational study included 112 participants: 51 patients with newly diagnosed CD and 61 age- and sex-matched controls. CD was confirmed according to the European Society for the Study of Coeliac Disease criteria, and patients were classified as having Marsh 2 or Marsh 3 disease. SII and HALP indices were derived from routine laboratory parameters. Comparative analyses, ROC curve assessments, and multivariate logistic regression were conducted, with significance set at p &lt; 0.05.Results: Patients with CD showed significantly lower hemoglobin, ferritin, and total iron-binding capacity than controls (p &lt; 0.05), whereas SII and HALP did not differ significantly between groups. Tissue transglutaminase IgA and anti-endomysial IgA positivity were markedly higher in Marsh 3 than in Marsh 2 patients. ROC analysis showed limited diagnostic utility for HALP (AUC = 0.589) and no significant performance for SII (AUC = 0.479). Neither index predicted advanced villous atrophy (HALP AUC = 0.623; SII AUC = 0.611) nor emerged as an independent predictor in the regression analysis.Conclusion: In this single-center retrospective cohort, SII and HALP scores showed limited diagnostic and prognostic utility in newly diagnosed CD and, on the basis of the present data, did not reliably forecast histopathological severity.",
+    "authors": [
+      "Aycan Acet",
+      "Süleyman Coşgun",
+      "Cengiz Koçak",
+      "Türkan Paşalı Kilit"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "When Plastic Particles Hit the Nose: Metabolic Responses to Nanoplastics, Microplastics, and Their Mixtures in Normal Human Nasal Epithelial Cells",
+    "journal": "Environment & Health",
+    "year": "2026",
+    "date": "2026-08-08",
+    "doi": "10.1021/envhealth.6c00254",
+    "url": "https://doi.org/10.1021/envhealth.6c00254",
+    "abstract": "Abstract Airborne micro- and nanoplastics are emerging inhalation contaminants, yet their effects on the first human airway barrier, the nasal epithelium, remain poorly understood. Here, we investigated metabolic responses of normal human nasal epithelial cells exposed to polystyrene nanoplastics (100 nm), microplastics (7 μm), or their mixture using comprehensive metabolomics and lipidomics of both cells and secretome analyzed by ultrahigh-performance liquid chromatography coupled with quadrupole time-of-flight mass spectrometry. Nanoplastics induced the strongest intracellular perturbations, characterized by increased amino acid- and purine-related metabolites, including homocystine, uric acid, aspartic acid, and glutamic acid, together with marked depletion of membrane lipids, particularly phosphatidylcholines. The particle mixture produced partially overlapping but generally attenuated responses, whereas microplastics alone caused comparatively modest changes. This attenuation was consistent with particle characterization showing partial nanoplastic adsorption onto microplastics, which reduced the freely dispersed nanoplastic fraction in the mixture. Secretome profiling revealed distinct extracellular metabolic fingerprints, with nanoplastics and mixtures increasing metabolites linked to oxidative stress, amino acid turnover, and detoxification, while reducing several membrane-derived lipids. Pathway enrichment analysis highlighted disturbances in carbohydrate metabolism, glycerophospholipid metabolism, the pentose phosphate pathway, and amino acid and nucleotide metabolism. Overall, these findings identify normal human nasal epithelial cells as a metabolically sensitive target of plastic particle exposure and suggest that nanoplastics are primary drivers of the observed metabolic perturbations at the airway interface in vitro.",
+    "authors": [
+      "Emma Bergman",
+      "Patrik Karlsson",
+      "Francesco Barbero",
+      "Ellinor Almkvist"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "Unintended Pregnancy and Pregnancy Awareness among Female Sex Workers in Sri Lanka: A Community‐Based Cross‐Sectional Study",
+    "journal": "Studies in Family Planning",
+    "year": "2026",
+    "date": "2026-08-08",
+    "doi": "10.1111/sifp.70061",
+    "url": "https://doi.org/10.1111/sifp.70061",
+    "abstract": "Abstract Unintended pregnancy is a key marker of unmet sexual and reproductive health needs, yet quantitative evidence among female sex workers (FSWs) in Sri Lanka is scarce. We conducted a cross‐sectional respondent‐driven sampling survey among 551 FSWs aged 18–49 years in Colombo from March to June 2025. Using Gile's successive sampling estimator, we generated respondent‐driven sampling‐weighted prevalence estimates and described pregnancy awareness, testing, and mitigating actions taken following pregnancy recognition among this sample. We conducted multivariate logistic regressions to identify women‐level correlates of ever unintended pregnancy. Pregnancy‐level prevalence was contextualized against six Sri Lankan non–sex worker studies using meta‐analysis. Most participants had ever been pregnant (88.5 percent). Among ever‐pregnant women, 51.1 percent reported at least one unintended pregnancy, and 39.8 percent of 1,225 lifetime pregnancies were unintended. Around two‐thirds of FSWs recognized their most recent pregnancy by four weeks’ gestation, but routine pregnancy testing was uncommon (11.3 percent), 44.8 percent reported no preventive measure at their most recent unintended pregnancy, and the pregnancy‐accounting cascade indicated important downstream consequences. The risk of unintended pregnancy was found to be more clustered among women initiating paid sex before age 19 and those with higher parity. Pregnancy‐level unintended pregnancy exceeded pooled non–sex worker estimates by about 11–13 percentage points. Taken together, the findings point to missed opportunities at both the pregnancy recognition and preventive response stages of the pathway. These findings support targeted sexual and reproductive health programs for FSWs in Colombo that prioritize routine and outreach‐based pregnancy testing, rapid access to acceptable contraceptive options, and focused support for women entering sex work early, those with repeated pregnancies, and those who took no preventive measures at unintended conception.",
+    "authors": [
+      "M. Suchira S. Suranga",
+      "K. Karunathilake",
+      "W. Indralal De Silva"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "Within Families, Across Borders: Lifespans of U.S. Immigrants Born in 1850–1890 Relative to Origin, Destination, and Siblings",
-    "journal": "Demography",
+    "title": "The Role of Narcissism and Dissociation in the Indirect Relationship Between Childhood Trauma and Body Dissatisfaction, Bulimia, and Drive for Thinness in a Sample of Adolescents: A Path Analysis Model",
+    "journal": "Journal of Child & Adolescent Trauma",
     "year": "2026",
-    "date": "2026-08-07",
-    "doi": "10.1215/00703370-12674386",
-    "url": "https://doi.org/10.1215/00703370-12674386",
-    "abstract": "Highlights U.S. immigrants born in 1850–1890 had shorter lifespans than U.S.-born Whites. This mortality penalty was concentrated among specific origin groups. Migrants generally outlived origin populations and nonmigrant siblings. Migration–mortality patterns varied by origin, reflecting both origin and destination contexts.",
+    "date": "2026-08-08",
+    "doi": "10.1007/s40653-026-00958-4",
+    "url": "https://doi.org/10.1007/s40653-026-00958-4",
+    "abstract": "Abstract This study examined the associations between childhood trauma, body dissatisfaction, bulimia, and drive for thinness in adolescents, with a specific focus on the roles of narcissistic traits and dissociative experiences as intervening variables. A sample of 439 high school students from Southern Italy completed self-report measures assessing eating-disorder-related symptoms, pathological narcissism, childhood trauma, and dissociation. The hypothesised path model showed significant indirect associations between emotional abuse and both drive for thinness and bulimia through vulnerable narcissism and dissociative experiences. More specifically, depersonalisation was positively associated with bulimia, whereas passive influence was positively associated with drive for thinness. Grandiose narcissism showed a negative association with body dissatisfaction and was not positively associated with the eating-related outcomes. Multi-group analyses indicated that the model was not invariant across males and females. In males, absorption was involved in the indirect association between childhood trauma and body dissatisfaction, whereas this pathway was not observed in females. These findings suggest that childhood trauma may be linked to eating-disorder-related features through different psychological pathways involving narcissistic vulnerability, specific dissociative dimensions, and gender. Because of the cross-sectional design, the findings should be interpreted as associative rather than causal.",
     "authors": [
-      "Saverio Minardi",
-      "Paul Puschmann",
-      "Nicola Barban"
+      "Fabio Carraturo",
+      "Marzieh Abdoli",
+      "Dua Fatima Afzaal",
+      "Paolo Cotrufo"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "Transforming Healthcare NGOs Through Emerging Human Resource Practices: An Empirical Study",
-    "journal": "International Journal of Science, Strategic Management and Technology",
+    "field": "Food Industry / Science / Design",
+    "title": "Recent and Promising Strategies for Robust, Sustainable, and Cost‐Friendly Production of Yogurt With Superior Quality",
+    "journal": "Comprehensive Reviews in Food Science and Food Safety",
     "year": "2026",
-    "date": "2026-08-07",
-    "doi": "10.55041/ijsmt.v2i8.030",
-    "url": "https://doi.org/10.55041/ijsmt.v2i8.030",
-    "abstract": "Healthcare non-governmental organizations (NGOs) play a pivotal role in delivering accessible, affordable, and community-oriented healthcare services, particularly to vulnerable and underserved populations. In an increasingly dynamic healthcare environment, these organizations must continuously strengthen their Human Resource (HR) systems to enhance employee capability, organizational adaptability, and service effectiveness. Emerging Human Resource practices have become critical strategic tools that facilitate organizational transformation by improving workforce quality, employee engagement, operational efficiency, and service delivery. Despite the growing significance of HR innovations, limited empirical evidence exists regarding their contribution to transforming healthcare NGOs, particularly in the Indian context. The present study investigates the influence of emerging Human Resource practices on Organizational Transformation among healthcare NGOs in Bengaluru. The study specifically examines four major HR dimensions, namely Recruitment and Selection, Training and Development, Employee Engagement, and Work-Life Balance, and evaluates their contribution toward organizational transformation. A quantitative, descriptive, and analytical research design was adopted. For academic learning purposes, a simulated dataset comprising 179 healthcare professionals working in registered healthcare NGOs in Bengaluru was developed. Primary data were assumed to have been collected through a structured questionnaire using a five-point Likert scale ranging from Strongly Disagree (1) to Strongly Agree (5). The simulated data were analyzed using descriptive statistics, reliability analysis, Exploratory Factor Analysis (EFA), Pearson correlation analysis, and multiple regression analysis. The simulated findings indicate that healthcare professionals demonstrate a relatively high level of awareness and positive perception of emerging HR practices. Training and Development and Employee Engagement recorded comparatively higher mean scores, indicating greater organizational emphasis on employee capability development and participation. Correlation analysis revealed statistically significant positive relationships between all emerging HR practices and Organizational Transformation. Multiple regression analysis further demonstrated that Training and Development and Employee Engagement exerted the strongest influence on Organizational Transformation, followed by Work-Life Balance and Recruitment and Selection. The regression model explained a substantial proportion of the variance in Organizational Transformation, suggesting that effective implementation of emerging HR practices contributes significantly to organizational development and sustainability. The study emphasizes that healthcare NGOs should strategically invest in modern HR practices to enhance organizational adaptability, workforce commitment, service quality, and long-term sustainability. The findings provide valuable insights for healthcare administrators, HR managers, policy makers, and NGO leaders seeking to strengthen organizational performance through innovative Human Resource Management practices.",
+    "date": "2026-08-08",
+    "doi": "10.1111/1541-4337.70587",
+    "url": "https://doi.org/10.1111/1541-4337.70587",
+    "abstract": "ABSTRACT Yogurt is one of the most technologically mature fermented dairy products on the market, traditionally prepared using the two lactic acid bacteria (LAB) Streptococcus thermophilus and Lactobacillus delbrueckii subsp. bulgaricus . Global demand for yogurt continues to rise, driven by consumer interest in healthy, high‐protein diets with as few additives as possible. New lactose‐free variants and sugar‐reduced yogurts appeal to large consumer segments that either have poor lactose tolerance or focus on a healthy lifestyle. Despite developments in yogurt manufacturing technologies and yogurt starter cultures, some persistent challenges associated with yogurt remain, for example, post‐acidification problems, texture instability, and microbial spoilage, all of which shorten shelf life and contribute to food waste. Lactose‐free products, which often have reduced sugar content, are still considered niche and, as such, are sold at a premium, which deters many consumers from buying them and likely compels them to choose plant‐based yogurt analogs, which are often marketed as more sustainable. The current trend toward increased use of direct‐vat‐set (DVS) cultures, which increases production costs and thus prices at the retailer, could likewise have this effect. In this review, we provide a comprehensive and industry‐oriented analysis of existing and emerging strategies for achieving robust, sustainable, and cost‐effective production of yogurt. We address industrial applicability, limitations, regulatory considerations, and future development potential. We argue that there is a current trend toward the use of more natural, bio‐driven solutions for improving the properties of yogurt.",
     "authors": [
-      "Sowmya D.S",
-      "Dr Cynthia Menezes"
+      "Shuangqing Zhao",
+      "Belay Tilahun Tadesse",
+      "Christian Solem"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
