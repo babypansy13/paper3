@@ -1,150 +1,146 @@
 [
   {
-    "field": "Consumer Research",
-    "title": "impact of wasta beliefs on academic motivation and fairness",
-    "journal": "Eureka: Journal of Educational Research",
+    "field": "Psychology",
+    "title": "Zinc displacement and metabolic interference: cobalt ion-mediated therapy for broad-spectrum CRKP-resistant pneumonia via inhalable microspheres",
+    "journal": "Nature Communications",
     "year": "2026",
-    "date": "2026-08-11",
-    "doi": "10.56773/ejer.v5i1.116",
-    "url": "https://doi.org/10.56773/ejer.v5i1.116",
-    "abstract": "This study examines how belief in wasta. the use of personal connections, affects students’ motivation, achievement orientation, and perceptions of fairness in higher education across Oman, Algeria, Jordan, and Palestine. It also investigates the social and media influences that shape these beliefs and considers how informal practices may weaken merit-based principles, thereby influencing student engagement, learning outcomes, and trust in academic institutions. Using a cross-sectional survey of 650 students, the study measured belief in wasta, intrinsic motivation, achievement orientation, perceived academic fairness, and exposure to social and media influences. Data were analyzed through descriptive statistics, correlations, t-tests, ANOVAs, regression, and MANOVA to test multiple hypotheses, guided by Self-Determination Theory (SDT), Justice Theory, and Institutional Theory. The findings reveal that belief in wasta is widespread and consistently associated with lower intrinsic motivation, reduced achievement orientation, weaker perceptions of fairness, and diminished expected academic performance. Although country context slightly moderated these relationships, the overall pattern remained stable across all settings. Family, peers, and social media were identified as key contributors to the reinforcement of wasta beliefs. The results suggest that informal social norms can undermine merit-based systems, ultimately reducing motivation, effort, and institutional trust. However, limitations such as self-reported data, a cross-sectional design, and limited measurement of fairness suggest caution in generalizing the findings. The study recommends that universities promote transparency, strengthen awareness programs, and implement mentorship and cultural interventions to reduce reliance on informal networks.",
+    "date": "2026-08-12",
+    "doi": "10.1038/s41467-026-76666-2",
+    "url": "https://doi.org/10.1038/s41467-026-76666-2",
+    "abstract": "",
     "authors": [
-      "Raed Atef"
+      "Zhaoyou Chu",
+      "Jun Liang",
+      "Yayun Wu",
+      "Wanyue Fu"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "Who You Meet Matters: International Evidence on Economic Connectedness and Social Mobility",
-    "journal": "The B.E. Journal of Economic Analysis & Policy",
-    "year": "2026",
-    "date": "2026-08-11",
-    "doi": "10.1515/bejeap-2025-0497",
-    "url": "https://doi.org/10.1515/bejeap-2025-0497",
-    "abstract": "Abstract We construct the first internationally comparable measure of offline economic connectedness (EC), extending the online framework of Chetty et al. to a cross-country setting. We conceptualize EC as access to individuals in high-status occupations and measure it as the probability that individuals from below-median income backgrounds are connected to at least one such individual (based on ISEI-88 classifications). We estimate EC both non-parametrically and using logistic specifications with country fixed effects and individual-specific controls to test for systematic cross-country differences. Using harmonized data across 13 Western countries, we document substantial variation in economic connectedness, ranging from below 51 % in countries such as Austria and Japan to over 78 % in Iceland and Switzerland. Consistent with findings for the U.S., we show that EC is positively correlated with intergenerational income mobility, suggesting that differences in social networks are associated with cross-country variation in economic opportunity.",
-    "authors": [
-      "Jonas Bühler",
-      "Melanie Häner-Müller",
-      "Christoph A. Schaltegger"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Therapeutic monoclonal antibodies mimicking paraproteins in immunofixation electrophoresis: migration profiles of 21 commonly used agents",
-    "journal": "Clinical Chemistry and Laboratory Medicine (CCLM)",
-    "year": "2026",
-    "date": "2026-08-11",
-    "doi": "10.1515/cclm-2026-0777",
-    "url": "https://doi.org/10.1515/cclm-2026-0777",
-    "abstract": "Abstract Objectives Therapeutic monoclonal antibodies (t-mAbs) are increasingly used in oncology, hematology, autoimmune diseases, and inflammatory disorders. Because most of these agents are monoclonal immunoglobulins, they may be detected by serum immunofixation electrophoresis (IFE) and mimic pathological monoclonal proteins. Methods We analyzed the electrophoretic migration profiles of 21 therapeutic monoclonal antibodies using agarose gel immunofixation electrophoresis on the Hydrasys 2 system (Sebia). Each antibody was diluted in serum previously confirmed to be free of monoclonal components. Results All antibodies produced detectable bands on IFE with characteristic migration profiles. Migration patterns were mainly associated with the isoelectric point (pI) of the molecules. Antibodies with high pI values showed cathodic migration in the gamma region, whereas antibodies with lower pI values migrated more anodically toward the beta-gamma interface. Three migration groups were identified according to electrophoretic behavior. Conclusions Therapeutic monoclonal antibodies can generate bands that mimic monoclonal gammopathies on IFE. Knowledge of their migration profiles may help laboratories distinguish treatment-related interference from pathological paraproteins and improve interpretation of electrophoretic results.",
-    "authors": [
-      "Marie-Léa Kabou",
-      "Brice Tireau",
-      "Alexis Couasnard",
-      "Frédérique Hosking"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "The relationship between perceived gamified learning support, students' motivation, affective engagement, and self-efficacy: A structural equation modelling approach",
-    "journal": "Educational Technology Quarterly",
-    "year": "2026",
-    "date": "2026-08-11",
-    "doi": "10.55056/etq.1304",
-    "url": "https://doi.org/10.55056/etq.1304",
-    "abstract": "The integration of gamification tools such as Quizizz and Kahoot! into formative assessment and learning support has attracted growing interest among educators worldwide. Research linking perceived gamified learning support to affective engagement and self-efficacy nevertheless remains scarce, and evidence on how such tools shape intrinsic and extrinsic learning motivation is limited, particularly in developing-country contexts such as Cambodia. This study examines the influence of perceived gamified learning support on students' intrinsic and extrinsic learning motivation, affective engagement, and self-efficacy. A quantitative correlational design was employed, with data collected from 73 students at a private university in Cambodia who had experienced gamified learning. Given the modest sample, the estimates were supported by bootstrapping with 5,000 resamples, and the hypothesised model was tested using structural equation modelling (SEM) with the diagonally weighted least squares estimator. Confirmatory factor analysis demonstrated good measurement model fit and strong construct validity. The SEM analysis revealed that perceived gamified learning support significantly influences students' intrinsic and extrinsic learning motivation, affective engagement, and self-efficacy, confirming all four study hypotheses. Grounded in self-determination theory and self-efficacy theory, the study demonstrates the role of gamification tools in supporting students' learning in the Cambodian higher education context, offering guidance for both researchers and practitioners. The findings suggest that educators should draw on gamification tools in their instructional design to foster students' learning motivation, affective engagement, and self-efficacy.",
-    "authors": [
-      "Mengkorn Pum"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "The effect of turmeric powder (Curcuma xanthorrhiza Roxb.) addition and steaming time on the physicochemical properties and sensory acceptability of sponge cake",
-    "journal": "Letters in Food Research",
+    "title": "When weak fields aren’t weak: Post-Newtonian effective theory and the dark matter puzzle",
+    "journal": "International Journal of Modern Physics D",
     "year": "2026",
-    "date": "2026-08-11",
-    "doi": "10.26656/lfr.3.e26165",
-    "url": "https://doi.org/10.26656/lfr.3.e26165",
-    "abstract": "Javanese turmeric (Curcuma xanthorrhiza Roxb.) is a rhizome that grows abundantly in Indonesia. It contains antioxidants that are beneficial to the human body and has potential as a functional food ingredient, such as in cakes. Sponge cakes containing antioxidant activity from the addition of the rhizome have not been widely published. In this work, the physical, chemical, and organoleptic effects of adding Javanese turmeric powder and varying the steaming time on wheat-sago steamed cakes were characterized. The research variables were designed using a completely randomized design (CRD) with two factors: the addition of Javanese turmeric powder (1.5, 3, and 4.5 g) and steaming duration (25, 30, and 35 minutes). The wheat-sago cakes were analyzed for physicochemical properties and preference levels. Data were analyzed statistically using ANOVA at the 95% confidence level, followed by Duncan’s multiple range test (DMRT) if significant differences were detected. The selected product and the control were chemically analyzed for moisture content, protein content, antioxidant activity, total phenols, and flavonoids. The results obtained showed that the addition of Javanese turmeric powder and variations in steaming duration significantly affected the physicochemical properties and sensory preference levels of the wheat-sago steamed sponge cake. Interestingly, wheat-sago sponge cake preferred by the panelists was the formulation containing 1.5 g of Javanese turmeric powder and a steaming time of 25 minutes, which contained 13.52% protein, 9.5% RSA antioxidant activity. Overall, the results of this study showed that the addition of Javanese turmeric powder can enhance the functional value of steamed sponge cake as an antioxidant-rich food while remaining organoleptically acceptable to consumers.",
+    "date": "2026-08-12",
+    "doi": "10.1142/s0218271826410038",
+    "url": "https://doi.org/10.1142/s0218271826410038",
+    "abstract": "Post-Newtonian theory is considered a reliable effective expansion of General Relativity (GR) in the weak-field and slow-motion limit. We argue that such a belief is misplaced. In generic many-body relativistic dynamics, the absence of globally conserved charges in the region of interest and nonintegrability can drive strong sensitivity to angular-momentum exchange across inhomogeneous curvature, invalidating naive power counting in an effective theory expansion. Building on general lessons from effective field theory, we derive an explicit breakdown criterion that delineates when post-Newtonian truncations become unreliable despite small local potentials and velocities. This supplies a controlled systematic for weak-field mass inference, relevant to the Dark Matter (DM) puzzle in astrophysics and cosmology.",
     "authors": [
-      "N.A.P.W. Putri",
-      "D. Pujimulyani",
-      "B. Kanetro"
+      "Marco Galoppo",
+      "Giorgio Torrieri"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "Tgfbr3 is required for the long-term maintenance of self-renewal potential in murine hematopoietic stem cells",
-    "journal": "Blood Science",
-    "year": "2026",
-    "date": "2026-08-11",
-    "doi": "10.1097/bs9.0000000000000307",
-    "url": "https://doi.org/10.1097/bs9.0000000000000307",
-    "abstract": "Transforming growth factor-β (TGF-β) signaling plays a crucial role in maintaining the quiescence and self-renewal potential of hematopoietic stem cells (HSCs). Despite decades of research, the underlying mechanisms of TGF-β signaling in HSCs remain elusive due to conflicting phenotypes of various knockout (KO) mouse models. Here, we show that HSCs co-express Tgfbr2 , Tgfbr3 , and Endoglin (Eng ) but rarely express Tgfbr1 , whereas lymphocytes co-express Tgfbr1 and Tgfbr2 but rarely express Tgfbr3 or Eng . We also demonstrate that Tgfbr3 is dispensable for the maintenance of immune homeostasis, in contrast to Tgfbr1 and Tgfbr2 , either of which is essential for lymphocyte homeostasis. Serial transplantation assays revealed that deletion of Tgfbr3 in HSCs had little effect on short-term reconstitution but impaired long-term self-renewal potential, a similar phenotype observed in Eng conditional KO mice. Therefore, we propose that lymphocytes rely on the Tgfbr1/Tgfbr2 complex as suggested by the classical model, whereas HSCs require the unique Tgfbr2/Tgfbr3/Eng complex to orchestrate TGF-β signaling. Collectively, this study reveals Tgfbr3 as a critical regulator in the maintenance of HSC self-renewal potential and suggests a novel TGF-β receptor complex specific to HSCs.",
-    "authors": [
-      "Xialin Li",
-      "Qitai Yang",
-      "Jinglei Zhai",
-      "Xiaobing Zhang"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "Editorial: Designing with communities: participation as urban knowledge in contemporary urban design",
-    "journal": "Proceedings of the Institution of Civil Engineers - Urban Design and Planning",
-    "year": "2026",
-    "date": "2026-08-11",
-    "doi": "10.1680/jurdp.2026.179.3.128",
-    "url": "https://doi.org/10.1680/jurdp.2026.179.3.128",
-    "abstract": "",
-    "authors": [
-      "Jamal Al-Qawasimi"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "mTOR inactivation governs adaptive survival to ribosome biogenesis deficiency",
-    "journal": "Genes & Development",
+    "title": "Turning OSINV inside the machine: Open-source investigations and information disorder",
+    "journal": "Harvard Kennedy School Misinformation Review",
     "year": "2026",
-    "date": "2026-08-10",
-    "doi": "10.1101/gad.353708.126",
-    "url": "https://doi.org/10.1101/gad.353708.126",
-    "abstract": "Ribosome biogenesis is a resource-consuming process that facilitates rapid growth and feeds uncontrolled, cancerous traits. Constraining ribosome biogenesis and protein translation has become a tenable therapeutic strategy for cancer. Yet, we do not know how cells that rely on high metabolic activity adapt and sustain their growth when deprived of their translational capacity. Conversely, stem cells and treatment-resistant cells persist under low metabolic states challenging their eradication. These are critical questions in cancer therapies. To delineate survival mechanisms that allow cancer cells to adapt to ribosome biogenesis defects, we conducted functional genomics screens during inhibition of RNA polymerase I. We identified that inactivation of mTOR enabled cell survival despite severe translational suppression. This was paradoxical as activation of mTOR is considered oncogenic by boosting ribosome biogenesis and cellular translational programs. We show that mTORC1 inhibition does neither restore rRNA synthesis nor ribosome biogenesis, but redistributes limited ribosomes from highly translated 5′TOP mRNAs to survival-essential transcripts. This mTOR inactivation-mediated prioritization of translational resources represents a minimal requirement for cell survival when translational capacity is compromised, which we term “translational fitness.” Our findings redefine the role of mTOR in cell survival and highlight the need for strategic targeting of translation regulation in cancer therapy.",
+    "date": "2026-08-12",
+    "doi": "10.37016/mr-2020-208",
+    "url": "https://doi.org/10.37016/mr-2020-208",
+    "abstract": "Open-source investigators and OSINV journalists have spent the last decade turning publicly available data into evidence of war crimes, environmental harms, and human rights abuses. More recently, they have trained the same lens on a different target: the algorithms, bot networks, and generative AI systems that industrialise deception and information disorder. Moving beyond debunking and verification, this reporting investigates the infrastructures that make falsehood profitable and visible, a turn four case studies here demonstrate.",
     "authors": [
-      "Wenjun Fan",
-      "Hester Liu",
-      "Liling Yang",
-      "Niladri Sinha"
+      "Philip Di Salvo"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Psychology",
-    "title": "Transformation, creation, regeneration: from silkworm worship to goddess fantasies",
-    "journal": "Humanities and Social Sciences Communications",
+    "field": "Marketing",
+    "title": "Trastuzumab Deruxtecan Targets HER2 in the Treatment of Gastric Cancer",
+    "journal": "Theoretical and Natural Science",
     "year": "2026",
-    "date": "2026-08-10",
-    "doi": "10.1057/s41599-026-08534-9",
-    "url": "https://doi.org/10.1057/s41599-026-08534-9",
-    "abstract": "",
+    "date": "2026-08-12",
+    "doi": "10.54254/2753-8818/2026.hz36037",
+    "url": "https://doi.org/10.54254/2753-8818/2026.hz36037",
+    "abstract": "Gastric cancer presents high global mortality, and traditional chemotherapy and single-target agents are limited by frequent drug resistance and unsatisfactory tumor inhibition efficiency. This paper systematically sorts gastric cancer's Correa cascade carcinogenic process and core oncogenic signaling axes, then elaborates the complete structural composition and multi-layer anti-tumor mechanism of the novel antibody-drug conjugate trastuzumab deruxtecan (T-DXd). T-DXd binds HER2 specifically via monoclonal antibody fragments, releases topoisomerase inhibitor DXd after lysosomal cleavage of cleavable GGFG linkers, and eliminates adjacent HER-low/negative tumor cells through the bystander killing effect. Multiple DESTINY-Gastric Phase II trials confirm T-DXd achieves significantly higher objective response and longer overall survival than standard chemotherapy regimens in HER2-positive advanced gastric cancer, with controllable adverse reactions. Current clinical transformation obstacles mainly include interstitial lung disease risk and diverse acquired resistance subtypes. This paper provides systematic theoretical support for stratified clinical administration and novel ADC structural optimization for HER2-mutated gastric malignant tumors.",
     "authors": [
-      "Hao Ze"
+      "Yixiao Ma"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Time Trends in Maternal Attention-Deficit/Hyperactivity Disorder and Medication Use in Pregnancy",
+    "journal": "The Journal of Clinical Psychiatry",
+    "year": "2026",
+    "date": "2026-08-12",
+    "doi": "10.4088/jcp.26m16321",
+    "url": "https://doi.org/10.4088/jcp.26m16321",
+    "abstract": "",
+    "authors": [
+      "Sofie Egsgaard",
+      "Hilary K. Brown",
+      "Jonathan Zipursky",
+      "Trine Munk-Olsen"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "The Newly Excavated Epitaph of Zhao Xuanben and the Political Situation in the Late Sui and Early Tang Dynasties",
+    "journal": "Communications in Humanities Research",
+    "year": "2026",
+    "date": "2026-08-12",
+    "doi": "10.54254/2753-7064/2026.ht36072",
+    "url": "https://doi.org/10.54254/2753-7064/2026.ht36072",
+    "abstract": "Centered on the newly excavated Epitaph of Zhao Xuanben, this paper examines Zhao Xuanben's official career and its political significance during the reign of Emperor Gaozong, the Wu Zhou period and the Kaiyuan era, in combination with official histories and relevant institutional documents. According to the epitaph, Zhao Xuanben joined campaigns against the \"Liao and Fan tribes\" in his early years, later took part in military operations in the Wu Zhou period, and served successively as Prefecture Sima, General of the Right Garrison Guard Headquarters, Imperial City Protector of the Eastern Capital, and Prefect of E Prefecture. His career spanned the critical political transitions from Emperor Gaozong's reign through the Wu Zhou period to the early Kaiyuan era. Through analyzing relevant lines in the epitaph and combining them with Emperor Gaozong's eastern campaigns, the aftermath of the Goguryeo War, the military and personnel background of the Wu Zhou period, and the political adjustments in the early Kaiyuan era, this paper argues that Zhao Xuanben's promotion and retirement were not merely personal experiences, but were closely tied to the restructuring of political order, changes in the military official system, and political shifts from the early Tang to the high Tang period. The Epitaph of Zhao Xuanben not only provides new material for studying Zhao Xuanben's life, but also offers a valuable case for understanding military officials' career paths, the political structure of the Wu Zhou period, and individual choices amid political transformation from Emperor Gaozong's reign to the Kaiyuan era.",
+    "authors": [
+      "Xixian Shi"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Strategic Human Resource Planning and Workforce Demographics: A Quantitative Analysis",
+    "journal": "International Journal of Education, Management, and Technology",
+    "year": "2026",
+    "date": "2026-08-12",
+    "doi": "10.58578/ijemt.v4i2.9535",
+    "url": "https://doi.org/10.58578/ijemt.v4i2.9535",
+    "abstract": "Understanding whether employees’ perceptions of Strategic Human Resource Planning (SHRP) vary across demographic groups is important for evaluating organizational alignment with strategic human resource objectives. This study examined the relationships between workforce demographics and perceptions of SHRP in an organizational context. A quantitative survey design was employed, involving 150 respondents from various hierarchical levels. The sample was predominantly male (87.3%), with the largest proportion of respondents aged 36–45 years (32.0%). Descriptive and inferential analyses were conducted to assess variations in SHRP perceptions according to gender, age, educational qualification, job position, and work experience. Overall perceptions of SHRP were highly positive (grand mean = 4.70 on a five-point scale). Kendall’s tau-b correlation indicated no statistically significant association between work experience and SHRP perceptions (τ = .019, p = .766). Similarly, no significant differences were found according to gender (t = 1.328, p = .186), age group (F = 1.063, p = .377), educational qualification (F = 1.681, p = .157), or job position (F = 0.745, p = .527). These findings indicate that positive perceptions of SHRP were broadly consistent across the demographic groups examined, suggesting substantial workforce alignment with the organization’s strategic human resource objectives. The study contributes empirical evidence that demographic characteristics may not constitute significant sources of variation in SHRP perceptions and supports the development of organization-wide strategic human resource initiatives that engage employees across hierarchical and demographic categories.",
+    "authors": [
+      "Yadav Prasad Pokharel",
+      "Dr. Kriti",
+      "Dipak Mahat"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "Shariah compliance awareness, financial literacy, trust in Islamic financial institutions, and perceived economic benefits as predictors of MSMEs’ intention to adopt Islamic financing in Marawi City",
+    "journal": "International Journal of Accountancy, Business, and Management Studies (IJABMS)",
+    "year": "2026",
+    "date": "2026-08-12",
+    "doi": "10.63498/ijabms7",
+    "url": "https://doi.org/10.63498/ijabms7",
+    "abstract": "",
+    "authors": [],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "Risk and Innovation In Technology Startups: Mapping The Intellectual Structure and Future Research Directions",
+    "journal": "SOUTHEAST ASIA JOURNAL oF GRADUATE OF ISLAMIC BUSINESS AND ECONOMICS",
+    "year": "2026",
+    "date": "2026-08-12",
+    "doi": "10.37567/sajgibe.v5i1.5661",
+    "url": "https://doi.org/10.37567/sajgibe.v5i1.5661",
+    "abstract": "This study maps the development, intellectual structure, and emerging research directions of literature on risk and innovation in technology startups. Using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) framework, 54 Q1 Scopus-indexed articles published between 2022 and 2026 were selected from 77 initial records. Bibliometric analysis was conducted using publication and citation analysis, keyword co-occurrence, reference co-citation, and country co-authorship, with VOSviewer and SCImago Graphica used for network and geographical visualization. The findings show that publication activity increased after 2023, while the literature remains dispersed across journals and concentrated in several countries, particularly China, the United States, the United Kingdom, and Spain. Keyword analysis identifies a conceptual structure connecting innovation, venture capital, investment, technology adoption, digital innovation, artificial intelligence, sustainability, and technological development. Co-citation analysis shows that the field draws on resource-based, dynamic capability, entrepreneurship, and venture capital perspectives. International collaboration is present but remains divided across several country clusters. These findings indicate that research on risk and innovation in technology startups has developed through multiple connected but only partially integrated streams. This study contributes by organizing the field’s conceptual, intellectual, and collaboration structures and by identifying future research opportunities related to conceptual integration, emerging technology risk, financing, startup ecosystems, and methodological development.",
+    "authors": [
+      "Irsyad Kamal",
+      "Desty Hapsari Kirana",
+      "Shadra Kusumanagara"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
