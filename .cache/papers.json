@@ -1,156 +1,154 @@
 [
   {
-    "field": "Mental Health",
-    "title": "Selpercatinib in Early-Stage RET Fusion–Positive Non–Small-Cell Lung Cancer",
-    "journal": "New England Journal of Medicine",
+    "field": "Consumer Research",
+    "title": "Cardiac Pacemaker Cells Harness Stochastic Resonance to Avoid Sinus Arrest",
+    "journal": "Circulation Research",
     "year": "2026",
-    "date": "2026-08-13",
-    "doi": "10.1056/nejmoa2602628",
-    "url": "https://doi.org/10.1056/nejmoa2602628",
-    "abstract": "",
+    "date": "2026-08-14",
+    "doi": "10.1161/circresaha.126.328905",
+    "url": "https://www.semanticscholar.org/paper/f13b7dc6ff87f3679b815c27483bd41e7623d161",
+    "abstract": "BACKGROUND The sinoatrial node (SAN) is the primary pacemaker of the heart. Recent high-resolution imaging showed that synchronized action potentials exiting the SAN emerge from heterogeneous signals, including subthreshold signals in nonfiring (dormant) cells. This raises a new question in cardiac biology: how do these signals contribute to heartbeat generation? Here, we tested the hypothesis that pacemaker cells harness stochastic resonance to ensure fail-safe operation, especially at low rates bordering on sinus arrest. METHODS Membrane potential and Ca signals were measured using perforated-patch recordings in rabbit SAN cells exposed to sine-wave or white-noise currents. In addition, we imaged Ca signals in intact mouse SAN tissue and performed multiscale model simulations at the subcellular, cellular, and tissue levels. RESULTS In addition to synchronized Ca transients, SAN tissue exhibited heterogeneous local Ca signals with different kinetics. Noise currents, mimicking the heterogeneous natural cellular environment, restored action potential firing in dormant cells and substantially improved the rate and rhythm of cells firing infrequently and irregularly. Performance followed a bell-shaped curve, peaking and then declining, demonstrating a hallmark of stochastic resonance. Rhythmic action potential generation in response to sine-wave currents of different frequencies defined a resonance spectrum in SAN cells, reflecting their ability to respond via stochastic resonance to specific frequency components embedded in noise. Cholinergic stimulation shifted the resonance spectrum and responses to noise toward lower frequencies across all amplitudes tested, rendering cells unresponsive to higher-frequency signals while enabling more effective processing of slower signals. Both the numerical models and simultaneous recordings of membrane potential and Ca dynamics demonstrated that stochastic resonance is amplified by coupled electrical and Ca signaling, enhancing action potential generation at low noise levels. Adding noise currents to the cell and tissue numerical models allowed firing under conditions in which they otherwise would have stopped. CONCLUSIONS SAN cells harness stochastic resonance amplified by coupled membrane-Ca signaling to ensure rhythmic heartbeat initiation, especially at low rates. This new signaling mechanism may help avoid sinus arrest when the heart slows and biological noise increases, such as during parasympathetic stimulation, bradyarrhythmia, or aging.",
     "authors": [
-      "Yi-Long Wu",
-      "Maximilian Hochmair",
-      "Yi Yang",
-      "Xue-Ning Yang"
+      "Akihiro Okamura",
+      "Isabella K. He",
+      "A. Maltsev",
+      "R. Bychkov"
     ],
-    "citations": 4,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 1,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "“Do I have the right to lead?” A process model of identity work in a leadership development program",
-    "journal": "Journal of Management Development",
+    "title": "‘Cost, man. Good quality stuff can get pricey’, men’s choices regarding HIV services in South Africa",
+    "journal": "African Journal of Primary Health Care & Family Medicine",
     "year": "2026",
-    "date": "2026-08-13",
-    "doi": "10.1108/jmd-10-2024-0352",
-    "url": "https://doi.org/10.1108/jmd-10-2024-0352",
-    "abstract": "Purpose While developmental programs act as identity workspaces, existing frameworks treat leader self-efficacy (LSE) as a static antecedent rather than a dynamic regulator. Addressing this gap, this study investigates the co-evolution of leadership identity and LSE within a post-Soviet MBA context to explain how initial confidence dictates divergent developmental trajectories. Design/methodology/approach Anchored in an interpretivist paradigm, we employed qualitative research methods to analyze 30 in-depth narrative interviews from two MBA cohorts. Thematic and narrative analyses were used to capture longitudinal identity shifts and LSE recalibration. Findings We reveal that identity evolution is regulated by LSE recalibration, manifesting in two distinct trajectories: empowerment (for low initial LSE) and grounding (for high initial LSE). These trajectories progress through four phases – Preparation, Orientation, Experimentation and Confirmation. From these findings, we derive the Confidence-Framed Leadership-Identity Evolution (CF-LIE) model, demonstrating how peer validation and cultural holding environments catalyze identity shifts. Research limitations/implications The retrospective, single-cohort qualitative design captures meaning-making but precludes real-time observation of LSE fluctuations. Furthermore, because the CF-LIE model emerged within a post-Soviet institutional context characterized by high power distance, its theoretical transferability requires longitudinal testing across divergent cultural and organizational typologies. Practical implications This study shifts the architectural focus of leadership programs from competency acquisition to targeted identity scaffolding. Curricula must be structurally calibrated to incoming LSE baselines – engineering early mastery experiences for the empowerment trajectory and strategic dissonance for the grounding trajectory. Furthermore, institutions must intentionally design “holding environments” that normalize identity friction as a core mechanism for leader emergence. Originality/value This study reconceptualizes LSE from a static antecedent into a dynamic regulator of identity work. The emergent CF-LIE model bridges social identity and self-efficacy theories, providing a processual architecture for leadership development in transitional economies.",
+    "date": "2026-08-14",
+    "doi": "10.4102/phcfm.v18i1.5334",
+    "url": "https://doi.org/10.4102/phcfm.v18i1.5334",
+    "abstract": "Background: Despite global declines in human immunodeficiency virus (HIV) infections, South African men remain disproportionately affected. Understanding men’s HIV service preferences is essential for designing effective interventions. Aim: This qualitative study identified key attributes influencing men’s preferences for HIV testing, prevention and treatment services in Gauteng province, South Africa. Setting: Data were collected through focus group discussions and in-depth interviews between November 2023 and March 2024 across sites in Randburg, Soweto, Orange Farm and Pretoria. Methods: A qualitative exploratory design employed focus group discussions with men aged 20–64 years and key informant interviews with HIV programme stakeholders. Stratified purposive sampling ensured demographic diversity. Recordings were transcribed verbatim and independently dual-coded. Framework analysis following Ritchie and Spencer’s five-step approach systematically identified themes, which were refined into discrete attributes. Results: Thirty-two focus group participants and 19 interview participants (median age 35 years [interquartile range [IQR] = 28–43], all Black African men, 82% secondary-educated) identified 10 priority HIV service attributes: accessibility, quality of care, cost-efficiency, comprehensive service packages, privacy and confidentiality, cultural sensitivity, technological solutions, community engagement, health awareness and stigma mitigation. Participants emphasised geographic proximity, welcoming nonjudgemental environments, affordability and privacy as critical in service utilisation. Conclusion: Findings emphasise the importance of comprehensive, private, affordable care delivered through welcoming environments with digital health awareness integration. Contribution: Validated attributes will inform a discrete choice experiment to quantify preference structures and guide the development of evidence-based, male HIV service delivery models in South Africa.",
     "authors": [
-      "Andrey Shapenko",
-      "Frank Horwitz",
-      "Michael Dickmann"
+      "Patience Manjengwa",
+      "Clarence Yah",
+      "Alfred Musekiwa"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "Working towards better informed consent: service user-led exploration of women’s views on data linkage on behalf of their unborn child(ren)",
-    "journal": "Research for All",
-    "year": "2026",
-    "date": "2026-08-13",
-    "doi": "10.14324/rfa.10.1.13",
-    "url": "https://doi.org/10.14324/rfa.10.1.13",
-    "abstract": "This paper outlines how service user co-investigators worked towards achieving informed consent to data linkage in a large-scale clinical trial in pregnancy with long-term developmental outcomes. The PANDA (Primary prevention of maternal ANaemia to avoid preterm Delivery and other Adverse outcomes) programme tests whether prevention of anaemia during pregnancy reduces adverse clinical complications such as preterm birth and low birth weight. One component is a randomised trial of 11,000 women taking oral iron from early in pregnancy versus placebo. Collection of infant and childhood data by linkage to relevant national datasets will enable efficient and robust assessment of key long-term developmental outcomes. Faced with the challenge of informing women’s consent, service user investigators have been proactive and adaptive in leading the development of women-facing materials. First, service user co-investigators consulted women to determine the breadth of issues important to them when considering consenting to PANDA. Then, they produced draft materials tailored to women’s information needs, prioritising information accessibility. Subsequently, they lobbied for, and led, additional focus groups with women from PANDA’s pilot trial to seek feedback on the bespoke materials and gauge the extent to which women understood the content and issues being expressed.",
-    "authors": [
-      "Joanne Murray",
-      "Stephanie J. Lax",
-      "Ellmina McKenzie",
-      "Samaher Sweity"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Marketing",
-    "title": "When trust is not enough: buyer orchestration modes and innovation in coopetitive automotive supply networks",
-    "journal": "International Journal of Physical Distribution & Logistics Management",
+    "title": "When engagement is not enough: an asymmetric dual-system theory of acceptance and avoidance in mobile advertising",
+    "journal": "Asia Pacific Journal of Marketing and Logistics",
     "year": "2026",
-    "date": "2026-08-13",
-    "doi": "10.1108/ijpdlm-08-2025-0403",
-    "url": "https://doi.org/10.1108/ijpdlm-08-2025-0403",
-    "abstract": "Purpose This study examines how buyer orchestration modes shape knowledge-sharing dynamics and innovation outcomes among competing suppliers in multi-tier automotive supply networks. While prior coopetition research emphasizes trust and voluntary collaboration as drivers of innovation, we investigate the underexplored role of the buyer as an active governance agent whose orchestration choices – ranging from coercive enforcement to collaborative co-development – shape whether competing suppliers share knowledge deeply enough to produce innovation. Design/methodology/approach Using multiple-perspective interviews, we conducted 28 in-depth interviews across six coopetitive relationships involving eight organizations in the Austrian and German automotive supply industries. Cases were purposefully selected to capture variation in buyer orchestration modes (enforcer, mandator, coordinator, facilitator, co-developer, partner), relationship formation (voluntary vs involuntary) and trust configurations. Data were analyzed using within-case and cross-case methods, with the relational view (RV) as the analytical lens. Findings We identify three theoretically distinct orchestration regimes – coercive, facilitative and collaborative – that shape how RV's four mechanisms (relation-specific assets, knowledge-sharing routines, complementary resources and governance) operate in coopetitive settings. Coercive orchestration (enforcer and mandator) generates compliance-based knowledge exchange but suppresses exploratory sharing – even when inter-supplier trust is high. Facilitative orchestration (coordinator and facilitator) creates structural conditions for sharing but cannot generate the relational motivation required for breakthrough innovation without pre-existing trust. Only collaborative orchestration (co-developer and partner), where the buyer signals vulnerability through co-investment of its own technical and organizational resources, enables suppliers to transition from protective to exploratory knowledge sharing, producing high innovation. Practical implications Supply chain managers should recognize that mandating collaboration is insufficient for innovation; the buyer's orchestration mode – not merely the existence of trust or voluntary engagement – is the primary lever. We provide actionable guidance for selecting and transitioning between orchestration modes based on relational conditions and innovation objectives. Originality/value This study reconceptualizes the buyer from a peripheral contextual node to the node that owns the primary governance mechanisms in coopetitive innovation. We extend the RV to buyer-orchestrated coopetition, showing that the four relational rent mechanisms are channeled and constrained by orchestration mode. Our framework explains why high trust fails to unlock innovation under coercive orchestration – a counterintuitive finding that challenges assumptions in both the coopetition and trust literatures.",
+    "date": "2026-08-14",
+    "doi": "10.1108/apjml-04-2026-0895",
+    "url": "https://doi.org/10.1108/apjml-04-2026-0895",
+    "abstract": "Purpose This paper aims to develop an asymmetric dual-system theory of acceptance and avoidance in mobile advertising. It explains why consumers may engage with mobile advertisements while simultaneously resisting their persuasive intent. Design/methodology/approach The paper adopts a conceptual theory-building approach and integrates literature on advertising engagement, consumer brand engagement, persuasion knowledge, psychological reactance, privacy, personalisation, intrusiveness and digital advertising avoidance. Findings The paper proposes that mobile advertising responses are governed by two co-existing regulatory systems. The engagement-based approach system facilitates attention, elaboration and interaction, whereas the threat-based avoidance system monitors perceived intrusiveness, privacy risk and autonomy loss. Threshold, strength and conversion asymmetries explain why engagement is necessary but insufficient for acceptance: threat-based regulation may interrupt engagement-to-acceptance conversion. The framework also distinguishes advertising engagement from consumer brand engagement, positioning the latter as a relational buffer that may facilitate but cannot guarantee acceptance. Research limitations/implications As a conceptual contribution, the framework requires empirical testing across platforms, cultures, regulatory environments and mobile-first ecosystems. Practical implications The framework cautions marketers against treating engagement metrics as proxies for acceptance. Mobile advertising strategies should balance relevance and personalisation with transparency, permission, user control and reduced intrusiveness. Originality/value The paper reframes mobile advertising persuasion as asymmetric co-regulation rather than linear progression from engagement to acceptance. It positions avoidance as an active regulatory outcome and explains why engagement and avoidance may coexist.",
     "authors": [
-      "Michael Plasch",
-      "Zach G. Zacharia"
+      "Mudit Gera"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Public Policy",
-    "title": "When leaders cross lines for the organization, employees cross lines for the leader: a moral decoupling perspective",
-    "journal": "Chinese Management Studies",
+    "field": "Mental Health",
+    "title": "When and where: A study on gastric cancer recurrence after neoadjuvant/perioperative chemotherapy",
+    "journal": "World Journal of Gastroenterology",
     "year": "2026",
-    "date": "2026-08-13",
-    "doi": "10.1108/cms-07-2025-0776",
-    "url": "https://doi.org/10.1108/cms-07-2025-0776",
-    "abstract": "Purpose Unethical pro-leader behavior (UPLB) reflects how followers may violate ethical norms to serve their leaders, constituting a microlevel expression of ethical fading in organizations. While UPLB has begun to attract scholarly interest, its antecedents remain underexplored. Existing studies largely adopt a social exchange perspective, assuming that UPLB stems from reciprocal motives. Draws upon social information processing theory and cognitive dissonance theory, the purpose of this study examines that leaders’ unethical pro-organizational behavior (LUPOB) acts as a contextual signal that fosters moral decoupling in subordinates, which in turn increases their likelihood of engaging in UPLB. Furthermore, the authors propose that trust in leader strengthens this indirect relationship by increasing the perceived credibility and evaluative weight of LUPOB. Design/methodology/approach Using a time-lagged survey and a recall-based experimental study, the proposed model was tested using ordinary least squares regression with the PROCESS 3.5. Findings The findings demonstrate that LUPOB positively influences UPLB via moral decoupling. Trust in leader not only moderates the direct effect of LUPOB on moral decoupling but also strengthens the indirect effect of LUPOB on UPLB through moral decoupling. Originality/value This study advances the understanding of UPLB by identifying LUPOB as a novel contextual antecedent, highlighting moral decoupling as a cognitive mechanism underlying follower misconduct and revealing trust in leader as a critical boundary condition that shapes how followers interpret and respond to unethical leader behavior.",
+    "date": "2026-08-14",
+    "doi": "10.3748/wjg.117778",
+    "url": "https://doi.org/10.3748/wjg.117778",
+    "abstract": "BACKGROUND Neoadjuvant chemotherapy is the standard of care for locally advanced gastric cancer (GC) in the Western countries. However, limited data are available on the timing and patterns of recurrence in this setting. AIM To evaluate recurrence patterns and timing of neoadjuvant/perioperative chemotherapy in patients with GC, analyze factors influencing recurrence, update relapse-free survival (RFS) and overall survival (OS) estimates. METHODS A total of 91 patients with resectable GC were enrolled between September 2010 and August 2016. Participants were then randomized in a 1:1 ratio to receive either 4 cycles of neoadjuvant chemotherapy (arm A) or a preoperative plus postoperative consisting of 2 cycles of docetaxel, oxaliplatin, and capecitabine chemotherapy, followed by 2 additional cycles after surgery (arm B). RESULTS Fifty-two out of 84 patients (61.9%) experienced disease recurrence, and for 41 the site of disease was identified. Distant, peritoneal, and local relapses occurred in 21 (51.2%), 11 (26.8%), and 5 (12.2%) patients, respectively. The median follow-up was 79 months (range: 4.2-120 months). The 5-years RFS was 39.0% [95% confidence interval (CI): 27.9-49.9]. cT4 tumors had a higher risk of recurrence compared to those with cT2-3 tumors (hazard ratio = 1.92; 95%CI: 1.03-3.56; P = 0.038). The 5-years and 7-years OS was 58.7% (95%CI: 41.9-72.2) and 47.3% (95%CI: 29.4-63.2) in arm A and it was 55.0% (95%CI: 38.4-68.9; P = 0.806) and 46.8% (95%CI: 30.7-61.5; P = 0.806) in arm B, respectively. CONCLUSION Distant metastases are the most common relapse sites, within two years after surgery; RFS depends on tumor size, histology and treatment response; median OS was 69.6 months with favorable long-term outcomes.",
     "authors": [
-      "Zheyuan Wang",
-      "Shiyong Xu",
-      "Chumeng Yang",
-      "Jinzhao Qu"
+      "Manlio Monti",
+      "Bianca Ceredi",
+      "Flavia Foca",
+      "Paolo Morgagni"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "Time-dependent Bayesian dynamic probabilistic duration forecasting of underground construction activities",
-    "journal": "Engineering, Construction and Architectural Management",
-    "year": "2026",
-    "date": "2026-08-13",
-    "doi": "10.1108/ecam-08-2025-1321",
-    "url": "https://doi.org/10.1108/ecam-08-2025-1321",
-    "abstract": "Purpose Underground construction activities are subject to substantial geological and operational uncertainty, making reliable duration forecasting difficult during project execution. This study proposes a time-dependent Bayesian duration forecasting (TDBDF) method to provide accurate dynamic probabilistic forecasts. Design/methodology/approach The TDBDF method integrates on-site observation data into a probabilistic model to update the final duration estimation. Specifically, the Beta cumulative distribution function is adopted to model the cumulative progress curve, while Bayesian inference with Markov chain Monte Carlo is applied to update the duration forecasts as new progress data becomes available. A time-dependent weighted likelihood function is further introduced to assign greater influence to more recent observations in posterior updating. Findings Case-based validation using two underground construction activities from a real-life project shows that TDBDF method enables continuous probabilistic updating of final duration forecasts and provides credible intervals for schedule risk. Compared with the conventional earned schedule method, it achieves better forecasting performance, particularly in the early stages. The proposed time-dependent weighting strategy reduces the mean absolute percentage error (MAPE) by 2.36% relative to the unweighted probabilistic model. Sensitivity analysis further reveals that the initial estimation of duration has the greatest impact on forecasting performance. Originality/value This study extends Bayesian duration forecasting from static prior-data fusion to dynamic updating for ongoing underground construction activities, and introduces a time-dependent weighted likelihood to capture the unequal importance of sequential progress observations. The proposed TDBDF framework is particularly suitable for small-sample, high-uncertainty construction environments, where continuous updating and risk assessment are critical for schedule control.",
-    "authors": [
-      "Ruoxue Zhang",
-      "Ruyu Deng",
-      "Yihua Mao"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "The role of TQM in organisational resilience during supply chain disruptions",
-    "journal": "International Journal of Quality & Reliability Management",
+    "title": "Urochloa hybrid adoption in Latin America and the Caribbean 2001–2024: an analysis of the land use, social, economic, and environmental impacts in 27 countries",
+    "journal": "Frontiers in Sustainable Food Systems",
     "year": "2026",
-    "date": "2026-08-13",
-    "doi": "10.1108/ijqrm-03-2026-0123",
-    "url": "https://doi.org/10.1108/ijqrm-03-2026-0123",
-    "abstract": "Purpose Global supply chain disruptions have grown in recent years, showing that organisational preparedness and recovery mechanisms are weak. Though past research has examined resilience strategies, little focus has been given to total quality management (TQM) as an internal strength to promote organisational resilience in the presence of disruption. This article addresses this gap by looking at the impact of four dimensions of TQM, namely employee involvement and training, top management commitment (TMC), process management and standardisation, and supplier relationship and quality integration (SRQI) on organisational resilience in Saudi Arabian organisations. Design/methodology/approach A quantitative and cross-sectional survey of 342 supply chain professionals was analysed using SPSS, which included reliability tests, correlation analysis and multiple regression. Findings Results have shown that TQM has strong predictive capacity in relation to resilience (R2 = 0.616), with SRQI (β = 0.282) and TMC (β = 0.250) showing the most important predictors. The positive effects were significant in each of the four dimensions (p &lt; 0.01). Research limitations/implications The cross-sectional aspect of the research at hand restricts its capacity to portray the dynamic and time-related components of organisational resilience. The sample itself was limited to Saudi Arabian organisations, which might hamper generalisation of the findings to situations that define other economies or cultures. Practical implications Organisations need to strengthen TQM practices in order to improve preparedness and recovery during disruptions. Hence, investing in employee training, standardised processes and supplier collaboration helps firms in maintaining operational continuity and supply chain stability. Social implications Organisations need to strengthen TQM practices in order to improve preparedness and recovery during disruptions. Hence, investing in employee training, standardised processes and supplier collaboration helps firms in maintaining operational continuity and supply chain stability. Originality/value The discussion concludes that TQM is a strategic competence that enhances flexibility, recuperation and robustness of operations. The future implications include the scale-up of the model, harnessing the digital transformation preparedness and longitudinal studies to gauge the dynamics of resilience over time.",
+    "date": "2026-08-14",
+    "doi": "10.3389/fsufs.2026.1837983",
+    "url": "https://doi.org/10.3389/fsufs.2026.1837983",
+    "abstract": "Introduction Sustainable intensification of tropical cattle production is essential to meet growing demand for animal-sourced foods while reducing environmental degradation. Improved interspecific Urochloa (syn. Brachiaria ) hybrids have been promoted as a key innovation to increase forage productivity and resource-use efficiency, yet their large-scale adoption and impacts across Latin America and the Caribbean (LAC) remain poorly quantified. Methods This study assessed the adoption and multidimensional impacts of interspecific Urochloa hybrids across 27 LAC countries from 2001 to 2024. Estimates were derived by integrating commercial seed sales data, national statistics, published literature, and Monte Carlo simulations to quantify adoption, economic benefits, greenhouse gas (GHG) mitigation, and land-use implications under different adoption scenarios. Results An estimated 1.09 million farmers adopted Urochloa hybrids on a cumulative 1.62 million ha established between 2001 and 2024, with approximately 1.07 million ha remaining active in 2024 assuming a 10-year pasture lifespan. Adoption reached an estimated 7.49 million people through direct and indirect associations. By 2033, cumulative gross forage value is projected at US$47–62 billion. Scenario analyses indicate potential reductions of 16.9–56.3 Mt CO2-eq in GHG emissions and land savings of 1.8–5.9 million ha to achieve equivalent liveweight gain, with the greatest environmental benefits occurring when hybrids are integrated into silvopastoral systems. Discussion Despite substantial economic and environmental benefits, adoption remains low relative to the total tropical grassland area due to persistent constraints in seed systems, limited access to knowledge and extension, and policy barriers. Expanding the use of Urochloa hybrids could substantially enhance the sustainability of tropical livestock systems by simultaneously improving productivity, reducing emissions, and limiting land expansion. Scaling these benefits will require coordinated investments in seed systems, inclusive financing, extension services, and enabling policy frameworks.",
     "authors": [
-      "Aisha Abdalla Al Mahjob Jamal"
+      "Stefan Burkart",
+      "John Jairo Junca Paredes",
+      "Danny Sandoval",
+      "Natalia Triana Ángel"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Psychology",
-    "title": "Taitai’er Caves plant remains and Theravada monastic diets in Kuča",
-    "journal": "npj Heritage Science",
+    "field": "Public Policy",
+    "title": "Tourism governance and political economic control: Public policy, SMEs, and digital regulation in Iran and Türkiye",
+    "journal": "International Journal of Business and Management (IJBM)",
     "year": "2026",
-    "date": "2026-08-13",
-    "doi": "10.1038/s40494-026-02882-0",
-    "url": "https://doi.org/10.1038/s40494-026-02882-0",
-    "abstract": "",
+    "date": "2026-08-14",
+    "doi": "10.56879/ijbm.v5i2.99",
+    "url": "https://doi.org/10.56879/ijbm.v5i2.99",
+    "abstract": "Governments across the Middle East frequently promote tourism as a driver of national development, yet local communities often absorb its costs while receiving limited returns, a pattern shaped by the political distribution of tourism opportunities. Existing research has given little attention to why local communities and small and medium sized enterprises (SMEs) remain marginal within tourism policymaking. This study compares Iran, a petro state, and Türkiye, a tourism dependent economy, to examine how public policy positions local communities within tourism development. Drawing on a qualitative archival methodology, it analyzes national development plans and tourism policy documents from both countries through qualitative content analysis conducted in NVivo across four dimensions: national development planning, community and private sector participation, the relationship between SMEs and state affiliated organizations, and digital governance. The findings show that governments do more than regulate tourism; they shape access to tourism markets, digital infrastructure, institutional support, and investment opportunities through a pattern of selective market inclusion. In both countries, policymakers prioritize state interests over community level benefits, reflecting a form of state capitalism that channels resources toward politically connected actors and quasi governmental organizations while leaving SMEs and local communities with limited institutional and digital support. Although Iran and Türkiye differ substantially in their political economic structures and dependence on tourism revenue, the comparative analysis demonstrates that contrasting systems can converge on similar governance outcomes. The study extends political economy debates by conceptualizing tourism policy as an instrument through which states allocate market access, regulate participation, and reproduce political authority.",
     "authors": [
-      "Xinyang Ren",
-      "Fan Yang",
-      "Lihui Miao",
-      "Ji Wang"
+      "Mehdi Afrash"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "THE effects of China’s outward investment on employment in Belt and Road Initiative countries",
-    "journal": "International Economics and Economic Policy",
+    "title": "The politics of polarization: strategic issue emphasis in campaigns",
+    "journal": "Journal of Political Institutions and Political Economy",
     "year": "2026",
-    "date": "2026-08-13",
-    "doi": "10.1007/s10368-026-00787-8",
-    "url": "https://doi.org/10.1007/s10368-026-00787-8",
-    "abstract": "",
+    "date": "2026-08-14",
+    "doi": "10.1108/jpipe-10-2025-0024",
+    "url": "https://doi.org/10.1108/jpipe-10-2025-0024",
+    "abstract": "This paper examines electoral competition through a formal model in which parties seek voter support by raising the salience of policy issues. Using this framework, the analysis asks whether parties are more likely to emphasize issues marked by divisions among voters but agreement among parties, or issues marked by disagreement between parties despite broad voter consensus. The results indicate that parties have no incentive to promote issues where their positions coincide, even when citizens are divided, but they do devote attention to issues where they hold distinct positions, even when voters largely agree. These incentives imply that the electoral agenda reflects partisan conflict more than mass divisions, and also help to explain why some policies remain off the electoral agenda even when a majority of citizens favors change. The analysis highlights how strategic issue emphasis by parties can shape the content of electoral competition and contribute to the polarization of discourse in the political system.",
     "authors": [
-      "Muyang Li",
-      "Sheue-Li Ong",
-      "Jianwei Er"
+      "Tiberiu Dragu",
+      "Xiaochen Fan"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Prevalence of hypertension in severe vs. non-severe COVID-19: a systematic review and meta-analysis",
+    "journal": "Journal of Human Hypertension",
+    "year": "2026",
+    "date": "2026-08-14",
+    "doi": "10.1038/s41371-026-01194-x",
+    "url": "https://doi.org/10.1038/s41371-026-01194-x",
+    "abstract": "",
+    "authors": [
+      "Kanwal Khalid",
+      "Amr Adel Ahmed Abd El-Aal",
+      "Michelle Felicia Lee"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20portrait%20silhouette%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "The value of mortality data to advance learning and decision-making dynamics in Mozambique’s health system",
+    "journal": "Archives of Public Health",
+    "year": "2026",
+    "date": "2026-08-14",
+    "doi": "10.1186/s13690-026-02044-5",
+    "url": "https://doi.org/10.1186/s13690-026-02044-5",
+    "abstract": "Abstract Introduction There is a lack of evidence on whether and how health systems stakeholders in Mozambique learn from routine health data. Despite the recurring claim by the stakeholders themselves that data in general should be the centre of informed public health policy, it remains unclear how decision-makers and managers access, interpret, and use mortality data for learning and decision-making. Using the Learning Health System (LHS) lens, we examined how mortality data are accessed, interpreted, and used across system levels in Mozambique. Methods We conducted a qualitative case study from September to November 2024, involving 20 key informants from the Ministry of Health at both national and subnational levels, non-governmental organisations, data producers, and users. Data were collected in the districts of Manhiça and Quelimane in Mozambique, through semi-structured interviews, transcribed, coded, and thematically analysed using NVivo12, guided by the LHS dimensions: learning levels, learning loops, and means of learning. Results Participants recognised the value of mortality data for learning and decision-making, but routine use remained uneven. At the central Ministry of Health level, mortality data informed strategic adjustment and emerging double-loop learning, particularly through reprioritisation, planning, and resource reallocation discussions. At the subnational level, mortality data mainly supported single-loop learning, where routine reports and outbreak signals triggered immediate adjustments in clinical practice and public health response. Delays in data access, low data literacy among decision-makers, fragmented information systems, and centralised decision-making appear to be the greatest challenges to the effective use of mortality data. Budget authority also remains centralised, and allocation decisions are largely locked into the wage bill rather than the system’s needs in terms of functionality. Heavy dependence on central directives limits local autonomy and its ability to act, preventing new ways of learning and working. Conclusion Mortality data already support operational and strategic learning in Mozambique, particularly through single- and double-loop processes. Systemic transformation in how the system learns remains limited and is exacerbated by structural barriers within the health system. Priorities include improving timely access to mortality information across levels, strengthening analytical and interpretive capacity, integrating fragmented systems, and widening delegated decision space, which will ultimately enhance evidence-based planning, local action, and health system learning.",
+    "authors": [
+      "Amilcar Magaço",
+      "Fabrizio Tediosi",
+      "Inácio Mandomando",
+      "Mirko S. Winkler"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
