@@ -1,21 +1,125 @@
 [
   {
-    "field": "Consumer Research",
-    "title": "Cardiac Pacemaker Cells Harness Stochastic Resonance to Avoid Sinus Arrest",
-    "journal": "Circulation Research",
+    "field": "Mental Health",
+    "title": "Rituximab-induced Acute Thrombocytopenia in Systemic Sclerosis: A Case Report of Two Cases",
+    "journal": "Internal Medicine",
     "year": "2026",
-    "date": "2026-08-14",
-    "doi": "10.1161/circresaha.126.328905",
-    "url": "https://www.semanticscholar.org/paper/f13b7dc6ff87f3679b815c27483bd41e7623d161",
-    "abstract": "BACKGROUND The sinoatrial node (SAN) is the primary pacemaker of the heart. Recent high-resolution imaging showed that synchronized action potentials exiting the SAN emerge from heterogeneous signals, including subthreshold signals in nonfiring (dormant) cells. This raises a new question in cardiac biology: how do these signals contribute to heartbeat generation? Here, we tested the hypothesis that pacemaker cells harness stochastic resonance to ensure fail-safe operation, especially at low rates bordering on sinus arrest. METHODS Membrane potential and Ca signals were measured using perforated-patch recordings in rabbit SAN cells exposed to sine-wave or white-noise currents. In addition, we imaged Ca signals in intact mouse SAN tissue and performed multiscale model simulations at the subcellular, cellular, and tissue levels. RESULTS In addition to synchronized Ca transients, SAN tissue exhibited heterogeneous local Ca signals with different kinetics. Noise currents, mimicking the heterogeneous natural cellular environment, restored action potential firing in dormant cells and substantially improved the rate and rhythm of cells firing infrequently and irregularly. Performance followed a bell-shaped curve, peaking and then declining, demonstrating a hallmark of stochastic resonance. Rhythmic action potential generation in response to sine-wave currents of different frequencies defined a resonance spectrum in SAN cells, reflecting their ability to respond via stochastic resonance to specific frequency components embedded in noise. Cholinergic stimulation shifted the resonance spectrum and responses to noise toward lower frequencies across all amplitudes tested, rendering cells unresponsive to higher-frequency signals while enabling more effective processing of slower signals. Both the numerical models and simultaneous recordings of membrane potential and Ca dynamics demonstrated that stochastic resonance is amplified by coupled electrical and Ca signaling, enhancing action potential generation at low noise levels. Adding noise currents to the cell and tissue numerical models allowed firing under conditions in which they otherwise would have stopped. CONCLUSIONS SAN cells harness stochastic resonance amplified by coupled membrane-Ca signaling to ensure rhythmic heartbeat initiation, especially at low rates. This new signaling mechanism may help avoid sinus arrest when the heart slows and biological noise increases, such as during parasympathetic stimulation, bradyarrhythmia, or aging.",
+    "date": "2026-08-15",
+    "doi": "10.2169/internalmedicine.6630-25",
+    "url": "https://doi.org/10.2169/internalmedicine.6630-25",
+    "abstract": "",
     "authors": [
-      "Akihiro Okamura",
-      "Isabella K. He",
-      "A. Maltsev",
-      "R. Bychkov"
+      "Chihiro Saiki",
+      "Masahiro Ayano",
+      "Yuki Kojima",
+      "Atsushi Naito"
     ],
     "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "“On Your Mark”: a pilot implementation study of a readiness for change module in the SHIFT intervention",
+    "journal": "Pilot and Feasibility Studies",
+    "year": "2026",
+    "date": "2026-08-15",
+    "doi": "10.1186/s40814-026-01902-x",
+    "url": "https://doi.org/10.1186/s40814-026-01902-x",
+    "abstract": "",
+    "authors": [
+      "Liane R. Ginsburg",
+      "Whitney Berta",
+      "Matthias Hoben",
+      "Frode F. Jacobsen"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "When CEOs act ordinary: CEO consumption choices, self-brand closeness, and brand attitudes",
+    "journal": "Marketing Letters",
+    "year": "2026",
+    "date": "2026-08-15",
+    "doi": "10.1007/s11002-026-09837-2",
+    "url": "https://doi.org/10.1007/s11002-026-09837-2",
+    "abstract": "",
+    "authors": [
+      "Kuan-Chou Ko",
+      "Chia-Chen Hsu"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Validation of the multi-dimensional scale for Anti-Social Behavior in a higher education setting (ASB) in a sample of Afghan students",
+    "journal": "BMC Psychology",
+    "year": "2026",
+    "date": "2026-08-15",
+    "doi": "10.1186/s40359-026-05383-8",
+    "url": "https://doi.org/10.1186/s40359-026-05383-8",
+    "abstract": "Abstract Background Antisocial behavior extends across multiple layers of society, including communities, workplaces, and educational systems. Consequently, the study of Antisocial behavior in children, adolescents, and adults has attracted considerable interest from researchers across a wide range of disciplines. Objective The present study aimed to translate and validate the Anti-Social Behavior in a Higher Education Setting (ASB) in a sample of Afghan students. The present study employed a descriptive and validation-based approach. Method The statistical population of this study consisted of 230 undergraduate students at Herat University, Afghanistan, who were enrolled in the 2024–2025 academic year. In this study, students were selected using convenience sampling and completed an online survey (Qualtrics). To calculate test-retest reliability, 40 individuals were also selected and completed the ASB within two weeks. In this study, the ASB and the Depression Anxiety Stress Scale (DASS-21) were administered. Results The confirmatory factor analysis (CFI) indicated that ASB had a good fit as a two-factor model (X2/df = 1.84, CFI=0.99, RMSEA=0.06). Convergent validity results showed that ASB had positive and significant relationships with depression, anxiety, and stress ( P < 0.05). The findings also showed that ASB had good reliability, as indicated by internal consistency, test-retest reliability, composite reliability (CR) and average variance extracted (AVE). Conclusion The findings suggest that the Dari/Farsi ASB questionnaire demonstrates acceptable validity and reliability and may be used to assess antisocial behavior among Afghan university students.",
+    "authors": [
+      "Mohammad Sajjad Afsharzada",
+      "Sajjad Saadat",
+      "Basir Ahmad Azizi",
+      "Wahidh Talbian"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Taccheelyadi as an Interpretative Application Tool in Ayurveda: A Review",
+    "journal": "International Journal of Ayurveda360",
+    "year": "2026",
+    "date": "2026-08-15",
+    "doi": "10.63247/3048-7390.v3i1.04",
+    "url": "https://doi.org/10.63247/3048-7390.v3i1.04",
+    "abstract": "Background: Classical Ayurvedic treatises were composed in Sanskrit in prose and verse, and employ interpretative aids to clarify concise, context-dependent expressions. Tacchīlyādi is one such classical tool and is described through seventeen usages based on similarity, association, quality, function, location, purpose and related interpretative relationships. Aim: To comprehend Tacchīlyādi and explore its applicability in the study and interpretation of Ayurvedic literature. Materials and Methods: A literature review was undertaken using Aṣṭāṅgahṛdaya with the Sarvāṅgasundarā and Āyurvedarasāyana commentaries as the primary source, supported by the Caraka Saṃhitā, Suśruta Saṃhitā and a postgraduate textbook of Saṃhitā and Siddhānta. Review Findings: The seventeen forms of Tacchīlyādi were reviewed together with author-provided examples. Their utility was explored in teaching and learning, understanding disease and treatment, research methodology, textual interpretation and contemporary education. Conclusion: Tacchīlyādi provides an interpretative approach for understanding explicit and implicit meanings in classical Ayurvedic texts and may support conceptual clarity, critical reading and the application of classical knowledge in academic and research settings. Keywords: Taccheelyadi, interpretative application tool, Ayurveda, classical texts, teaching and learning, research methodology",
+    "authors": [
+      "Pratibha Sakre",
+      "Keskar Kirti Anil",
+      "Sri Nagesh K A"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Healthcare workers’ experiences and perceptions of delivering healthcare services to cross-border patients: a phenomenological study",
+    "journal": "Human Resources for Health",
+    "year": "2026",
+    "date": "2026-08-15",
+    "doi": "10.1186/s12960-026-01092-w",
+    "url": "https://doi.org/10.1186/s12960-026-01092-w",
+    "abstract": "",
+    "authors": [
+      "Mary Muyenga",
+      "Takaedza Munangatire",
+      "Shipandeni Hipangelwa"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20portrait%20silhouette%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Cost-Effectiveness of Rotator Cuff Repair With Concomitant Subacromial Decompression at Mid-Term Follow-Up: A Systematic Review and Economic Analysis",
+    "journal": "Journal of the American Academy of Orthopaedic Surgeons",
+    "year": "2026",
+    "date": "2026-08-15",
+    "doi": "10.5435/jaaos-d-25-01435",
+    "url": "https://doi.org/10.5435/jaaos-d-25-01435",
+    "abstract": "Background: There is limited evidence evaluating the cost-effectiveness of adding subacromial decompression (SAD) to rotator cuff repair (RCR) in the treatment of full-thickness rotator cuff tears. Purpose: The purpose of this study was to perform (1) a systematic review and (2) cost-utility analysis comparing isolated RCR versus RCR with SAD in patients with full-thickness rotator cuff tears. Study design: This was an economic and decision-analysis study; Level II. Methods: A systematic review was conducted per Preferred Reporting Items for Systemactic reviews and Meta-Analyses (PRISMA) 2020 guidelines to identify Level I-II studies comparing RCR and RCR with SAD at ≥5-year follow-up. A decision tree model evaluated cost-effectiveness over a 5-year time horizon. Costs, revision rates, and utility values (EQ-5D–based) were derived from the literature. Health utility was expressed in quality-adjusted life years (QALYs). Cost-effectiveness was assessed using incremental cost-effectiveness ratios and net monetary benefit (NMB), with a $50,000/QALY willingness-to-pay threshold. Monte Carlo and one-way sensitivity analyses were done to account for parameter uncertainty. Results: Over 5 years, RCR with SAD had a lower mean cost ($33,448) compared with isolated RCR ($34,593) and yielded slightly higher QALYs (1.465 vs 1.454). RCR + SAD demonstrated a positive incremental NMB ($1,695) and a negative incremental cost-effectiveness ratio, emerging as the dominant strategy. Probabilistic sensitivity analysis favored RCR + SAD in 99.28% of 1,000 simulations. On one-way analysis, RCR + SAD remained cost-effective with burr costs up to $1,721, additional surgical time up to 43.6 minutes, and revision probabilities up to 10%. Conclusion: Despite higher upfront costs, SAD during RCR remains cost-effective at mid-term follow-up. By reducing revision rates, SAD provides greater QALYs at a lower overall cost compared with isolated RCR.",
+    "authors": [
+      "Rodrigo Saad Berreta",
+      "Daniel Badin",
+      "Henry Fox",
+      "Lincoln D. Koyejo"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
@@ -35,120 +139,20 @@
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Marketing",
-    "title": "When engagement is not enough: an asymmetric dual-system theory of acceptance and avoidance in mobile advertising",
-    "journal": "Asia Pacific Journal of Marketing and Logistics",
-    "year": "2026",
-    "date": "2026-08-14",
-    "doi": "10.1108/apjml-04-2026-0895",
-    "url": "https://doi.org/10.1108/apjml-04-2026-0895",
-    "abstract": "Purpose This paper aims to develop an asymmetric dual-system theory of acceptance and avoidance in mobile advertising. It explains why consumers may engage with mobile advertisements while simultaneously resisting their persuasive intent. Design/methodology/approach The paper adopts a conceptual theory-building approach and integrates literature on advertising engagement, consumer brand engagement, persuasion knowledge, psychological reactance, privacy, personalisation, intrusiveness and digital advertising avoidance. Findings The paper proposes that mobile advertising responses are governed by two co-existing regulatory systems. The engagement-based approach system facilitates attention, elaboration and interaction, whereas the threat-based avoidance system monitors perceived intrusiveness, privacy risk and autonomy loss. Threshold, strength and conversion asymmetries explain why engagement is necessary but insufficient for acceptance: threat-based regulation may interrupt engagement-to-acceptance conversion. The framework also distinguishes advertising engagement from consumer brand engagement, positioning the latter as a relational buffer that may facilitate but cannot guarantee acceptance. Research limitations/implications As a conceptual contribution, the framework requires empirical testing across platforms, cultures, regulatory environments and mobile-first ecosystems. Practical implications The framework cautions marketers against treating engagement metrics as proxies for acceptance. Mobile advertising strategies should balance relevance and personalisation with transparency, permission, user control and reduced intrusiveness. Originality/value The paper reframes mobile advertising persuasion as asymmetric co-regulation rather than linear progression from engagement to acceptance. It positions avoidance as an active regulatory outcome and explains why engagement and avoidance may coexist.",
-    "authors": [
-      "Mudit Gera"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "When and where: A study on gastric cancer recurrence after neoadjuvant/perioperative chemotherapy",
-    "journal": "World Journal of Gastroenterology",
-    "year": "2026",
-    "date": "2026-08-14",
-    "doi": "10.3748/wjg.117778",
-    "url": "https://doi.org/10.3748/wjg.117778",
-    "abstract": "BACKGROUND Neoadjuvant chemotherapy is the standard of care for locally advanced gastric cancer (GC) in the Western countries. However, limited data are available on the timing and patterns of recurrence in this setting. AIM To evaluate recurrence patterns and timing of neoadjuvant/perioperative chemotherapy in patients with GC, analyze factors influencing recurrence, update relapse-free survival (RFS) and overall survival (OS) estimates. METHODS A total of 91 patients with resectable GC were enrolled between September 2010 and August 2016. Participants were then randomized in a 1:1 ratio to receive either 4 cycles of neoadjuvant chemotherapy (arm A) or a preoperative plus postoperative consisting of 2 cycles of docetaxel, oxaliplatin, and capecitabine chemotherapy, followed by 2 additional cycles after surgery (arm B). RESULTS Fifty-two out of 84 patients (61.9%) experienced disease recurrence, and for 41 the site of disease was identified. Distant, peritoneal, and local relapses occurred in 21 (51.2%), 11 (26.8%), and 5 (12.2%) patients, respectively. The median follow-up was 79 months (range: 4.2-120 months). The 5-years RFS was 39.0% [95% confidence interval (CI): 27.9-49.9]. cT4 tumors had a higher risk of recurrence compared to those with cT2-3 tumors (hazard ratio = 1.92; 95%CI: 1.03-3.56; P = 0.038). The 5-years and 7-years OS was 58.7% (95%CI: 41.9-72.2) and 47.3% (95%CI: 29.4-63.2) in arm A and it was 55.0% (95%CI: 38.4-68.9; P = 0.806) and 46.8% (95%CI: 30.7-61.5; P = 0.806) in arm B, respectively. CONCLUSION Distant metastases are the most common relapse sites, within two years after surgery; RFS depends on tumor size, histology and treatment response; median OS was 69.6 months with favorable long-term outcomes.",
-    "authors": [
-      "Manlio Monti",
-      "Bianca Ceredi",
-      "Flavia Foca",
-      "Paolo Morgagni"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "Urochloa hybrid adoption in Latin America and the Caribbean 2001–2024: an analysis of the land use, social, economic, and environmental impacts in 27 countries",
-    "journal": "Frontiers in Sustainable Food Systems",
-    "year": "2026",
-    "date": "2026-08-14",
-    "doi": "10.3389/fsufs.2026.1837983",
-    "url": "https://doi.org/10.3389/fsufs.2026.1837983",
-    "abstract": "Introduction Sustainable intensification of tropical cattle production is essential to meet growing demand for animal-sourced foods while reducing environmental degradation. Improved interspecific Urochloa (syn. Brachiaria ) hybrids have been promoted as a key innovation to increase forage productivity and resource-use efficiency, yet their large-scale adoption and impacts across Latin America and the Caribbean (LAC) remain poorly quantified. Methods This study assessed the adoption and multidimensional impacts of interspecific Urochloa hybrids across 27 LAC countries from 2001 to 2024. Estimates were derived by integrating commercial seed sales data, national statistics, published literature, and Monte Carlo simulations to quantify adoption, economic benefits, greenhouse gas (GHG) mitigation, and land-use implications under different adoption scenarios. Results An estimated 1.09 million farmers adopted Urochloa hybrids on a cumulative 1.62 million ha established between 2001 and 2024, with approximately 1.07 million ha remaining active in 2024 assuming a 10-year pasture lifespan. Adoption reached an estimated 7.49 million people through direct and indirect associations. By 2033, cumulative gross forage value is projected at US$47–62 billion. Scenario analyses indicate potential reductions of 16.9–56.3 Mt CO2-eq in GHG emissions and land savings of 1.8–5.9 million ha to achieve equivalent liveweight gain, with the greatest environmental benefits occurring when hybrids are integrated into silvopastoral systems. Discussion Despite substantial economic and environmental benefits, adoption remains low relative to the total tropical grassland area due to persistent constraints in seed systems, limited access to knowledge and extension, and policy barriers. Expanding the use of Urochloa hybrids could substantially enhance the sustainability of tropical livestock systems by simultaneously improving productivity, reducing emissions, and limiting land expansion. Scaling these benefits will require coordinated investments in seed systems, inclusive financing, extension services, and enabling policy frameworks.",
-    "authors": [
-      "Stefan Burkart",
-      "John Jairo Junca Paredes",
-      "Danny Sandoval",
-      "Natalia Triana Ángel"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "Tourism governance and political economic control: Public policy, SMEs, and digital regulation in Iran and Türkiye",
-    "journal": "International Journal of Business and Management (IJBM)",
-    "year": "2026",
-    "date": "2026-08-14",
-    "doi": "10.56879/ijbm.v5i2.99",
-    "url": "https://doi.org/10.56879/ijbm.v5i2.99",
-    "abstract": "Governments across the Middle East frequently promote tourism as a driver of national development, yet local communities often absorb its costs while receiving limited returns, a pattern shaped by the political distribution of tourism opportunities. Existing research has given little attention to why local communities and small and medium sized enterprises (SMEs) remain marginal within tourism policymaking. This study compares Iran, a petro state, and Türkiye, a tourism dependent economy, to examine how public policy positions local communities within tourism development. Drawing on a qualitative archival methodology, it analyzes national development plans and tourism policy documents from both countries through qualitative content analysis conducted in NVivo across four dimensions: national development planning, community and private sector participation, the relationship between SMEs and state affiliated organizations, and digital governance. The findings show that governments do more than regulate tourism; they shape access to tourism markets, digital infrastructure, institutional support, and investment opportunities through a pattern of selective market inclusion. In both countries, policymakers prioritize state interests over community level benefits, reflecting a form of state capitalism that channels resources toward politically connected actors and quasi governmental organizations while leaving SMEs and local communities with limited institutional and digital support. Although Iran and Türkiye differ substantially in their political economic structures and dependence on tourism revenue, the comparative analysis demonstrates that contrasting systems can converge on similar governance outcomes. The study extends political economy debates by conceptualizing tourism policy as an instrument through which states allocate market access, regulate participation, and reproduce political authority.",
-    "authors": [
-      "Mehdi Afrash"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Urban Studies",
-    "title": "The politics of polarization: strategic issue emphasis in campaigns",
-    "journal": "Journal of Political Institutions and Political Economy",
+    "title": "Why does novice drivers’ risk decrease by almost 50% during the first year, and what do they learn? A literature review of explanatory mechanisms",
+    "journal": "Frontiers in Sustainable Cities",
     "year": "2026",
     "date": "2026-08-14",
-    "doi": "10.1108/jpipe-10-2025-0024",
-    "url": "https://doi.org/10.1108/jpipe-10-2025-0024",
-    "abstract": "This paper examines electoral competition through a formal model in which parties seek voter support by raising the salience of policy issues. Using this framework, the analysis asks whether parties are more likely to emphasize issues marked by divisions among voters but agreement among parties, or issues marked by disagreement between parties despite broad voter consensus. The results indicate that parties have no incentive to promote issues where their positions coincide, even when citizens are divided, but they do devote attention to issues where they hold distinct positions, even when voters largely agree. These incentives imply that the electoral agenda reflects partisan conflict more than mass divisions, and also help to explain why some policies remain off the electoral agenda even when a majority of citizens favors change. The analysis highlights how strategic issue emphasis by parties can shape the content of electoral competition and contribute to the polarization of discourse in the political system.",
+    "doi": "10.3389/frsc.2026.1859177",
+    "url": "https://doi.org/10.3389/frsc.2026.1859177",
+    "abstract": "Previous studies show that new drivers’ accident risk drops substantially, e.g. by almost 50% in the first 10 months after getting a driving license. We conduct a systematic literature study to map the mechanisms that explain why the risk of new drivers decreases during the first year and to examine what the research says about which mechanisms are most important to explain this. The results indicate that the risk decreases because of accumulated driving experience, and that the most important mechanism, i.e., the most important things you learn through accumulated driving experience, are improved risk perception and improved distribution of attention. Other mechanisms are improved vehicle handling, improved understanding of your own abilities and limitations, and improved speed control and positioning. We discuss various measures that can provide accumulated driving experience under a safe framework, for example through private practice driving, graded driving licenses and digital tools.",
     "authors": [
-      "Tiberiu Dragu",
-      "Xiaochen Fan"
+      "Tor-Olav Nævestad",
+      "Ingeborg Storesund Hesjevoll",
+      "Jenny Blom"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Prevalence of hypertension in severe vs. non-severe COVID-19: a systematic review and meta-analysis",
-    "journal": "Journal of Human Hypertension",
-    "year": "2026",
-    "date": "2026-08-14",
-    "doi": "10.1038/s41371-026-01194-x",
-    "url": "https://doi.org/10.1038/s41371-026-01194-x",
-    "abstract": "",
-    "authors": [
-      "Kanwal Khalid",
-      "Amr Adel Ahmed Abd El-Aal",
-      "Michelle Felicia Lee"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20portrait%20silhouette%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "The value of mortality data to advance learning and decision-making dynamics in Mozambique’s health system",
-    "journal": "Archives of Public Health",
-    "year": "2026",
-    "date": "2026-08-14",
-    "doi": "10.1186/s13690-026-02044-5",
-    "url": "https://doi.org/10.1186/s13690-026-02044-5",
-    "abstract": "Abstract Introduction There is a lack of evidence on whether and how health systems stakeholders in Mozambique learn from routine health data. Despite the recurring claim by the stakeholders themselves that data in general should be the centre of informed public health policy, it remains unclear how decision-makers and managers access, interpret, and use mortality data for learning and decision-making. Using the Learning Health System (LHS) lens, we examined how mortality data are accessed, interpreted, and used across system levels in Mozambique. Methods We conducted a qualitative case study from September to November 2024, involving 20 key informants from the Ministry of Health at both national and subnational levels, non-governmental organisations, data producers, and users. Data were collected in the districts of Manhiça and Quelimane in Mozambique, through semi-structured interviews, transcribed, coded, and thematically analysed using NVivo12, guided by the LHS dimensions: learning levels, learning loops, and means of learning. Results Participants recognised the value of mortality data for learning and decision-making, but routine use remained uneven. At the central Ministry of Health level, mortality data informed strategic adjustment and emerging double-loop learning, particularly through reprioritisation, planning, and resource reallocation discussions. At the subnational level, mortality data mainly supported single-loop learning, where routine reports and outbreak signals triggered immediate adjustments in clinical practice and public health response. Delays in data access, low data literacy among decision-makers, fragmented information systems, and centralised decision-making appear to be the greatest challenges to the effective use of mortality data. Budget authority also remains centralised, and allocation decisions are largely locked into the wage bill rather than the system’s needs in terms of functionality. Heavy dependence on central directives limits local autonomy and its ability to act, preventing new ways of learning and working. Conclusion Mortality data already support operational and strategic learning in Mozambique, particularly through single- and double-loop processes. Systemic transformation in how the system learns remains limited and is exacerbated by structural barriers within the health system. Priorities include improving timely access to mortality information across levels, strengthening analytical and interpretive capacity, integrating fragmented systems, and widening delegated decision space, which will ultimately enhance evidence-based planning, local action, and health system learning.",
-    "authors": [
-      "Amilcar Magaço",
-      "Fabrizio Tediosi",
-      "Inácio Mandomando",
-      "Mirko S. Winkler"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
