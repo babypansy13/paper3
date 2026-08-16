@@ -1,158 +1,153 @@
 [
   {
-    "field": "Mental Health",
-    "title": "Rituximab-induced Acute Thrombocytopenia in Systemic Sclerosis: A Case Report of Two Cases",
-    "journal": "Internal Medicine",
+    "field": "Public Policy",
+    "title": "روافد الفتوى عند الشيخ جاسم بن محمد آل ثاني ونماذجها التطبيقية",
+    "journal": "Journal of College of Sharia and Islamic Studies",
     "year": "2026",
-    "date": "2026-08-15",
-    "doi": "10.2169/internalmedicine.6630-25",
-    "url": "https://doi.org/10.2169/internalmedicine.6630-25",
-    "abstract": "",
+    "date": "2026-08-16",
+    "doi": "10.29117/jcsis.2026.0451",
+    "url": "https://doi.org/10.29117/jcsis.2026.0451",
+    "abstract": "أهداف البحث: يهدف البحث إلى إبراز الجانب العلمي من حياة الشيخ جاسم بن محمد آل ثاني، المتمثل في الفتوى من خلال التعريف به، ثم تحديد مقومات وروافد الفتوى لديه، ومن ثم ذكر شواهد من فتاواه العملية؛ إذ كان الشيخ ، حسب من ترجموا له، المفتي الذي تصدر عنه التوجيهات الشرعية؛ مع اضطلاعه بأعباء الدولة السياسية وتمكين دعائمها. منهجية البحث: اتبع هذا البحث المنهجين الوصفي والتّحليلي لتحقيق مبدأ الجمع بين التّقرير والتّحرير لمكونات المادة وتحليلها. النتائج: توصل البحث إلى تجسُّد وصف المفتي في شخص الشيخ جاسم بن محمّد آل ثاني من خلال النماذج العملية التي ذكرت مفصلة في ثنايا البحث. أصالة البحث: تظهر القيمة العلمية لهذا البحث في تقرير وتجسيد وظيفة الإفتاء من خلال روافدها وشواهدها.",
     "authors": [
-      "Chihiro Saiki",
-      "Masahiro Ayano",
-      "Yuki Kojima",
-      "Atsushi Naito"
+      "مراد بوضاية",
+      "علي شافي الهاجري"
     ],
-    "citations": 1,
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Umbilical cord mesenchymal stem cells in diabetes mellitus",
+    "journal": "World Journal of Clinical Cases",
+    "year": "2026",
+    "date": "2026-08-16",
+    "doi": "10.12998/wjcc.121196",
+    "url": "https://doi.org/10.12998/wjcc.121196",
+    "abstract": "Diabetes mellitus (type 1 diabetes mellitus and type 2 diabetes mellitus) results from a failure of pancreatic β cells at different velocities and time frames resulting insulin deficiency. Currently, management of type 1 diabetes mellitus relies on replacing insulin, without changing the natural course of progressive β cell loss. Stem cell therapy can prevent autoimmune destruction as well replenish pancreatic β cells. Among various sources, human umbilical cord mesenchymal stem cells (hUC-MSCs) have the advantage of generating progenitor cells, greater immunosuppression, cell proliferation and clonality. Further they are less immunogenic. Practical advantages for their use include painless extraction and potential of long term storage. In this review we provide a brief of interventions available to prevent and slow down immune destruction of pancreatic β cell cells, and discuss evidence obtained from cell and animal studies, combined use with adjuvants, their potential on microvascular complications, human clinical trials, meta-analysis and umbrella reviews. We then discuss the limitations and challenges, and offer future perspectives. Currently, hUC-MSC is a treatment with promise. Further large randomized clinical trials with diverse populations, proper trial protocol with inclusion criteria, treatment methods and pre-defined outcome measures in the long term are necessary to bring hUC-MSC therapy into mainstream clinical use.",
+    "authors": [
+      "Gumpeny R Sridhar",
+      "Suresh Anne",
+      "Lakshmi Gumpeny",
+      "Sanjana S N Narasimhadevara"
+    ],
+    "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Public Policy",
-    "title": "“On Your Mark”: a pilot implementation study of a readiness for change module in the SHIFT intervention",
-    "journal": "Pilot and Feasibility Studies",
-    "year": "2026",
-    "date": "2026-08-15",
-    "doi": "10.1186/s40814-026-01902-x",
-    "url": "https://doi.org/10.1186/s40814-026-01902-x",
-    "abstract": "",
-    "authors": [
-      "Liane R. Ginsburg",
-      "Whitney Berta",
-      "Matthias Hoben",
-      "Frode F. Jacobsen"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "When CEOs act ordinary: CEO consumption choices, self-brand closeness, and brand attitudes",
-    "journal": "Marketing Letters",
-    "year": "2026",
-    "date": "2026-08-15",
-    "doi": "10.1007/s11002-026-09837-2",
-    "url": "https://doi.org/10.1007/s11002-026-09837-2",
-    "abstract": "",
-    "authors": [
-      "Kuan-Chou Ko",
-      "Chia-Chen Hsu"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Consumer Research",
-    "title": "Validation of the multi-dimensional scale for Anti-Social Behavior in a higher education setting (ASB) in a sample of Afghan students",
-    "journal": "BMC Psychology",
+    "title": "Triglyceride-Glucose (TyG) Index and Its Association with Vitamin D Status and Cardiovascular Risk Factors in Patients with Type 2 Diabetes Mellitus",
+    "journal": "International Journal of Health Sciences and Research",
     "year": "2026",
-    "date": "2026-08-15",
-    "doi": "10.1186/s40359-026-05383-8",
-    "url": "https://doi.org/10.1186/s40359-026-05383-8",
-    "abstract": "Abstract Background Antisocial behavior extends across multiple layers of society, including communities, workplaces, and educational systems. Consequently, the study of Antisocial behavior in children, adolescents, and adults has attracted considerable interest from researchers across a wide range of disciplines. Objective The present study aimed to translate and validate the Anti-Social Behavior in a Higher Education Setting (ASB) in a sample of Afghan students. The present study employed a descriptive and validation-based approach. Method The statistical population of this study consisted of 230 undergraduate students at Herat University, Afghanistan, who were enrolled in the 2024–2025 academic year. In this study, students were selected using convenience sampling and completed an online survey (Qualtrics). To calculate test-retest reliability, 40 individuals were also selected and completed the ASB within two weeks. In this study, the ASB and the Depression Anxiety Stress Scale (DASS-21) were administered. Results The confirmatory factor analysis (CFI) indicated that ASB had a good fit as a two-factor model (X2/df = 1.84, CFI=0.99, RMSEA=0.06). Convergent validity results showed that ASB had positive and significant relationships with depression, anxiety, and stress ( P < 0.05). The findings also showed that ASB had good reliability, as indicated by internal consistency, test-retest reliability, composite reliability (CR) and average variance extracted (AVE). Conclusion The findings suggest that the Dari/Farsi ASB questionnaire demonstrates acceptable validity and reliability and may be used to assess antisocial behavior among Afghan university students.",
+    "date": "2026-08-16",
+    "doi": "10.52403/ijhsr.20260810",
+    "url": "https://doi.org/10.52403/ijhsr.20260810",
+    "abstract": "Introduction: Insulin resistance, dyslipidemia, and increased risk of developing cardiovascular diseases have been identified in patients with type 2 diabetes mellitus (T2DM). Triglyceride – Glucose (TyG) index has been identified as the surrogate marker for insulin resistance and vitamin D deficiency is known to contribute to poor metabolic profile. This study aimed at exploring the relation between TyG index and vitamin D and their association with cardiovascular disease risk factors in patients with T2DM. Materials and Methods: Hospital-based cross-sectional study was carried out on 156 patients with T2DM presenting in tertiary care hospital. Anthropometry, fasting blood glucose, HbA1c, lipid profile, and serum vitamin D were determined. TyG index, Cardiac Risk Ratio (CRR), Atherogenic Coefficient (AC) and Atherogenic Index of Plasma (AIP) were calculated. Group comparisons based on vitamin D deficiency and correlations were carried out using one-way ANOVA, Chi square and Spearman’s rank correlation. Results: The mean age of participants was 52.1 ± 10.4 years, mean BMI was 27.3 ± 3.2 kg/m², mean TyG index was 9.85 ± 0.24, and mean serum vitamin D concentration was 18.0 ± 7.3 ng/mL. Vitamin D deficiency was observed in 94 (60.3%) participants. Patients with vitamin D deficiency had higher BMI (28.6 ± 4.3 vs. 25.1 ± 3.2 kg/m²), TyG index (10.01 ± 0.25 vs. 9.63 ± 0.21), HbA1c (8.1 ± 1.6% vs. 7.5 ± 1.3%), Cardiac Risk Ratio (5.4 ± 1.7 vs. 4.5 ± 1.3), and Atherogenic Index of Plasma (0.32 ± 0.26 vs. 0.18 ± 0.20) than vitamin D-sufficient participants. One-way ANOVA demonstrated significant differences in BMI (F (2,153) = 7.58, p < 0.001), TyG index (F (2,153) = 13.42, p < 0.001), Cardiac Risk Ratio (F (2,153) = 3.40, p = 0.036), and Atherogenic Index of Plasma (F (2,153) = 3.27, p = 0.040), whereas differences in HbA1c were not statistically significant (F (2,153) = 1.55, p = 0.216). Vitamin D status showed significant associations with gender (χ² = 10.03, df = 2, p = 0.007) and BMI category (χ² = 15.44, df = 4, p = 0.004), whereas no significant association was observed with age group (χ² = 1.23, df = 4, p = 0.873). Spearman correlation analysis demonstrated that the TyG index was positively correlated with HbA1c (ρ = 0.46), Cardiac Risk Ratio (ρ = 0.52), and Atherogenic Index of Plasma (ρ = 0.61), and negatively correlated with vitamin D (ρ = −0.41) (all p < 0.001). Conclusions: The TyG index was significantly associated with adverse glycemic and atherogenic markers and inversely associated with vitamin D levels in patients with type 2 diabetes mellitus. These findings suggest that the TyG index and vitamin D status are associated with cardiometabolic risk factors; however, the cross-sectional design precludes causal inference, and prospective studies are needed to confirm these associations. Key words: TyG index, Vitamin D, Insulin resistance, Type 2 diabetes mellitus, Cardiovascular risk",
     "authors": [
-      "Mohammad Sajjad Afsharzada",
-      "Sajjad Saadat",
-      "Basir Ahmad Azizi",
-      "Wahidh Talbian"
+      "Sweety Kumari",
+      "Anil Kumar Batta",
+      "Manju Sharma",
+      "Sudeep Kumar"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Food Industry / Science / Design",
-    "title": "Taccheelyadi as an Interpretative Application Tool in Ayurveda: A Review",
-    "journal": "International Journal of Ayurveda360",
+    "field": "Marketing",
+    "title": "The Inclusivity of Zakat as an Instrument of Social Justice in the Modern Era:",
+    "journal": "Smart: Journal of Global Islamic Studies and Social Science",
     "year": "2026",
-    "date": "2026-08-15",
-    "doi": "10.63247/3048-7390.v3i1.04",
-    "url": "https://doi.org/10.63247/3048-7390.v3i1.04",
-    "abstract": "Background: Classical Ayurvedic treatises were composed in Sanskrit in prose and verse, and employ interpretative aids to clarify concise, context-dependent expressions. Tacchīlyādi is one such classical tool and is described through seventeen usages based on similarity, association, quality, function, location, purpose and related interpretative relationships. Aim: To comprehend Tacchīlyādi and explore its applicability in the study and interpretation of Ayurvedic literature. Materials and Methods: A literature review was undertaken using Aṣṭāṅgahṛdaya with the Sarvāṅgasundarā and Āyurvedarasāyana commentaries as the primary source, supported by the Caraka Saṃhitā, Suśruta Saṃhitā and a postgraduate textbook of Saṃhitā and Siddhānta. Review Findings: The seventeen forms of Tacchīlyādi were reviewed together with author-provided examples. Their utility was explored in teaching and learning, understanding disease and treatment, research methodology, textual interpretation and contemporary education. Conclusion: Tacchīlyādi provides an interpretative approach for understanding explicit and implicit meanings in classical Ayurvedic texts and may support conceptual clarity, critical reading and the application of classical knowledge in academic and research settings. Keywords: Taccheelyadi, interpretative application tool, Ayurveda, classical texts, teaching and learning, research methodology",
+    "date": "2026-08-16",
+    "doi": "10.65101/sgisci.v1i3.38",
+    "url": "https://doi.org/10.65101/sgisci.v1i3.38",
+    "abstract": "The contemporary global order confronts structural inequality crises demanding macro distributive justice interventions. Zakat serves as a potent fiscal redistribution instrument, yet classical fiqh's exclusivity, restricting beneficiaries strictly to Muslims, triggers socio-religious tension within the governance of pluralistic modern nation-states. Precedent literature remains predominantly trapped in the dichotomy of literalist dogmatic compliance and empirical SDG metrics without addressing fundamental jurisprudential reconstruction. This article aims to epistemologically reconstruct the theological boundaries of zakat beneficiaries (mustahiq) through the analytical framework of contemporary maqashid syariah. Results demonstrate that expanding the mu'allafah qulubuhum and fi sabilillah categories to vulnerable non-Muslim populations is legally legitimized to protect human survival and social cohesion. This research's novelty integrates Western distributive justice theories with classical normative text reinterpretations under the framework of Islamic cosmopolitanism. Consequently, state amil authorities can legitimize zakat as public cross-identity social finance to demolish demographic exclusion and accelerate global SDG targets comprehensively and equitably.",
     "authors": [
-      "Pratibha Sakre",
-      "Keskar Kirti Anil",
-      "Sri Nagesh K A"
+      "Abdul Hakim",
+      "Pipip Ahmad Rifa'i Hasan"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Healthcare workers’ experiences and perceptions of delivering healthcare services to cross-border patients: a phenomenological study",
-    "journal": "Human Resources for Health",
-    "year": "2026",
-    "date": "2026-08-15",
-    "doi": "10.1186/s12960-026-01092-w",
-    "url": "https://doi.org/10.1186/s12960-026-01092-w",
-    "abstract": "",
-    "authors": [
-      "Mary Muyenga",
-      "Takaedza Munangatire",
-      "Shipandeni Hipangelwa"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20portrait%20silhouette%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "Cost-Effectiveness of Rotator Cuff Repair With Concomitant Subacromial Decompression at Mid-Term Follow-Up: A Systematic Review and Economic Analysis",
-    "journal": "Journal of the American Academy of Orthopaedic Surgeons",
-    "year": "2026",
-    "date": "2026-08-15",
-    "doi": "10.5435/jaaos-d-25-01435",
-    "url": "https://doi.org/10.5435/jaaos-d-25-01435",
-    "abstract": "Background: There is limited evidence evaluating the cost-effectiveness of adding subacromial decompression (SAD) to rotator cuff repair (RCR) in the treatment of full-thickness rotator cuff tears. Purpose: The purpose of this study was to perform (1) a systematic review and (2) cost-utility analysis comparing isolated RCR versus RCR with SAD in patients with full-thickness rotator cuff tears. Study design: This was an economic and decision-analysis study; Level II. Methods: A systematic review was conducted per Preferred Reporting Items for Systemactic reviews and Meta-Analyses (PRISMA) 2020 guidelines to identify Level I-II studies comparing RCR and RCR with SAD at ≥5-year follow-up. A decision tree model evaluated cost-effectiveness over a 5-year time horizon. Costs, revision rates, and utility values (EQ-5D–based) were derived from the literature. Health utility was expressed in quality-adjusted life years (QALYs). Cost-effectiveness was assessed using incremental cost-effectiveness ratios and net monetary benefit (NMB), with a $50,000/QALY willingness-to-pay threshold. Monte Carlo and one-way sensitivity analyses were done to account for parameter uncertainty. Results: Over 5 years, RCR with SAD had a lower mean cost ($33,448) compared with isolated RCR ($34,593) and yielded slightly higher QALYs (1.465 vs 1.454). RCR + SAD demonstrated a positive incremental NMB ($1,695) and a negative incremental cost-effectiveness ratio, emerging as the dominant strategy. Probabilistic sensitivity analysis favored RCR + SAD in 99.28% of 1,000 simulations. On one-way analysis, RCR + SAD remained cost-effective with burr costs up to $1,721, additional surgical time up to 43.6 minutes, and revision probabilities up to 10%. Conclusion: Despite higher upfront costs, SAD during RCR remains cost-effective at mid-term follow-up. By reducing revision rates, SAD provides greater QALYs at a lower overall cost compared with isolated RCR.",
-    "authors": [
-      "Rodrigo Saad Berreta",
-      "Daniel Badin",
-      "Henry Fox",
-      "Lincoln D. Koyejo"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "‘Cost, man. Good quality stuff can get pricey’, men’s choices regarding HIV services in South Africa",
-    "journal": "African Journal of Primary Health Care & Family Medicine",
+    "title": "When the interface fails: a patient-safety hazard hidden by the assumption of human error",
+    "journal": "Expert Review of Medical Devices",
     "year": "2026",
-    "date": "2026-08-14",
-    "doi": "10.4102/phcfm.v18i1.5334",
-    "url": "https://doi.org/10.4102/phcfm.v18i1.5334",
-    "abstract": "Background: Despite global declines in human immunodeficiency virus (HIV) infections, South African men remain disproportionately affected. Understanding men’s HIV service preferences is essential for designing effective interventions. Aim: This qualitative study identified key attributes influencing men’s preferences for HIV testing, prevention and treatment services in Gauteng province, South Africa. Setting: Data were collected through focus group discussions and in-depth interviews between November 2023 and March 2024 across sites in Randburg, Soweto, Orange Farm and Pretoria. Methods: A qualitative exploratory design employed focus group discussions with men aged 20–64 years and key informant interviews with HIV programme stakeholders. Stratified purposive sampling ensured demographic diversity. Recordings were transcribed verbatim and independently dual-coded. Framework analysis following Ritchie and Spencer’s five-step approach systematically identified themes, which were refined into discrete attributes. Results: Thirty-two focus group participants and 19 interview participants (median age 35 years [interquartile range [IQR] = 28–43], all Black African men, 82% secondary-educated) identified 10 priority HIV service attributes: accessibility, quality of care, cost-efficiency, comprehensive service packages, privacy and confidentiality, cultural sensitivity, technological solutions, community engagement, health awareness and stigma mitigation. Participants emphasised geographic proximity, welcoming nonjudgemental environments, affordability and privacy as critical in service utilisation. Conclusion: Findings emphasise the importance of comprehensive, private, affordable care delivered through welcoming environments with digital health awareness integration. Contribution: Validated attributes will inform a discrete choice experiment to quantify preference structures and guide the development of evidence-based, male HIV service delivery models in South Africa.",
+    "date": "2026-08-15",
+    "doi": "10.1080/17434440.2026.2720197",
+    "url": "https://doi.org/10.1080/17434440.2026.2720197",
+    "abstract": "",
     "authors": [
-      "Patience Manjengwa",
-      "Clarence Yah",
-      "Alfred Musekiwa"
+      "Amar Alwitry"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "Why does novice drivers’ risk decrease by almost 50% during the first year, and what do they learn? A literature review of explanatory mechanisms",
-    "journal": "Frontiers in Sustainable Cities",
+    "title": "Turning volatility into value: derivative usage and outward foreign direct investment of Chinese firms",
+    "journal": "Journal of the Asia Pacific Economy",
     "year": "2026",
-    "date": "2026-08-14",
-    "doi": "10.3389/frsc.2026.1859177",
-    "url": "https://doi.org/10.3389/frsc.2026.1859177",
-    "abstract": "Previous studies show that new drivers’ accident risk drops substantially, e.g. by almost 50% in the first 10 months after getting a driving license. We conduct a systematic literature study to map the mechanisms that explain why the risk of new drivers decreases during the first year and to examine what the research says about which mechanisms are most important to explain this. The results indicate that the risk decreases because of accumulated driving experience, and that the most important mechanism, i.e., the most important things you learn through accumulated driving experience, are improved risk perception and improved distribution of attention. Other mechanisms are improved vehicle handling, improved understanding of your own abilities and limitations, and improved speed control and positioning. We discuss various measures that can provide accumulated driving experience under a safe framework, for example through private practice driving, graded driving licenses and digital tools.",
+    "date": "2026-08-15",
+    "doi": "10.1080/13547860.2026.2715000",
+    "url": "https://doi.org/10.1080/13547860.2026.2715000",
+    "abstract": "",
     "authors": [
-      "Tor-Olav Nævestad",
-      "Ingeborg Storesund Hesjevoll",
-      "Jenny Blom"
+      "Yuanyuan Yan",
+      "Kai Sun",
+      "Xin Zhong"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Transcriptome profiling of human hypothalamic agouti-related protein and proopiomelanocortin neurons regulating energy homeostasis",
+    "journal": "Nature Communications",
+    "year": "2026",
+    "date": "2026-08-15",
+    "doi": "10.1038/s41467-026-76688-w",
+    "url": "https://doi.org/10.1038/s41467-026-76688-w",
+    "abstract": "Abstract We present and validate a pioneering ‘IHC/LCM-Seq’ method for transcriptome profiling of spatially defined neuronal cell types detected with immunohistochemistry in sections of formaldehyde-fixed human brains. Application of IHC/LCM-Seq to male human hypothalami enables the identification of 14,000–16,000 transcripts in agouti-related protein (AgRP) neurons, which drive appetite and energy storage, and proopiomelanocortin (POMC) neurons, which suppress feeding and promote energy expenditure. These cell types differ from each other, and from fertility-regulating kisspeptin neurons, in their distinct enrichments of co-transmitters, transcription factors, regulatory (lnc) RNAs and receptors. The AgRP neuron transcriptome is rich in receptors for proinflammatory cytokines, metabolic hormones and growth hormone, whereas POMC neurons express reproductive hormone-, glucagon-like peptide-, calcitonin-, and endocannabinoid receptors. IHC/LCM-Seq, a versatile spatial transcriptomic approach for characterizing cell types in postmortem human brain tissue, opens a new window onto the molecular mechanisms that regulate energy homeostasis and highlights potential pharmacological targets for weight-management strategies.",
+    "authors": [
+      "Szabolcs Takács",
+      "Katalin Skrapits",
+      "Balázs Göcz",
+      "Éva Rumpler"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "The Effect of a Breathing Meditation Program on Perceived Stress, Sense of Coherence, and Quality of Life in Older Adults: A Randomized Controlled Study",
+    "journal": "Applied Research in Quality of Life",
+    "year": "2026",
+    "date": "2026-08-15",
+    "doi": "10.1007/s11482-026-10662-y",
+    "url": "https://doi.org/10.1007/s11482-026-10662-y",
+    "abstract": "",
+    "authors": [
+      "Dilek Yildirim",
+      "Merve Harman Ozdogan"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Moderating Influence of Government Legislation on the Influence of Organizational Capability on Internationalization Status of Public Universities in Kenya",
+    "journal": "Journal of Strategic Management",
+    "year": "2026",
+    "date": "2026-08-15",
+    "doi": "10.70619/vol6iss4pp44-66-901",
+    "url": "https://doi.org/10.70619/vol6iss4pp44-66-901",
+    "abstract": "The objective was to analyze the moderating influence of Government Legislation on the relationship between organizational capability and the internationalization status of public universities in Kenya. The study adopted a descriptive cross-sectional research design. The unit of analysis in this study was 31 public chartered universities in Kenya. The total number of respondents from the thirty-one public universities was eight, bringing the total to two hundred and forty-eight. Since the population was small, no sampling was done, and a census approach was applied in the investigation. This investigation used quantitative data. To analyze quantitative data, descriptive analysis, factor analysis, and inferential statistics were used. Descriptive analysis included the means and standard deviations. The study findings showed that government legislation does moderate the influence of managerial capability, knowledge management capability, and technological capability on internationalization status in public universities in Kenya. However, Government Legislation does not moderate the influence of financial capability on internationalization status in public universities in Kenya. Therefore, the study concluded that government legislation moderated the relationship between managerial capability, knowledge management capability, and technological capability and internationalization status in public universities in Kenya. However, the study concluded that government legislation does not moderate the influence of financial capability on internationalization status in public universities in Kenya. The study therefore recommends that the government, through the relevant ministries, should enhance its policies to promote the engagement of international staff whose presence and perspectives in Kenyan universities are a great boost in internationalization. This is because, through the engagement of such staff, universities gain new collaborations, opportunities for funding from their developed countries, capacity-building opportunities for students and staff through academic exchange in other countries, as well as international joint publications.",
+    "authors": [
+      "Ann Thogori Kirugumi",
+      "Matthew Theuri",
+      "David M. Magu"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
