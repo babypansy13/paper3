@@ -1,148 +1,159 @@
 [
   {
-    "field": "Marketing",
-    "title": "When sustainability meets risk perception: an extended goal-directed behavior model of consumers' sustainable clothing purchase intentions",
-    "journal": "Journal of Fashion Marketing and Management: An International Journal",
+    "field": "Management",
+    "title": "“Trends and future directions in purchasing decisions in supply chain management”: a systematic review and bibliometric analysis from pre-to post-pandemic",
+    "journal": "Journal of Economic and Administrative Sciences",
     "year": "2026",
-    "date": "2026-08-18",
-    "doi": "10.1108/jfmm-06-2025-0275",
-    "url": "https://doi.org/10.1108/jfmm-06-2025-0275",
-    "abstract": "Purpose This study aims to develop an extended model of goal-directed behavior (MGB) to explain consumers' sustainable clothing purchase behavior and the attitude–behavior gap by incorporating perceived risk into the original MGB framework. Design/methodology/approach Based on the MGB, an extended research model was developed by incorporating perceived aesthetic risk and perceived performance risk as moderating variables. Data were collected from 597 Chinese consumers through a questionnaire survey and analyzed using structural equation modeling with SmartPLS 4.0. Findings Attitude, subjective norms, perceived behavioral control, anticipated emotions and frequency of past behavior significantly influence consumers' desire, which in turn predicts purchase intention. Perceived aesthetic risk positively moderates the relationship between desire and purchase intention, whereas perceived performance risk has no significant moderating effect. Originality/value This study extends the MGB by distinguishing between perceived aesthetic risk and perceived performance risk as separate moderating variables and demonstrates the joint roles of cognitive, emotional and habitual processes in explaining sustainable clothing purchase behavior.",
+    "date": "2026-08-19",
+    "doi": "10.1108/jeas-11-2024-0500",
+    "url": "https://doi.org/10.1108/jeas-11-2024-0500",
+    "abstract": "Purpose This study uses the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) methodology to critically examine and review existing research on supplier selection in supply chain (SC) management before and after the onset of the pandemic. The study explores the nuanced dynamics that influence purchasing decisions, with a particular focus on the evolving role of sustainability considerations. Design/methodology/approach A total of 358 peer-reviewed English-language articles from the Scopus database from 2005 to 2020 were analyzed for the pre-pandemic period. Additionally, 79 articles from 2021 to 2024 were analyzed for the post-pandemic period. A combination of bibliometric and network analyses, including co-citation, co-word and cluster analyses, was applied. Findings This review provides valuable insights into key contributors, publication outlets and important themes. Before the pandemic, themes such as sustainability integration, SC disruption risks and fuzzy logic approaches emerged. Following the pandemic, new topics have emerged, including firms' reactive capacity, digital and analytical support and sustainable, supplier-driven resilience and fair, circular purchasing. The findings further underscore the pivotal role of the purchasing function as a dynamic, meso-level mechanism that links micro-level supplier selection practices to macro-level sustainability and resilience objectives amid disruptive SC conditions. Originality/value The findings of this study demonstrate how research themes related to purchasing decisions in the SC changed before and after the health crisis. This demonstrates the significant influence that periods of upheaval can have on research topics. Through an original integrative framework, the article illuminates knowledge gaps associated with purchasing decisions in the SC, particularly the connection between sustainability and resilience, as well as the growing importance of purchasing and supplier selection in post-crisis contexts. The article also highlights the capabilities and strategies that firms need to effectively carry out and optimize this process.",
     "authors": [
-      "Xiuhong He",
-      "Yingying Hu"
+      "Ahlem Dhahri",
+      "Waleed Omri",
+      "Audrey Becuwe",
+      "Abdelwahed Omri"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "Why good teams struggle under narcissistic CEOs?",
+    "journal": "Management Decision",
+    "year": "2026",
+    "date": "2026-08-19",
+    "doi": "10.1108/md-01-2026-0111",
+    "url": "https://doi.org/10.1108/md-01-2026-0111",
+    "abstract": "Purpose This study examines how Chief Executive Officer (CEO) narcissism relates to conflict dynamics within top management teams (TMTs) and identifies the team-level conditions under which conflict's association with team effectiveness is amplified or contained. Design/methodology/approach Integrating Upper Echelons Theory (UET) with group process theory and information processing theory, we test a moderated-mediation model using cross-sectional survey data from 115 senior TMT members, each serving as a single key informant, in mainland Chinese firms. CEO narcissism is assessed through other-ratings to reduce social desirability bias. Hypotheses are then tested using bootstrapped conditional process analyses based on composite scores. Findings CEO narcissism is positively associated with team conflict and negatively associated with team effectiveness, with team conflict partially mediating the association. The two stages of the model behave asymmetrically. Downstream, cooperative conflict management and agreement-seeking behavior buffer the negative conflict–effectiveness association, which becomes non-significant at high levels of either moderator, and conditional process models confirm moderated mediation at this stage. Upstream, and contrary to prediction, the narcissism–conflict association becomes stronger at higher levels of team trust and decision commitment, although both conditions are associated with lower overall conflict. Originality/value This study examines the executive team, where prior research has documented narcissism's firm-level outcomes and compositional effects but has left intra-team dynamics underexplored. It identifies team conflict as a proximal mechanism transmitting part of the CEO narcissism–effectiveness association; tests the two-stage conditional process architecture as an integrated system with indices of moderated mediation rather than piecewise; and shows the two stages are asymmetric – downstream integrative mechanisms contain conflict's damage, whereas upstream relational conditions long assumed protective coincide with lower conflict but a stronger narcissism–conflict link.",
+    "authors": [
+      "Bradley J. Olson",
+      "Matteo Cristofaro",
+      "Yongjian Bao",
+      "Satyanarayana Parayitam"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "The limits of patience: building, mobilising and bounding patient capital in family SMEs across a polycrisis",
+    "journal": "Journal of Family Business Management",
+    "year": "2026",
+    "date": "2026-08-19",
+    "doi": "10.1108/jfbm-07-2026-0229",
+    "url": "https://doi.org/10.1108/jfbm-07-2026-0229",
+    "abstract": "Purpose This study investigates how small and medium-sized family firms (family SMEs) build, mobilise and bound patient capital over the 2020–2024 polycrisis and how socioemotional wealth orders the financing hierarchy they follow. Design/methodology/approach An exploratory, abductive multiple-case study of 18 Austrian family SMEs (21 informants) pairs framework-based thematic analysis of semi-structured interviews with register-based archival triangulation, setting self-reported financing behaviour against indicators drawn from annual statements and the company register. Findings Firms build patient capital in stable periods through retention and reserve-holding, then draw it down once the crises hit while leaning on a trusted house bank for bridging credit. Financing follows a socioemotional order: internal funds first, the house bank second, distrusted state support a distant third and external equity all but ruled out. The conservatism that buffers a firm can equally starve it of investment, so patience proves an asset only under particular conditions. Research limitations/implications The sample is of surviving firms in a bank-based economy and the data are retrospective; the findings are analytically, not statistically, generalisable and invite longitudinal and supply-side extension. Practical implications Owner-managers and successors can manage patient capital deliberately, through retention rules, rolling liquidity forecasts, staged investment and more than one cultivated house-bank tie; advisors, lenders and policymakers should weigh soft signals of resilience and the value of dependable crisis instruments and locally embedded banks. Originality/value The study recasts patient capital as a dynamic, bounded resource whose value is non-monotonic rather than a uniformly beneficial static endowment, extends the pecking order into an SEW-augmented financing hierarchy for family SMEs and shows how register-based archival triangulation provides partial corroboration for claims of financial conservatism.",
+    "authors": [
+      "Michael Kuttner",
+      "Thomas Rudolf Mörth",
+      "Julia Riepl"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "The impact of agricultural product traceability from the food supply chain perspective on consumer cognition and purchase intention",
+    "journal": "Frontiers in Sustainable Food Systems",
+    "year": "2026",
+    "date": "2026-08-19",
+    "doi": "10.3389/fsufs.2026.1728606",
+    "url": "https://doi.org/10.3389/fsufs.2026.1728606",
+    "abstract": "In the complex and information-opaque modern food supply chain, establishing a traceability system is a key strategy for ensuring food safety and rebuilding consumer trust. However, whether the traceability information constructed with upstream investment can be effectively transmitted to the terminal to influence consumers’ purchase decisions remains a focus of academic and industrial attention. Based on the Stimulus-Organism-Response (S-O-R) theory, this study, from the terminal perspective of the food supply chain, constructs a mediation model with “cognition level—trust—purchase intention” as the core, aiming to analyze the impact path of agricultural product traceability as a quality signal on consumer psychology and behavior. Taking 380 consumers in Guilin, China—a city characterized by a dual consumer structure of “local residents + tourists”—as the survey subjects, this study conducts an empirical analysis and finds that consumers’ cognitive level of traceable agricultural products not only directly and significantly positively affects their purchase intention but also indirectly promotes purchase decisions by enhancing trust, meaning trust plays a key partial mediating role. This study reveals the transmission process through which traceability information in the supply chain is converted into purchasing behavior via consumer psychological mechanisms, providing an important theoretical basis and practical insights for supply chain managers to optimize information transmission strategies and for the government to build a collaborative governance system.",
+    "authors": [
+      "Xue Su",
+      "Ke Xu",
+      "Lin Lu",
+      "Qiumin Huang"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "The UK Intracoronary Imaging Survey: Evaluation of Perceptions, Barriers, Education and Training",
+    "journal": "Interventional Cardiology Reviews Research Resources",
+    "year": "2026",
+    "date": "2026-08-19",
+    "doi": "10.15420/icr.2025.29",
+    "url": "https://doi.org/10.15420/icr.2025.29",
+    "abstract": "Background: This national survey evaluated awareness of indications and perceived barriers to the application of intracoronary imaging (ICI) among physicians and cath lab allied health professionals (AHP) in the UK. Methods: A web-based questionnaire consisting of 35 questions, covering operator and institutional demographics, physician-based indications for ICI, physician confidence-competence and barriers to ICI use, was distributed to 974 physicians (consultant and trainee operators) and 713 AHPs via the British Cardiovascular Intervention Society. For statistical analyses, a two-sided p<0.05 was considered statistically significant. Results: In all, 327 physicians (including 30% of practising UK consultants) and 125 AHPs responded. The greatest response was observed in early career operators (uptake 38% versus 7% for those with ≤5 years versus >20 years’ experience, respectively). There was a preference for intravascular ultrasound (IVUS) over optical coherence tomography (OCT; 74% versus 26%, respectively). Strongest indications for ICI use by lesion aetiology were left main percutaneous coronary intervention (97.7%), stent failure (96.5%), procedural optimisation (92.6%) and calcific disease (89.8%). Operators reported OCT superiority in the identification of stent failure and plaque rupture, and IVUS superiority in ostial and left main disease, spontaneous coronary dissection and chronic total occlusion interventions. Core barriers to ICI application were procedural turnover (65.4%), lack of training and education (61.8%) and the absence of consultant-level proctorship (56.1%). A mismatch between operator-reported confidence in device use and competency in image interpretation across lesion aetiologies was identified, with 58.9% and 57.7% of operators expressing a desire to actively upskill and increase appropriate ICI usage, respectively. Conclusion: This first UK national survey on ICI highlights important barriers to the application of ICI in routine clinical practice. These data should stimulate a paradigm shift in collaborative widespread national training and education strategies for ICI in the UK.",
+    "authors": [
+      "Kalaivani Mahadevan",
+      "Paul Brady",
+      "Peter O’Kane",
+      "Nick Curzen"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "Systemic sustainability in action: a qualitative multi-case study of organizational routines and stakeholder engagement in higher education institutions",
+    "journal": "International Journal of Organization Theory & Behavior",
+    "year": "2026",
+    "date": "2026-08-19",
+    "doi": "10.1108/ijotb-11-2025-0353",
+    "url": "https://doi.org/10.1108/ijotb-11-2025-0353",
+    "abstract": "Purpose This study aims to understand how higher education institutions (HEIs) operationalize systemic sustainability by examining their organizational routines and stakeholder engagement processes, guided by systems thinking to identify feedbacks among routines, governance and stakeholder dynamics rather than to develop formal simulation models. It seeks to identify the mechanisms, enabling factors and barriers that shape institutional transitions toward holistic sustainability integration. This study does not develop formal system dynamics models; rather, it qualitatively identifies reinforcing and constraining feedback mechanisms. Design/methodology/approach A qualitative multi-case study design was employed, focusing on three HEIs recognized for advanced sustainability initiatives. Data were gathered through semi-structured interviews with faculty, administrators, staff and students, complemented by document analysis and observations of campus-level practices. In total, 30 participants were interviewed across the three HEIs, including administrators, faculty, sustainability officers and student representatives, enabling a multi-perspective view of systemic sustainability processes. Systems-informed thematic analysis, combining cross-case pattern mapping with the identification of reinforcing and constraining mechanisms, and drawing on stakeholder theory, was used to interpret patterns across institutional contexts; the study does not include quantitative system dynamics modeling. Findings Four interrelated drivers emerged: the embedding of sustainability into daily organizational routines, inclusive stakeholder engagement that nurtures collective agency, adaptive governance mechanisms enabling coordinated action and mediating influences of leadership and institutional culture. Despite noteworthy progress, challenges persist, including fragmented responsibilities and resistance to cultural change within specific groups. The analysis primarily uncovers qualitative patterns and mechanisms, highlighting how sustainability becomes institutionalized through recursive practices and feedbacks rather than through isolated initiatives or formally modeled dynamic trajectories. Originality/value The study contributes by offering a qualitative, systems-informed framework that links organizational routines, governance arrangements and stakeholder dynamics in the sustainability transformation of HEIs. It advances understanding of systemic sustainability as an embedded, evolving process by articulating key reinforcing and constraining mechanisms in HEI sustainability transitions. It provides policymakers, university leaders and educators with actionable insights to foster more integrated, resilient and participatory sustainability strategies across higher education systems.",
+    "authors": [
+      "Isabel Barbosa"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Consumer Research",
-    "title": "Value Generation, Risk Transmission and Collaborative Governance of \"Sports Takeout\"",
-    "journal": "Lecture Notes in Education Psychology and Public Media",
-    "year": "2026",
-    "date": "2026-08-18",
-    "doi": "10.54254/2753-7048/2026.36181",
-    "url": "https://doi.org/10.54254/2753-7048/2026.36181",
-    "abstract": "With the accelerated integration of digital platforms into the sports service sector, \"sports takeout\" has gradually become an emerging business format that meets personalized, instant and scenario-based fitness needs. To reveal its value generation logic and governance problems arising from its operation, this paper adopts the literature review method and logical analysis method to carry out research from three dimensions: platform organization, service fulfillment and risk transmission. The study concludes that through online matching, on-site fulfillment and continuous evaluation feedback, \"sports takeout\" reduces consumers' time and space costs, improves the accessibility of sports services and the efficiency of supply-demand matching, and can promote the shift of sports services from venue-centered to user-living-area-oriented. However, while platformization and mobilization create more convenient value, they also bring problems such as difficult identification of coach qualifications, difficulty in standardizing service quality, higher safety risk coefficients in non-fixed venues, insufficient personal information protection, and blurred boundaries of platform responsibilities. To promote \"sports takeout\" from a short-term consumption hotspot to a stable service format, we should take the service chain as the governance object, continuously improve mechanisms such as coach access, pre-class assessment, process traceability, data protection, liability insurance and dispute handling, and better build a collaborative governance system combining government supervision, platform accountability, industry self-discipline and consumer participation.",
-    "authors": [
-      "Xiaojie Wang",
-      "Delong Dong"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Urban Studies",
-    "title": "Urban-Rural Disparities in Long-Term Care Resources and Elderly Dignity in China: Policy Lessons from Japan's Community-Based Care System",
-    "journal": "Advances in Economics, Management and Political Sciences",
+    "title": "Short-term accommodation rentals in local communities: evidence from Messinia, Greece",
+    "journal": "Journal of Enterprising Communities: People and Places in the Global Economy",
     "year": "2026",
-    "date": "2026-08-18",
-    "doi": "10.54254/2754-1169/2026.36184",
-    "url": "https://doi.org/10.54254/2754-1169/2026.36184",
-    "abstract": "China's rapid population aging has created growing demand for long-term care (LTC), but eldercare resources remain unevenly distributed between urban and rural areas. This paper will examine how inequality in LTC resources affects elderly people's ability to age with dignity and independence whilst drawing policy lessons from Japan's Community-Based Integrated Care System (CBICS). Rural older adults face faster aging, weak formal care infrastructure, fewer trained workers, lower purchasing power, and greater dependence on family caregivers. These conditions limit access to affordable, nearby, and adequate care whilst also restricting their social dignity by weakening their autonomy, privacy, and community belonging. This study explores Japan's CBICS, which offers elements including aging in place, local coordination, preventive care, medical-social integration, and community participation. This paper makes sure to acknowledge the model's imperfections to argue that China should adapt Japan's broader principles rather than copy its institutions directly. Ultimately, this paper argues that protecting elderly dignity in rural China requires a more equitable, community-based long-term care network that combines public financing, rural infrastructure, family caregiver support, and human-centered technology.",
+    "date": "2026-08-19",
+    "doi": "10.1108/jec-06-2025-0202",
+    "url": "https://doi.org/10.1108/jec-06-2025-0202",
+    "abstract": "Purpose Taking an institutional approach, this study aims to explore the impact of short-term rental accommodation on rural areas, focusing on economic, social and environmental aspects. Drawing on qualitative research, it examines the views of owners and presidents of rural communities as key informants, theoretically interprets the findings and extends the scant literature on short-term rental accommodation in rural areas. Design/methodology/approach A qualitative approach was employed to trace the views and perceptions of owners of premises offered for short-term rental accommodation, as well as elected chairpersons of local councils lying in the same coastal areas. Overall, 20 semi-structured interviews were conducted through convenience and purposive sampling. Thematic analysis was performed deductively and inductively. Findings Findings indicate that short-term rentals may contribute to local economic development by generating supplementary income for rural families, creating employment opportunities and enhancing the value of land and properties. However, the shift toward tourism may reduce agricultural activity, posing challenges to rural sustainability. This study advocates that to ensure a balanced and sustainable development model, policy reforms are necessary. Research limitations/implications To inform effective policy making, future research should consider the perspectives of participating and nonparticipating actors in scrutinizing outcomes in varied rural settings. Practical implications Τhe study points to significant institutional inadequacies that influence the outcomes of short-term rental accommodation in rural areas and draws attention to remedial policy making. Originality/value This research contributes to the broader discourse on sustainable rural tourism by highlighting the necessity of institutional reforms that support economic growth without compromising environmental sustainability or local livelihoods.",
     "authors": [
-      "Carrie Yu Yang"
+      "Ilias A. Makris",
+      "Sotiris Apostolopoulos",
+      "Nicholas Theodorakopoulos",
+      "Panos Dimitrakopoulos"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Mental Health",
-    "title": "Unraveling Hemodynamic Complex in White Matter Hyperintensities",
-    "journal": "Journal of Alternative, Complementary & Integrative Medicine",
+    "title": "Risk of postpartum anxiety and depression in women with a history of gestational hypertensive disorders",
+    "journal": "World Journal of Psychiatry",
     "year": "2026",
-    "date": "2026-08-18",
-    "doi": "10.24966/acim-7562/100725",
-    "url": "https://doi.org/10.24966/acim-7562/100725",
-    "abstract": "As both a neurologist and a co-author of the recently article, I appreciate the opportunity to provide a professional commentary that extends beyond the published discussion, situating our findings within the latest advances in Cerebral Small Vessel Disease (CSVD) research",
+    "date": "2026-08-19",
+    "doi": "10.5498/wjp.119711",
+    "url": "https://doi.org/10.5498/wjp.119711",
+    "abstract": "BACKGROUND Gestational hypertensive disorders (GHDs) are common pregnancy complications associated with severe maternal morbidity. Although their physical after-effects have been extensively reported, their effects on postpartum mental well-being, especially anxiety and depression, remain under-researched. AIM To evaluate the risk of postpartum anxiety and depression among women with GHD and assessed the protective role of a designed supportive care model. METHODS The participants were 220 women (110 with GHD; 110 normotensive controls) who were matched for key obstetric variables. Participants’ clinical and postnatal follow-up data were collected between June 2022 and May 2025. Standardized screening instruments were used to measure postpartum anxiety and depression between 6 and 12 weeks after delivery. Multivariable logistic regression was used to estimate adjusted odds ratios for postpartum mental health outcomes, accounting for relevant sociodemographic and obstetric confounders. Analyses in the hypertensive cohort examined the effect of structured supportive care models. RESULTS Women with GHD showed higher levels of postpartum anxiety and depression than normotensive controls. GHD was independently linked with higher odds of postpartum anxiety and depression after adjustment. Structured supportive care in the hypertensive cohort showed significantly lower prevalence and adjusted odds of postpartum anxiety and depression than in those who received standard postnatal care. CONCLUSION GHDs were associated with significantly elevated probabilities of postpartum anxiety and depression. Supportive care was associated with a significant reduction in this risk. Therefore, the introduction of specific psychosocial support into routine postpartum care for women with GHD should be considered.",
     "authors": [
-      "Weidong Zhou"
+      "Chun-Rong Chen",
+      "Yu-Ling Gao",
+      "Li-Ping Kang",
+      "Bi-Yu Wu"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "Unpacking retailer performance in the wine and spirits sector: multilevel support, satisfaction and the moderating power of digital enablement",
-    "journal": "British Food Journal",
-    "year": "2026",
-    "date": "2026-08-18",
-    "doi": "10.1108/bfj-03-2026-0362",
-    "url": "https://doi.org/10.1108/bfj-03-2026-0362",
-    "abstract": "Purpose This study investigates how perceived brand support and perceived salesperson support (PSS) influence retailer commercial performance (RCP) in the wine and spirits sector. Grounded in relationship marketing theory and a technology–organization–environment (TOE)-based perspective, it tests retailer satisfaction (RS) as a mediator and digital enablement (DE) as a moderator that strengthens the retailer satisfaction–retailer commercial performance (RS–RCP) relationship in a regulated, competitive distribution context. Design/methodology/approach Using a cross-sectional survey design, questionnaire data were obtained from 428 wine and spirits retailers and shop/showroom owners distributing products for international spirits groups in Vietnam. The hypothesized mediation–moderation model was tested using partial least squares structural equation modeling (PLS-SEM). Findings PBS and PSS positively affect RS, which in turn enhances RCP. RS mediates the relationships between perceived support and RCP, indicating that support translates into commercial outcomes through improved RS. Additionally, DE positively moderates the RS–RCP link, such that higher DE strengthens the effect of satisfaction on retailer outcomes. Practical implications Suppliers in the wine and spirits channel should integrate brand-level resources with problem-solving salesperson support to enhance RS. Investing in DE can further improve channel effectiveness by accelerating the translation of satisfaction into commercial performance in competitive point-of-sale environments. Originality/value This study extends channel and relationship marketing research by explaining how dual-source support translates into RCP through RS, while identifying DE as a key boundary condition. Empirically, it provides evidence from Vietnam's traditional trade context, where B2B channel dynamics remain underexplored compared to consumer-focused alcohol marketing.",
-    "authors": [
-      "Thoi Le Quan Chau",
-      "Thanh Tiep Le",
-      "Simone Bevilacqua"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "Unlocking international SME success: the crucial role of dynamic managerial capabilities in driving international entrepreneurial orientation",
-    "journal": "European Business Review",
-    "year": "2026",
-    "date": "2026-08-18",
-    "doi": "10.1108/ebr-10-2024-0328",
-    "url": "https://doi.org/10.1108/ebr-10-2024-0328",
-    "abstract": "Purpose The study aims to examine the relationship between international entrepreneurial orientation (IEO) and international performance (IP) of internationalized small and medium-sized enterprises (SMEs) in the Slovak Republic. Given the scarcity of empirical research on the managerial dimensions influencing this relationship, the study also aims to investigate the moderating effect of dynamic managerial capabilities (DMCs) as a higher-order variable and its components in the IEO-IP nexus. The theoretical framework is grounded in the resource-based view and capability-based view, which posit that firm-specific resources and capabilities are critical sources of competitive advantage. Design/methodology/approach Data were collected via a questionnaire survey administered to 145 internationalized SMEs in the service and industrial sectors. The analysis used a robust statistical method, structural equation modelling through partial least squares, which is suitable for modeling complex relationships and managing smaller sample sizes. Findings The results reveal that IEO is directly associated with the IP of SMEs. Moreover, DMCs, as a multidimensional construct, exert a statistically significant moderating effect on the IEO-IP relationship. Regarding the specific components of DMCs, social capital and managerial cognition significantly reinforce the connection between IEO and international performance, while human capital does not exhibit a significant effect. Originality/value The study’s theoretical contribution lies in validating the role of DMCs as a complex construct in augmenting international performance in conjunction with IEO. It also identifies the differential effects of the three DMCs components in the IEO-IP framework, offering nuanced insights into their moderating roles. The research underscores the importance of strategic business orientation and DMCs for SMEs operating in the global market. Finally, managerial implications and directions for future research are proposed.",
-    "authors": [
-      "Nadežda Jankelová",
-      "Katarzyna Piwowar-Sulej",
-      "Anita Romanová"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "The paradox complex: how paradoxical thinking recursively generates new tensions and emotional strain in sustainability work",
-    "journal": "Management Decision",
-    "year": "2026",
-    "date": "2026-08-18",
-    "doi": "10.1108/md-08-2025-2257",
-    "url": "https://doi.org/10.1108/md-08-2025-2257",
-    "abstract": "Purpose This study challenges the dominant assumption that paradoxical thinking is inherently superior for managing organizational tensions. Focusing on the sustainability-profitability tension, it explores how paradoxical and business case cognitive frames influence individual emotional and behavioral responses, revealing that paradoxical thinking can lead to unintended psychological and relational costs. Design/methodology/approach Using Interpretative Phenomenological Analysis, this qualitative study draws on in-depth interviews with managers at a construction firm. It investigates how individuals cognitively frame the sustainability-profitability tension and how these frames shape their emotional experiences, actions and organizational relationships. Findings The study identifies three core dimensions Framing, Responding and Relating – that explain how individuals engage with tensions. Managers using a paradoxical frame perceived sustainability and profitability as interdependent and pursued both, yet experienced emotional strain, organizational disconnection and limited influence, resulting in what is termed a “paradox loop.” In contrast, managers using a business case frame subordinated sustainability to profitability and avoided personal engagement, which reduced emotional strain and maintained organizational alignment. The findings show that paradoxical thinking, while fostering nuanced sensemaking, does not necessarily yield more effective action or individual wellbeing. Originality/value This study contributes to paradox theory by integrating emotional dynamics into the microfoundations of paradox and introducing the concept of the paradox loop. It reveals that paradoxical cognition, while often idealized, can impose psychological burdens and hinder engagement. The study calls for more balanced, emotionally grounded understandings of paradoxical thinking in organizational contexts, particularly within corporate sustainability.",
-    "authors": [
-      "Stefano Miraglia",
-      "Mostafa Safar",
-      "Kevin Iliovits"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Psychology",
-    "title": "The grandparents’ role in shaping grandchildren’s physical activity",
-    "journal": "Humanities and Social Sciences Communications",
+    "title": "Ingroup bias is prevalent in user reports of hate and abuse online",
+    "journal": "Royal Society Open Science",
     "year": "2026",
-    "date": "2026-08-18",
-    "doi": "10.1057/s41599-026-08622-w",
-    "url": "https://doi.org/10.1057/s41599-026-08622-w",
-    "abstract": "Abstract Little is known about how grandparents contribute to children’s physical activity, despite their increasing involvement in childcare. Guided by Bronfenbrenner’s ecological systems theory, this qualitative study aimed to explore the roles grandparents play in shaping their grandchildren’s physical activity. Seventeen family triads ( N = 64) participated in the study. In-depth semi-structured group interviews were conducted in a family setting or family-friendly location. Data were analyzed using open coding, and thematic analysis was supported by qualitative data analysis software. The results are summarized into themes clarifying grandparental roles. The analysis identified three main themes: grandparents as facilitators of physical activity opportunities; barriers to physical activity; and shared active lifestyles. Eight minor themes stemmed from these three main themes, in which participants expressed that grandparents are supportive of children’s physical activity and that children’s physical activity is viewed as a meaningful leisure activity. At the same time, barriers to grandparents’ provision of physical activity support for the child’s generation were identified, including grandparents’ health status and children’s increased preference for digital technology. However, support for physical activity through educational goals and chores, as well as evidence of intergenerational value transfer, was found. This study extends current knowledge about family influences on children’s physical activity beyond the parental generation and demonstrates how grandparental involvement can be understood within an ecological and intergenerational framework. The findings highlight the potential value of intentionally involving grandparents in policies, school and community programs, and family-based interventions to promote children’s physical activity.",
+    "date": "2026-08-19",
+    "doi": "10.1098/rsos.251490",
+    "url": "https://doi.org/10.1098/rsos.251490",
+    "abstract": "Abstract The prevalence of online hate and abuse is a pressing global problem. While tackling such societal harms is a priority for research across the social sciences, it is a difficult task, in part, because of the magnitude of the problem. People's engagement with reporting mechanisms (‘flagging’) online is an increasingly important part of monitoring and addressing harmful content at scale. However, users may not flag content routinely enough, and when users do engage, they may be biased by group identity and political beliefs. Across five well-powered and pre-registered online experiments, we examine the extent of ingroup bias in people's flagging of hate and abuse in four different intergroup contexts: political affiliation, vaccination opinions, beliefs about climate change and stance on abortion rights. Overall, participants reported abuse reliably, with approximately half of the abusive comments in each study reported. However, a pervasive ingroup bias was present whereby, across studies, participants were between 17% and 63% more likely to flag abuse directed at the ingroup than at the outgroup. Our findings offer new insights into the nature of user flagging online, an understanding of which is crucial for enhancing user intervention against online hate and thus ensuring a safer online environment.",
     "authors": [
-      "Barbora Bokaj",
-      "Nikola Štenclová",
-      "Steriani Elavsky"
+      "Florence E. Enock",
+      "Helen Z. Margetts",
+      "Jonathan Bright"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "Strategies for managing learner misbehaviour in Namibian schools: Learners’ perspective",
-    "journal": "African Journal of Teacher Education and Development",
-    "year": "2026",
-    "date": "2026-08-18",
-    "doi": "10.4102/ajoted.v5i1.208",
-    "url": "https://doi.org/10.4102/ajoted.v5i1.208",
-    "abstract": "Background: Managing learner misbehaviour is central to successful teaching and learning. As key players in the teaching and learning process, learners’ voices are important to consider when designing disciplinary frameworks. Aim: This article aimed to explore effective strategies for managing learner misbehaviour from learners’ perspectives, bridging the gap in which disciplinary policies are often implemented without consulting learners. Setting: Data were collected from 1262 learners across 78 secondary schools in all 14 education regions in Namibia. Methods: The study employed a mixed-methods approach using a convergent parallel design. Data were collected using a questionnaire containing closed and open-ended items. Responses from the closed-ended items were analysed using the Statistical Package for Social Sciences (SPSS) (IBM Corp, Armonk, NY, United States [US]), whereas the open-ended responses were analysed through thematic content analysis. Results: The study findings reveal that learners prefer relational and restorative interventions compared to punitive ones. Specifically, 81% of participants indicated that parental involvement is the most effective strategy, followed by private, one-on-one conversations. Conversely, the results reveal that traditional punitive measures such as corporal punishment and public shaming were rated as ineffective and damaging to the teacher-learner relationship. However, a contradictory finding emerged regarding serious offences: 67% of learners indicated it is necessary to involve law enforcement for major transgressions such as theft, fighting, or alcohol and drugs. Conclusion: The study concludes that schools should move from reactive, exclusionary practices towards a three-way model of behaviour management that is restorative, preventive and structured. Contribution: By focusing on learner-centred strategies, schools can foster more equitable and supportive environments conducive to academic success.",
-    "authors": [
-      "Emilia N. Mbongo",
-      "Helena Miranda"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
