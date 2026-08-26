@@ -1,146 +1,152 @@
 [
   {
-    "field": "Consumer Research",
-    "title": "目次",
-    "journal": "The Japanese journal of psychology",
+    "field": "Public Policy",
+    "title": "Organisational Gender Pay Gaps in the UK: What Happened Post-Transparency?",
+    "journal": "The B.E. Journal of Economic Analysis & Policy",
     "year": "2026",
-    "date": "2026-08-25",
-    "doi": "10.4992/jjpsy.97.toc3",
-    "url": "https://doi.org/10.4992/jjpsy.97.toc3",
-    "abstract": "",
-    "authors": [],
+    "date": "2026-08-26",
+    "doi": "10.1515/bejeap-2024-0471",
+    "url": "https://www.semanticscholar.org/paper/79e9a169cca434bf0710a40b393669d6b0af833d",
+    "abstract": "Abstract Since April 2017 UK employers with over 250 employees have been required to publicly report their gender pay gap each year. We exploit this novel source of panel data on employer-level gender pay gaps to explore the factors associated with changing organisational gender pay gaps in the period immediately following transparency. Consistent with information, reflection and pressure brought by the legislation, we find greater narrowing of gender pay gaps in organisations with a larger absolute and relative initial gender pay gap. The latter is consistent with transparency per se providing a channel through which the impact of the legislation operates.",
+    "authors": [
+      "Melanie K. Jones",
+      "Ezgi Kaya"
+    ],
+    "citations": 5,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "‘Doing history teaching with GenAI’: an exploration of teaching practices during an AI pilot project in Germany",
+    "journal": "History Education Research Journal",
+    "year": "2026",
+    "date": "2026-08-26",
+    "doi": "10.14324/herj.23.1.19",
+    "url": "https://doi.org/10.14324/herj.23.1.19",
+    "abstract": "Although teachers’ actions are considered central to history lessons, little is known about their teaching practices with regard to the use of generative artificial intelligence. In this article, we ask which teaching practices were carried out among teachers in history lessons while using generative artificial intelligence in a pilot project at German schools with schulKI (schoolAI). To this end, we analysed interviews with and project documentation from 12 history teachers who took part in the pilot project. Based on considerations from practice theory and a socio-cultural view of history education, we analysed our data sources and identified four central teaching practices that characterise ‘doing history teaching with GenAI’: (a) obtaining support from generative artificial intelligence for the preparation of history lessons; (b) introducing practices of utilising generative artificial intelligence in history lessons; (c) integrating generative artificial intelligence into the implementation of history lessons; and (d) managing with situational demands through the use of generative artificial intelligence in history lessons. In this article, we present our praxeological observations and their socio-cultural interpretation in the field of tension between covering the curriculum and maintaining control in more detail. Finally, we discuss these against the background of the current state of research and draw conclusions for research and teaching practice.",
+    "authors": [
+      "Marcel Mierwald",
+      "Denise Hoins"
+    ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Marketing",
-    "title": "Why sexual violence and harassment are not addressed: comparative insights from Cambodia's construction sector",
-    "journal": "Employee Relations: The International Journal",
+    "field": "Management",
+    "title": "What makes you trust digital data wallets? Antecedents of trust formation",
+    "journal": "Journal of Enterprise Information Management",
     "year": "2026",
-    "date": "2026-08-25",
-    "doi": "10.1108/er-11-2025-0965",
-    "url": "https://doi.org/10.1108/er-11-2025-0965",
-    "abstract": "Purpose This article assesses whether workplace formality determines how sexual violence and harassment (SVH) complaints are interpreted, understood and addressed by workplace intermediaries in three cement factories and on 39 construction sites in Cambodia. Design/methodology/approach Survey responses from 600 workers capture the prevalence and forms of SVH, reporting rates and victims' reasons for non-reporting. Data from interviews with 140 workers and 41 intermediaries, including company representatives, subcontractors, team leaders, union representatives and security guards, are used to understand the mechanisms behind reporting and complaint handling. Findings Despite the substantial differences in levels of workplace formality, patterns of reporting and grievance-handling were remarkably similar across both settings, with intermediaries' interpretive frameworks substantially shaping both the process and its outcomes. Practical implications Efforts to address SVH in the workplace must go beyond establishing formal complaint structures to recognise and address this overlooked layer of decision-making. Originality/value Comparing formal and informal construction workplaces, this study draws attention to the critical yet largely invisible gatekeeping role of workplace intermediaries in SVH reporting in low-enforcement contexts. In doing so, it moves beyond generalised discussions of reporting processes and outcomes to establish a fine-grained model that captures the three stages through which intermediaries filter complaints.",
+    "date": "2026-08-26",
+    "doi": "10.1108/jeim-12-2025-1258",
+    "url": "https://doi.org/10.1108/jeim-12-2025-1258",
+    "abstract": "Purpose Digital data wallets are emerging privacy-enhancing technologies that give users greater control over their personal information, yet trust remains a major barrier to adoption. This study aims to identify the factors shaping trust and how perceived risks moderate these relationships. Design/methodology/approach Using a mixed-methods approach, thirty qualitative interviews conducted in Austria, Romania and Spain identified four key antecedents of trust: trust in the Internet, trust in the community of internet users, trust in the provider and trust in the information system. A follow-up survey of 1,200 respondents tested the impact of these antecedents and the moderating role of perceived risks (identity theft and financial loss) on trust formation. Findings Results show that all antecedents, specifically performance expectancy, transparency, social influence and safety, significantly related to their respective trust targets, and that trust relationships are interdependent across targets. Risk perceptions strengthen the influence of performance expectancy and social influence but weaken the effect of transparency. Originality/value The study contributes to research on trust in digital data wallets by empirically applying and extending the application network-of-trust model to the context of decentralized personal data management. The findings demonstrate that the trust formation is differentiated across multiple trust targets and shaped by context-specific antecedents and perceived risks. The study also provides actionable insights for designers and policymakers seeking to build trustworthy digital data wallets.",
     "authors": [
-      "Michele Ford",
-      "Vichhra Mouyly"
+      "Varvara Keba",
+      "Gurpreet Dhillon",
+      "Tiago Oliveira"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "Transposable element-host genome evolutionary arms race revealed by multi-modal epigenomic profiling in a telomere-to-telomere human genome reference",
+    "journal": "Royal Society Open Science",
+    "year": "2026",
+    "date": "2026-08-26",
+    "doi": "10.1098/rsos.260639",
+    "url": "https://doi.org/10.1098/rsos.260639",
+    "abstract": "Abstract For a quarter of a century, transposable elements (TEs) have been recognized as a major component of the human genome, key drivers of regulatory innovation and participants in an ongoing evolutionary arms race with host defence systems. Using the newly released telomere-to-telomere ENCODE dataset, I quantified the epigenetic impact of 3.7 million TEs across evolutionary time by analysing seven epigenomic modalities in twelve human cell lines. I show that SINE-VNTR(Variable Number of Tandem Repeats)-Alu element (SVA) elements exhibit the strongest signatures of the arms race, progressively escaping H3K9me3-mediated heterochromatinization while acquiring CCCTC-binding factor (CTCF) and enhancer chromatin marks. Among Alu elements, the AluYb8 and AluYb9 subfamilies are accumulating CTCF binding, while seven long terminal repeats (LTR) subfamilies (human endogeneous retrovirus 16 intact copy (HERV16-int), MER11C, LTR43-int, HERVE-int, LTR22C, LTR5_Hs and HERVIP10FH-int) demonstrate arms race dynamics, acquiring active and H3K9me3-enriched contexts alongside CTCF binding. I further evaluated the contribution of epigenomic modalities to the host-transposable element conflict and found that transposon-driven evolution is dominated by evasion of host-imposed heterochromatinization primarily at H3K9me3 and secondarily at H3K27me3, together with progressive invasion into CTCF-rich regions. Enhancer, promoter and H3K36me3 marks appear to play limited roles. Collectively, these findings deepen our insight into the coevolutionary epigenomic dynamics between the human genome and TEs, and their associated regulatory innovation.",
+    "authors": [
+      "Daniil M. Nikitin"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Mental Health",
-    "title": "Validation of the Chinese Stress Sensitivity Inventory and Its Association With Internet Gaming Disorder Symptoms",
-    "journal": "Psychiatry Investigation",
-    "year": "2026",
-    "date": "2026-08-25",
-    "doi": "10.30773/pi.2025.0423",
-    "url": "https://doi.org/10.30773/pi.2025.0423",
-    "abstract": "Objective This study aimed to evaluate the psychometric properties of the Chinese version of the Stress Sensitivity Inventory (SSI), a self-reported instrument that assesses trait stress sensitivity in adults, and to examine the relationship between the SSI and symptoms of internet gaming disorder (IGD).Methods The Chinese SSI was administered, along with the Internet Gaming Disorder Scale (IGDS) and scales assessing perceived stress, anxiety, depression, and neuroticism. Data from 1,085 valid respondents (with 347 respondents who retested 4 weeks later) were analyzed. A mixed graphical model was utilized to estimate the network structure properties of stress sensitivity and IGDS symptoms.Results Item #5 was removed due to low coherence with other items. The scale demonstrated a unidimensional structure with strong reliability (Cronbach’s α=0.90, test-retest reliability=0.75) and validity. SSI scores were positively correlated with IGDS scores (r=0.42, p<0.001). In the SSI network, items with the highest expected influence were #8 (functional impairment), #6 (cognitive decline), and #3 (mental freeze). In the SSI–IGD network, items #8 (functional impairment) and #9 (substance use) showed the strongest bridge expected influence on the SSI side.Conclusion The Chinese SSI demonstrates good reliability and validity, making it a suitable instrument for assessing stress sensitivity in both clinical and research settings. Network analysis revealed significant interconnections between stress sensitivity and IGD symptoms, with functional impairment (item #8) emerging as a particularly influential node both within the SSI cluster and in linking SSI to IGD.",
-    "authors": [
-      "Yanyin Zhou",
-      "Yi Wang",
-      "Yunjie Du",
-      "Xiaoyuan Liao"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "Unveiling organizational citizenship behavior toward environment (OCBE): trends and futures from bibliometric analysis",
-    "journal": "Journal of Modelling in Management",
-    "year": "2026",
-    "date": "2026-08-25",
-    "doi": "10.1108/jm2-12-2025-0713",
-    "url": "https://doi.org/10.1108/jm2-12-2025-0713",
-    "abstract": "Purpose With increasing environmental issues and heightened focus on the United Nations Sustainable Development Goals (SDGs), organizational citizenship behavior toward environment (OCBE) has occupied a central stage to promote business sustainability. But the lack of a systematic and thorough synthesis of OCBE literature, despite growing scholarly interest, hinders its theoretical consolidation and practical implementation. This study aims to critically evaluate the current literature on OCBE and to delineate prospective research avenues for academics and practitioners. Design/methodology/approach This study used bibliometric research design combined with Scientific Procedures and Rationales for Systematic Literature Reviews (SPAR-4-SLR) protocol to map OCBE. The content analysis of bibliographic coupling combined with keyword co-occurrence analysis produces a comprehensive understanding of the OCBE domain and provides future avenues. The SPAR-4-SLR procedure was implemented to improve methodological rigor, ensuring transparency, reproducibility and credibility in the systematic review process. Findings The bibliographic coupling and content analysis identify four predominant theme clusters that illustrate the intellectual framework and progression of OCBE research. The results elucidate the conceptual underpinnings, significant contributions and nascent research trends in this domain. The study identifies research gaps and underexplored domains that require additional scholarly focus. Research limitations/implications Publication bias exists as grey literature and unpublished works were not included in this review. Second, only literature available in English was considered; thus, future studies may examine literature available in other languages. Third, using a single database limits access; hence future studies could benefit from combining databases to access a broader range of literature on this subject area. Social implications This research highlights the significance of OCBE in promoting pro-environmental conduct among employees, augmenting environmental consciousness and reinforcing socially responsible business cultures. By promoting voluntary environmental initiatives among individuals and groups, OCBE can advance overarching societal objectives such as environmental stewardship, sustainable development and collective ecological health. Originality/value This work provides a thorough bibliometric synthesis of OCBE literature by merging SPAR-4-SLR with sophisticated bibliometric and content analysis methodologies. This study offers innovative theoretical insights and practical implications for enhancing sustainable organizational practices by delineating the intellectual environment and suggesting future research routes tailored to certain clusters.",
-    "authors": [
-      "Meenakshi Ahlawat",
-      "Shitika"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "The role of financial inclusion in achieving the Sustainable Development Goals: evidence from a fragile economy",
-    "journal": "International Journal of Development Issues",
-    "year": "2026",
-    "date": "2026-08-25",
-    "doi": "10.1108/ijdi-01-2026-0032",
-    "url": "https://doi.org/10.1108/ijdi-01-2026-0032",
-    "abstract": "Purpose This study aims to examine whether financial inclusion advances sustainable development in a fragile and institutionally constrained economy. Using Palestine as a case study, it assesses the association between financial inclusion and a composite measure of sustainable development capturing both economic and social dimensions of the Sustainable Development Goals (SDGs) over the period 2012–2024. Design/methodology/approach This study adopts a quantitative econometric design grounded in technological and macroeconomic perspectives. Financial inclusion is measured using multiple banking and financial indicators, including nonperforming loans, the number of bank accounts, the number of bank branches and offices, automated teller machines (ATMs), total deposits and total credit facilities. Sustainable development is measured using a composite Z-score index. Fixed effects (FE) models are used for the main estimations, while one-year-lagged specifications are used as a robustness check. Findings Results indicate a positive and statistically significant association between financial inclusion and sustainable development in Palestine. Evidence suggests that digital and credit-based channels (e.g. accounts, ATMs, deposits and credit facilities) contribute more consistently to economic and social progress than traditional physical outreach (bank-branch expansion), which appears weak and can be occasionally adverse. Practical implications For fragile settings, the findings imply that policymakers and financial institutions should prioritize digital financial services and inclusive credit mechanisms to accelerate progress toward the SDGs. The results also indicate that expanding physical branch networks alone may be insufficient and should be complemented (or substituted where appropriate) by technology-enabled channels and access-to-credit policies. Originality/value This study adds context-specific evidence from Palestine to the literature on the financial inclusion–sustainable development nexus in fragile economies. It contributes by operationalizing sustainable development as a composite Z-score index spanning economic and social indicators and by highlighting that, under institutional constraints, digital and credit-driven inclusion channels may yield stronger development payoffs than conventional branch expansion.",
-    "authors": [
-      "Ammar Zakaria Salem",
-      "Bahaa Subhi Awwad"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "The contribution of older adults to the household economy: evidence from the Indonesia national socioeconomic survey",
-    "journal": "International Journal of Social Economics",
-    "year": "2026",
-    "date": "2026-08-25",
-    "doi": "10.1108/ijse-08-2023-0629",
-    "url": "https://doi.org/10.1108/ijse-08-2023-0629",
-    "abstract": "Purpose The study provides empirical evidence of older adults' economic contributions, broadening understanding of aging and complementing demographic dependency perspectives. Design/methodology/approach The study measured the economic contribution of older adults in two ways: by analyzing their share of total household working hours and income, using data from the 2020 National Socioeconomic Survey in Indonesia (SUSENAS). Working hours for both older and non-older adults were estimated using the Tobit model, while income, including both older and non-older adults, was assessed using the Mincerian earning function. Findings The study found that older adults in Indonesia contribute significantly to the household economy through labor supply and income. Their contribution to the household economy is more significant through labor supply than through income. These findings suggest that older adults remain valuable contributors to household economies and should not be viewed solely through the lens of economic dependency. Research limitations/implications The study relies on statistical modeling to assess older adults' economic contributions and does not capture household members' perceptions. Practical implications These findings suggest that perspectives on older adults should extend beyond demographic dependency by recognizing their contributions to household economies. Social implications Given empirical evidence that older adults contribute to household economies, they should not be viewed solely as dependents within households. Originality/value The study broadens understanding of older adults' economic roles, showing they are contributors as well as recipients within household economies.",
-    "authors": [
-      "Titik Munawaroh",
-      "Sukamdi Sukamdi",
-      "Abdur Rofi"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Psychology",
-    "title": "The Relationship Between Three Sub-scales of Work Engagement and Job Satisfaction: Focusing on the Moderating Effect of Agreeableness ワークエンゲージメントの3つの下位側面と職務満足感の関連――調和性による調整効果に着目して",
-    "journal": "The Japanese Journal of Personality",
+    "title": "The policy relevance of climate-change scenarios for biodiversity research",
+    "journal": "Nature Reviews Biodiversity",
     "year": "2026",
-    "date": "2026-08-25",
-    "doi": "10.2132/personality.35.2.2",
-    "url": "https://doi.org/10.2132/personality.35.2.2",
+    "date": "2026-08-26",
+    "doi": "10.1038/s44358-026-00193-7",
+    "url": "https://doi.org/10.1038/s44358-026-00193-7",
     "abstract": "",
     "authors": [
-      "Ami Nishino",
-      "Yusuke Takahashi"
+      "David S. Schoeman",
+      "Andreas Schwarz Meyer",
+      "Elvira Poloczanska",
+      "Hans-Otto Pörtner"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "The Impact of Digital Leadership on Improving Decision-Making Quality Using Artificial Intelligence Technologies: An Applied Study in Private Universities in Baghdad – Al-Farabi University as a Case Study",
-    "journal": "International Journal of Financial, Administrative, and Economic Sciences",
+    "field": "Mental Health",
+    "title": "The endometrium heals without fibrosis after menstruation: implications for uterine healing after cesarean delivery",
+    "journal": "Journal of Perinatal Medicine",
     "year": "2026",
-    "date": "2026-08-25",
-    "doi": "10.59992/ijfaes.2026.v5n8p10",
-    "url": "https://doi.org/10.59992/ijfaes.2026.v5n8p10",
-    "abstract": "This research aimed to measure the impact of digital leadership on improving the quality of decision-making using artificial intelligence (AI) technologies in private universities in Baghdad, with Al-Farabi University serving as a case study. The research stemmed from the crucial role of digital leadership in guiding technological transformation within academic institutions, particularly given the increasing reliance on data, smart systems, and AI applications to support administrative and academic decisions. The study employed a descriptive-analytical approach, utilizing a questionnaire as the primary data collection tool. The questionnaire was administered to a sample of 112 employees at Al-Farabi University. The independent variable, digital leadership, was measured through two dimensions: digital vision and digital empowerment. The dependent variable was measured through the quality of decision-making using AI technologies. Reliability results showed high Cronbach's alpha coefficients for all dimensions, with the overall reliability coefficient for the questionnaire reaching 0.95, indicating the instrument's consistency and validity for analysis. Furthermore, multiple linear regression analysis revealed a significant impact of digital vision and digital empowerment on the quality of decision-making, with a coefficient of determination of 0.66. This suggests that the dimensions of digital leadership explain 66% of the variance in decision-making quality. The research concluded that digital leadership represents a crucial administrative approach to improving university decision-making when linked to a clear vision, effective digital empowerment, and a technological infrastructure capable of supporting the use of artificial intelligence.",
+    "date": "2026-08-26",
+    "doi": "10.1515/jpm-2026-0352",
+    "url": "https://doi.org/10.1515/jpm-2026-0352",
+    "abstract": "Abstract Background The human endometrium undergoes repeated cycles of bleeding, inflammation, tissue breakdown, and repair. Unlike most adult tissues, which heal through fibrosis, the endometrium restores its architecture and function after menstruation without scar formation. This capacity for scarless repair is essential for implantation, placentation, and reproductive success. Content Cesarean delivery creates a deep surgical injury that heals with fibrosis, altered extracellular matrix organization, and abnormal tissue architecture. Cesarean scar defects, cesarean scar pregnancy, and placenta accreta spectrum arise preferentially within these regions of abnormal healing. We examine the possibility that menstruation provides a physiologic model for understanding how the uterus restores tissue architecture without fibrosis. Summary The contrast between menstrual repair and post-cesarean healing raises a fundamental question: why does one form of uterine injury restore normal architecture while another leads to scar formation? Current discussions of cesarean closure focus largely on mechanical outcomes such as scar thickness and uterine rupture, whereas the biologic determinants of uterine healing remain poorly understood. Outlook A deeper understanding of the mechanisms that permit scarless repair of the endometrium may provide new opportunities to improve uterine healing after cesarean delivery and reduce the burden of infertility, adenomyosis, cesarean scar pregnancy, and placenta accreta spectrum.",
     "authors": [
-      "Mustafa Abdulhadi"
+      "Roberto Romero",
+      "Arun Meyyazhagan",
+      "Tinnakorn Chaiworapongsa",
+      "Emmanuel Bujold"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "Protein adequacy is not protein optimality: a call to action in response to the new dietary guidelines for Americans",
-    "journal": "Food, Nutrition and Health",
+    "title": "Part-time farming and cultivated land quality protection among large-scale farmers: a U-shaped relationship—evidence from China",
+    "journal": "Frontiers in Sustainable Food Systems",
     "year": "2026",
-    "date": "2026-08-25",
-    "doi": "10.1007/s44403-026-00079-8",
-    "url": "https://doi.org/10.1007/s44403-026-00079-8",
-    "abstract": "Abstract This paper argues that minimum protein adequacy should not be conflated with protein optimality in the interpretation and application of the 2025–2030 Dietary Guidelines for Americans. Although the updated guidelines provide practical, food-based protein messaging for the general public, their population-level framing may be oversimplified when translated into clinical, community, and institutional practice. This perspective distinguishes protein adequacy as the minimum intake needed to prevent deficiency in most healthy adults from protein optimization as the individualized use of protein amount, distribution, and food quality to support functional, body-composition, metabolic, and clinical outcomes. Evidence supporting higher protein intakes is reviewed with attention to the limits of nitrogen balance-derived recommendations, the public health context of obesity and chronic disease, and the population-specific nature of benefits observed in weight management, aging, illness, and physically active groups. The paper further examines how simplified public messaging may obscure important considerations, including per-meal distribution, essential amino acid quality, saturated fat exposure, energy intake, food access, and clinical status. It concludes that Registered Dietitian Nutritionists play a critical role in translating national guidance into safe, evidence-informed, and context-specific practice. A call to action is presented for the profession to strengthen education, implementation, research engagement, and policy advocacy so that protein guidance is applied with scientific nuance rather than as a one-size-fits-all prescription.",
+    "date": "2026-08-26",
+    "doi": "10.3389/fsufs.2026.1908163",
+    "url": "https://doi.org/10.3389/fsufs.2026.1908163",
+    "abstract": "Introduction Promoting farmers’ adoption of cultivated land quality protection practices is essential for long-term food security. This study develops a decision-making framework to examine how part-time farming affects the land protection behavior of large-scale farmers through three key production factors: land, capital, and labor. Methods Using survey data from 532 large-scale farming households in Jiangxi Province, China, this study applies ordinary least squares (OLS) and two-stage least squares (2SLS) models to estimate the linear and nonlinear effects of part-time farming on cultivated land quality protection practices. It further investigates the underlying mechanisms and examines heterogeneity by off-farm employment duration, exposure to natural disasters, geographical location, and dependence on rice income. Results and discussion The results reveal a significant U-shaped relationship between the degree of part-time farming and cultivated land quality protection behavior, with a turning point at an off-farm income share of approximately 52.5%. Part-time farming initially discourages land protection by reducing agricultural labor input and the scale of land operation, particularly during the early stage of off-farm employment. As the degree of part-time farming increases, however, agricultural socialized services and expanded social networks facilitate the adoption of land protection practices. These effects are more pronounced among farmers who engage in off-farm work for more than six months, operate farmland with a disaster-affected share exceeding 15%, or reside within 20 kilometers of a county town. Among farmers who derive a larger share of their income from rice production, the initial inhibitory effect is weaker and the turning point occurs earlier. The findings suggest that land quality protection policies should account for regional economic conditions, climatic risks, and geographical accessibility. Policy measures should promote agricultural socialized services, encourage appropriately scaled farm operations, develop digital platforms for sharing agricultural information, and strengthen rural infrastructure and disaster prevention systems.",
     "authors": [
-      "Anna Waterman",
-      "Alireza Jahan-Mihan",
-      "Zhiping Yu"
+      "Xinpeng Xu",
+      "Bin Zhang",
+      "Zhenlin Weng",
+      "Huogen Wang"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "How does metaphorical meaning “grow”? – An interpretive approach to literary metaphor from the perspective of Peircean semiotics",
+    "journal": "Language and Semiotic Studies",
+    "year": "2026",
+    "date": "2026-08-26",
+    "doi": "10.1515/lass-2026-0036",
+    "url": "https://doi.org/10.1515/lass-2026-0036",
+    "abstract": "Abstract Traditional metaphor studies mostly focus on conceptual mapping at the cognitive level and tend to regard metaphor as a largely static projection from the source domain to the target domain. Such a perspective fails to fully account for the unique openness of meaning and aesthetic creativity inherent in literary metaphor. To address this limitation, this paper proposes and applies an interpretive framework for literary metaphor based on C. S. Peirce’s triadic theory of signs. The core mechanism of this approach lies in the divergence of sign forms: through the unconventional reconstruction of conventional sign relationships, the fixed connection between signifier and signified is disrupted, thereby driving the dynamic semantic evolution of the interpretant. By analyzing three categories of literary metaphors, this study demonstrates how literary metaphors employ the “interpretive surplus” to break through the closure of conceptual frameworks and facilitate the dynamic “growth” of meaning beyond static conventions. This research argues that literary metaphor is not merely a cognitive tool. Instead, it functions as an aesthetic channel constructed through the interaction among sign, object and interpretant. While maintaining the interpretive openness of texts, literary metaphor realizes the creative generation of meaning and the deepening of aesthetic experience.",
+    "authors": [
+      "Xiaotao Zhou"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "Deconstructing tourist experiences in China's traditional villages: a cognitive–affective–conative perspective",
+    "journal": "Journal of Cultural Heritage Management and Sustainable Development",
+    "year": "2026",
+    "date": "2026-08-26",
+    "doi": "10.1108/jchmsd-09-2025-0303",
+    "url": "https://doi.org/10.1108/jchmsd-09-2025-0303",
+    "abstract": "Purpose While traditional village tourism is rapidly flourishing in China, scholarly research on tourists' experiences within these destinations remains limited. This study explores the tourist experience in China's traditional villages. Design/methodology/approach Using the cognitive–affective–conative model, this study employed a qualitative netnographic approach to investigate tourists' experiences by analyzing online reviews. Findings This study identifies tourism infrastructure, landscape, natural lifestyle, atmosphere, kinaesthesia and education as key dimensions of cognitive experience, while affective experiences encompass enjoyment, nostalgia, social bonding, tension release and negative emotions. Finally, conative experiences are reflected in tourists' intentions to recommend and revisit traditional villages. Research limitations/implications This research highlights the capacity of traditional villages to provide tourists with functional, hedonic, social and emotional value. However, the focus on a single case limits the generalizability of the findings. Future research should examine traditional village tourism across diverse sociocultural contexts. Originality/value Previous research has predominantly examined the protection and sustainable development of traditional villages from suppliers' perspectives. By contrast, this study develops a conceptual framework for understanding tourists' experiences in traditional villages and offers insights into cultural heritage preservation and sustainable tourism development.",
+    "authors": [
+      "Jianwei Ding",
+      "Md Azalanshah Md Syed",
+      "Xu Chen"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
