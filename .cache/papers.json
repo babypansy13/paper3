@@ -1,152 +1,145 @@
 [
   {
-    "field": "Marketing",
-    "title": "استراتيجيات الشركات متعددة الجنسيات في الدول النامية Multinational Corporation Strategies in Developing Countries",
-    "journal": "Comprehensive Journal of Science",
-    "year": "2026",
-    "date": "2026-08-29",
-    "doi": "10.65405/00m5k581",
-    "url": "https://doi.org/10.65405/00m5k581",
-    "abstract": "تُعد الشركات متعددة الجنسيات من أهم الفاعلين في الاقتصاد العالمي المعاصر، نظرًا لدورها في حركة الاستثمار الأجنبي المباشر، ونقل التكنولوجيا والمعرفة ، والمساهمة في خلق فرص العمل وتنمية الأسواق. وتكتسب دراسة استراتيجيات هذه الشركات في الدول النامية أهمية خاصة بسبب اختلاف البيئات الاقتصادية والمؤسسية والاجتماعية في هذه الدول عن بيئات الدول المتقدمة، الأمر الذي يفرض على الشركات الدولية الموازنة بين متطلبات التكامل العالمي من جهة، وضرورات التكيف مع الأسواق المحلية من جهة أخرى. وتهدف هذا الدراسة إلى تحليل أهم الاستراتيجيات التي تستخدمها الشركات متعددة الجنسيات في الدول النامية، وبيان دوافعها وعناصرها والعوامل المؤثرة في اختيارها، فضلًا عن تحليل آثارها الاقتصادية والتنموية و اعتمدت الدراسة على المنهج الوصفي التحليلي، من خلال مراجعة وتحليل الدراسات السابقة ذات الصلة باستراتيجيات الشركات متعددة الجنسيات والاستثمار الأجنبي المباشر في الدول النامية تبين من التحليل أن أبرز الاستراتيجيات تتمثل في الاستراتيجية العابرة للحدود التي تجمع بين التكامل والتكيف، إضافة إلى استراتيجيات الدخول إلى الأسواق، ونقل التكنولوجيا، وبناء الروابط مع المؤسسات المحلية، واستراتيجيات الاستفادة من الفروق المؤسسية والتنظيمية بين الدول. كما توضح الدراسات أن آثار الشركات متعددة الجنسيات في الدول النامية ليست إيجابية بصورة مطلقة أو سلبية بصورة مطلقة، وإنما تتحدد وفقًا لطبيعة الاستراتيجية المتبعة، وقدرة البيئة المحلية على استيعاب التكنولوجيا والمعرفة، ومستوى المنافسة، والسياسات الحكومية، وجودة المؤسسات.",
-    "authors": [
-      "عصام أبوعجيلة علي دريد"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Woven dECM yarn scaffolds enable volumetric muscle loss regeneration via immunomodulation",
-    "journal": "Nature Communications",
-    "year": "2026",
-    "date": "2026-08-29",
-    "doi": "10.1038/s41467-026-77032-y",
-    "url": "https://doi.org/10.1038/s41467-026-77032-y",
-    "abstract": "",
-    "authors": [
-      "Guangzhou Song",
-      "Wenqian Cong",
-      "Hongjiang Lu",
-      "Yumeng Wang"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Mental Health",
-    "title": "Variational autoencoders can detect coronary artery disease in myocardial perfusion SPECT images",
-    "journal": "European Journal of Nuclear Medicine and Molecular Imaging",
+    "title": "SECURING HEALTHCARE INFORMATION SYSTEMS AGAINST RANSOMWARE: A RISK-BASED FRAMEWORK",
+    "journal": "World Journal of Advanced Engineering Technology and Sciences",
     "year": "2026",
-    "date": "2026-08-29",
-    "doi": "10.1007/s00259-026-08161-1",
-    "url": "https://doi.org/10.1007/s00259-026-08161-1",
-    "abstract": "Abstract Purpose Variational autoencoders (VAEs) can detect unsupervised anomalies in medical images. We aimed to determine whether a VAE could automatically detect anomalies in myocardial perfusion SPECT (MPS) images. We then interpreted the training and generative processes of the VAE. Methods We trained a VAE on polar maps to learn the variability of normal myocardial perfusion profiles in latent space. The training dataset comprised 3,432 polar map images (49% male) without coronary artery disease (CAD) and the validation set contained 111 polar map images (59% male), among whom, (43% had obstructive CAD). This latent representation allowed the VAE to reconstruct synthetic normal images that served as references to detect anomalies. Abnormal myocardial perfusion was automatically identified by measuring differences between generated and original images using cosine similarity. We also summed stress scores (SSS) using sex-segregated normal databases. Results The trained VAE generated reference normal polar maps, regardless of normal and defect profiles and sex differences. The areas under the receiver-operating characteristics curve to detect CAD were 0.89 ± 0.041 for cosine similarity and 0.81 ± 0.030 for SSS ( p = 0.047). The VAE learned the characteristics of normal male and female myocardial perfusion distributions in the latent space. Conclusion This VAE-based approach improved CAD detection in MPS images and eliminated the need to determine sex-specific myocardial perfusion characteristics.",
+    "date": "2026-08-31",
+    "doi": "10.30574/gjeta.2026.28.2.0221",
+    "url": "https://doi.org/10.30574/gjeta.2026.28.2.0221",
+    "abstract": "Ransomware poses a significant risk to healthcare information systems, as successful attacks can lead to operational disruptions, compromise patient information, and pose a threat to the organization's operations. This research suggests a risk-based approach to cybersecurity that can help reduce the exposure to ransomware in a hospital or any other healthcare setting. The framework includes asset identification, threat and vulnerability assessment, risk prioritisation, access control, network segmentation, continuous monitoring, incident response, backup protection, and recovery planning. An approach in design oriented research methodology is used, and analyzed based on documented ransomware incidents, as well as representative scenarios of the healthcare system. The framework is measured through various factors including residual risk reduction, detection capability, containment time, recovery time, backup restorability, control coverage and operational resilience. It is expected that prioritizing controls based on criticality of asset, and the likelihood of attack, will help enhance ransomware preparedness and minimize service disruption. The research offers a systematic and practical proposal on how to enhance the cybersecurity resilience of healthcare systems, as well as safeguarding continuity of patient care in general.",
     "authors": [
-      "Koichi Okuda",
-      "Kenichi Nakajima",
-      "Takeshi Hara",
-      "Hiroto Yoneyama"
+      "Luqman Ali"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Public Policy",
-    "title": "Two Americas of Well-Being: Divergent Rural–Urban Patterns of Life Satisfaction and Happiness from 2.6 B Social Media Posts",
-    "journal": "Journal of Happiness Studies",
+    "field": "Psychology",
+    "title": "معوقات التعليم الإلكتروني وأثرها في تكافؤ الفرص التعليمية: مراجعة نقدية للأدبيات Obstacles to E-Learning and Their Impact on Equal Educational Opportunities: A Critical Review of the Literature",
+    "journal": "مجلة العلوم التربوية و النفسية Journal of Educational and Psychological Sciences",
     "year": "2026",
-    "date": "2026-08-29",
-    "doi": "10.1007/s10902-026-01093-5",
-    "url": "https://doi.org/10.1007/s10902-026-01093-5",
-    "abstract": "Abstract Using 2.6 billion geolocated tweets (2014–2022) and a fine-tuned generative language model, we construct county-level indicators of life satisfaction and happiness for the United States. We document an apparent rural–urban paradox : even in unadjusted county-level means, rural counties express higher life satisfaction while urban counties exhibit greater happiness . This opposite gradient persists and is further characterized once the two are treated as distinct layers of subjective well-being, evaluative vs. hedonic, showing that each maps differently onto place, politics, and time. Democratic-leaning areas show a suggestive negative association with evaluative well-being, conditional on structural and temporal controls, but this effect is modest and does not extend to happiness, where no meaningful partisan gradient emerges. Temporal shocks dominate the hedonic layer: happiness falls sharply during 2020–2022, whereas life satisfaction moves more modestly. These patterns are robust across logistic and OLS specifications with clustered standard errors and align with well-being theory. Interpreted as associations for the population of geolocated tweets, the results show that large-scale, language-based indicators can help clarify why prior findings about the rural–urban divide may differ by distinguishing the type of well-being expressed, offering a transparent, reproducible complement to traditional surveys.",
+    "date": "2026-08-30",
+    "doi": "10.26389/ajsrp.s120526",
+    "url": "https://doi.org/10.26389/ajsrp.s120526",
+    "abstract": "هدفت هذه الدراسة إلى تحليل معوقات التعليم الإلكتروني وأثرها في تحقيق مبدأ تكافؤ الفرص التعليمية، في ضوء الأدبيات التربوية ذات الصلة. واعتمدت الدراسة منهج المراجعة النقدية التحليلية للأدبيات، من خلال تحليل الدراسات والمراجع التي تناولت التعليم الإلكتروني، والتعليم عن بُعد، والفجوة الرقمية، والعدالة التعليمية، وتصنيف المعوقات المتكررة فيها وفق محاور رئيسية. وأظهرت الدراسة أن التعليم الإلكتروني يمكن أن يسهم في توسيع فرص التعلم وتجاوز قيود الزمان والمكان، إلا أن هذا الدور لا يتحقق بصورة تلقائية، بل يتوقف على توافر شروط تقنية واقتصادية ومؤسسية ومعرفية عادلة. كما كشفت الدراسة أن أبرز المعوقات المؤثرة في تكافؤ الفرص التعليمية تتمثل في ضعف البنية التحتية الرقمية، وعدم توافر الأجهزة والاتصال المستقر بالإنترنت، وارتفاع الكلفة الاقتصادية، وضعف المهارات الرقمية لدى الطلبة والمعلمين، ومحدودية الدعم المؤسسي والتربوي. وتوصلت الدراسة إلى أن هذه المعوقات لا تعمل بصورة منفصلة، بل تتفاعل فيما بينها وتؤدي إلى تعميق الفجوة التعليمية، خاصة لدى الطلبة في المناطق النائية، والطلبة من الأسر محدودة الدخل، وذوي الإعاقة. وأوصت الدراسة بضرورة تطوير البنية التحتية الرقمية، ودعم الفئات الأقل حظًا، وتدريب المعلمين والطلبة، وتبني سياسات تعليمية رقمية تراعي العدالة وتضمن استفادة جميع المتعلمين من التعليم الإلكتروني بصورة متكافئة.",
     "authors": [
-      "Stefano Maria Iacus",
-      "Giuseppe Porro"
+      "صباح صالح الشجراوي"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "جرائم التجارة الإلكترونية المرتبطة بالاعتداء على التوقيع الإلكتروني وبيانات بطاقات الائتمان (دراسة تحليلية مقارنة في ضوء التشريع الفلسطيني وبعض التشريعات العربية) Cybercrimes Related to Attacks on Electronic Signatures and Credit Card Data in E-Commerce (A Comparative Analytical Study in Light of Palestinian Legislation and Selected Arab Legislations)",
+    "journal": "مجلة العلوم الإقتصادية و الإدارية و القانونية Journal of Economic, Administrative and Legal Sciences",
+    "year": "2026",
+    "date": "2026-08-30",
+    "doi": "10.26389/ajsrp.q010526",
+    "url": "https://doi.org/10.26389/ajsrp.q010526",
+    "abstract": "على الرغم من التوسع المتسارع في التجارة الإلكترونية ووسائل الدفع والتوثيق الإلكتروني، لا تزال القواعد الجزائية التقليدية تواجه صعوبات في ملاحقة الجرائم الرقمية المرتبطة بالاعتداء على التوقيع الإلكتروني وبيانات بطاقات الائتمان، كما تفتقر الأدبيات القانونية العربية إلى معالجة مقارنة شاملة لكفاية الأطر التشريعية المنظمة لهذه الجرائم، وتهدف هذه الدراسة إلى تقييم كفاية التنظيم القانوني والجزائي في مواجهة جرائم التجارة الإلكترونية المرتبطة بالاعتداء على التوقيع الإلكتروني وبيانات بطاقات الائتمان، واعتمدت الدراسة على المنهج الوصفي التحليلي مدعوماً بالمنهج المقارن، من خلال تحليل التشريع الفلسطيني والتشريع المصري وبعض التشريعات العربية والأجنبية المتعلقة بالجرائم المعلوماتية والمعاملات الإلكترونية، وقد أظهرت الدراسة أن الطبيعة اللامادية والعابرة للحدود للبيئة الرقمية تُضعف فعالية القواعد الجزائية التقليدية، وأن التشريعين الفلسطيني والمصري يفتقران إلى نصوص جزائية متخصصة تُجرّم بصورة مستقلة الاستيلاء على بيانات بطاقات الائتمان وصور الاعتداء المتقدمة على التوقيع الإلكتروني، مما يؤدي إلى اللجوء إلى تكييفات تقليدية لا تستوعب دائماً الطبيعة الخاصة للبيانات ذات القيمة المالية، كما كشفت الدراسة الحاجة إلى تطوير تنظيم تشريعي وتقني أكثر ملاءمة للبيئة الرقمية، بما يعزز الحماية الجنائية للمعاملات الإلكترونية ويطوّر المعالجة القانونية للجرائم الرقمية في التشريعات العربية.",
+    "authors": [
+      "مجد أنور قمصية"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "Workload Management and Stress in Educational Institutions: The Role of Perceived Organizational Support in Shaping Employee Performance",
+    "journal": "GLOBAL BUSINESS FINANCE REVIEW",
+    "year": "2026",
+    "date": "2026-08-30",
+    "doi": "10.17549/gbfr.2026.31.8.221",
+    "url": "https://doi.org/10.17549/gbfr.2026.31.8.221",
+    "abstract": "",
+    "authors": [
+      "Bartolomeus Galih Visnhu Pradana Bartolomeus Galih Visnhu Pradana",
+      "Agatha Mayasari Agatha Mayasari"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "When Governance M eets F raud: The M oderating Role o f Internal Supervision and Political-Economic Pressure in Government Procurement",
+    "journal": "GLOBAL BUSINESS FINANCE REVIEW",
+    "year": "2026",
+    "date": "2026-08-30",
+    "doi": "10.17549/gbfr.2026.31.8.206",
+    "url": "https://doi.org/10.17549/gbfr.2026.31.8.206",
+    "abstract": "",
+    "authors": [
+      "Sulaeman Sulaeman",
+      "Dwi Martani Dwi Martani",
+      "Akhmad Syakhroza Akhmad Syakhroza",
+      "Dyah Setyaningrum Dyah Setyaningrum"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "The strength properties of marble and their intercorrelations: Insights into specimen size effect",
-    "journal": "Bulletin of Engineering Geology and the Environment",
+    "title": "Western Armenian Migration in Eastern Armenia in1894–1896 According to the “Murch” Periodical",
+    "journal": "Journal of Armenian studies",
     "year": "2026",
-    "date": "2026-08-29",
-    "doi": "10.1007/s10064-026-05288-1",
-    "url": "https://doi.org/10.1007/s10064-026-05288-1",
-    "abstract": "",
+    "date": "2026-08-30",
+    "doi": "10.54503/1829-4073-2026.2.45-54",
+    "url": "https://doi.org/10.54503/1829-4073-2026.2.45-54",
+    "abstract": "In the 1890s, the Western Armenians were scattered across the world as a result of the massacres carried out by Abdul Hamid. Those who escaped the massacres initially sought refuge in the Caucasus region. Despite the difficulties and obstacles imposed by the authorities, the Murch periodical attempted to provide information on Western Armenian refugees, how they could be helped, and how they could return to their homeland. This article summarises the newspaper’s coverage of refugees who found shelter in Eastern Armenia. We have included tables in the article to visually present the number of refugees in the Yerevan province.",
     "authors": [
-      "Amin Jamshidi",
-      "Deniz Akbay"
+      "Lilit Kosyan"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Consumer Research",
-    "title": "The power of faith: why religiously inclined farmers are more likely to embark on entrepreneurial journeys?",
-    "journal": "Current Psychology",
+    "title": "The Association between R&D Expenditure and Corporate Performance : A Comparison of Semiconductor and Other Electronic Manufacturing",
+    "journal": "Quality of Life Research",
     "year": "2026",
-    "date": "2026-08-29",
-    "doi": "10.1007/s12144-026-09939-0",
-    "url": "https://doi.org/10.1007/s12144-026-09939-0",
+    "date": "2026-08-30",
+    "doi": "10.59434/jqolr.2026.4.4.29",
+    "url": "https://doi.org/10.59434/jqolr.2026.4.4.29",
     "abstract": "",
     "authors": [
-      "Linlin Jin",
-      "Daobang Yang",
-      "Chaobang Ren",
-      "Yuping Zhao"
+      "Minjeong Kang",
+      "Jeong-Ho Koo"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Family Studies",
-    "title": "TARB book review: C. Thi Nguyen, Games: Agency as Art TARB書評: C. Thi Nguyen, Games: Agency as Art",
-    "journal": "Tokyo Academic Review of Books",
+    "field": "Marketing",
+    "title": "Temperature Effects on Transformer Oil Assessed by Ultrasonic Techniques",
+    "journal": "International Journal of Advanced Research in Science Communication and Technology",
     "year": "2026",
-    "date": "2026-08-29",
-    "doi": "10.52509/tarb0081",
-    "url": "https://doi.org/10.52509/tarb0081",
-    "abstract": "",
+    "date": "2026-08-30",
+    "doi": "10.48175/ijarsct-38151",
+    "url": "https://doi.org/10.48175/ijarsct-38151",
+    "abstract": "This paper presents a comprehensive ultrasonic investigation of power transformer oil across a controlled temperature range. Ultrasonic velocity, density and viscosity were measured using a ultrasonic technique. Various thermo-acoustic parameters were calculated using these values. The study reveals a linear decrease in ultrasonic velocity with increasing temperature, accompanied by a decrease in density and viscosity. These findings demonstrate the sensitivity of ultrasonic methods to thermal effects and highlight their potential for real-time monitoring of transformer oil quality and aging",
     "authors": [
-      "Kazuma Suzuki"
+      "Manoj Kumar Praharaj, Abhiram Satapathy",
+      "Kalyani Sanghamitra Mallick, Rashmi Mallik, Subhashree Jena"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "Optimization, Characterization, and Application of Soy Protein Isolate–Catechin Composite Microspheres in Emulsified Beef Balls",
-    "journal": "Food Biophysics",
+    "title": "Leaf Carbon, Nitrogen and Phosphorus Stoichiometry of Three Mangrove Species during Early Establishment after Spartina alterniflora Removal",
+    "journal": "International Journal of Environmental Sustainability and Protection",
     "year": "2026",
-    "date": "2026-08-29",
-    "doi": "10.1007/s11483-026-10207-8",
-    "url": "https://doi.org/10.1007/s11483-026-10207-8",
+    "date": "2026-08-30",
+    "doi": "10.35745/ijesp2026v06.03.0001",
+    "url": "https://doi.org/10.35745/ijesp2026v06.03.0001",
     "abstract": "",
     "authors": [
-      "Muhammad Zain Ul Aabideen",
-      "Lijing Geng",
-      "Aqsa Shafique",
-      "Hang Fu"
+      "Dian Xu",
+      "Ta-Jen Chu",
+      "Yuan-Yue Li"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "A Novel Iterative Method for Fractal–Fractional Differential Equations with Exponential and Mittag–Leffler Memory Kernels",
-    "journal": "Proceedings of the National Academy of Sciences, India Section A: Physical Sciences",
-    "year": "2026",
-    "date": "2026-08-29",
-    "doi": "10.1007/s40010-026-01212-0",
-    "url": "https://doi.org/10.1007/s40010-026-01212-0",
-    "abstract": "",
-    "authors": [
-      "Mahesh B. Nagpurkar",
-      "Krunal B. Kachhia"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
