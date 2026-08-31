@@ -1,145 +1,147 @@
 [
   {
-    "field": "Mental Health",
-    "title": "SECURING HEALTHCARE INFORMATION SYSTEMS AGAINST RANSOMWARE: A RISK-BASED FRAMEWORK",
-    "journal": "World Journal of Advanced Engineering Technology and Sciences",
+    "field": "Public Policy",
+    "title": "중국 이혼 재산분할에서 디지털자산 규제에 대한 검토와 제언",
+    "journal": "The Journal of China Area Studies",
     "year": "2026",
     "date": "2026-08-31",
-    "doi": "10.30574/gjeta.2026.28.2.0221",
-    "url": "https://doi.org/10.30574/gjeta.2026.28.2.0221",
-    "abstract": "Ransomware poses a significant risk to healthcare information systems, as successful attacks can lead to operational disruptions, compromise patient information, and pose a threat to the organization's operations. This research suggests a risk-based approach to cybersecurity that can help reduce the exposure to ransomware in a hospital or any other healthcare setting. The framework includes asset identification, threat and vulnerability assessment, risk prioritisation, access control, network segmentation, continuous monitoring, incident response, backup protection, and recovery planning. An approach in design oriented research methodology is used, and analyzed based on documented ransomware incidents, as well as representative scenarios of the healthcare system. The framework is measured through various factors including residual risk reduction, detection capability, containment time, recovery time, backup restorability, control coverage and operational resilience. It is expected that prioritizing controls based on criticality of asset, and the likelihood of attack, will help enhance ransomware preparedness and minimize service disruption. The research offers a systematic and practical proposal on how to enhance the cybersecurity resilience of healthcare systems, as well as safeguarding continuity of patient care in general.",
-    "authors": [
-      "Luqman Ali"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "معوقات التعليم الإلكتروني وأثرها في تكافؤ الفرص التعليمية: مراجعة نقدية للأدبيات Obstacles to E-Learning and Their Impact on Equal Educational Opportunities: A Critical Review of the Literature",
-    "journal": "مجلة العلوم التربوية و النفسية Journal of Educational and Psychological Sciences",
-    "year": "2026",
-    "date": "2026-08-30",
-    "doi": "10.26389/ajsrp.s120526",
-    "url": "https://doi.org/10.26389/ajsrp.s120526",
-    "abstract": "هدفت هذه الدراسة إلى تحليل معوقات التعليم الإلكتروني وأثرها في تحقيق مبدأ تكافؤ الفرص التعليمية، في ضوء الأدبيات التربوية ذات الصلة. واعتمدت الدراسة منهج المراجعة النقدية التحليلية للأدبيات، من خلال تحليل الدراسات والمراجع التي تناولت التعليم الإلكتروني، والتعليم عن بُعد، والفجوة الرقمية، والعدالة التعليمية، وتصنيف المعوقات المتكررة فيها وفق محاور رئيسية. وأظهرت الدراسة أن التعليم الإلكتروني يمكن أن يسهم في توسيع فرص التعلم وتجاوز قيود الزمان والمكان، إلا أن هذا الدور لا يتحقق بصورة تلقائية، بل يتوقف على توافر شروط تقنية واقتصادية ومؤسسية ومعرفية عادلة. كما كشفت الدراسة أن أبرز المعوقات المؤثرة في تكافؤ الفرص التعليمية تتمثل في ضعف البنية التحتية الرقمية، وعدم توافر الأجهزة والاتصال المستقر بالإنترنت، وارتفاع الكلفة الاقتصادية، وضعف المهارات الرقمية لدى الطلبة والمعلمين، ومحدودية الدعم المؤسسي والتربوي. وتوصلت الدراسة إلى أن هذه المعوقات لا تعمل بصورة منفصلة، بل تتفاعل فيما بينها وتؤدي إلى تعميق الفجوة التعليمية، خاصة لدى الطلبة في المناطق النائية، والطلبة من الأسر محدودة الدخل، وذوي الإعاقة. وأوصت الدراسة بضرورة تطوير البنية التحتية الرقمية، ودعم الفئات الأقل حظًا، وتدريب المعلمين والطلبة، وتبني سياسات تعليمية رقمية تراعي العدالة وتضمن استفادة جميع المتعلمين من التعليم الإلكتروني بصورة متكافئة.",
-    "authors": [
-      "صباح صالح الشجراوي"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "جرائم التجارة الإلكترونية المرتبطة بالاعتداء على التوقيع الإلكتروني وبيانات بطاقات الائتمان (دراسة تحليلية مقارنة في ضوء التشريع الفلسطيني وبعض التشريعات العربية) Cybercrimes Related to Attacks on Electronic Signatures and Credit Card Data in E-Commerce (A Comparative Analytical Study in Light of Palestinian Legislation and Selected Arab Legislations)",
-    "journal": "مجلة العلوم الإقتصادية و الإدارية و القانونية Journal of Economic, Administrative and Legal Sciences",
-    "year": "2026",
-    "date": "2026-08-30",
-    "doi": "10.26389/ajsrp.q010526",
-    "url": "https://doi.org/10.26389/ajsrp.q010526",
-    "abstract": "على الرغم من التوسع المتسارع في التجارة الإلكترونية ووسائل الدفع والتوثيق الإلكتروني، لا تزال القواعد الجزائية التقليدية تواجه صعوبات في ملاحقة الجرائم الرقمية المرتبطة بالاعتداء على التوقيع الإلكتروني وبيانات بطاقات الائتمان، كما تفتقر الأدبيات القانونية العربية إلى معالجة مقارنة شاملة لكفاية الأطر التشريعية المنظمة لهذه الجرائم، وتهدف هذه الدراسة إلى تقييم كفاية التنظيم القانوني والجزائي في مواجهة جرائم التجارة الإلكترونية المرتبطة بالاعتداء على التوقيع الإلكتروني وبيانات بطاقات الائتمان، واعتمدت الدراسة على المنهج الوصفي التحليلي مدعوماً بالمنهج المقارن، من خلال تحليل التشريع الفلسطيني والتشريع المصري وبعض التشريعات العربية والأجنبية المتعلقة بالجرائم المعلوماتية والمعاملات الإلكترونية، وقد أظهرت الدراسة أن الطبيعة اللامادية والعابرة للحدود للبيئة الرقمية تُضعف فعالية القواعد الجزائية التقليدية، وأن التشريعين الفلسطيني والمصري يفتقران إلى نصوص جزائية متخصصة تُجرّم بصورة مستقلة الاستيلاء على بيانات بطاقات الائتمان وصور الاعتداء المتقدمة على التوقيع الإلكتروني، مما يؤدي إلى اللجوء إلى تكييفات تقليدية لا تستوعب دائماً الطبيعة الخاصة للبيانات ذات القيمة المالية، كما كشفت الدراسة الحاجة إلى تطوير تنظيم تشريعي وتقني أكثر ملاءمة للبيئة الرقمية، بما يعزز الحماية الجنائية للمعاملات الإلكترونية ويطوّر المعالجة القانونية للجرائم الرقمية في التشريعات العربية.",
-    "authors": [
-      "مجد أنور قمصية"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "Workload Management and Stress in Educational Institutions: The Role of Perceived Organizational Support in Shaping Employee Performance",
-    "journal": "GLOBAL BUSINESS FINANCE REVIEW",
-    "year": "2026",
-    "date": "2026-08-30",
-    "doi": "10.17549/gbfr.2026.31.8.221",
-    "url": "https://doi.org/10.17549/gbfr.2026.31.8.221",
+    "doi": "10.34243/jcas.13.3.309",
+    "url": "https://doi.org/10.34243/jcas.13.3.309",
     "abstract": "",
     "authors": [
-      "Bartolomeus Galih Visnhu Pradana Bartolomeus Galih Visnhu Pradana",
-      "Agatha Mayasari Agatha Mayasari"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "When Governance M eets F raud: The M oderating Role o f Internal Supervision and Political-Economic Pressure in Government Procurement",
-    "journal": "GLOBAL BUSINESS FINANCE REVIEW",
-    "year": "2026",
-    "date": "2026-08-30",
-    "doi": "10.17549/gbfr.2026.31.8.206",
-    "url": "https://doi.org/10.17549/gbfr.2026.31.8.206",
-    "abstract": "",
-    "authors": [
-      "Sulaeman Sulaeman",
-      "Dwi Martani Dwi Martani",
-      "Akhmad Syakhroza Akhmad Syakhroza",
-      "Dyah Setyaningrum Dyah Setyaningrum"
+      "HanYuan Xu",
+      "MengYao Chen"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Urban Studies",
-    "title": "Western Armenian Migration in Eastern Armenia in1894–1896 According to the “Murch” Periodical",
-    "journal": "Journal of Armenian studies",
+    "field": "Marketing",
+    "title": "When AI meets design: the role of enhanced and impeded human–AI interaction in designers’ value co-creation",
+    "journal": "Asia Pacific Journal of Marketing and Logistics",
     "year": "2026",
-    "date": "2026-08-30",
-    "doi": "10.54503/1829-4073-2026.2.45-54",
-    "url": "https://doi.org/10.54503/1829-4073-2026.2.45-54",
-    "abstract": "In the 1890s, the Western Armenians were scattered across the world as a result of the massacres carried out by Abdul Hamid. Those who escaped the massacres initially sought refuge in the Caucasus region. Despite the difficulties and obstacles imposed by the authorities, the Murch periodical attempted to provide information on Western Armenian refugees, how they could be helped, and how they could return to their homeland. This article summarises the newspaper’s coverage of refugees who found shelter in Eastern Armenia. We have included tables in the article to visually present the number of refugees in the Yerevan province.",
+    "date": "2026-08-31",
+    "doi": "10.1108/apjml-04-2026-0925",
+    "url": "https://doi.org/10.1108/apjml-04-2026-0925",
+    "abstract": "Purpose With the rapid penetration of generative AI (GAI) in product design, designer-GAI value co-creation has emerged as a transformative new paradigm. However, the drivers and inhibitors of professional designers’ intentions to engage in GAI value co-creation remain under-explored, especially from the designer-centric perspective. Grounded in parasocial interaction theory (PSI), this study aims to examine how heterogeneous human–AI interaction modes (enhanced vs. impeded) affect designers’ co-creation intentions. Design/methodology/approach This study examines the hypotheses using survey data from 305 professional designers analyzed via partial least squares structural equation modeling. Findings Results show that the informativeness and novelty of GAI outputs significantly and positively predict designers’ co-creation intentions. Enhanced human–AI interaction positively promotes both informativeness and novelty, with AI transparency positively moderating these effects. Impeded human–AI interaction only negatively affects informativeness, with no significant effect on novelty, and AI transparency shows no moderating effect here. Originality/value This study extends human–AI interaction research and provides actionable guidance for GAI application in design practice.",
     "authors": [
-      "Lilit Kosyan"
+      "Li Wenrui",
+      "Chunxiao Zhu",
+      "Wen-qian Lou"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Consumer Research",
-    "title": "The Association between R&D Expenditure and Corporate Performance : A Comparison of Semiconductor and Other Electronic Manufacturing",
-    "journal": "Quality of Life Research",
+    "title": "Ukraine, Europe, and Global Security",
+    "journal": "International Affairs",
     "year": "2026",
-    "date": "2026-08-30",
-    "doi": "10.59434/jqolr.2026.4.4.29",
-    "url": "https://doi.org/10.59434/jqolr.2026.4.4.29",
+    "date": "2026-08-31",
+    "doi": "10.65240/iaf.125329323",
+    "url": "https://doi.org/10.65240/iaf.125329323",
     "abstract": "",
     "authors": [
-      "Minjeong Kang",
-      "Jeong-Ho Koo"
+      "S. Lavrov"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Marketing",
-    "title": "Temperature Effects on Transformer Oil Assessed by Ultrasonic Techniques",
-    "journal": "International Journal of Advanced Research in Science Communication and Technology",
+    "field": "Mental Health",
+    "title": "USING SINUSOIDAL INSTEAD OF TRIANGULAR STIMULUS SIGNALS ON THE IEEE 1057 STANDARD RANDOM NOISE TEST OF ADCS",
+    "journal": "World Journal of Advanced Engineering Technology and Sciences",
     "year": "2026",
-    "date": "2026-08-30",
-    "doi": "10.48175/ijarsct-38151",
-    "url": "https://doi.org/10.48175/ijarsct-38151",
-    "abstract": "This paper presents a comprehensive ultrasonic investigation of power transformer oil across a controlled temperature range. Ultrasonic velocity, density and viscosity were measured using a ultrasonic technique. Various thermo-acoustic parameters were calculated using these values. The study reveals a linear decrease in ultrasonic velocity with increasing temperature, accompanied by a decrease in density and viscosity. These findings demonstrate the sensitivity of ultrasonic methods to thermal effects and highlight their potential for real-time monitoring of transformer oil quality and aging",
+    "date": "2026-08-31",
+    "doi": "10.30574/wjaets.2026.20.2.0405",
+    "url": "https://doi.org/10.30574/wjaets.2026.20.2.0405",
+    "abstract": "The random-noise test for analog-to-digital converters (ADCs) prescribed by the IEEE Standard 1057 for Digitizing Waveform Recorders relies on a triangular signal to stimulate the converter under test. This paper shows that a sinusoidal stimulus may be used in its place without changing the estimator. Doing so makes the test more flexible and, more importantly, opens the way to sine-fitting algorithms for recovering the initial phase of the two data records that the test requires. Once known, this initial phase allows the two records to be aligned, reducing the error that additive noise introduces through the acquisition trigger. It is proved that the estimator obtained for the sinusoidal case coincides with the one recommended by the standard for the triangular case, and the two are compared, together with the direct-current case, both analytically and through their expected values and errors.",
     "authors": [
-      "Manoj Kumar Praharaj, Abhiram Satapathy",
-      "Kalyani Sanghamitra Mallick, Rashmi Mallik, Subhashree Jena"
+      "Alegria F. Corrêa"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "The lived experience of self-compassion among participants in the Mindful Self-Compassion (MSC) program: A hermeneutic phenomenological study",
+    "journal": "Journal of Meditation based Psychological Counseling",
+    "year": "2026",
+    "date": "2026-08-31",
+    "doi": "10.12972/mpca.2026.37.2",
+    "url": "https://doi.org/10.12972/mpca.2026.37.2",
+    "abstract": "Purpose: This study explored how adults who participated in a Mindful Self-Compassion (MSC) program experience self-compassion, and interpreted the meaning structure of that experience to reveal its underlying essence. Methods: Van Manen’s hermeneutic phenomenology was adopted. Data were collected from three adults who had completed a standard MSC program through individual written accounts and two group in-depth interviews, and were analyzed through the four existentials of lived body, lived time, lived space, and lived relation. Results: Self-compassion was not a matter of acquiring a new skill or reaching a particular emotional state, but an existential experience of reorienting one’s relationship with oneself. It emerged as participants became aware of their present selves through bodily sensation; took shape over time through repeated wavering and returning; was fostered in a space where the pressures of evaluation and achievement were suspended; and unfolded as understanding oneself extended into understanding others. These four dimensions converged into a single movement, whose essence was interpreted as “a mind that turns back against the current”—a turning away from the familiar direction that had continually driven participants forward, and a return to the self as it is in the present. Conclusion: Self-compassion is understood not as a fixed psychological trait but as an existential way of being. Self-compassion-based programs should cultivate a safe environment in which the burdens of evaluation and achievement are suspended, and should respect participants’ life contexts and their own pace.",
+    "authors": [
+      "Insil Song",
+      "Sujin Yun"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "The drivers and inhibitors of resident participatory processes in places with a negative reputation",
+    "journal": "Journal of Place Management and Development",
+    "year": "2026",
+    "date": "2026-08-31",
+    "doi": "10.1108/jpmd-08-2025-0104",
+    "url": "https://doi.org/10.1108/jpmd-08-2025-0104",
+    "abstract": "Purpose This study explores the factors that drive or inhibit resident participation in place branding initiatives, particularly in places with a negative reputation. It aims to deepen the understanding of different participatory practices in contexts where place image challenges and socio-economic issues intersect. Design/methodology/approach This study adopts a multidisciplinary framework combining insights from place branding, public administration and governance. It analyses three place branding campaigns in Luton, UK, using semi-structured interviews with residents and officials and netnographic analysis of online content. Findings The research identifies four major factors influencing participation: residents’ needs and benefits; campaign activities, recruitment and coordination; ownership, misrepresentation and power; and social tensions and lack of trust. The findings show that these factors do not operate as fixed drivers or inhibitors; rather, their role varies across top-down, bottom-up and mixed participatory approaches. Active participation is often driven by a desire to counter misrepresentation and foster community identity, whereas passive participation is more common in top-down initiatives with limited resident influence. Research limitations/implications This study is limited to one location with a negative reputation and may not be generalisable. Future studies should explore different cultural and spatial contexts to broaden the applicability of findings. Practical implications Effective resident participation requires addressing both intrinsic (ownership, trust) and extrinsic (professional benefits, coordination) motivators. Policymakers and place managers must design inclusive processes that balance control with community autonomy, particularly in stigmatised areas. Originality/value This study offers a novel, integrated view of resident participation by identifying how drivers and inhibitors interact across campaign types. It contributes original insights into participatory place branding in contexts of reputational and socio-economic disadvantage.",
+    "authors": [
+      "Ioana Sabrina Stoica",
+      "Alia El Banna",
+      "Mihalis Kavaratzis"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "Leaf Carbon, Nitrogen and Phosphorus Stoichiometry of Three Mangrove Species during Early Establishment after Spartina alterniflora Removal",
-    "journal": "International Journal of Environmental Sustainability and Protection",
+    "title": "Sustainable hospital accreditation in low- and middle-income countries: lessons for global stakeholders from Sri Lanka's discontinued national program",
+    "journal": "International Journal of Health Care Quality Assurance",
     "year": "2026",
-    "date": "2026-08-30",
-    "doi": "10.35745/ijesp2026v06.03.0001",
-    "url": "https://doi.org/10.35745/ijesp2026v06.03.0001",
-    "abstract": "",
+    "date": "2026-08-31",
+    "doi": "10.1108/ijhcqa-04-2026-0104",
+    "url": "https://doi.org/10.1108/ijhcqa-04-2026-0104",
+    "abstract": "Purpose Poor quality and unsafe healthcare exert an immense burden on resource-constrained health systems in Low- and Middle-Income Countries (LMICs). Hospital accreditation programs (HAPs) can help address this challenge, but many programs are not sustained, and limited research explains why. This case study aimed to inform future HAP implementation by examining the emergence, progression and discontinuation of the Sri Lankan Hospital Accreditation Program (SLHAP). Design/methodology/approach Purposively selected accreditation stakeholders (n = 18), directly involved in the SLHAP, were interviewed using a validated, semi-structured guide. Data were thematically analysed, with coding validated. Findings The SLHAP emerged through strong government leadership, with international technical and financial assistance. It progressed through standard practices, including developing standards, surveyor training and compliance gap analysis, facilitated by robust organisational structures. Discontinuation was due to limitations in project management and in the integration of HAP elements, resulting from governance constraints and leadership turnover. This resulted in frequent changes of plans, delays in adapting and communicating standards, and limited awareness and competencies among stakeholders. Practical implications A complex interaction of myriad factors produced the SLHAP's trajectory. The primary factors found to have led to discontinuation (project management, leadership turnover and governance constraints) can be addressed prospectively in other LMICs through comprehensive, effective and long-term project planning and management. Originality/value This study offers an in-depth exploration of meso- and micro-level factors shaping the overall trajectory of SLHAP, highlighting the importance of strengthening project management and meticulous integration of HAP elements. Therefore, SLHAP gives a unique opportunity to learn from a discontinued HAP in an LMIC.",
     "authors": [
-      "Dian Xu",
-      "Ta-Jen Chu",
-      "Yuan-Yue Li"
+      "Dilantha Dharmagunawardene",
+      "Mark Avery",
+      "David Greenfield",
+      "Paula Bowman"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "Study on the Relationship Between the Evolution of Blue-Green Space Landscape Patterns and Surface Temperature Changes in the Downtown Area of Jingzhou",
+    "journal": "Compendium of Earth and Space Sciences 地球與空間科學輯要",
+    "year": "2026",
+    "date": "2026-08-31",
+    "doi": "10.63313/cess.8004",
+    "url": "https://doi.org/10.63313/cess.8004",
+    "abstract": "【Objective】To explore the evolution of urban blue-green space landscape patterns and their relationship with changes in land surface temperature, providing reference for the optimization of urban blue-green spaces. 【Methods】Taking the central urban area of Jingzhou as the study area, based on land use data and Landsat remote sensing images from 2005, 2015, and 2025, eight landscape pattern indicators, including PLAND, PD, LPI, LSI, COHESION, DIVISION, SHDI, and AI, were selected to analyze the evolution characteristics of blue-green space landscape patterns. Combined with the results of land surface temperature retrieval, global Moran's I, local Moran's I, and correlation analysis methods were used to explore the relationship between landscape pattern changes and land surface temperature changes. 【Results】(1) From 2005 to 2025, the proportion and dominant patch size of blue-green spaces in the central urban area of Jingzhou continuously decreased, with PLAND and LPI dropping from 85.67% and 84.30% to 71.35% and 68.24%, respectively, while PD, LSI, and DIVISION showed continuous increases, indicating increasing fragmentation of blue-green spaces. (2) Land surface temperature exhibited obvious spatial differentiation, with high-temperature areas mainly distributed in densely built-up regions, and rivers, water bodies, and concentrated green areas showing lower temperatures. The changes in blue-green spaces corresponded well spatially with the changes in land surface temperature. (3) Spatial autocorrelation analysis showed that changes in blue-green space landscape patterns and land surface temperature exhibited significant spatial clustering and local correlation features. (4) PLAND, LPI, COHESION, and AI were negatively correlated with changes in land surface temperature, while PD, LSI, DIVISION, and SHDI were positively correlated, with PLAND having the highest correlation. 【Conclusion】The changes in blue-green space patterns in the central urban area of Jingzhou are significantly associated with changes in land surface temperature. Increasing the scale, integrity, and connectivity of blue-green spaces helps enhance cooling effects, while landscape fragmentation weakens their thermal environment regulation capabilities. Future urban development should strengthen the protection of blue-green spaces and the construction of connectivity networks, reducing the fragmentation of ecological spaces caused by construction activities.",
+    "authors": [
+      "Run Zhou"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Servant leadership effect on knowledge-hiding behavior: the moderated mediation influence of hope and burnout",
+    "journal": "European Journal of Management Studies",
+    "year": "2026",
+    "date": "2026-08-31",
+    "doi": "10.1108/ejms-12-2024-0127",
+    "url": "https://doi.org/10.1108/ejms-12-2024-0127",
+    "abstract": "Purpose This study examines the mechanisms and boundary conditions underlying the relationship between servant leadership and knowledge-hiding behavior, using a moderated mediation model based on data from Indian employees across diverse industries. Design/methodology/approach A total of 311 valid responses was analyzed employing Hayes’s PROCESS macro to test the proposed model. Findings Hope moderates the relationship between servant leadership and burnout. Specifically, servant leadership is associated with the strongest negative indirect effect on knowledge-hiding through burnout when hope is low. This negative effect persists but weakens when hope is high. Research limitations/implications The cross-sectional design restricts causal interpretations. Practical implications Findings offer insights to help organizations reduce knowledge-hiding behaviors among employees. Originality/value This study advances servant leadership and knowledge-hiding research by identifying how situational factors such as hope influence the effectiveness of servant leadership, emphasizing the need to align leadership style with contextual conditions to optimize outcomes.",
+    "authors": [
+      "Mohammad Faraz Naim",
+      "Adnan Ozyilmaz"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
