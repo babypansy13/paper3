@@ -1,149 +1,158 @@
 [
   {
-    "field": "Consumer Research",
-    "title": "Youth perspectives in the realization of AmBisyon Natin 2040: Basis for an engagement framework",
-    "journal": "International Journal of Governance, Public Policy, Internationalization, and Global Affairs (INGOPIGA)",
+    "field": "Mental Health",
+    "title": "Phase 3 Trial of Oral Infigratinib in Children with Achondroplasia",
+    "journal": "New England Journal of Medicine",
     "year": "2026",
-    "date": "2026-09-02",
-    "doi": "10.63498/ingopiga8",
-    "url": "https://doi.org/10.63498/ingopiga8",
+    "date": "2026-09-03",
+    "doi": "10.1056/nejmoa2604565",
+    "url": "https://doi.org/10.1056/nejmoa2604565",
     "abstract": "",
-    "authors": [],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "authors": [
+      "Ravi Savarirayan",
+      "Julie Hoover-Fong",
+      "Melita Irving",
+      "Paul Arundel"
+    ],
+    "citations": 4,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Public Policy",
-    "title": "Young people’s experiences of nature in and outside school: implications for climate change and sustainability education",
-    "journal": "London Review of Education",
+    "field": "Psychology",
+    "title": "Yellow protein co-opted to sustain obligate symbiosis in leaf beetles",
+    "journal": "Nature Communications",
     "year": "2026",
-    "date": "2026-09-02",
-    "doi": "10.14324/lre.24.1.16",
-    "url": "https://doi.org/10.14324/lre.24.1.16",
-    "abstract": "Young people’s perspectives on climate change, sustainability and nature reveal a set of interconnected yet uneven experiences that have significant implications for climate change and sustainability education. Drawing on a large-scale survey of 2,429 students aged 11–14 in England, this article examines how students’ nature connectedness shapes their attitudes towards learning about climate change and sustainability, and how their everyday encounters with nature – both within and outside school – inform these relationships. Students’ responses to open-ended questions illuminate the sensory, affective and relational qualities of nature that matter most to them, including aesthetic appreciation, emotional regulation and embodied experiences such as sound, smell and touch. Yet these rich accounts contrast sharply with their descriptions of nature in school, where experiences are often limited to incidental encounters during breaktimes or narrowly framed curricular activities. These disparities further highlight persistent social and spatial inequities in access to meaningful nature experiences, as well as missed opportunities within school environments to cultivate deeper forms of nature connection. The findings suggest that young people’s affective and sensory relationships with nature represent an underused lever for strengthening climate change and sustainability education. By foregrounding young people’s lived experiences, the article argues for a more integrated approach to learning in, about and for nature – one that recognises varied forms of nature engagement, attends to inequities in access, and positions enrichment as a holistic component of curriculum and personal development. The discussion considers how these insights can inform emerging policy agendas and support schools in designing climate and sustainability education that is both experientially grounded and responsive to young people’s diverse ways of knowing and relating to the natural world.",
+    "date": "2026-09-03",
+    "doi": "10.1038/s41467-026-76942-1",
+    "url": "https://doi.org/10.1038/s41467-026-76942-1",
+    "abstract": "Abstract Yellow proteins are best known for their roles in pigmentation, behavior, and development across insects. Here, we uncover their striking evolutionary co-option for a wholly distinct function: sustaining a Paleocene-aged digestive symbiosis in tortoise beetles. We show that a female-specific Yellow forms the gelatinous spheres that encapsulate the bacterium Stammera during vertical transmission, allowing it to subsist extracellularly despite its drastically reduced genome (0.24 Mb) and limited metabolic capacity. Yellow expression is highly localized to symbiont-harboring glands in the ovaries, where the protein is assembled into a matrix and secreted during egg-laying. Functional knockdown of yellow disrupts sphere integrity and compromises symbiont viability under dry conditions, underscoring the protein’s embedding properties and protective role for Stammera . These findings reveal a novel function for an ancient gene family and demonstrate how tortoise beetles have repurposed Yellows to overcome the extreme metabolic constraints faced by their symbionts during extracellular transmission.",
     "authors": [
-      "Grace Healy",
-      "Joy Perry",
-      "Nicola Walshe"
+      "Marleny García-Lozano",
+      "Christiane Emmerich",
+      "Christine Henzler",
+      "Iris Koch"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Workplace romance in organizations: a theory-driven systematic review and integrated framework",
+    "journal": "International Journal of Organization Theory & Behavior",
+    "year": "2026",
+    "date": "2026-09-03",
+    "doi": "10.1108/ijotb-05-2026-0153",
+    "url": "https://doi.org/10.1108/ijotb-05-2026-0153",
+    "abstract": "Purpose Workplace romance is prevalent and consequential in modern organizations, yet research on the phenomenon remains theoretically fragmented across organizational behavior and human resource management perspectives. Accordingly, this study synthesizes the workplace romance literature using a theory-driven framework to develop a more integrated understanding of its antecedents, mechanisms, and organizational consequences. Design/methodology/approach This study employs a systematic literature review of 61 research articles published in Scopus-indexed journals. Findings The findings show that workplace romance operates as a multi-level organizational phenomenon shaped by interaction patterns, power dynamics, fairness perceptions, and social interpretations, with both positive (e.g. engagement, commitment, well-being) and negative (e.g. bias, conflict, ostracism) consequences. These outcomes are contingent on relational motives, contextual conditions, organizational governance, and broader institutional environments. Practical implications The findings provide insights for decision-makers in designing balanced workplace relationship policies, strengthening fairness and governance mechanisms, and fostering inclusive and ethical organizational climates. Social implications The study contributes to broader discussions on inclusion, fairness, and employee well-being by highlighting how workplace romance intersects with issues of gender, power, identity, and organizational ethics, supporting Sustainable Development Goal (SDG) 5 (Gender Equality) and SDG 8 (Decent Work and Economic Growth). Originality/value This study contributes by offering an integrated conceptual framework and a multidisciplinary future research agenda that advance theoretical integration in workplace romance research while highlighting emerging areas such as identity diversity, organizational governance, and contextual variation.",
+    "authors": [
+      "Ujjal Mukherjee",
+      "L.N. Sneha Narasimhan",
+      "Girija Vyas"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Who sees visions as plausible? The joint effect of leader vision communication and employee work passion on job performance",
+    "journal": "Journal of Managerial Psychology",
+    "year": "2026",
+    "date": "2026-09-03",
+    "doi": "10.1108/jmp-01-2025-0095",
+    "url": "https://doi.org/10.1108/jmp-01-2025-0095",
+    "abstract": "Purpose This study aims to examine how leader vision communication shapes follower job performance by shifting the focus from leaders to followers. Specifically, it highlights the roles of perceived vision plausibility and follower work passion in explaining when and why leader vision communication becomes effective. Design/methodology/approach Using the dualistic model of passion and motivated information processing theory, the study proposes that harmonious work passion (but not obsessive work passion) enhances the positive effects of leader vision communication on followers' perceptions of vision plausibility. A multisource, time-lagged survey of 229 leader–follower dyads tested these hypothesized relationships. Findings The results demonstrate that follower harmonious work passion amplifies the impact of leader vision communication on perceived vision plausibility, which mediates the relationship between leader vision communication and follower job performance. Originality/value This study integrates leadership and passion research to clarify when and how leader vision communication becomes effective, highlighting harmonious work passion and perceived vision plausibility as key follower-driven mechanisms. It offers actionable guidance for improving vision effectiveness and performance.",
+    "authors": [
+      "Junmei Lan",
+      "Li Guo",
+      "Peipei Shu",
+      "Wenxing Liu"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Marketing",
-    "title": "Why diabetes-related foot ulcers fail to heal despite successful revascularization: closing the patency-to-healing gap: a narrative review",
-    "journal": "Journal of Yeungnam Medical Science",
+    "title": "When industrial companies implement circular business models, what do they really do?",
+    "journal": "Journal of Business & Industrial Marketing",
     "year": "2026",
-    "date": "2026-09-02",
-    "doi": "10.12701/jyms.2026.43.60",
-    "url": "https://doi.org/10.12701/jyms.2026.43.60",
-    "abstract": "",
+    "date": "2026-09-03",
+    "doi": "10.1108/jbim-10-2025-0967",
+    "url": "https://doi.org/10.1108/jbim-10-2025-0967",
+    "abstract": "Purpose Implementing circular business models (CBMs) in industry is promising yet difficult. Prior research has largely focused on identifying barriers to CBM adoption and the enablers needed to overcome them. However, addressing barriers alone is insufficient, as circularity must ultimately be embedded in companies’ routine-based practices to become operational and scalable. Existing practice-oriented studies remain limited and tend to examine isolated aspects of CBMs, such as value creation, value delivery or value capture, rather than how these dimensions are pursued together. This study aims to address this gap by synthesizing how industrial companies implement CBMs through phase-based practices that span business model dimensions. Design/methodology/approach The authors conducted a three-stage review (identification–screening–eligibility) of academic and gray literature, ending with 87 studies included. Using qualitative content analysis, the authors coded circular practices and their underlying activities and applied the Gioia methodology to visualize them. The study grounds in the Swedish industrial context, given its early and coordinated adoption of circular economy policies and strategies. Findings The findings reveal a three-phased CBM implementation process: designing, developing, and scaling. In the design phase, companies explore circular value logics, build internal capabilities, and renew ecosystem partnerships. The development phase involves testing circular concepts, transforming organizational processes, and launching new revenue models. Finally, the scaling phase focuses on market expansion and digital integration to enhance circular operations. Originality/value This study advances CBM literature by identifying business practices and underlying activities that outline how industrial companies implement CBMs in practice. It structures these practices into a phased framework along with specific actions and key considerations for each phase. Finally, it shows how value creation, delivery and capture are activated differentially across implementation phases.",
     "authors": [
-      "Mohamed Magdy Mohamed Badr"
+      "Debadrita Panda",
+      "Vinit Parida",
+      "Johan Frishammar"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Psychology",
-    "title": "When subjective norms do not matter: an extended TPB model of social entrepreneurial intentions in Tunisia",
-    "journal": "Social Enterprise Journal",
-    "year": "2026",
-    "date": "2026-09-02",
-    "doi": "10.1108/sej-03-2026-0060",
-    "url": "https://doi.org/10.1108/sej-03-2026-0060",
-    "abstract": "Purpose This study aims to investigate the determinants of social entrepreneurial intentions (SEI) among Tunisian university students by integrating the theory of planned behavior (TPB) with individual psychological characteristics – risk-taking propensity, need for achievement and entrepreneurial self-efficacy. Moving beyond prior TPB applications, the authors situate our model within the distinct post-revolutionary Tunisian context and engage explicitly with the SEI literature, including constructs such as prosocial motivation and perceived social support. Design/methodology/approach A quantitative cross-sectional survey was conducted among 587 university students across five major Tunisian universities using stratified random sampling. Data were analyzed using partial least squares structural equation modeling. Measurement scales were validated through a systematic cultural adaptation process, including translation, back-translation, expert review and a pilot test with 42 participants. Findings SEI are primarily driven by entrepreneurial self-efficacy (ß = 0.34, p &lt; 0.001, f² = 0.31), attitude toward social entrepreneurship (ß = 0.21, p &lt; 0.001, f² = 0.15) and perceived behavioral control (ß = 0.18, p &lt; 0.001, f² = 0.12). Risk-taking propensity and need for achievement exert small but significant direct effects. Subjective norms show no significant influence, a finding theoretically explained through post-revolutionary individualization processes in Tunisia. The model explains 64.2% of the variance in SEI. Practical implications Universities should design experiential SEI programs to build self-efficacy. Policymakers should reduce institutional barriers by integrating social entrepreneurship into Tunisia’s National Employment Strategy 2030, supporting student incubators through NGO partnerships and creating seed-funding mechanisms specific to social ventures. Originality/value This study contributes to the underexplored SEI literature in Tunisia by demonstrating how post-revolutionary individualization reshapes classic TPB relationships, particularly the non-effect of subjective norms in a nominally collectivistic culture. Theoretically, this refines TPB by specifying a boundary condition under which subjective norms lose predictive power. It also extends the SEI construct operationalization to include moral obligation and perceived social support dimensions, advancing measurement rigor in this setting.",
-    "authors": [
-      "Fitouri Mohamed",
-      "Samia Karoui Zouaoui"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "Volatilomic and transcriptomic analyses uncover the mechanisms underlying flavor-related VOC changes during the harvest period of Citrus reticulata ‘Chachi’",
-    "journal": "npj Science of Food",
-    "year": "2026",
-    "date": "2026-09-02",
-    "doi": "10.1038/s41538-026-01124-8",
-    "url": "https://doi.org/10.1038/s41538-026-01124-8",
-    "abstract": "",
-    "authors": [
-      "Ding Huang",
-      "Jiawei Chen",
-      "Jinmei Li",
-      "Xiang Luo"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Voice analysis in asthmatic and healthy individuals: comparative assessment of asthma control levels using machine learning models",
-    "journal": "BMC Pulmonary Medicine",
-    "year": "2026",
-    "date": "2026-09-02",
-    "doi": "10.1186/s12890-026-04654-9",
-    "url": "https://doi.org/10.1186/s12890-026-04654-9",
-    "abstract": "",
-    "authors": [
-      "Neval Alagöz",
-      "Mehmet Atilla Uysal",
-      "Murat Gezer",
-      "Can Ortak"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Urban Studies",
-    "title": "Understanding the factors influencing social entrepreneurial intentions among Indian youth: a multi-group analysis",
-    "journal": "Journal of Enterprising Communities: People and Places in the Global Economy",
+    "title": "Urban Planning and Land Competence of Local Government Bodies: Issues of Correlation and Delimitation",
+    "journal": "Town-Planning Law",
     "year": "2026",
-    "date": "2026-09-02",
-    "doi": "10.1108/jec-09-2025-0296",
-    "url": "https://doi.org/10.1108/jec-09-2025-0296",
-    "abstract": "Purpose This study aims to forecast university students’ intentions towards social entrepreneurship (SE). The research investigated the individual entrepreneurial orientation (IN-EO) dimensions and contextual factors that shape the intentions of Generation Z (business and engineering students) using gender like a control variable. Design/methodology/approach The data was gathered from 438 engineering and 412 business students in north-west India using a questionnaire which was self-administered. The data was further analysed using multi-group analysis following measurement invariance of composite model steps, PROCESS function and partial least square-structural equation modelling. Findings The outcomes showcased that IN-EO factors positively shaped engineering and business students’ social entrepreneurial intentions (SEI). The result of the study confirms that university support strongly influences engineering students but insignificantly influences business students towards SE. In contrast, both groups represented an insignificant association between perceived social support (PSS) in the context of SEI. Originality/value The study addressed a knowledge gap by investigating how IN-EO dimensions, university support and PSS influences SEI. The study also showcases on the significance of nation for establishing an increased supportive atmosphere to encourage scholars to explore SE as a feasible career choice.",
+    "date": "2026-09-03",
+    "doi": "10.18572/2500-0292-2026-3-18-24",
+    "url": "https://doi.org/10.18572/2500-0292-2026-3-18-24",
+    "abstract": "The article examines the correlation between urban planning and land competence of local self-government bodies. The author proceeds from the organic interrelation of urban planning, land and housing legislation, determined by the strong connection between urban development objects and land, as well as by the public significance of territorial development regulation. Particular attention is paid to the distinction between the categories of land, land plot and settlement lands, the principle of unity of the fate of land plots and objects located on them, and the distribution of powers between the Government of the Russian Federation, executive authorities of constituent entities of the Russian Federation and local self-government bodies in transferring land from one category to another. The author substantiates the need for a more comprehensive consideration of the position of municipalities in decision-making that determines the subsequent regime of urban planning use of territories.",
     "authors": [
-      "Mridul Trivedi",
-      "Latika Sharma",
-      "Himanshu Bagdi"
+      "Lyudmila N. Volkovskaya"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "The myth of the algorithmic entrepreneur: how gig platforms quietly close the door on worker learning",
-    "journal": "Development and Learning in Organizations: An International Journal",
+    "title": "Trophectoderm biopsy and vitrification: survival, oxidative stress and cell count in bovine embryos",
+    "journal": "Reproduction, Fertility and Development",
     "year": "2026",
-    "date": "2026-09-02",
-    "doi": "10.1108/dlo-04-2026-0200",
-    "url": "https://doi.org/10.1108/dlo-04-2026-0200",
-    "abstract": "Purpose This viewpoint examines how two mechanisms of entrepreneurial identity and opacity in algorithmic management (AM) systems operate jointly to suppress learning and developmental capacity in app-based gig platforms. Design/methodology/approach This viewpoint is based on a review of existing research on gig work, AM, and workplace learning. It draws insights from prior studies and presents them in a practitioner-oriented format. Findings Entrepreneurial framing puts the burden of problem diagnosis on individual workers, which makes learning more difficult. At the same time, algorithmic opacity undermines the conditions under which informal learning can occur. Together, these mechanisms create a system in which workers are not positioned to claim learning and development as a right. Research limitations/implications This viewpoint extends gig work research by bringing workplace learning into the discussion. Future studies can examine how entrepreneurial identity and algorithmic management together shape workers’ learning and developmental outcomes, rather than studying them separately. It also encourages HR and organizational scholars to examine learning as an organizational responsibility in platform work. Practical implications Three interventions are proposed: retiring the entrepreneurial label, redesigning feedback systems, and building developmental infrastructure independent of platform control. Originality/value This viewpoint offers a framework to understand how and what ideological and structural mechanisms hinder workers’ developmental capacity. It goes beyond existing critiques by showing how these mechanisms interact, rather than treating them as separate problems.",
+    "date": "2026-09-03",
+    "doi": "10.1071/rd26017",
+    "url": "https://doi.org/10.1071/rd26017",
+    "abstract": "Context Trophectoderm (TE) biopsy combined with embryo vitrification is increasingly being used; however, concerns remain regarding its effects on embryo survival and physiological stability after warming. Aims We aimed to evaluate whether TE biopsy performed prior to vitrification compromises early post-warming recovery and physiological responses of bovine embryos. Methods Expanded blastocysts were allocated into two groups, namely, Control and Biopsy. After warming, embryos were evaluated at 0, 4, 24, and 48 h for re-expansion and hatching rates. Mitochondrial activity, oxidative stress, antioxidant activity estimated by intracellular thiol content, and total cell number were assessed after 48 h. Key results Re-expansion differed between groups at 0 h (Control 13.40% vs Biopsy 33.90%; P = 0.005) and 4 h (Control 93.81% vs Biopsy 84.75%; P = 0.038), with no differences at 24 or 48 h (P ≥ 0.346). Hatching rates were similar at 4 h (P = 0.447), but higher in the Biopsy group at 24 h (77.56% vs 53.35%; P = 0.005) and 48 h (90.79% vs 77.39%; P = 0.027). The Biopsy group showed higher mitochondrial activity (P &lt; 0.001), reactive oxygen species (P = 0.009), intracellular thiol content (P &lt; 0.001), and total cell number (216.68 ± 9.75 vs 186.82 ± 10.22; P = 0.038). Conclusions TE biopsy prior to vitrification induced oxidative stress, increased mitochondrial activity and increased thiol content, but did not compromise early post-warming recovery of bovine embryos. Implications TE biopsy before vitrification is safe under short-term in vitro conditions.",
     "authors": [
-      "Mansi Tripathi",
-      "Teena Bharti"
+      "Dayana Silva Araújo",
+      "Rafael Monteiro dos Santos",
+      "Gabriela Luiza Soares Clarindo",
+      "Naiara Zoccal Saraiva"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "Examining the effect of tax avoidance on ESG performance: moderating role of audit fees",
-    "journal": "Journal of Economic and Administrative Sciences",
+    "field": "Food Industry / Science / Design",
+    "title": "Time-dependent hydrothermal modification of proso millet: impact on functional, pasting and rheological characteristics of flour",
+    "journal": "Journal of Food Measurement and Characterization",
     "year": "2026",
-    "date": "2026-09-02",
-    "doi": "10.1108/jeas-12-2025-0916",
-    "url": "https://doi.org/10.1108/jeas-12-2025-0916",
-    "abstract": "Purpose This study explores the effect of corporate tax avoidance (TA) on environmental, social, and governance performance (ESG_P), emphasizing the moderating role of audit fees (AF). While TA can provide financial flexibility to support sustainability initiatives, it also raises concerns about ethical conduct and transparency. The study seeks to clarify whether TA promotes or undermines ESG outcomes and how audit quality, as reflected in AF, influences this relationship. Design/methodology/approach The analysis is based on 602 firm-year observations from FTSE 100 non-financial companies over the period 2014–2022. Using a panel data regression framework, the study examines both the direct impact of TA on ESG_P and the moderating effect of AF. To address potential endogeneity and enhance the robustness of the findings, a dynamic panel estimation approach (system GMM) is employed, supported by comprehensive diagnostic and robustness tests. Findings The results reveal a significant positive association between TA and ESG_P, suggesting that firms may reinvest tax savings into sustainability-related initiatives. However, this relationship weakens under higher AF, indicating that stronger audit scrutiny limits opportunistic tax behavior and enhances corporate transparency. Originality/value This study contributes to the growing literature on corporate sustainability by revealing the dual nature of TA, both as a potential driver of ESG investment and as a governance risk. By incorporating AF as a moderating factor, the research provides novel evidence on how external audit quality can align tax strategies with authentic sustainability objectives.",
+    "date": "2026-09-03",
+    "doi": "10.1007/s11694-026-04901-x",
+    "url": "https://doi.org/10.1007/s11694-026-04901-x",
+    "abstract": "",
     "authors": [
-      "Rihab Ghribi",
-      "Wafa Kchaou",
-      "Anis Jarboui"
+      "Shailaja H Poojari",
+      "Sreechithra T V",
+      "Kshitija N Jadhav",
+      "Suresh D Sakhare"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "The informativeness of stock price at dual-class firms",
+    "journal": "Review of Accounting Studies",
+    "year": "2026",
+    "date": "2026-09-03",
+    "doi": "10.1007/s11142-026-09991-y",
+    "url": "https://doi.org/10.1007/s11142-026-09991-y",
+    "abstract": "Abstract We examine whether disproportionate insider control, or the divergence between insider voting and cash flow rights at dual-class firms, influences the extent to which stock price reflects information about future firm performance. We find that current returns incorporate less information about future earnings and cash flows as disproportionate insider control increases. However, monitoring by influential institutional investors, strong board oversight, and high-quality disclosure significantly attenuate this effect, such that disproportionate insider control does not result in less informative stock prices. Collectively, our findings reveal that, although the dual-class structure is associated with less informative stock prices, on average, monitoring and disclosure can alleviate investor concerns about disproportionate insider control while allowing firms to take advantage of the benefits of a dual-class ownership structure.",
+    "authors": [
+      "Jason Bangert",
+      "Linda A. Myers",
+      "Roy Schmardebeck"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
