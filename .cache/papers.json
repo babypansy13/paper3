@@ -1,158 +1,154 @@
 [
   {
     "field": "Mental Health",
-    "title": "Phase 3 Trial of Oral Infigratinib in Children with Achondroplasia",
-    "journal": "New England Journal of Medicine",
+    "title": "Young adult attitudes and beliefs regarding the use of vaping: a cross-sectional study",
+    "journal": "International Journal of Adolescent Medicine and Health",
     "year": "2026",
-    "date": "2026-09-03",
-    "doi": "10.1056/nejmoa2604565",
-    "url": "https://doi.org/10.1056/nejmoa2604565",
-    "abstract": "",
+    "date": "2026-09-04",
+    "doi": "10.1515/ijamh-2025-0142",
+    "url": "https://doi.org/10.1515/ijamh-2025-0142",
+    "abstract": "Abstract Objectives To investigate the attitudes and beliefs toward vaping among university students in Northern Jordan, and to explore any gender-based differences in attitudes and beliefs regarding vaping use. Methods A descriptive cross-sectional study was conducted, surveying 500 university students in universities in Northern Jordan. Results The study showed widespread e-smoking use, with 62.0 % of participants currently using e-cigarettes. Regarding attitudes, 57.4 % of students expressed negative views toward e-cigarettes, while 42.6 % expressed positive views. 61.8 % expressed doubts about the benefits and safety of e-cigarettes, while 38.2 % expressed strong positive views. Gender-based analysis indicated statistically significant differences. Conclusions There is a need for targeted public health interventions and educational programs to address misconceptions and promote informed decision-making regarding e-cigarette use.",
     "authors": [
-      "Ravi Savarirayan",
-      "Julie Hoover-Fong",
-      "Melita Irving",
-      "Paul Arundel"
-    ],
-    "citations": 4,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Yellow protein co-opted to sustain obligate symbiosis in leaf beetles",
-    "journal": "Nature Communications",
-    "year": "2026",
-    "date": "2026-09-03",
-    "doi": "10.1038/s41467-026-76942-1",
-    "url": "https://doi.org/10.1038/s41467-026-76942-1",
-    "abstract": "Abstract Yellow proteins are best known for their roles in pigmentation, behavior, and development across insects. Here, we uncover their striking evolutionary co-option for a wholly distinct function: sustaining a Paleocene-aged digestive symbiosis in tortoise beetles. We show that a female-specific Yellow forms the gelatinous spheres that encapsulate the bacterium Stammera during vertical transmission, allowing it to subsist extracellularly despite its drastically reduced genome (0.24 Mb) and limited metabolic capacity. Yellow expression is highly localized to symbiont-harboring glands in the ovaries, where the protein is assembled into a matrix and secreted during egg-laying. Functional knockdown of yellow disrupts sphere integrity and compromises symbiont viability under dry conditions, underscoring the protein’s embedding properties and protective role for Stammera . These findings reveal a novel function for an ancient gene family and demonstrate how tortoise beetles have repurposed Yellows to overcome the extreme metabolic constraints faced by their symbionts during extracellular transmission.",
-    "authors": [
-      "Marleny García-Lozano",
-      "Christiane Emmerich",
-      "Christine Henzler",
-      "Iris Koch"
+      "Amjad Heleal Faleh Alsabil",
+      "Shereen Hamadneh",
+      "Marwa Nayef Alhalabi"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "Workplace romance in organizations: a theory-driven systematic review and integrated framework",
-    "journal": "International Journal of Organization Theory & Behavior",
-    "year": "2026",
-    "date": "2026-09-03",
-    "doi": "10.1108/ijotb-05-2026-0153",
-    "url": "https://doi.org/10.1108/ijotb-05-2026-0153",
-    "abstract": "Purpose Workplace romance is prevalent and consequential in modern organizations, yet research on the phenomenon remains theoretically fragmented across organizational behavior and human resource management perspectives. Accordingly, this study synthesizes the workplace romance literature using a theory-driven framework to develop a more integrated understanding of its antecedents, mechanisms, and organizational consequences. Design/methodology/approach This study employs a systematic literature review of 61 research articles published in Scopus-indexed journals. Findings The findings show that workplace romance operates as a multi-level organizational phenomenon shaped by interaction patterns, power dynamics, fairness perceptions, and social interpretations, with both positive (e.g. engagement, commitment, well-being) and negative (e.g. bias, conflict, ostracism) consequences. These outcomes are contingent on relational motives, contextual conditions, organizational governance, and broader institutional environments. Practical implications The findings provide insights for decision-makers in designing balanced workplace relationship policies, strengthening fairness and governance mechanisms, and fostering inclusive and ethical organizational climates. Social implications The study contributes to broader discussions on inclusion, fairness, and employee well-being by highlighting how workplace romance intersects with issues of gender, power, identity, and organizational ethics, supporting Sustainable Development Goal (SDG) 5 (Gender Equality) and SDG 8 (Decent Work and Economic Growth). Originality/value This study contributes by offering an integrated conceptual framework and a multidisciplinary future research agenda that advance theoretical integration in workplace romance research while highlighting emerging areas such as identity diversity, organizational governance, and contextual variation.",
-    "authors": [
-      "Ujjal Mukherjee",
-      "L.N. Sneha Narasimhan",
-      "Girija Vyas"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "Who sees visions as plausible? The joint effect of leader vision communication and employee work passion on job performance",
-    "journal": "Journal of Managerial Psychology",
-    "year": "2026",
-    "date": "2026-09-03",
-    "doi": "10.1108/jmp-01-2025-0095",
-    "url": "https://doi.org/10.1108/jmp-01-2025-0095",
-    "abstract": "Purpose This study aims to examine how leader vision communication shapes follower job performance by shifting the focus from leaders to followers. Specifically, it highlights the roles of perceived vision plausibility and follower work passion in explaining when and why leader vision communication becomes effective. Design/methodology/approach Using the dualistic model of passion and motivated information processing theory, the study proposes that harmonious work passion (but not obsessive work passion) enhances the positive effects of leader vision communication on followers' perceptions of vision plausibility. A multisource, time-lagged survey of 229 leader–follower dyads tested these hypothesized relationships. Findings The results demonstrate that follower harmonious work passion amplifies the impact of leader vision communication on perceived vision plausibility, which mediates the relationship between leader vision communication and follower job performance. Originality/value This study integrates leadership and passion research to clarify when and how leader vision communication becomes effective, highlighting harmonious work passion and perceived vision plausibility as key follower-driven mechanisms. It offers actionable guidance for improving vision effectiveness and performance.",
-    "authors": [
-      "Junmei Lan",
-      "Li Guo",
-      "Peipei Shu",
-      "Wenxing Liu"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Marketing",
-    "title": "When industrial companies implement circular business models, what do they really do?",
-    "journal": "Journal of Business & Industrial Marketing",
+    "title": "When duration meets narrative: moderated mediation of virtual endorser proportion on behavioral response in short-video ads",
+    "journal": "Asia Pacific Journal of Marketing and Logistics",
     "year": "2026",
-    "date": "2026-09-03",
-    "doi": "10.1108/jbim-10-2025-0967",
-    "url": "https://doi.org/10.1108/jbim-10-2025-0967",
-    "abstract": "Purpose Implementing circular business models (CBMs) in industry is promising yet difficult. Prior research has largely focused on identifying barriers to CBM adoption and the enablers needed to overcome them. However, addressing barriers alone is insufficient, as circularity must ultimately be embedded in companies’ routine-based practices to become operational and scalable. Existing practice-oriented studies remain limited and tend to examine isolated aspects of CBMs, such as value creation, value delivery or value capture, rather than how these dimensions are pursued together. This study aims to address this gap by synthesizing how industrial companies implement CBMs through phase-based practices that span business model dimensions. Design/methodology/approach The authors conducted a three-stage review (identification–screening–eligibility) of academic and gray literature, ending with 87 studies included. Using qualitative content analysis, the authors coded circular practices and their underlying activities and applied the Gioia methodology to visualize them. The study grounds in the Swedish industrial context, given its early and coordinated adoption of circular economy policies and strategies. Findings The findings reveal a three-phased CBM implementation process: designing, developing, and scaling. In the design phase, companies explore circular value logics, build internal capabilities, and renew ecosystem partnerships. The development phase involves testing circular concepts, transforming organizational processes, and launching new revenue models. Finally, the scaling phase focuses on market expansion and digital integration to enhance circular operations. Originality/value This study advances CBM literature by identifying business practices and underlying activities that outline how industrial companies implement CBMs in practice. It structures these practices into a phased framework along with specific actions and key considerations for each phase. Finally, it shows how value creation, delivery and capture are activated differentially across implementation phases.",
+    "date": "2026-09-04",
+    "doi": "10.1108/apjml-05-2026-1399",
+    "url": "https://doi.org/10.1108/apjml-05-2026-1399",
+    "abstract": "Purpose The effectiveness of short-video narrative ads is highly contingent on the alignment between exposure duration and content features. When virtual endorsers are introduced, the proportion of their on-screen presence may emerge as a pivotal new variable, generating complex synergistic effects with narrative storytelling and time constraints. This study investigates how, under varying exposure durations and ad types, the proportion of virtual endorser presence influences consumer behavioral response through cognitive load and emotional response. Design/methodology/approach A multi-method approach was employed across two studies. Study 1 utilized secondary data analysis of 579 ads from Douyin to examine the interaction effect between exposure duration and ad type. Study 2 adopted a 3 (exposure duration: short/medium/long) × 2 (ad type: narrative/non-narrative) × 3 (virtual endorser proportion: none/low/high) between-subjects experimental design with 810 participants. PROCESS macro for SPSS with bootstrap methods was applied to test the chain-mediating roles of cognitive load and emotional response, and the moderating effect of virtual endorser proportion. Findings Results indicate that: (1) behavioral response for narrative ads peaks under medium duration (30–100 seconds), and this advantage is amplified by a high proportion of virtual endorser presence; (2) cognitive load and emotional response play a conditional chain-mediating role; (3) under short duration, a high proportion of virtual endorser presence exacerbates cognitive overload, leading to lower evaluations; under long duration, its effect is weakened due to attentional disengagement; the optimal cognitive investment-to-emotional conversion efficiency is achieved with narrative ads featuring a high proportion of virtual endorsers under medium duration. Originality/value Theoretically, this research extends virtual endorser studies from static imagery to the dynamic dimension of on-screen proportion, proposing the optimal salience and load balance hypothesis. Practically, it provides marketers with a triadic optimization strategy.",
     "authors": [
-      "Debadrita Panda",
-      "Vinit Parida",
-      "Johan Frishammar"
+      "Meihua Chen",
+      "Hu Meng"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Urban Studies",
-    "title": "Urban Planning and Land Competence of Local Government Bodies: Issues of Correlation and Delimitation",
-    "journal": "Town-Planning Law",
+    "field": "Psychology",
+    "title": "University student help-seeking behaviours and experiences of institutional support for a leave of absence from study due to mental health",
+    "journal": "Mental Health and Social Inclusion",
     "year": "2026",
-    "date": "2026-09-03",
-    "doi": "10.18572/2500-0292-2026-3-18-24",
-    "url": "https://doi.org/10.18572/2500-0292-2026-3-18-24",
-    "abstract": "The article examines the correlation between urban planning and land competence of local self-government bodies. The author proceeds from the organic interrelation of urban planning, land and housing legislation, determined by the strong connection between urban development objects and land, as well as by the public significance of territorial development regulation. Particular attention is paid to the distinction between the categories of land, land plot and settlement lands, the principle of unity of the fate of land plots and objects located on them, and the distribution of powers between the Government of the Russian Federation, executive authorities of constituent entities of the Russian Federation and local self-government bodies in transferring land from one category to another. The author substantiates the need for a more comprehensive consideration of the position of municipalities in decision-making that determines the subsequent regime of urban planning use of territories.",
+    "date": "2026-09-04",
+    "doi": "10.1108/mhsi-07-2026-0282",
+    "url": "https://doi.org/10.1108/mhsi-07-2026-0282",
+    "abstract": "Purpose Supporting university students’ mental well-being is an integral task for higher education institutions (HEIs). With student attrition being strongly associated with student mental health, an alternative to study discontinuation is taking a Leave of Absence (LoA). However, there is little research exploring the experiences of students who have taken a LoA and returned to study following this, as well as their experiences of university institutional support. This study aims to fill this gap in examining how university students can be better supported based on interviews with students who experienced mental health issues during their studies. Design/methodology/approach In all, 11 students from a highly ranked British University who had taken an LoA from study were interviewed. A reflexive inductive thematic analysis was conducted to identify their unique experiences of support before their LoA. Findings Three main themes were generated during analysis including: LoA is a necessary alternative to the continuation of studies, support-seeking behaviours and perceived effectiveness of support sought. Moreover, support-seeking behaviours appeared to be largely dependent on the participants’ levels of mental health literacy and the severity of their mental health crisis, with the perceived adequacy of university-provided support dependant on whether it was matched to students’ level of need. Originality/value Findings from this study provide insights that could be beneficial to UK HE institutions, highlighting the need for tailored support and greater signposting and accessibility to the correct support services available.",
     "authors": [
-      "Lyudmila N. Volkovskaya"
+      "Joanna Ermenkova",
+      "Dominic Willmott",
+      "David Maidment",
+      "Katherine Martin"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Family Studies",
-    "title": "Trophectoderm biopsy and vitrification: survival, oxidative stress and cell count in bovine embryos",
-    "journal": "Reproduction, Fertility and Development",
+    "field": "Consumer Research",
+    "title": "Type 2 Diabetes and Falls Incidents among the Elderly: An Umbrella Review of their Associations with Vitamin D Levels and Other Salient Peer Reviewed Research Observations",
+    "journal": "Journal of Orthopaedic Science and Research",
     "year": "2026",
-    "date": "2026-09-03",
-    "doi": "10.1071/rd26017",
-    "url": "https://doi.org/10.1071/rd26017",
-    "abstract": "Context Trophectoderm (TE) biopsy combined with embryo vitrification is increasingly being used; however, concerns remain regarding its effects on embryo survival and physiological stability after warming. Aims We aimed to evaluate whether TE biopsy performed prior to vitrification compromises early post-warming recovery and physiological responses of bovine embryos. Methods Expanded blastocysts were allocated into two groups, namely, Control and Biopsy. After warming, embryos were evaluated at 0, 4, 24, and 48 h for re-expansion and hatching rates. Mitochondrial activity, oxidative stress, antioxidant activity estimated by intracellular thiol content, and total cell number were assessed after 48 h. Key results Re-expansion differed between groups at 0 h (Control 13.40% vs Biopsy 33.90%; P = 0.005) and 4 h (Control 93.81% vs Biopsy 84.75%; P = 0.038), with no differences at 24 or 48 h (P ≥ 0.346). Hatching rates were similar at 4 h (P = 0.447), but higher in the Biopsy group at 24 h (77.56% vs 53.35%; P = 0.005) and 48 h (90.79% vs 77.39%; P = 0.027). The Biopsy group showed higher mitochondrial activity (P &lt; 0.001), reactive oxygen species (P = 0.009), intracellular thiol content (P &lt; 0.001), and total cell number (216.68 ± 9.75 vs 186.82 ± 10.22; P = 0.038). Conclusions TE biopsy prior to vitrification induced oxidative stress, increased mitochondrial activity and increased thiol content, but did not compromise early post-warming recovery of bovine embryos. Implications TE biopsy before vitrification is safe under short-term in vitro conditions.",
+    "date": "2026-09-04",
+    "doi": "10.46889/josr.2026.7302",
+    "url": "https://doi.org/10.46889/josr.2026.7302",
+    "abstract": "Diabetes prevalence, increasing rapidly among older populations, has many health implications including disabling orthopedic consequences. This brief specifically examines whether adults with type 2 diabetes are at increased risk for injurious falls and if so, what preventive approaches other than medication are recommended. It also examines if a fall can engender a diabetic state in its own right and a possible associated link to vitamin D deficiency. To this end, relevant literature located in key databases and published predominantly in the time periods 2020-2026 using the search terms: falls, type 2 diabetes, vitamin D, among others, were sought and carefully examined in narrative form. These data revealed: 1) There is a possible increased risk of falling in older diabetic adults with a type 2 diagnosis. 2) Most falls determinants identified are preventable. 3) Falls may pose a possible unrecognized risk factor for type 2 diabetes or its exacerbation. 4) Controlling type 2 diabetes, as well as vitamin D plus consistent exercise training, will likely reduce health costs and suffering attributable to injurious falls as well as recurrent falls among the older type 2 diabetic populations. Indeed, falls injuries, diabetes and overall deficits in vitamin D and mobility linkages, although hard to unravel, clearly pose an enormous public health concern especially if overlooked and is one public health issue that not only warrants, but demands more current universal preventive actions, as well as future research and well founded clinical attention:",
     "authors": [
-      "Dayana Silva Araújo",
-      "Rafael Monteiro dos Santos",
-      "Gabriela Luiza Soares Clarindo",
-      "Naiara Zoccal Saraiva"
+      "Ray Marks"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "Trends (2014–2023), forecasting (2024–2026), and risk factors of drug-resistant tuberculosis in Iran: a negative binomial time-series generalized linear model",
+    "journal": "Archives of Public Health",
+    "year": "2026",
+    "date": "2026-09-04",
+    "doi": "10.1186/s13690-026-02058-z",
+    "url": "https://doi.org/10.1186/s13690-026-02058-z",
+    "abstract": "",
+    "authors": [
+      "Fatemeh Majdolashrafi",
+      "Mahshid Nasehi",
+      "Mahshid Namdari",
+      "Abolfazl Fateh"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "Time-dependent hydrothermal modification of proso millet: impact on functional, pasting and rheological characteristics of flour",
-    "journal": "Journal of Food Measurement and Characterization",
+    "title": "The rise of the ultra-processed foods paradigm: a systematic review of its expansion into nutritional labelling, consumer response and food policy",
+    "journal": "British Food Journal",
     "year": "2026",
-    "date": "2026-09-03",
-    "doi": "10.1007/s11694-026-04901-x",
-    "url": "https://doi.org/10.1007/s11694-026-04901-x",
-    "abstract": "",
+    "date": "2026-09-04",
+    "doi": "10.1108/bfj-05-2026-0795",
+    "url": "https://doi.org/10.1108/bfj-05-2026-0795",
+    "abstract": "Purpose This paper reviews how the ultra-processed foods (UPFs) paradigm has expanded into food quality evaluation, Front-of-Pack Nutritional Label (FOPLs), consumer response and food policy and develops and operationalises a cue-integration framework explaining how processing-based and nutrient-based signals jointly shape food evaluation. Design/methodology/approach A systematic literature review was conducted on 297 peer-reviewed articles indexed in Web of Science and Scopus between 2000 and 2026. The review combines bibliometric mapping and interpretive coding across four analytical pillars with a second-stage classification of 27 studies assigned to processing–nutrient interplay stream. Findings Processing-based and nutrient-based signals interact through four modes: complementarity, substitution, tension and sequential inference. These modes are differentiated by three operational dimensions: cue-valence alignment, relative cue diagnosticity and temporal order. Although recent research increasingly examines combined signals, it has not produced a fully integrated theoretical account, and signal effects remain contingent on consumer characteristics and decision context. Practical implications The review helps policymakers, food companies and retailers understand when processing-based and nutrient-based signals reinforce each other, when they conflict and when they may generate consumer confusion. Originality/value The paper integrates previously separate research streams on UPFs, FOPLs, consumer interpretation and food policy and operationalises processing–nutrient interplay.",
     "authors": [
-      "Shailaja H Poojari",
-      "Sreechithra T V",
-      "Kshitija N Jadhav",
-      "Suresh D Sakhare"
+      "Marco Francesco Mazzù",
+      "Angelo Baccelloni",
+      "Mara Sella Gianot"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Public Policy",
-    "title": "The informativeness of stock price at dual-class firms",
-    "journal": "Review of Accounting Studies",
+    "field": "Family Studies",
+    "title": "The lived experiences of caregivers of people with epilepsy in Botswana",
+    "journal": "African Journal of Primary Health Care & Family Medicine",
     "year": "2026",
-    "date": "2026-09-03",
-    "doi": "10.1007/s11142-026-09991-y",
-    "url": "https://doi.org/10.1007/s11142-026-09991-y",
-    "abstract": "Abstract We examine whether disproportionate insider control, or the divergence between insider voting and cash flow rights at dual-class firms, influences the extent to which stock price reflects information about future firm performance. We find that current returns incorporate less information about future earnings and cash flows as disproportionate insider control increases. However, monitoring by influential institutional investors, strong board oversight, and high-quality disclosure significantly attenuate this effect, such that disproportionate insider control does not result in less informative stock prices. Collectively, our findings reveal that, although the dual-class structure is associated with less informative stock prices, on average, monitoring and disclosure can alleviate investor concerns about disproportionate insider control while allowing firms to take advantage of the benefits of a dual-class ownership structure.",
+    "date": "2026-09-04",
+    "doi": "10.4102/phcfm.v18i1.5534",
+    "url": "https://doi.org/10.4102/phcfm.v18i1.5534",
+    "abstract": "Background: Epilepsy is a common neurological disorder affecting about 50 million people worldwide. Caregivers of people with epilepsy face significant emotional, physical and psychological distress due to the demands of caregiving. Limited resources, stigma and the lack of a proper support system often worsen these challenges. Aim: This study aimed to explore the lived experiences of caregivers of individuals with epilepsy in Botswana. Setting: This study was conducted in Gaborone, the capital city of Botswana, located in Botswana’s South-East District. Methods: An interpretive phenomenological approach was used to capture the lived experiences of 13 caregivers, recruited through purposive sampling. In-depth interviews were conducted to gather qualitative data, which were analysed using the General Inductive Approach. Results: Caregivers reported significant emotional distress, including anxiety, stress and social isolation due to the unpredictable nature of seizures. Financial difficulties were dominant concern, with many caregivers losing employment status due to caregiving responsibility. High cost of medication and access to healthcare services was another burden while stigma surrounding epilepsy further exacerbated emotional strain. Additionally, caregivers reported limited coping strategies, which further contributed to their psychological distress. Conclusion: The study highlights the urgent need for culturally sensitive interventions to address the psychological and economic burden faced by caregivers. Strengthening support system, ensuring reliable access to medication and providing financial aid could significantly improve caregivers’ well-being and by extension, the quality of life for individuals living with epilepsy in Botswana. Contribution: This study offers important insights into caregiver experiences in epilepsy, emphasising the need for family inclusive, caregiver centred nursing practices, educational enhancement and improved community policies in Botswana. It highlights the importance of structured psychosocial support, integrating epilepsy care into home services, and culturally relevant coping strategies. These findings aim to guide targeted interventions and create more responsive health systems in similar resource-limited settings.",
     "authors": [
-      "Jason Bangert",
-      "Linda A. Myers",
-      "Roy Schmardebeck"
+      "Jappy M. Toe",
+      "Tebogo T. Mamalelala",
+      "Esther I. Ntsayagae"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "The May 2024 Geospace Superstorm and Its Impact on the Global Electric Circuit Worldwide",
+    "journal": "Journal of Space Weather and Space Climate",
+    "year": "2026",
+    "date": "2026-09-04",
+    "doi": "10.1051/swsc/2026029",
+    "url": "https://doi.org/10.1051/swsc/2026029",
+    "abstract": "In May 2024, a sequence of intense solar eruptions—including multiple M- and X-class flares and several coronal mass ejections (CMEs)—from solar active regions 3663 and 3664 triggered one of the most extreme geomagnetic storms of Solar Cycle 25. The storm produced a minimum disturbance storm-time index (Dst) of –406 nT and a peak interplanetary magnetic field (IMF) magnitude of $\\sim$70 nT at the first Lagrangian point (L1). This event also generated a large Forbush Decrease (FD) in galactic cosmic rays and a Ground-Level Enhancement (GLE) of solar energetic particles, offering a unique opportunity to assess solar–terrestrial coupling through the Global Electric Circuit (GEC). %We analyzed fair-weather surface Potential Gradient (PG) data from twelve instruments distributed across seven stations worldwide, spanning different geomagnetic latitudes. The datasets were filtered for meteorological effects and normalized using standardized background values. To interpret the geomagnetic influence, we applied the Weimer empirical model to compute the ionospheric cross-polar-cap potential. Statistical analyses, including Welch’s two-sample t-tests, were performed to identify significant PG anomalies relative to quiet conditions. Our results reveal a sharp PG decrease coincident with the interplanetary shock arrival, followed by multi-day PG enhancements correlated with the FD amplitude. The PG increase magnitude scaled with cosmic-ray flux reduction, confirming the influence of reduced atmospheric conductivity on the GEC. The observed responses vary with geomagnetic latitude, suggesting a combined role of ionospheric electric field and conductivity modulation. This study provides the first global assessment of GEC perturbations during the May 2024 geospace superstorm and demonstrates that combined solar wind, geomagnetic, and cosmic-ray drivers jointly shape near-surface atmospheric electricity. We analyzed fair-weather surface Potential Gradient (PG) data from twelve instruments across seven stations worldwide, spanning a broad geomagnetic-latitude range, and air-Earth current density ($J_z$) data from one instrument. Data were screened using strict meteorological criteria, and anomalies were computed in physical units relative to station-specific non-geostorm diurnal backgrounds (all non-geostorm days in May 2024). To interpret geomagnetic forcing, we applied the Weimer empirical model to estimate ionospheric cross-polar-cap potential. Statistical inference used moving-block bootstrap tests (6 h blocks) with Holm correction for multiplicity. Results show an early PG decrease near interplanetary shock arrival, followed by day-dependent behavior during the Forbush-decrease interval, including multi-station positive phases but with heterogeneous station-level responses, with robust effects limited to a subset of station/day comparisons after multiplicity correction. Effect magnitudes and directional coherence are consistent with combined electrodynamic forcing and conductivity modulation, with sensitivity varying by location. This study provides a global assessment of GEC perturbations during the May 2024 superstorm and indicates that solar-wind, geomagnetic, and cosmic-ray variability likely jointly modulate near-surface atmospheric electricity.",
+    "authors": [
+      "Jose Tacza",
+      "Gang Li",
+      "Shuai Fu",
+      "Tao Chen"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Resisting the circular economy: a case study of waste governance in Northern Australia",
+    "journal": "Qualitative Research in Accounting & Management",
+    "year": "2026",
+    "date": "2026-09-04",
+    "doi": "10.1108/qram-07-2025-0181",
+    "url": "https://doi.org/10.1108/qram-07-2025-0181",
+    "abstract": "Purpose The management of commercial and domestic waste is an environmental priority. In recent years, circular economy (CE) perspectives have emerged, underpinned by an expectation of monetising waste to incentivise the recovery and reuse of valuable materials. Accordingly, a role for accountants is anticipated to support effective waste and resource management strategies. Yet it remains unclear how the transition to a CE can be realised in practice, particularly for populations located outside of urban centres. This study examines the challenges of waste governance in remote Australia and the role of public sector accounting and accountability practices in the CE transition. Design/methodology/approach The authors conducted the fieldwork for this study with a municipal council in Northern Australia to evaluate their waste management practices. The five sites – two landlocked communities, two islands and one coastal community – experience low population density, logistical challenges and financial constraints due to their remote location. The authors draw on Foucauldian concepts of power, governmentality and resistance to analyse the case and its implications for waste policy, accounting and accountability. Findings This study reveals that in remote regions, the lack of accounting technologies for waste measurement, reporting and costing severely limits accountability and progress toward CE goals. The findings challenge assumptions about the universal applicability of CE models and call for the development of accounting practices that are both contextually grounded and socially responsive. In doing so, the paper emphasises the need for new calculative tools and public accountability mechanisms that reflect the complex realities of waste governance beyond urban centres. Practical implications Effective waste management in remote contexts requires calculative infrastructure (weighbridges, systematic reporting) to enable governance. Management control systems are needed to make visible the full environmental and social costs currently externalised to remote communities. Focus should also shift from resource recovery to reducing waste creation through producer responsibility schemes that allocate costs to manufacturers and retailers. Originality/value This study examines CE implementation in remote Australia, a novel setting for CE research. The authors demonstrate how geographic isolation, limited infrastructure and absent markets expose CE as an “empty signifier” where material conditions resist policy translation. Examining waste governance through a municipal lens, they reveal how the absence of accounting technologies fundamentally limits governance and how informal accountability practices emerge where formal systems are inadequate.",
+    "authors": [
+      "Ellie Norris",
+      "Deepika Mathur"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
