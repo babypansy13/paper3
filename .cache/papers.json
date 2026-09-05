@@ -1,154 +1,159 @@
 [
   {
-    "field": "Mental Health",
-    "title": "Young adult attitudes and beliefs regarding the use of vaping: a cross-sectional study",
-    "journal": "International Journal of Adolescent Medicine and Health",
+    "field": "Food Industry / Science / Design",
+    "title": "Yeast Protein-Derived Peptides Protect against Ethanol-Induced Acute Gastric Mucosal Injury: Isolation, Identification, and Potential Mechanisms",
+    "journal": "Journal of Agricultural and Food Chemistry",
     "year": "2026",
-    "date": "2026-09-04",
-    "doi": "10.1515/ijamh-2025-0142",
-    "url": "https://doi.org/10.1515/ijamh-2025-0142",
-    "abstract": "Abstract Objectives To investigate the attitudes and beliefs toward vaping among university students in Northern Jordan, and to explore any gender-based differences in attitudes and beliefs regarding vaping use. Methods A descriptive cross-sectional study was conducted, surveying 500 university students in universities in Northern Jordan. Results The study showed widespread e-smoking use, with 62.0 % of participants currently using e-cigarettes. Regarding attitudes, 57.4 % of students expressed negative views toward e-cigarettes, while 42.6 % expressed positive views. 61.8 % expressed doubts about the benefits and safety of e-cigarettes, while 38.2 % expressed strong positive views. Gender-based analysis indicated statistically significant differences. Conclusions There is a need for targeted public health interventions and educational programs to address misconceptions and promote informed decision-making regarding e-cigarette use.",
+    "date": "2026-09-05",
+    "doi": "10.1021/acs.jafc.6c09805",
+    "url": "https://doi.org/10.1021/acs.jafc.6c09805",
+    "abstract": "Abstract Ethanol-induced gastric mucosal injury (AGMI) is intrinsically linked to oxidative stress, inflammatory responses, and compromised mucosal defense. This study aimed to isolate bioactive peptides from yeast protein (YP) and elucidate these in vitro protective mechanisms against AGMI. Activity-guided multi-technique separation, nanoLC-MS/MS, and bioinformatic screening were used to identify two novel peptides, ISPALLDKL and TAADLRYF. In ethanol-injured GES-1 cells, these peptides (240 and 320 μg/mL) exhibited potent cytoprotective activity comparable to omeprazole. Peptide pre-treatment attenuated reactive oxygen species (from 31.79 to 9.52 and 10.02), restored mitochondrial membrane potential (ΔΨm increased from 0.5 to 2.78 and 2.11), and reduced apoptosis (from 28.55 to 10.52% and 12.58%). Furthermore, these peptides associated with the suppression of pro-inflammatory cytokines, decreasing TNF-α (24.9 and 21.9%), IL-1β (30.1 and 26.3%), and IL-6 (41.9 and 37.6%), while markedly enhancing the anti-inflammatory cytokine IL-10 (110.8 and 91.0%), respectively; these effects were accompanied by inhibition of NF-κB and JAK2–STAT3 phosphorylation. Collectively, ISPALLDKL and TAADLRYF protect against ethanol-induced gastric epithelial cell injury by simultaneously modulating oxidative stress, apoptosis, and inflammation, positioning them as promising natural candidates for gastric mucosal protection.",
     "authors": [
-      "Amjad Heleal Faleh Alsabil",
-      "Shereen Hamadneh",
-      "Marwa Nayef Alhalabi"
+      "Jin Luo",
+      "Kaina Qiao",
+      "Yongzhao Bi",
+      "Xialei Liu"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Marketing",
-    "title": "When duration meets narrative: moderated mediation of virtual endorser proportion on behavioral response in short-video ads",
-    "journal": "Asia Pacific Journal of Marketing and Logistics",
+    "title": "Understanding the Determinants of Investor’s Subjective Risk Perception and Their Divergence from the Investor’s Objective Risk",
+    "journal": "International Journal of Economics and Finance",
     "year": "2026",
-    "date": "2026-09-04",
-    "doi": "10.1108/apjml-05-2026-1399",
-    "url": "https://doi.org/10.1108/apjml-05-2026-1399",
-    "abstract": "Purpose The effectiveness of short-video narrative ads is highly contingent on the alignment between exposure duration and content features. When virtual endorsers are introduced, the proportion of their on-screen presence may emerge as a pivotal new variable, generating complex synergistic effects with narrative storytelling and time constraints. This study investigates how, under varying exposure durations and ad types, the proportion of virtual endorser presence influences consumer behavioral response through cognitive load and emotional response. Design/methodology/approach A multi-method approach was employed across two studies. Study 1 utilized secondary data analysis of 579 ads from Douyin to examine the interaction effect between exposure duration and ad type. Study 2 adopted a 3 (exposure duration: short/medium/long) × 2 (ad type: narrative/non-narrative) × 3 (virtual endorser proportion: none/low/high) between-subjects experimental design with 810 participants. PROCESS macro for SPSS with bootstrap methods was applied to test the chain-mediating roles of cognitive load and emotional response, and the moderating effect of virtual endorser proportion. Findings Results indicate that: (1) behavioral response for narrative ads peaks under medium duration (30–100 seconds), and this advantage is amplified by a high proportion of virtual endorser presence; (2) cognitive load and emotional response play a conditional chain-mediating role; (3) under short duration, a high proportion of virtual endorser presence exacerbates cognitive overload, leading to lower evaluations; under long duration, its effect is weakened due to attentional disengagement; the optimal cognitive investment-to-emotional conversion efficiency is achieved with narrative ads featuring a high proportion of virtual endorsers under medium duration. Originality/value Theoretically, this research extends virtual endorser studies from static imagery to the dynamic dimension of on-screen proportion, proposing the optimal salience and load balance hypothesis. Practically, it provides marketers with a triadic optimization strategy.",
+    "date": "2026-09-05",
+    "doi": "10.5539/ijef.v18n10p1",
+    "url": "https://doi.org/10.5539/ijef.v18n10p1",
+    "abstract": "This paper investigates the determinants of investors&rsquo; subjective risk profiles and the factors associated with the divergence between subjective and objective risk. Using a proprietary dataset of 1,077 investors provided by a major Italian bank, we analyse risk profiles derived from MiFID suitability assessments and compare them with an ex-post indicator of portfolio&ndash;profile alignment. First, ordered logit models show that gender, financial wealth, financial knowledge and experience, and investment horizon are significant predictors of subjective risk tolerance, while age, occupation, and ESG attitudes play a limited role. Second, we examine the persistence of portfolio suitability over time and find that the determinants of ex-post alignment differ from those of subjective risk. Wealth emerges as the most stable predictor of portfolio&ndash;profile coherence, while the effects of financial knowledge and investment horizon become weaker. The findings highlight the limitations of static risk profiling and suggest that maintaining long-term portfolio suitability depends on factors extending beyond initial investor characteristics.",
     "authors": [
-      "Meihua Chen",
-      "Hu Meng"
+      "Laura Barbieri",
+      "Elena Calegari",
+      "Andrea Lippi"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "University student help-seeking behaviours and experiences of institutional support for a leave of absence from study due to mental health",
-    "journal": "Mental Health and Social Inclusion",
-    "year": "2026",
-    "date": "2026-09-04",
-    "doi": "10.1108/mhsi-07-2026-0282",
-    "url": "https://doi.org/10.1108/mhsi-07-2026-0282",
-    "abstract": "Purpose Supporting university students’ mental well-being is an integral task for higher education institutions (HEIs). With student attrition being strongly associated with student mental health, an alternative to study discontinuation is taking a Leave of Absence (LoA). However, there is little research exploring the experiences of students who have taken a LoA and returned to study following this, as well as their experiences of university institutional support. This study aims to fill this gap in examining how university students can be better supported based on interviews with students who experienced mental health issues during their studies. Design/methodology/approach In all, 11 students from a highly ranked British University who had taken an LoA from study were interviewed. A reflexive inductive thematic analysis was conducted to identify their unique experiences of support before their LoA. Findings Three main themes were generated during analysis including: LoA is a necessary alternative to the continuation of studies, support-seeking behaviours and perceived effectiveness of support sought. Moreover, support-seeking behaviours appeared to be largely dependent on the participants’ levels of mental health literacy and the severity of their mental health crisis, with the perceived adequacy of university-provided support dependant on whether it was matched to students’ level of need. Originality/value Findings from this study provide insights that could be beneficial to UK HE institutions, highlighting the need for tailored support and greater signposting and accessibility to the correct support services available.",
-    "authors": [
-      "Joanna Ermenkova",
-      "Dominic Willmott",
-      "David Maidment",
-      "Katherine Martin"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "Type 2 Diabetes and Falls Incidents among the Elderly: An Umbrella Review of their Associations with Vitamin D Levels and Other Salient Peer Reviewed Research Observations",
-    "journal": "Journal of Orthopaedic Science and Research",
-    "year": "2026",
-    "date": "2026-09-04",
-    "doi": "10.46889/josr.2026.7302",
-    "url": "https://doi.org/10.46889/josr.2026.7302",
-    "abstract": "Diabetes prevalence, increasing rapidly among older populations, has many health implications including disabling orthopedic consequences. This brief specifically examines whether adults with type 2 diabetes are at increased risk for injurious falls and if so, what preventive approaches other than medication are recommended. It also examines if a fall can engender a diabetic state in its own right and a possible associated link to vitamin D deficiency. To this end, relevant literature located in key databases and published predominantly in the time periods 2020-2026 using the search terms: falls, type 2 diabetes, vitamin D, among others, were sought and carefully examined in narrative form. These data revealed: 1) There is a possible increased risk of falling in older diabetic adults with a type 2 diagnosis. 2) Most falls determinants identified are preventable. 3) Falls may pose a possible unrecognized risk factor for type 2 diabetes or its exacerbation. 4) Controlling type 2 diabetes, as well as vitamin D plus consistent exercise training, will likely reduce health costs and suffering attributable to injurious falls as well as recurrent falls among the older type 2 diabetic populations. Indeed, falls injuries, diabetes and overall deficits in vitamin D and mobility linkages, although hard to unravel, clearly pose an enormous public health concern especially if overlooked and is one public health issue that not only warrants, but demands more current universal preventive actions, as well as future research and well founded clinical attention:",
-    "authors": [
-      "Ray Marks"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "Trends (2014–2023), forecasting (2024–2026), and risk factors of drug-resistant tuberculosis in Iran: a negative binomial time-series generalized linear model",
-    "journal": "Archives of Public Health",
-    "year": "2026",
-    "date": "2026-09-04",
-    "doi": "10.1186/s13690-026-02058-z",
-    "url": "https://doi.org/10.1186/s13690-026-02058-z",
-    "abstract": "",
-    "authors": [
-      "Fatemeh Majdolashrafi",
-      "Mahshid Nasehi",
-      "Mahshid Namdari",
-      "Abolfazl Fateh"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "The rise of the ultra-processed foods paradigm: a systematic review of its expansion into nutritional labelling, consumer response and food policy",
-    "journal": "British Food Journal",
-    "year": "2026",
-    "date": "2026-09-04",
-    "doi": "10.1108/bfj-05-2026-0795",
-    "url": "https://doi.org/10.1108/bfj-05-2026-0795",
-    "abstract": "Purpose This paper reviews how the ultra-processed foods (UPFs) paradigm has expanded into food quality evaluation, Front-of-Pack Nutritional Label (FOPLs), consumer response and food policy and develops and operationalises a cue-integration framework explaining how processing-based and nutrient-based signals jointly shape food evaluation. Design/methodology/approach A systematic literature review was conducted on 297 peer-reviewed articles indexed in Web of Science and Scopus between 2000 and 2026. The review combines bibliometric mapping and interpretive coding across four analytical pillars with a second-stage classification of 27 studies assigned to processing–nutrient interplay stream. Findings Processing-based and nutrient-based signals interact through four modes: complementarity, substitution, tension and sequential inference. These modes are differentiated by three operational dimensions: cue-valence alignment, relative cue diagnosticity and temporal order. Although recent research increasingly examines combined signals, it has not produced a fully integrated theoretical account, and signal effects remain contingent on consumer characteristics and decision context. Practical implications The review helps policymakers, food companies and retailers understand when processing-based and nutrient-based signals reinforce each other, when they conflict and when they may generate consumer confusion. Originality/value The paper integrates previously separate research streams on UPFs, FOPLs, consumer interpretation and food policy and operationalises processing–nutrient interplay.",
-    "authors": [
-      "Marco Francesco Mazzù",
-      "Angelo Baccelloni",
-      "Mara Sella Gianot"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "The lived experiences of caregivers of people with epilepsy in Botswana",
-    "journal": "African Journal of Primary Health Care & Family Medicine",
+    "title": "Types of restricted repetitive behaviours and their correlates in children with autism spectrum disorder: A study from the Kurunegala district, Sri Lanka",
+    "journal": "Sri Lanka Journal of Child Health",
     "year": "2026",
-    "date": "2026-09-04",
-    "doi": "10.4102/phcfm.v18i1.5534",
-    "url": "https://doi.org/10.4102/phcfm.v18i1.5534",
-    "abstract": "Background: Epilepsy is a common neurological disorder affecting about 50 million people worldwide. Caregivers of people with epilepsy face significant emotional, physical and psychological distress due to the demands of caregiving. Limited resources, stigma and the lack of a proper support system often worsen these challenges. Aim: This study aimed to explore the lived experiences of caregivers of individuals with epilepsy in Botswana. Setting: This study was conducted in Gaborone, the capital city of Botswana, located in Botswana’s South-East District. Methods: An interpretive phenomenological approach was used to capture the lived experiences of 13 caregivers, recruited through purposive sampling. In-depth interviews were conducted to gather qualitative data, which were analysed using the General Inductive Approach. Results: Caregivers reported significant emotional distress, including anxiety, stress and social isolation due to the unpredictable nature of seizures. Financial difficulties were dominant concern, with many caregivers losing employment status due to caregiving responsibility. High cost of medication and access to healthcare services was another burden while stigma surrounding epilepsy further exacerbated emotional strain. Additionally, caregivers reported limited coping strategies, which further contributed to their psychological distress. Conclusion: The study highlights the urgent need for culturally sensitive interventions to address the psychological and economic burden faced by caregivers. Strengthening support system, ensuring reliable access to medication and providing financial aid could significantly improve caregivers’ well-being and by extension, the quality of life for individuals living with epilepsy in Botswana. Contribution: This study offers important insights into caregiver experiences in epilepsy, emphasising the need for family inclusive, caregiver centred nursing practices, educational enhancement and improved community policies in Botswana. It highlights the importance of structured psychosocial support, integrating epilepsy care into home services, and culturally relevant coping strategies. These findings aim to guide targeted interventions and create more responsive health systems in similar resource-limited settings.",
+    "date": "2026-09-05",
+    "doi": "10.4038/sljch.v55i3.11618",
+    "url": "https://doi.org/10.4038/sljch.v55i3.11618",
+    "abstract": "Introduction: Autism spectrum disorder (ASD) is diagnosed with impairment in social interactions and communication along with the presence of restricted repetitive behaviour (RRB). These stereotypies can have a significant impact on the quality of life (QoL) of both the affected children and caregivers. Objectives: To characterize RRBs in children with ASD according to the four DSM-5 Section B domains. Specific objectives were to quantify the frequency and severity of RRB, to examine its associations with clinician-rated ASD severity and attention difficulties and to assess its relationships with the functioning of the child health-related QoL, social communication, and parental perceptions regarding the child’s condition and the impact on daily life. Method: A descriptive cross-sectional study was conducted over 6 months at Teaching Hospital Kurunegala. Children diagnosed with ASD and aged 2-17 years were included. Statistical analysis was done using SPSS-25; tests for associations were done via t-test and Pearson’s correlation; significance was set at p-value of 0.05. Results: The study included 94 children with a mean age of 6.62 years and 74.5% were males. The most frequently observed RRB was pacing or moving around repetitively. Mean PedsQL score was 64.55. Moss attention rating scale (MARS) had a mean score of 64.00; 81.1% believed that doctors could help improve their child’s condition. No significant correlation was found between RRB and any component of PedsQL. Physical functioning was significantly associated with social functioning, emotional functioning, and school functioning. Social communication severity score was significantly associated with physical functioning, emotional functioning, and social functioning. Conclusions: The most frequently observed RRB was pacing or moving around repetitively. No significant correlation was found between RRB and any component of PedsQL. Physical functioning was significantly associated with social functioning, emotional functioning, and school functioning. Social communication severity score was significantly associated with physical functioning, emotional functioning, and social functioning.",
     "authors": [
-      "Jappy M. Toe",
-      "Tebogo T. Mamalelala",
-      "Esther I. Ntsayagae"
+      "S.A.C. Dalpatadu",
+      "R.W.D.U Rajapaksha",
+      "K.C.S Dalpatadu"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Urban Studies",
-    "title": "The May 2024 Geospace Superstorm and Its Impact on the Global Electric Circuit Worldwide",
-    "journal": "Journal of Space Weather and Space Climate",
+    "field": "Public Policy",
+    "title": "Tracking demographic shifts and epidemiological transition across 44 Asian countries from 1991 to 2023",
+    "journal": "Discover Public Health",
     "year": "2026",
-    "date": "2026-09-04",
-    "doi": "10.1051/swsc/2026029",
-    "url": "https://doi.org/10.1051/swsc/2026029",
-    "abstract": "In May 2024, a sequence of intense solar eruptions—including multiple M- and X-class flares and several coronal mass ejections (CMEs)—from solar active regions 3663 and 3664 triggered one of the most extreme geomagnetic storms of Solar Cycle 25. The storm produced a minimum disturbance storm-time index (Dst) of –406 nT and a peak interplanetary magnetic field (IMF) magnitude of $\\sim$70 nT at the first Lagrangian point (L1). This event also generated a large Forbush Decrease (FD) in galactic cosmic rays and a Ground-Level Enhancement (GLE) of solar energetic particles, offering a unique opportunity to assess solar–terrestrial coupling through the Global Electric Circuit (GEC). %We analyzed fair-weather surface Potential Gradient (PG) data from twelve instruments distributed across seven stations worldwide, spanning different geomagnetic latitudes. The datasets were filtered for meteorological effects and normalized using standardized background values. To interpret the geomagnetic influence, we applied the Weimer empirical model to compute the ionospheric cross-polar-cap potential. Statistical analyses, including Welch’s two-sample t-tests, were performed to identify significant PG anomalies relative to quiet conditions. Our results reveal a sharp PG decrease coincident with the interplanetary shock arrival, followed by multi-day PG enhancements correlated with the FD amplitude. The PG increase magnitude scaled with cosmic-ray flux reduction, confirming the influence of reduced atmospheric conductivity on the GEC. The observed responses vary with geomagnetic latitude, suggesting a combined role of ionospheric electric field and conductivity modulation. This study provides the first global assessment of GEC perturbations during the May 2024 geospace superstorm and demonstrates that combined solar wind, geomagnetic, and cosmic-ray drivers jointly shape near-surface atmospheric electricity. We analyzed fair-weather surface Potential Gradient (PG) data from twelve instruments across seven stations worldwide, spanning a broad geomagnetic-latitude range, and air-Earth current density ($J_z$) data from one instrument. Data were screened using strict meteorological criteria, and anomalies were computed in physical units relative to station-specific non-geostorm diurnal backgrounds (all non-geostorm days in May 2024). To interpret geomagnetic forcing, we applied the Weimer empirical model to estimate ionospheric cross-polar-cap potential. Statistical inference used moving-block bootstrap tests (6 h blocks) with Holm correction for multiplicity. Results show an early PG decrease near interplanetary shock arrival, followed by day-dependent behavior during the Forbush-decrease interval, including multi-station positive phases but with heterogeneous station-level responses, with robust effects limited to a subset of station/day comparisons after multiplicity correction. Effect magnitudes and directional coherence are consistent with combined electrodynamic forcing and conductivity modulation, with sensitivity varying by location. This study provides a global assessment of GEC perturbations during the May 2024 superstorm and indicates that solar-wind, geomagnetic, and cosmic-ray variability likely jointly modulate near-surface atmospheric electricity.",
+    "date": "2026-09-05",
+    "doi": "10.1186/s12982-026-02759-4",
+    "url": "https://doi.org/10.1186/s12982-026-02759-4",
+    "abstract": "",
     "authors": [
-      "Jose Tacza",
-      "Gang Li",
-      "Shuai Fu",
-      "Tao Chen"
+      "Sumit Oberoi",
+      "Sugandh Arora",
+      "Anna Masłoń-Oracz",
+      "Poppy Febriana"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Serum CEA, CA 19 − 9, and FDG PET/CT SUVmax in relation to histological subtype and overall survival in stage IV lung cancer",
+    "journal": "BMC Pulmonary Medicine",
+    "year": "2026",
+    "date": "2026-09-05",
+    "doi": "10.1186/s12890-026-04658-5",
+    "url": "https://doi.org/10.1186/s12890-026-04658-5",
+    "abstract": "",
+    "authors": [
+      "Suphi Aydin",
+      "Gülcan Gencer",
+      "Aydin Balci",
+      "Esra Kekilli"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Management",
-    "title": "Resisting the circular economy: a case study of waste governance in Northern Australia",
-    "journal": "Qualitative Research in Accounting & Management",
+    "title": "SUICIDE PREVENTION AND MENTAL HEALTH SUPPORT AWARENESS CAMPAIGN",
+    "journal": "Special journal of the Medical Academy and other Life Sciences",
     "year": "2026",
-    "date": "2026-09-04",
-    "doi": "10.1108/qram-07-2025-0181",
-    "url": "https://doi.org/10.1108/qram-07-2025-0181",
-    "abstract": "Purpose The management of commercial and domestic waste is an environmental priority. In recent years, circular economy (CE) perspectives have emerged, underpinned by an expectation of monetising waste to incentivise the recovery and reuse of valuable materials. Accordingly, a role for accountants is anticipated to support effective waste and resource management strategies. Yet it remains unclear how the transition to a CE can be realised in practice, particularly for populations located outside of urban centres. This study examines the challenges of waste governance in remote Australia and the role of public sector accounting and accountability practices in the CE transition. Design/methodology/approach The authors conducted the fieldwork for this study with a municipal council in Northern Australia to evaluate their waste management practices. The five sites – two landlocked communities, two islands and one coastal community – experience low population density, logistical challenges and financial constraints due to their remote location. The authors draw on Foucauldian concepts of power, governmentality and resistance to analyse the case and its implications for waste policy, accounting and accountability. Findings This study reveals that in remote regions, the lack of accounting technologies for waste measurement, reporting and costing severely limits accountability and progress toward CE goals. The findings challenge assumptions about the universal applicability of CE models and call for the development of accounting practices that are both contextually grounded and socially responsive. In doing so, the paper emphasises the need for new calculative tools and public accountability mechanisms that reflect the complex realities of waste governance beyond urban centres. Practical implications Effective waste management in remote contexts requires calculative infrastructure (weighbridges, systematic reporting) to enable governance. Management control systems are needed to make visible the full environmental and social costs currently externalised to remote communities. Focus should also shift from resource recovery to reducing waste creation through producer responsibility schemes that allocate costs to manufacturers and retailers. Originality/value This study examines CE implementation in remote Australia, a novel setting for CE research. The authors demonstrate how geographic isolation, limited infrastructure and absent markets expose CE as an “empty signifier” where material conditions resist policy translation. Examining waste governance through a municipal lens, they reveal how the absence of accounting technologies fundamentally limits governance and how informal accountability practices emerge where formal systems are inadequate.",
+    "date": "2026-09-05",
+    "doi": "10.58676/sjmas.v4i4.165",
+    "url": "https://doi.org/10.58676/sjmas.v4i4.165",
+    "abstract": "Background: Suicide among adolescents is a significant public health concern, with increasing rates linked to mental health challenges such as depression, anxiety, and emotional distress. Despite the growing prevalence of these issues, stigma, lack of awareness, and limited knowledge of available resources often prevent young individuals from seeking help. School-based interventions have been identified as effective strategies for promoting mental health awareness and early prevention. Methods and Materials: This project implemented a school-based Suicide Prevention and Mental Health Support Awareness Campaign in a high school setting. The campaign utilized a multi-component approach, including educational posters, student handouts, a school-wide presentation delivered by a mental health professional, and collaboration with school counsellors and staff. Pre- and post-intervention surveys were administered anonymously to assess students’ knowledge, attitudes, and awareness of mental health and suicide prevention. Results: Findings from the survey analysis indicated a measurable improvement in students’ understanding of mental health issues and their ability to recognize warning signs of suicide. Awareness of available support resources increased significantly following the campaign. Additionally, students reported greater comfort in discussing mental health concerns and seeking help. Qualitative feedback highlighted the effectiveness of the professional presentation and visual materials in reinforcing key messages. Conclusion: The campaign demonstrated that school-based awareness initiatives can effectively enhance mental health literacy, reduce stigma, and promote help-seeking behaviour among adolescents. Although limited by its short duration and single-site implementation, the project provides evidence supporting the value of preventive, education-focused interventions in school settings. Future initiatives should consider longer implementation periods and expanded stakeholder involvement to sustain impact.",
     "authors": [
-      "Ellie Norris",
-      "Deepika Mathur"
+      "Ankitha Anilkumar",
+      "Ghassan Salibi",
+      "Nikolaos Tzenios"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Plasma metabolic fingerprinting identifies phenylalanine as a mortality biomarker in elderly ARDS patients",
+    "journal": "Respiratory Research",
+    "year": "2026",
+    "date": "2026-09-05",
+    "doi": "10.1186/s12931-026-03883-0",
+    "url": "https://doi.org/10.1186/s12931-026-03883-0",
+    "abstract": "Abstract Background Currently, there remains a lack of effective prognostic biomarkers specifically for ARDS patients. Methods We conducted a retrospective study profiling plasma metabolomics (ARDS = 55, non-ARDS = 37) via high-throughput NPELDI-MS. Machine learning (LR, SVM, NN) developed age-stratified prognostic models (< 65 vs. ≥65 years). Univariate logistic regression identified key mortality-associated metabolites in elderly ARDS, followed by cross-platform validation. Results The plasma metabolic fingerprints-based model distinguished ARDS from non-ARDS with an AUC of 0.928, revealing systemic metabolic dysregulation involving amino acid metabolism, one‑carbon metabolism, cofactor biosynthesis, and glutathione‑related pathways. Furthermore, we developed age‑stratified prognostic prediction models: the AUC for distinguishing non‑survivors from survivors was 0.989 in < 65 years patients and 0.937 in ≥ 65 years patients, whereas mixed-age analysis showed limited metabolic separation between survivors and non-survivors. Importantly, age-stratified analyses identified distinct exploratory metabolite panels: phenylalanine and glycine showed nominal positive associations with mortality in patients aged ≥ 65 years, whereas taurine, hypotaurine and niacinamide showed nominal inverse associations in those aged < 65 years. Cross-platform validation confirmed the generalizability of elderly derived panel (AUC = 0.829), and further identified phenylalanine remained significantly elevated in elderly non-survivors. Conclusions Our study establishes an integrated plasma metabolic fingerprinting framework for ARDS age‑stratified prognosis, and further identifies phenylalanine and glycine as elderly-specific metabolic risk factors for mortality, highlighting age-dependent metabolic vulnerability in ARDS. Trial registration This trial is registered at ClinicalTrials.gov (identifier: NCT07380997).",
+    "authors": [
+      "Yanyan Li",
+      "Jing Xu",
+      "Boshun Zhang",
+      "Yida Huang"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Perceived Organizational Support, Organizational Justice, and Psychological Capital: Their Impact on Organizational Citizenship Behavior Through Work Engagement",
+    "journal": "Journal of Business, Social and Technology",
+    "year": "2026",
+    "date": "2026-09-05",
+    "doi": "10.59261/bustechno.v7i4.757",
+    "url": "https://doi.org/10.59261/bustechno.v7i4.757",
+    "abstract": "Background: The thermoforming manufacturing industry faces operational challenges related to resin price volatility, stringent quality requirements, and shift-based production coordination. Organizational Citizenship Behavior (OCB) can support operational effectiveness through voluntary employee contributions. Objective: This study examines the effects of Perceived Organizational Support (POS), Organizational Justice (OJ), and Psychological Capital (PsyCap) on OCB through Work Engagement (WE) among permanent production employees in thermoforming manufacturing companies. Methods: This study used a quantitative cross-sectional survey with structured questionnaires. Data were analyzed using Covariance-Based Structural Equation Modeling (CB-SEM) with the Robust Maximum Likelihood Satorra-Bentler estimator in LISREL 8.8. Results: POS, OJ, and PsyCap positively influenced WE. POS, OJ, PsyCap, and WE also positively influenced OCB. WE partially mediated the relationships between POS, OJ, PsyCap, and OCB. OJ had the strongest effect on WE, while WE had the strongest effect on OCB. Conclusion: Organizational support, organizational justice, psychological capital, and work engagement play important roles in strengthening OCB among thermoforming production employees. These findings indicate that organizational and pers onal resources can encourage voluntary extra-role behavior both directly and through greater work engagement.",
+    "authors": [
+      "Gregorius Agusto Revo Gumbara",
+      "Aryana Satrya"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "POLICING 5.0. POLICÍA 5.0.",
+    "journal": "Street Art & Urban Creativity",
+    "year": "2026",
+    "date": "2026-09-05",
+    "doi": "10.62161/sauc.v12.6393",
+    "url": "https://doi.org/10.62161/sauc.v12.6393",
+    "abstract": "Based on published literature and international organizations workshop, Policing 5.0 proposes a future-ready framework for Policing in an era of rapid social, environmental, technological and institutional change. Rather than prescribing a single reform model, it offers six interdependent themes: foresight and innovation, digital readiness, community trust and legitimacy, adaptive resilience, future skills, and organizational wellbeing. Supported by five enablers, the framework redefines Policing around anticipating potential crime, public value first, ethics, continuous learning, and community-centered legitimacy. Organizations could use it to assess readiness, identify gaps, and shape transformation roadmaps aligned with local conditions and evolving public safety needs.",
+    "authors": [
+      "Mohamed Zainal",
+      "Salama Alfalasi",
+      "Rawdah Alshamsi",
+      "Jose Antonio Ondiviela García"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
