@@ -1,155 +1,143 @@
 [
   {
-    "field": "Public Policy",
-    "title": "‘They deserve a good ending’: The importance of young people seeing themselves reflected in fiction books",
-    "journal": "Scottish Educational Review",
-    "year": "2026",
-    "date": "2026-09-07",
-    "doi": "10.1163/27730840-bja10054",
-    "url": "https://doi.org/10.1163/27730840-bja10054",
-    "abstract": "Abstract Adolescence is an important period of identity development, and fiction books offer a range of opportunities for young people to see aspects of their lives and experiences represented. This article shares insights from individual interviews with 37 young people (aged 12-14) in Scotland, summarising the different ways in which young people ‘see themselves’ reflected in the fiction books they read, for example, through similarity in dispositions, experiences, or emotions with fictional characters. It also highlights the importance of representation for those from minority groups, and the benefits young people say they gain from representation in fiction, including improved self-awareness and understanding, sense of belonging, and greater story immersion. The implications for secondary school teachers and librarians are discussed, including the importance of diverse book provision, adolescents’ input into new book purchases, and sufficient opportunities for adolescents to access and explore personally meaningful content within books.",
-    "authors": [
-      "Elena Santi",
-      "Katie Cebula",
-      "Sarah McGeown"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "When showing the inside hurts: the negative effect of anatomical depiction on consumers' brand attitude during product-harm crises",
-    "journal": "Asia Pacific Journal of Marketing and Logistics",
-    "year": "2026",
-    "date": "2026-09-07",
-    "doi": "10.1108/apjml-03-2026-0622",
-    "url": "https://doi.org/10.1108/apjml-03-2026-0622",
-    "abstract": "Purpose This study examines whether, why and when anatomical depiction leads to less favorable brand attitudes following product-harm crises. Design/methodology/approach Five preregistered experiments with Chinese consumers (N = 1,273) test whether simulated assemblage and simulated disassemblage are distinct and spontaneous responses, as well as the main effect of anatomical depiction, the proposed sequential mediation and the moderating role of product positioning. Findings Anatomical depiction elicits distinct simulations of assemblage and disassemblage, both of which can arise spontaneously. Following a product-harm crisis, anatomical (vs. nonanatomical) depiction leads to less favorable brand attitudes by increasing simulated disassemblage and, in turn, brand responsibility. This sequential indirect effect is stronger under high-tech rather than nonhigh-tech positioning. Research limitations/implications The studies use Chinese consumer samples and static product images. Future research could test other cultures, product categories, visual formats and crisis types. Practical implications During performance-related product-harm crises, firms should review internal-view visuals and provide clear causal and remedial information. High-tech brands should exercise particular caution because technical positioning strengthens responsibility judgments. Originality/value This research identifies product-harm crises as a negative boundary condition of anatomical depiction, clarifies two directional forms of object-focused process simulation and shows how visual product presentation shapes brand responsibility and post-crisis brand attitude.",
-    "authors": [
-      "Zhichen Hu",
-      "Shaomu Wei",
-      "Baolong Ma",
-      "Rubing Bai"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Vibe coding and the illusion of competence: why laboratory medicine specialists shouldn’t trust their AI-generated code for clinical deployment",
-    "journal": "Clinical Chemistry and Laboratory Medicine (CCLM)",
-    "year": "2026",
-    "date": "2026-09-07",
-    "doi": "10.1515/cclm-2026-0887",
-    "url": "https://doi.org/10.1515/cclm-2026-0887",
-    "abstract": "Abstract The boom of generative artificial intelligence (AI) is empowering laboratory medicine specialists to create clinical software through conversational prompts without formal programming training, a practice referred to as “vibe coding”. Although vibe coding provides unprecedented potential to address workflow inefficiencies, it also introduces significant patient safety risks when AI-generated code is incorporated into lab processes without appropriate validation. A key issue is that laboratory specialists using these AI tools often lack the software engineering background to spot critical flaws in the code. This illusion of competence is exacerbated by the fact that individuals with limited expertise most severely overestimate their abilities, especially when AI tools generate syntactically correct code that looks professional. The distinction between “code that runs” and “code that is safe for clinical use” is significant. Current regulatory frameworks demand a broad set of requirements, such as risk management, extensive validation and verification, rigorous documentation, and quality assurance. Unreviewed and unvalidated vibe-coded software cannot meet these standards. Laboratory medicine is a particularly vulnerable discipline, as even minor errors can impact hundreds or thousands of patients due to the high volume of processed specimens. Nevertheless, vibe coding offers genuine value for rapid prototyping and proof-of-concept development when employed responsibly. An effective approach is that laboratory specialists use generative AI to prototype clinical concepts in a sandbox environment, followed by collaboration with qualified software developers and regulatory experts who translate them into production-grade systems. However, addressing the vibe coding risk necessitates institutional governance to fulfill the innovative potential while preserving the quality systems that laboratory medicine has established over decades.",
-    "authors": [
-      "Sander De Bruyne",
-      "Stef Rommes",
-      "Tom Fiers",
-      "Pieter-Jan Volders"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Food Industry / Science / Design",
-    "title": "Unlocking design thinking facilitation in higher education: instructional strategies used in the classroom",
-    "journal": "International Journal of Technology and Design Education",
+    "title": "‘What kind of a fool am I?’ A re-examination of foolish sons in the book of Proverbs",
+    "journal": "Integrated Biblical and Theological Studies",
     "year": "2026",
-    "date": "2026-09-07",
-    "doi": "10.1007/s10798-026-10120-8",
-    "url": "https://doi.org/10.1007/s10798-026-10120-8",
-    "abstract": "",
+    "date": "2026-09-08",
+    "doi": "10.4102/ibts.v2i1.22",
+    "url": "https://doi.org/10.4102/ibts.v2i1.22",
+    "abstract": "In the book of Proverbs, foolishness is presented as a richly layered category that carries profound theological weight, integrating ethical failure, deficient judgement and spiritual waywardness. Within the broader matrix of Israelite wisdom literature, the portrayal of the ‘foolish son’ operates as a pedagogical construct, illustrating patterns of self-destructive behaviour and highlighting their extensive personal and communal repercussions. This study critically examines selected texts from Proverbs that portray the foolish son, analysing his character traits, behavioural patterns and social outcomes. Attention is given to the pedagogical role of parents within the covenantal framework of wisdom instruction. Parental guidance in Proverbs is presented as foundational for cultivating wisdom, moral integrity and social stability, thereby safeguarding children from corruption, illegitimate gain and self-destructive conduct. Conversely, the rejection of both parental instruction and the fear of Yahweh results in shame, poverty, moral decay and communal disruption, bringing grief not only to the individual but also to the family unit. By employing the historical-critical method, this study situates the relevant texts within their ancient Israelite socio-religious context while also exploring their theological coherence within the broader wisdom corpus. The findings indicate that foolishness in Proverbs is fundamentally rooted in the neglect of the fear of Yahweh and the deliberate refusal of formative instruction. Contribution: The study concludes that obedience to parental wisdom and reverence for God remain indispensable pathways to moral flourishing and societal well-being in both ancient and contemporary contexts.",
     "authors": [
-      "Sharon Guaman‐Quintanilla",
-      "Isabel Alcivar",
-      "Katherine Chiluiza",
-      "Patricia Everaert"
+      "Michael D. Olajide",
+      "Grace O. Olajide"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Consumer Research",
-    "title": "Translating the Institutional Collective Action Framework to National Cybersecurity Governance: A Conceptual Review for Indonesia",
-    "journal": "Green Social: International Journal of Law and Civil Affairs",
+    "field": "Marketing",
+    "title": "مفهوم الدولة عند هيجل Hegel's Concept of the State",
+    "journal": "Comprehensive Journal of Science",
     "year": "2026",
-    "date": "2026-09-07",
-    "doi": "10.70062/greensocial.v3i3.345",
-    "url": "https://doi.org/10.70062/greensocial.v3i3.345",
-    "abstract": "Tata kelola keamanan siber nasional membutuhkan koordinasi antar organisasi publik dan aktor infrastruktur kritis yang memiliki mandat, sumber daya, dan informasi yang berbeda, sekaligus menghadapi risiko lintas batas. Tinjauan konseptual ini mengkaji bagaimana kerangka Aksi Kolektif Institusional (ICA) dapat menjelaskan koordinasi antar organisasi dan pengawasan kebijakan parlemen di Indonesia. Studi ini menggunakan Tinjauan Literatur Naratif Berfokus Teori dengan sintesis teori kualitatif-interpretatif dan orientasi Teori-ke-Praktik. Scopus digunakan sebagai satu-satunya basis data untuk penemuan artikel jurnal. Enam kali pencarian yang didokumentasikan menghasilkan 745 catatan; setelah penghapusan duplikasi, penyaringan, prioritas, dan verifikasi teks lengkap, korpus analitis terdiri dari 35 artikel jurnal yang memenuhi syarat dan telah ditinjau oleh rekan sejawat yang dibaca secara lengkap. Sintesis tersebut merekonstruksi ICA sebagai kerangka kerja kontingensi yang menghubungkan otoritas yang terfragmentasi, eksternalitas, biaya transaksi, risiko kolaborasi, karakteristik masalah dan aktor, konteks kelembagaan, keterkaitan jaringan, mekanisme koordinasi, dan hasil kolektif. Aplikasi ICA langsung dibedakan dari bukti konteks keamanan siber, sementara kritik, kontradiksi, dan bukti kegagalan koordinasi dipertahankan. Kerangka kerja yang dihasilkan mencakup lima domain: mandat dan arsitektur saling ketergantungan; pertukaran informasi yang terlindungi; komitmen, kekuasaan, dan akuntabilitas yang kredibel; koordinasi yang sesuai dengan modus operandi dan kesiapan krisis; serta ketahanan jaringan, kapasitas, dan pembelajaran pengawasan. Tinjauan ini memberikan kontribusi konseptual dan translasional dengan menghubungkan mekanisme ICA yang terverifikasi dengan pertanyaan diagnostik yang dapat ditelusuri sumbernya dan opsi pengawasan terbatas untuk tata kelola keamanan siber nasional Indonesia. Karena tidak ada penelitian lapangan kelembagaan primer yang dilakukan, hubungan dan efektivitas praktis kerangka kerja tersebut memerlukan validasi empiris di Indonesia.",
+    "date": "2026-09-08",
+    "doi": "10.65405/cc1je792",
+    "url": "https://doi.org/10.65405/cc1je792",
+    "abstract": "يهدف هذا البحث إلى توضيح مفهوم الدولة عند هيجل من خلال مناقشة أهم الأفكار التي طرحها حول هذا الموضوع من خلال مؤلفاته حول موضوع الدولة ومكوناتها. فهيجل حل ينظر إلي الدولة باعتبارها وحدة عضوية تتحدث عن نفسها حيث يرى أن الدولة كمجتمع يجسد المطلق عليها أن تحيا ككل حيوي وليس كمجتمع جزئي العناصر. فالدولة عنده هي تحقيق العقل والحرية الفردية حيث تألف منها النظام الشمولي وفقاً للدستور الذي يقره الشعب بكل إرادته وحديته، وأن قوة الدولة عنده هي استقرار المجتمع حيث جعل سلطتها أعلي من أي تجمع أو تشكيل سياسي فهي تمنح الافراد الطمأنينة والشعور بالسلام المرجو بين الدول. ولعل من أهم التساؤلات التي يجيب عليها هذا البحث هي. 1) ما هو مفهوم الدولة والتاريخ عند هيجل؟ 2) ماهي مكونات الدولة عند هيجل",
     "authors": [
-      "Juli Salamira",
-      "Dian Ferriswara",
-      "Amirul Mustofa"
+      "عبد المنعم امحمد سالم"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Writing for wellbeing: community, heritage and the co-creation of literature",
+    "journal": "Mental Health and Social Inclusion",
+    "year": "2026",
+    "date": "2026-09-08",
+    "doi": "10.1108/mhsi-05-2026-0167",
+    "url": "https://doi.org/10.1108/mhsi-05-2026-0167",
+    "abstract": "Purpose This paper aims to offer a novel literary approach to mental wellbeing and social inclusion, drawing on the findings of a series of co-created projects with community groups in Lancashire and Greater Manchester. It explores the value of reading together, writing together and researching together to reduce social isolation and improve mental wellbeing. Design/methodology/approach Researchers from the Centre for Literature and Community at the University of Greater Manchester developed a series of community arts projects (2019–2025) exploring literature as a shared resource. The respective projects used literary heritage and creative writing to co-create new cultural artefacts, transcending the limitations of an individualist, skills-based approach to literary activity. Findings The research found that participants connected with one another through the art of storytelling and that the activities improved social cohesion and perceived wellbeing. Originality/value The research challenges the hegemonic model of English literature, which reflects the cultural authority of the academic mainstream. It proposes that co-created literature offers a powerful antidote to the alienating effects of professional literary culture centred on individual readers, writers and scholars. It also suggests that literary activities have greater creative health benefits than has been previously recognised.",
+    "authors": [
+      "Kim Edwards Keates",
+      "Jill Marsden",
+      "Ed Jones"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "What shapes generalized and particularized trust worldwide? Population, inequality, migration and media in a global perspective",
+    "journal": "Journal of International Economics and Management",
+    "year": "2026",
+    "date": "2026-09-08",
+    "doi": "10.1108/jiem-04-2026-0072",
+    "url": "https://doi.org/10.1108/jiem-04-2026-0072",
+    "abstract": "Purpose This study examines the determinants of two different types of trust across continents by distinguishing between generalized trust (trust in most people and trust in strangers) and particularized trust (trust in family and neighbors). It aims to identify how media use (traditional vs. social media), net migration, demographic characteristics and economic factors are associated with generalized trust and particularized around the world and across different regions. Design/methodology/approach The analysis draws on a large, cross-national dataset of 441,481 individual observations from 107 countries, combining the EVS–WVS time series (1981–2023) with macroeconomic indicators from the World Bank, Federal Reserve Economic Data (FRED) and national statistical agencies. The study performs a comparative econometric analysis that is region-specific. As part of the methodology, we weight the data by both the GDP and the total population of the country in which each respondent resides. Findings The results reveal substantial continental differences in the determinants of generalized and particularized trust. Media consumption exhibits regionally contingent effects. Social media use is negatively associated with generalized trust, particularly in Europe and advanced economies (AEs), while traditional media positively predicts trust in developed contexts but negatively in developing regions. Net migration produces the most striking regional divergence. It is positively associated with trust in Europe and AEs, and Asia but strongly negatively associated in Latin America and LAFMENA (Latin America, Africa and the Middle East and North Africa – MENA). Originality/value This paper contributes to the literature in two ways. First, it advances a comparative framework that jointly analyzes generalized and particularized trust, revealing important divergences in their determinants. Second, by employing multiple weighting schemes and regional disaggregation, it tests the robustness of findings across different specifications and contexts, offering nuanced insights for both theory and policy.",
+    "authors": [
+      "Ly Hoang Vu"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Use of toenail clippings to document an anti-doping violation. Evidence after trimetazidine contamination, trimetazidine single administration and trimetazidine therapeutic treatment",
+    "journal": "Clinical Chemistry and Laboratory Medicine (CCLM)",
+    "year": "2026",
+    "date": "2026-09-08",
+    "doi": "10.1515/cclm-2026-1434",
+    "url": "https://doi.org/10.1515/cclm-2026-1434",
+    "abstract": "",
+    "authors": [
+      "Pascal Kintz",
+      "Laurie Gheddar"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Underemployment, need frustration, and the delayed amplification of meaninglessness in peripheral economies",
+    "journal": "Journal of Managerial Psychology",
+    "year": "2026",
+    "date": "2026-09-08",
+    "doi": "10.1108/jmp-03-2026-0262",
+    "url": "https://doi.org/10.1108/jmp-03-2026-0262",
+    "abstract": "Purpose This study develops and tests a dynamic deprivation model linking regional underemployment to emotional exhaustion through cumulative psychological need frustration and emergent meaningless work. It examines whether structural labour misallocation predicts intra-individual growth trajectories rather than static strain differences and whether motivational erosion generates nonlinear depletion over time. Design/methodology/approach A three-wave longitudinal panel of 336 employees in peripheral-region small and medium-sized enterprises (SMEs) was analysed using parallel-process latent growth curve modelling (a statistical technique that tracks how several variables change together over time). Latent intercepts and slopes (respectively, each person's starting level and their rate of change across the three waves) were estimated for psychological need frustration, meaningless work, and emotional exhaustion. Nonlinearity was tested via a latent basis specification, and moderated sequential mediation (a chain of indirect effects whose strength depends on the level of a moderating variable) was assessed using bias-corrected bootstrapping of conditional indirect effects (a resampling procedure used to test whether an indirect effect is statistically reliable). Findings Regional underemployment predicted both the level and growth of psychological need frustration, which sequentially transmitted to growth in meaningless work and accelerated emotional exhaustion. Slope-mediated pathways accounted for substantially greater variance than intercept effects. Perceived organisational support attenuated this growth-based transmission. Originality/value The study advances state-of-the-art theory by repositioning meaningless work from a contemporaneous perceptual state to a cumulative, slope-driven deprivation process rooted in regional labour structures. It integrates macro-level economic misallocation into Self-Determination Theory, identifies psychological need frustration growth as the core transmission mechanism, and empirically demonstrates delayed amplification dynamics that conventional cross-sectional mediation models cannot detect.",
+    "authors": [
+      "Duy Phan Khanh",
+      "Phuc Nguyen Hoang"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "Time-varying impact of monetary policy on the macroeconomy in Sri Lanka",
-    "journal": "International Trade, Politics and Development",
+    "title": "Turning familiness into firm performance: non-family employees' justice perceptions as the missing link",
+    "journal": "Journal of Family Business Management",
     "year": "2026",
-    "date": "2026-09-07",
-    "doi": "10.1108/itpd-07-2026-0064",
-    "url": "https://doi.org/10.1108/itpd-07-2026-0064",
-    "abstract": "Purpose This study examines the time-varying effects of monetary policy on Sri Lanka's macroeconomy, focusing on price- and quantity-based instruments and transmission through market interest rate and exchange rate channels. Design/methodology/approach The analysis employs three time-varying parameter vector autoregression (TVP-VAR) models with stochastic volatility using monthly data from January 2006 to March 2023. The average weighted call money rate, reserve money and broad money serve as monetary policy indicators. Impulse responses are evaluated across three horizons and at selected policy-relevant dates. Findings The results show that monetary policy effects vary over time and are concentrated mainly in the short term. Interest rate shocks are transmitted effectively to market rates but depress stock prices and output while producing a price puzzle after 2009; thus, interest rate hikes alone cannot curb inflation. Money supply shocks operate mainly through the exchange rate channel. Their effects on stock prices are generally insignificant, and their positive effects on output are short-lived. In recent years, monetary expansion has generated stronger inflationary pressure. Similar responses at the start of interest rate hikes, the inflation peak and the end of the sample also cast doubt on the effectiveness of postpandemic monetary tightening. Originality/value This study provides the first systematic evidence on the time-varying macroeconomic effects of monetary policy in Sri Lanka. By comparing price- and quantity-based instruments across different horizons and key dates, it extends the existing constant-parameter evidence and offers policy-relevant insights for Sri Lanka and other vulnerable small open economies.",
+    "date": "2026-09-08",
+    "doi": "10.1108/jfbm-06-2026-0173",
+    "url": "https://doi.org/10.1108/jfbm-06-2026-0173",
+    "abstract": "Purpose Family firms with comparable resources often diverge sharply in performance, yet the reasons remain unclear. This study examines how three components of perceived familiness – organizational decision-making, family culture and family image – transform into perceived firm performance via non-family employees' perceptions of distributive and interactional justice. Design/methodology/approach Survey data from 400 white-collar employees in family businesses in Türkiye were used to test a model integrating the resource-based view and social exchange theory. Partial least squares structural equation modeling (PLS-SEM) assessed both the measurement model and the direct and indirect (mediating) structural effects. Findings Family culture and family image were strong antecedents of both distributive and interactional justice, whereas organizational decision-making had no significant effect on either. Both justice dimensions substantially enhanced perceived firm performance, with distributive justice being the more powerful. Mediation analyses confirmed that culture and image reach performance only through justice, whereas decision-making does not – thereby establishing organizational justice as the mechanism that converts the cultural and image components of familiness into firm-level outcomes. Originality/value Integrating the resource-based view with social exchange theory, the study shows that family resources are not inherently performance-generating; their value is realized only when employees decode them as fairness. It disaggregates familiness into components that reach performance through different routes, repositions justice from a micro-level attitude to a meso-level mechanism and reconciles the long-standing tension between socioemotional wealth and agency-based accounts of the family effect.",
     "authors": [
-      "Mingguo Zhao"
+      "Omer Yazici",
+      "Metin Saygılı",
+      "Mehmet Bağış"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Psychology",
-    "title": "The Mediating Effect by Responsibility to Continue Thinking on Relationship between Autism Spectrum Traits and Repetitive Negative Thinking 自閉症スペクトラム傾向と反復思考の関連に対する考え続ける義務感の媒介効果",
-    "journal": "The Japanese Journal of Personality",
+    "field": "Management",
+    "title": "The world of information",
+    "journal": "Strategic Direction",
     "year": "2026",
-    "date": "2026-09-07",
-    "doi": "10.2132/personality.35.2.7",
-    "url": "https://doi.org/10.2132/personality.35.2.7",
-    "abstract": "",
-    "authors": [
-      "Hidefumi Mukai",
-      "Yoshinori Sugiura"
-    ],
+    "date": "2026-09-08",
+    "doi": "10.1108/sd-08-2026-0230",
+    "url": "https://doi.org/10.1108/sd-08-2026-0230",
+    "abstract": "Purpose This paper aims to review the latest management developments across the globe and pinpoint practical implications from cutting-edge research and case studies. Design/methodology/approach This briefing is prepared by an independent writer who adds their own impartial comments and places the articles in context. Findings This paper identified that digital business strategies help to facilitate business performance and improve innovation outcomes. Originality/value The briefing saves busy executives, strategists and researchers hours of reading time by selecting only the very best, most pertinent information and presenting it in a condensed and easy-to-digest format.",
+    "authors": [],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Urban Studies",
-    "title": "Reassessing Confidentiality Versus Transparency in International Investment Arbitration: A Comparative Critical Review",
-    "journal": "Accounting, Economics, and Law: A Convivium",
+    "field": "Public Policy",
+    "title": "The effect of board capital diversity on innovation performance: evidence from new product announcements",
+    "journal": "European Journal of Innovation Management",
     "year": "2026",
-    "date": "2026-09-07",
-    "doi": "10.1515/ael-2022-0055",
-    "url": "https://doi.org/10.1515/ael-2022-0055",
-    "abstract": "Abstract Due to the emphasis placed on implementing confidentiality in arbitration, arbitration has become an important tool for settling international trade and investment disputes. Confidentiality constitutes a procedural guarantee for litigants without which arbitration cannot be envisaged. This is despite the demands to apply transparency to some issues related to international investment arbitration. To achieve its objectives, the study was divided into sections that dealt with the nature of confidentiality in commercial arbitration, the subjective and objective rationalizations that compelled arbitrators to staunchly adhere to the principle of confidentiality, and the issues that made the principle of confidentiality an impediment to international investment arbitration which generated serious calls to implement the principle of transparency. The study also defines the concept of confidentiality by distinguishing it from privacy, as misunderstandings surrounding the nature of these two concepts have confused confidentiality mechanisms. A further emerging trend that runs counter to the dominant idea of absolute confidentiality in arbitration resulted from the continuous international demand to give transparency a prominent role over confidentiality in investment arbitration. This trend also calls for a clear arbitration process that allows the public to participate in access the investment arbitration proceedings and assess their legitimacy and transparency. The United Nations Commission on International Trade Law has initiated a “paradigm shift” in arbitral proceedings by passing rules regulating the transparency of investment arbitration work: the “UNCITRAL Rules on Transparency in Treaty-Based Investor-State Arbitration” adopted in 2014. In this context, this study seeks to analyse the principle of transparency and balance it with the principle of confidentiality of international investment arbitration.",
+    "date": "2026-09-08",
+    "doi": "10.1108/ejim-07-2025-0910",
+    "url": "https://www.semanticscholar.org/paper/997fd13906adaac1629ca46b18d1796f9b4e6924",
+    "abstract": "Drawing on the board capital perspective, this study examines how two distinct board resources – knowledge diversity embedded in directors' functional expertise and information diversity derived from their external industry ties – affect market reactions to new product introduction (NPI) announcements, and whether these effects vary with product newness and firm size. Using an event-study methodology, this study analyzes 395 NPI announcements by US-listed high-tech firms. Innovation performance is measured through cumulative abnormal returns (CAR) surrounding announcement dates. Board knowledge diversity is operationalized using Blau's index based on directors' functional backgrounds, while board information diversity is captured through industry embeddedness derived from directors' external board ties. Cross-sectional regression analyses test direct and moderating effects, incorporating product newness and firm size as contextual moderators. Board knowledge diversity is positively and significantly associated with market reactions to NPI announcements, with stronger effects for highly novel products and smaller firms. By contrast, board information diversity is negatively associated with market reactions to NPI announcements, but the association is statistically insignificant. The results are robust across alternative model specifications and measurement approaches, suggesting that internally embedded expertise plays a more critical role than external network ties in innovation governance. Moving beyond composite diversity measures, this study distinguishes the innovation-governance roles of directors' human and social capital. It further advances the literature by assessing the market-perceived value of specific NPIs and identifying product newness and firm size as boundary conditions shaping the contribution of board capital to innovation governance.",
     "authors": [
-      "Nagham Al-Otaibi",
-      "Ahmad Farah"
+      "Jung-Ho Lai",
+      "Li-Yu Chen"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Urinary N1, N12-diacetylspermine as a potential tumor biomarker for gastric and colorectal cancer",
-    "journal": "World Journal of Gastroenterology",
-    "year": "2026",
-    "date": "2026-09-07",
-    "doi": "10.3748/wjg.118185",
-    "url": "https://doi.org/10.3748/wjg.118185",
-    "abstract": "BACKGROUND Previous studies have reported elevated urinary N1, N12-diacetylspermine (DiAcSpm) levels in various cancers. We therefore hypothesized that urinary DiAcSpm could serve as a potential biomarker for gastric and colorectal cancers (CRCs) and may also have prognostic value. AIM To assess the diagnostic potential of urinary DiAcSpm for gastric and CRC and to explore its prognostic significance. METHODS A total of 209 urine samples were collected from patients with gastrointestinal cancers, benign gastrointestinal diseases, and healthy controls. Pre- and post-treatment clinical data were obtained for all participants. Urinary DiAcSpm levels were measured using a commercially available reagent kit via an immunoturbidimetric assay on an automated biochemical analyzer. RESULTS Urinary DiAcSpm concentrations were significantly higher in patients with gastric and CRCs compared with benign disease patients and healthy controls. It discriminated gastric cancer (GC) from healthy controls with an area under the curve (AUC) of 0.714 [95% confidence interval (CI): 0.613-0.815], sensitivity of 59.65%, and specificity of 76.19%. For CRC, the AUC was 0.736 (95%CI: 0.648-0.824), with sensitivity of 42.11% and specificity of 95.24%. Combining DiAcSpm with carcinoembryonic antigen improved diagnostic performance [GC: AUC = 0.755 (95%CI: 0.657-0.852), sensitivity = 94.74%, specificity = 50.00%; CRC: AUC = 0.813 (95%CI: 0.739-0.887), sensitivity = 91.23%, specificity = 58.73%]. Urinary DiAcSpm levels significantly decreased after chemotherapy in CRC patients. High DiAcSpm levels were associated with distant metastasis in GC patients. CONCLUSION Urinary DiAcSpm levels are markedly elevated in patients with GC and CRC. While its standalone diagnostic accuracy requires further improvement, DiAcSpm shows promise as a complementary marker to existing serum biomarkers in combined diagnostic strategies.",
-    "authors": [
-      "Hua-Zhen Zheng",
-      "Peng Wang",
-      "Hui-Jie Zheng",
-      "Zi-Qi Wang"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
