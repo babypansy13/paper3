@@ -1,142 +1,158 @@
 [
   {
-    "field": "Mental Health",
-    "title": "Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy",
-    "journal": "New England Journal of Medicine",
+    "field": "Consumer Research",
+    "title": "CDK5RAP3-Mediated Mitochondrial RQC Alleviates Pathological Cardiac Hypertrophy",
+    "journal": "Circulation Research",
     "year": "2026",
-    "date": "2026-09-10",
-    "doi": "10.1056/nejmoa2602678",
-    "url": "https://doi.org/10.1056/nejmoa2602678",
-    "abstract": "",
+    "date": "2026-09-11",
+    "doi": "10.1161/circresaha.125.328184",
+    "url": "https://doi.org/10.1161/circresaha.125.328184",
+    "abstract": "BACKGROUND: Recent studies have revealed heterogeneity among ribosomes. Pathological cardiac hypertrophy is characterized by profound alterations in translation. However, how ribosome heterogeneity contributes to this process remains largely unclear. METHODS: We used translating ribosome affinity purification coupled with mass spectrometry to profile ribosome-interacting proteins. Cardiomyocyte-specific gene manipulation was achieved through either genetic knockout or adeno-associated virus–mediated overexpression. Pathological cardiac hypertrophy was induced by transverse aortic constriction surgery in vivo and by phenylephrine stimulation in vitro. RESULTS: The cardiomyocyte-specific ribosome proteomics indicated dynamic alterations in ribosome-interacting proteins during pathological hypertrophy. Notably, multiple proteins associated with ribosome stalling were detected in the ribosome-interactome of hypertrophic hearts. Among these, we verified that CDK5RAP3 (CDK5 regulatory subunit-associated protein 3) exhibited the most specific ribosome binding in hypertrophic hearts. CDK5RAP3 was upregulated and recruited to ribosomes during pathological hypertrophy. It promoted RPL26 (ribosomal protein L26) UFMylation and ribosome-associated quality control on the mitochondrial surface. In vitro, CDK5RAP3 knockdown exacerbated cardiomyocyte hypertrophy induced by phenylephrine, whereas its overexpression attenuated it. In vivo, cardiomyocyte-specific CDK5RAP3 knockout promoted, while adeno-associated virus–mediated overexpression suppressed pathological cardiac hypertrophy induced by transverse aortic constriction. Mechanistically, ribosome stalling on the mitochondrial surface was exacerbated in hypertrophic hearts of both humans and mice, which was associated with impaired mitochondrial protein import. CDK5RAP3 enhanced ribosome-associated quality control, alleviated ribosome stalling, and restored mitochondrial protein import, thereby improving mitochondrial function. Notably, mitochondrial import of PDP1 (pyruvate dehydrogenase phosphatase catalytic subunit 1) was maintained by CDK5RAP3-mediated ribosome-associated quality control. Knockdown of PDK (pyruvate dehydrogenase kinase) 1/2, functional antagonists of PDP1, reversed cardiomyocyte hypertrophy caused by CDK5RAP3 deficiency. CONCLUSIONS: This study identifies CDK5RAP3-mediated ribosome-associated quality control on the mitochondrial surface as a critical protective mechanism that preserves protein import and mitochondrial function during pathological cardiac hypertrophy.",
     "authors": [
-      "Fernando C. Fervenza",
-      "Fan Fan Hou",
-      "Chuan-Ming Hao",
-      "Gianna M. Kirsztajn"
+      "Yazhi Peng",
+      "Wenwen Cai",
+      "Tailai Du",
+      "Yi Zheng"
     ],
-    "citations": 5,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 2,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Public Policy",
-    "title": "Cardiogenic Shock Systems of Care Best Practices. Part 1: Prehospital and Emergency Department Evaluation and Management",
-    "journal": "US Cardiology Review",
+    "title": "Youth agency and intergenerational solidarity: The case of multicultural congregations in the Apostolic Faith Mission of South Africa",
+    "journal": "HTS Teologiese Studies / Theological Studies",
     "year": "2026",
-    "date": "2026-09-10",
-    "doi": "10.15420/usc.2025.16",
-    "url": "https://doi.org/10.15420/usc.2025.16",
-    "abstract": "This paper explores best practices for the prehospital and emergency department evaluation and management of cardiogenic shock, a critical condition marked by high mortality rates, within a contemporary cardiogenic shock system of care. It highlights the significance of early identification and immediate intervention to prevent irreversible cardiac and non-cardiac organ damage. Emphasizing multidisciplinary team-based care and data-driven insights, the paper details optimal strategies for managing cardiogenic shock from initial contact, noting challenges in prehospital identification and treatment due to patient and disease heterogeneity and the variability in response capabilities of prehospital teams.",
+    "date": "2026-09-11",
+    "doi": "10.4102/hts.v82i1.11394",
+    "url": "https://doi.org/10.4102/hts.v82i1.11394",
+    "abstract": "After 30 years of democracy in South Africa, a lot is said about the plight of the youth, whether they are the ones left behind in society or whether their voices are muted in shaping the future of the country. These questions and more are not just asked in society in general, but also more particularly within the context of faith communities. Studies carried out within multicultural congregations in the Apostolic Faith Mission of South Africa (AFMSA) show evidence of the potential and possibilities of igniting youth agency and harnessing intergenerational solidarity among different age groups when the five conditions of intergroup contact, namely inclusion, belonging, participation, leadership and shared values are met. The study utilised intergroup contact theory and social cohesion theory as a basis and a framework to investigate how the category of age is addressed within multicultural congregations in the AFMSA. A qualitative research methodology is followed consisting of focus-group interviews with participants of five multicultural congregations. Contribution: The study reports on the findings, illustrating that the youth has agency, thus fostering intergenerational solidarity between all age groups. Through intergroup contact, the youth can turn faith communities into repositories of social cohesion in both church and society.",
     "authors": [
-      "Michael J Lauria",
-      "Adam L Gottula",
-      "William Hallinan",
-      "Eric Thomas"
+      "Daniel N. Andrew",
+      "Lucius J.S.",
+      "Willem J. Schoeman"
     ],
-    "citations": 2,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Who owns the firm? Ownership, structure, and productivity disparities in India’s unincorporated enterprises",
+    "journal": "International Journal of Social Economics",
+    "year": "2026",
+    "date": "2026-09-11",
+    "doi": "10.1108/ijse-02-2026-0113",
+    "url": "https://doi.org/10.1108/ijse-02-2026-0113",
+    "abstract": "Purpose This study aims to examine how caste shapes enterprise ownership, structural conditions, and productivity in India’s unincorporated sector. It asks whether the rapid expansion of informal enterprises over time has reduced or reproduced caste-based inequality. Design/methodology/approach The study draws on unit-level data from the National Sample Survey (67th round, 2010–11; 73rd round, 2015–16) and the Annual Survey of Unincorporated Sector Enterprises (ASUSE) 2022–23, 2023–24 and 2025. The methodology combines descriptive profiling of ownership and enterprise characteristics; a pooled multinomial logit to assess caste-linked sorting, pooled ordinary least squares (OLS) and Poisson pseudo-maximum likelihood (PPML) regression to estimate the productivity gap; and Blinder-Oaxaca decomposition to separate disparities. Findings The findings reveal a clear paradox: the informal sector enterprise expanded rapidly, but caste inequality in enterprise ownership and returns persisted. Establishments increased from 57.7 million in 2010–11 to 83.5 million in 2025, yet Scheduled Caste (SC) and Scheduled Tribe (ST) ownership remained below their population shares. SC and ST entrepreneurs remained more concentrated in precarious locations and low-capital activities, while upper-caste enterprises retained advantages in permanent premises and productivity. Across the pooled productivity models, the most robust disadvantage is borne by SC-owned enterprises. The decomposition shows that 69.8% of SC-“Others” productivity gap is explained by location, registration and digital adoption, while the remaining portion remains unexplained, pointing to discrimination and unequal social capital. Originality/value The study shifts attention from wages and employment to caste differences in enterprise ownership, structure, and productivity, showing that firm growth did not reduce caste gaps in ownership, business structure, or returns.",
+    "authors": [
+      "Pushpendra Singh",
+      "Archana Singh"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Marketing",
-    "title": "[R-831] 表面近傍の水素の定量と位置決定：[R-832] プラズマプロセスが拓くLIBリサイクルの新潮流",
-    "journal": "Vacuum and Surface Science",
+    "title": "When CSR undermines marketing capability: institutional contingencies in Chinese firms",
+    "journal": "Journal of Business & Industrial Marketing",
     "year": "2026",
-    "date": "2026-09-10",
-    "doi": "10.1380/vss.69.539",
-    "url": "https://doi.org/10.1380/vss.69.539",
-    "abstract": "",
-    "authors": [],
+    "date": "2026-09-11",
+    "doi": "10.1108/jbim-08-2025-0806",
+    "url": "https://doi.org/10.1108/jbim-08-2025-0806",
+    "abstract": "Purpose Corporate social responsibility (CSR) has been widely shown to strengthen firm competitiveness by building trust, deepening stakeholder relationships and enhancing marketing capability (MC). Yet these benefits rest on a critical premise: that stakeholders perceive CSR as authentically motivated rather than externally compelled. This study aims to examine what happens to the CSR–MC relationship when this premise is systematically suppressed by the institutional environment in which firms operate. Design/methodology/approach Drawing on relationship marketing theory and institutional theory, the authors argue that when institutional conditions lead stakeholders to interpret CSR as regulatory compliance rather than genuine organizational commitment, CSR damages MC through two mechanisms: resource diversion and relational trust erosion. The authors test this framework using panel data from 3,877 firm-year observations of Chinese A-share listed firms spanning 2008–2017, using fixed-effects regression with Heckman correction for sample selection bias. Findings CSR negatively affects MC in the Chinese institutional context. This negative effect is attenuated in regions with higher Buddhist belief density, where normative conditions are more favorable to sincere attributions of CSR motives. Conversely, the effect is amplified under heavier government intervention and for firms subject to mandatory CSR reporting – conditions that reinforce compliance-based interpretations and further suppress CSR’s relational function. Originality/value This study advances the relationship marketing literature by identifying institutional context as a boundary condition of CSR’s trust-building function, contributes to the MC literature by demonstrating that institutionally imposed CSR commitments can erode rather than build marketing competence and enriches the CSR literature by explaining why the same CSR investment produces fundamentally different capability outcomes across institutional contexts. The study also responds to calls for more B2B-grounded CSR research by demonstrating how institutional conditions shape supplier CSR’s relational value in organizational market settings.",
+    "authors": [
+      "Kui Wang",
+      "Chuangneng Cai",
+      "Wei Han"
+    ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Psychology",
-    "title": "Worth the effort: How inclusive human resource practices impact individuals and organisations",
-    "journal": "Annals in Social Responsibility",
+    "field": "Mental Health",
+    "title": "Uncal Herniation: Early Recognition and Emergency Management by Prehospital Care Providers-An Updated Review",
+    "journal": "Saudi Journal of Medicine and Public Health",
     "year": "2026",
-    "date": "2026-09-10",
-    "doi": "10.1108/asr-08-2026-0045",
-    "url": "https://doi.org/10.1108/asr-08-2026-0045",
-    "abstract": "",
-    "authors": [],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20portrait%20silhouette%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "Wasathiyah Islam and Inclusive Economic Development: The Role Of Social Capital and Literacy",
-    "journal": "International Journal of Management and Business Economics",
-    "year": "2026",
-    "date": "2026-09-10",
-    "doi": "10.58540/ijmebe.v5i1.2355",
-    "url": "https://doi.org/10.58540/ijmebe.v5i1.2355",
-    "abstract": "This study examines how the values of Islamic wasathiyah (moderation) can be positioned as an epistemological and practical foundation for inclusive economic development. While prior studies have separately examined religious moderation, social capital, and financial literacy in relation to economic inclusion, limited scholarly attention has been given to integrating these three dimensions within a single conceptual framework grounded in Islamic values—a gap this study seeks to address. Persistent gaps in economic access, low financial inclusion among marginalized groups, and rising socio-religious polarization further underscore the need for such an integrative framework. To address this gap, the study proposes the MML Model (Moderation–Social Capital–Literacy) as an original conceptual contribution synthesized from the literature, built upon three interrelated pillars: moderation (tawazun, i'tidal, and tasamuh), social capital (trust, networks, and norms of reciprocity), and literacy, particularly Islamic financial and digital literacy. This research employs a qualitative approach through descriptive-analytical library research, examining academic literature, policy documents, and prior empirical studies on wasathiyah, social capital, and Islamic economic inclusion. The findings indicate that Islamic wasathiyah provides a value foundation balancing the spiritual and material dimensions of life, thereby encouraging fairer distribution of resources; social capital functions as a bridge connecting individuals and communities to formal economic opportunities, particularly for micro-enterprises and mosque-based or majelis taklim communities; while financial and digital literacy serve as prerequisites enabling economic participation to move beyond normative discourse into concrete practice, such as the utilization of Islamic microfinance institutions and digital platforms. The novelty of this study lies in demonstrating how these three elements reinforce one another within the integrative MML Model, offering a strategic framework that has not been explicitly articulated in previous literature for Islamic educational institutions, majelis taklim, and Islamic financial institutions in designing inclusive and sustainable economic empowerment programs for the ummah. The study recommends strengthening religious moderation curricula that incorporate economic literacy content, as well as cross-institutional synergy to expand access to social capital for vulnerable groups.",
+    "date": "2026-09-11",
+    "doi": "10.64483/202631768",
+    "url": "https://doi.org/10.64483/202631768",
+    "abstract": "Background: Uncal herniation is a rapidly progressive and potentially fatal neurological emergency caused by displacement of the medial temporal lobe through the tentorial notch as intracranial pressure rises. It may result from traumatic brain injury, intracranial hemorrhage, malignant cerebral edema, tumors, hydrocephalus, and other space-occupying intracranial lesions. Aim: This article reviews the anatomical basis, causes, pathophysiology, clinical manifestations, diagnostic evaluation, treatment approaches, complications, and prognosis of uncal herniation. Methods: A narrative review was undertaken using established neurocritical care concepts and published literature addressing transtentorial herniation, intracranial hypertension, clinical neurological assessment, neuroimaging, emergency management, and neurosurgical intervention. Results: Uncal herniation develops when compensatory intracranial mechanisms fail and pressure gradients force the uncus against the tentorial edge. Compression of the ipsilateral oculomotor nerve can cause a dilated, poorly reactive pupil, while cerebral peduncle compression may produce hemiparesis. Progressive midbrain and brainstem involvement can lead to declining consciousness, abnormal posturing, respiratory failure, coma, and death. Urgent non-contrast computed tomography is essential for identifying hemorrhage, mass effect, cisternal compression, hydrocephalus, and midline shift. Immediate management includes airway protection, optimization of oxygenation and cerebral perfusion, osmotherapy, controlled ventilation when indicated, cerebrospinal fluid diversion in selected cases, and urgent evacuation or decompression of the causative lesion. Conclusion: Uncal herniation requires rapid clinical recognition and coordinated emergency, critical care, radiological, and neurosurgical management. Early treatment is central to reducing mortality and limiting permanent neurological disability.",
     "authors": [
-      "Yozar Putra Jaya"
+      "Muteb Batel Nawman Alhazmi",
+      "Sami Alamlah Alanazi",
+      "Abdulaziz Moria Alanazi",
+      "Yousef Ramadan Fayyad Alenezi"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "WISER Perspectives: Multidimensional Drivers of Well-Being in Cape Town’s Informal Settlements",
-    "journal": "Applied Research in Quality of Life",
+    "title": "The impact of agricultural insurance coverage on farm household income inequality: evidence from corn farmers in Liaoning Province, China",
+    "journal": "Frontiers in Sustainable Food Systems",
     "year": "2026",
-    "date": "2026-09-10",
-    "doi": "10.1007/s11482-026-10666-8",
-    "url": "https://doi.org/10.1007/s11482-026-10666-8",
-    "abstract": "Abstract Research on well-being has predominantly focused on affluent populations, often neglecting disadvantaged communities and thereby perpetuating their marginalization in both academic and policy discussions. Perspectives from informal settlements—prevalent in the rapidly urbanizing Global South—offer valuable opportunities to expand and challenge prevailing conceptualizations of well-being. Adopting a qualitative approach, the research is based on a case study on placemaking interventions by the Violence Prevention through Urban Upgrading (VPUU) program in Cape Town, South Africa. The program is area-based and aims to enhance quality of life in informal settlements through community agency, co-production, and inclusive governance. Based on focus group discussions, transect walks, and qualitative interviews with residents, the study examines how VPUU´s interventions influence residents’ perceptions of life satisfaction and thereby highlights the subjective dimensions of well-being. Accordingly, this study explores (1) the role of community involvement in co-producing social infrastructure; (2) the impact of such involvement on well-being; and (3) strategies to support participation and governance. Findings indicate that while economic stability is important, social and human capital are also significant aspects, underscoring the value of social relationships and community support. Based on the VPUU case, the study introduces a novel framework identifying five key drivers of quality of life: (1) eudaimonic (purpose and belonging); (2) altruistic (community support); (3) relational (trust and social capital); (4) formative (skills and safety); and (5) material (economic and environmental conditions). The research concludes with recommendations for context-specific quality-of-life assessments and governance frameworks to sustain improvements in well-being and strengthen social cohesion.",
+    "date": "2026-09-11",
+    "doi": "10.3389/fsufs.2026.1856386",
+    "url": "https://doi.org/10.3389/fsufs.2026.1856386",
+    "abstract": "Introduction As climate variability and production uncertainty increasingly threaten agricultural livelihoods, agricultural insurance has become an important tool for climate risk management and farm income stabilization. However, its distributional effects across farm households remain underexplored. Drawing on Sen’s capability approach, this study investigates the impact of agricultural insurance coverage on income inequality among farm households. Methods Using a two-wave panel dataset of 627 corn-growing households in Liaoning Province, China, from 2021 to 2022, we employ a two-way fixed effects model to estimate the effect of agricultural insurance coverage on farm household income inequality. We further test the robustness of the baseline results through a series of checks, including replacing the dependent variable, controlling for village-level fixed effects, adding village-level controls, clustering bootstrap standard errors at the village level and alternative model specifications. Exploratory analysis and heterogeneity analysis are also conducted. Results The empirical results yield four main findings. First, higher agricultural insurance coverage is positively associated with income inequality among farm households, and this pattern remains robust across multiple tests. Second, the observed association with inequality is concentrated in operating income, with no significant corresponding patterns for wage income, property income, or transfer income. Third, exploratory analysis suggests that agricultural insurance coverage is linked to greater land transfer-in primarily for high-income households, a relationship that is consistent with the observed increased income inequality. Fourth, this association is more pronounced among households with greater realized production loss and among those living in areas without income insurance policies. Discussion This study enriches the literature on agricultural insurance by highlighting its unintended distributional consequences. Although agricultural insurance plays an important role in risk management, its potential to widen inequality implies that policy design should not rely on insurance alone. Greater attention to equity requires complementary redistributive instruments, alongside efforts to make insurance more inclusive for disadvantaged farmers.",
     "authors": [
-      "Sigrid Busch",
-      "Shaharin Annisa",
-      "Michael Krause",
-      "Astrid Ley"
+      "Bo Hu",
+      "Wenbo Zhang",
+      "Chunli Wan",
+      "Naihe Jiang"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "Valvular Heart Disease as the Main Cause of Acute Heart Failure with Preserved Ejection Fraction: Dynamic Severe Functional Valvular Regurgitation as the Main Mechanism of Decompensation",
-    "journal": "Cardiac Failure Review",
+    "title": "The effect of high-fidelity simulation-based learning on knowledge and critical thinking skills among nursing students in Chiang Rai, Thailand",
+    "journal": "Asian Education and Development Studies",
     "year": "2026",
-    "date": "2026-09-10",
-    "doi": "10.15420/cfr.2026.44",
-    "url": "https://doi.org/10.15420/cfr.2026.44",
-    "abstract": "",
+    "date": "2026-09-11",
+    "doi": "10.1108/aeds-01-2025-0028",
+    "url": "https://doi.org/10.1108/aeds-01-2025-0028",
+    "abstract": "Purpose This study aimed to examine the effect of high-fidelity simulation (HFS) on knowledge and critical thinking skills among third-year nursing students caring for high-risk newborns. Design/methodology/approach A single-group repeated measurement experimental design was used to investigate the effect of HFS integration in a pediatric nursing practicum on students’ critical thinking skills, knowledge, and satisfaction. The 6-week intervention consisted of four modules: neonatal jaundice, respiratory distress syndrome, hypoglycemia, and hypothermia. Two sets of multiple-choice questions (MCQs) were completed pre- and post-intervention to assess students’ knowledge and critical thinking skills. Students’ satisfaction was assessed using semi-structured interviews. Findings A total of 72 third-year nursing students volunteered to participate and completed all measurements. There was no statistically significant increase in the critical thinking score from pretest (M = 10.64, SD = 2.95) to posttest (M = 11.60, SD = 2.53; p &gt; 0.05), whereas the students’ knowledge increased from pretest (M = 35.52, SD = 5.54) to posttest (M = 42.10, SD = 5.53; p &lt; 0.001). Furthermore, one of the main themes to emerge from the content analysis was “realism reinforcing clinical practice,” reflecting students’ satisfaction with HFS as an active learning method. Research limitations/implications This study has certain limitations that should be acknowledged. It was conducted in a single nursing school using a convenience sample, which may limit the generalizability of the findings. The measurement instrument for nursing care of high-risk newborns had a reliability coefficient of KR 0.64, which falls below the generally recommended threshold for research instruments; the marginal reliability may have attenuated the reliability of the findings. Moreover, the relatively short six-week intervention period, together with the absence of a control group, may have constrained the ability to fully capture long-term effects and critical thinking outcomes. Future research extending this line of inquiry should adopt more rigorous designs than the single-arm pretest-posttest approach used here: a two-arm design comparing HFS with standard clinical practicum or lower-fidelity simulation, ideally with random assignment at the group or cohort level, would allow the improvements observed here to be attributed more confidently to the HFS intervention itself rather than to maturation, repeated testing, or concurrent curricular exposure. Multi-site replication would also address the single-institution, convenience-sample limitation of the current study. The instrument would need to undergo further psychometric testing so that its reliability could reach an adequate standard, and appropriate control groups are warranted to strengthen the evidence base. Plausible confounders were not controlled for in this single-arm design. Concurrent coursework and clinical placements during the six-week intervention period may have independently contributed to gains in knowledge and critical thinking, apart from any effect of HFS itself. Finally, as noted above, the study was powered to detect only moderate-to-large effects (dz = 0.33); the non-significant overall critical thinking result should therefore be interpreted with this power limitation in mind rather than as evidence that HFS has no effect on critical thinking. Practical implications Our study findings may serve as an inspiration for nursing educators to embed HFS into their curricula, not only to motivate students but also to encourage active learning strategies and ultimately improve patient outcomes. Originality/value Simulation-based learning (SBL) offers a structured, context-driven approach that enhances critical thinking, problem-solving, and real-world application of knowledge. It also complies with regulations mandating nursing students to engage in simulation-based training before entering clinical practice, ensuring safety and competence. By supporting lifelong learning and addressing technological disruptions, SBL aligns with the pedagogical foundation of HFS, emphasizing improved learning outcomes, the integration of digital technology, and a commitment to social progress.",
     "authors": [
-      "Maria Giulia Bellicini"
+      "Katemanee Moonpanane",
+      "Salisa Kodyee",
+      "Pimkanabhon Trakooltorwong",
+      "Nathamon Wuttipan"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Consumer Research",
-    "title": "Undetected Gastric Angiodysplastic Lesion Causing Obscure Gastrointestinal Bleeding",
-    "journal": "The Korean Journal of Helicobacter and Upper Gastrointestinal Research",
+    "field": "Urban Studies",
+    "title": "The effect of brand personality, self-congruity and functional benefit on repurchase intention: the role of brand experience and preference",
+    "journal": "Journal of Enterprising Communities: People and Places in the Global Economy",
     "year": "2026",
-    "date": "2026-09-10",
-    "doi": "10.7704/kjhugr.2026.0011",
-    "url": "https://doi.org/10.7704/kjhugr.2026.0011",
-    "abstract": "Obscure gastrointestinal bleeding (OGIB) has traditionally been defined to as bleeding originating from the small intestine that is beyond the reach of esophagogastroduodenoscopy and colonoscopy. However, gastric lesions associated with chronic intermittent bleeding may be undetected if there is no overt bleeding during initial endoscopic examination, resulting in a diagnosis of OGIB and repeated complex follow-up investigations. Vascular lesions, including angiodysplasia, Dieulafoy’s lesion, and small vascular ectasias, are major causes of chronic intermittent gastrointestinal bleeding. Hematemesis is an important clue for identifying the upper gastrointestinal tract as the source of anemia. Even when these vascular lesions are small and undetected, or not recognized as foci of bleeding during the initial endoscopy, confirmation of interval changes in size and morphology on follow-up endoscopy may provide an opportunity for definitive treatment of the lesion. Herein, we report a case of a patient with chronic anemia accompanied by recurrent syncope in whom no bleeding focus was identified on the initial endoscopic examination. After the patient had overt hematemesis, upper gastrointestinal bleeding was strongly suspected. Follow-up end oscopy revealed an angiodysplastic lesion with interval changes in size and morphology, which was recognized as the source of bleeding, and it was successfully treated endoscopically.",
+    "date": "2026-09-11",
+    "doi": "10.1108/jec-11-2025-0393",
+    "url": "https://doi.org/10.1108/jec-11-2025-0393",
+    "abstract": "Purpose This study aims to investigate how key brand-related factors – functional benefits, brand price, brand appearance, brand personality and self-congruity – shape consumers’ brand experience and brand preference and how these, in turn, influence repurchase intention. In today’s highly competitive market, understanding the experiential and emotional connections between brands and consumers is critical for fostering loyalty. The study particularly focuses on emerging market contexts, where empirical evidence remains limited. By exploring these interrelationships, the research seeks to provide deeper theoretical and practical insights into how brands can cultivate stronger consumer engagement and long-term loyalty through experience-driven strategies. Design/methodology/approach A quantitative research design was used using a structured questionnaire to collect data from consumers in a developing country context, i.e. Türkiye. The proposed conceptual model examines the relationships among five brand-related antecedents, brand experience, brand preference and repurchase intention. The data collection phase included 468 valid responses, and the data analysis was conducted using Partial Least Squares Structural Equation Modeling (PLS-SEM), allowing for the assessment of both direct and indirect relationships among variables. The PLS-SEM approach was chosen for its robustness in handling complex, multivariate models and smaller sample sizes. Reliability, validity and mediation analyses were performed to ensure the robustness and explanatory power of the hypothesized relationships. Findings Results reveal that brand appearance, brand personality and self-congruity exert significant and positive influences on both brand experience and brand preference. Functional benefits positively affect brand experience but show no significant relationship with brand preference, while brand price demonstrates no significant impact on either construct. Moreover, both brand experience and brand preference significantly and positively affect repurchase intention, highlighting their central roles in fostering consumer loyalty. The findings suggest that emotional and symbolic aspects of branding outweigh purely functional or price-based factors in driving consumers’ experiential engagement and continued purchase behavior, particularly within emerging market settings. Research limitations/implications The study’s focus on a single developing country limits the generalizability of its findings to other cultural or market contexts. Future research could incorporate cross-country comparisons or longitudinal designs to better capture variations in consumer perceptions and behaviors. Additionally, the study relies on self-reported data, which may be subject to common method bias. Despite these limitations, the results contribute to the growing literature on experiential branding by clarifying how emotional and symbolic brand attributes shape consumer loyalty. The study underscores the importance of expanding empirical research on brand experience and preference in underexplored emerging market environments. Practical implications For brand managers and marketers, the findings highlight the need to emphasize emotional and experiential brand dimensions – such as visual appeal, personality and consumer self-congruity – to strengthen brand preference and loyalty. Functional attributes and pricing alone are insufficient to build lasting consumer relationships. Managers should design brand strategies that create authentic, self-expressive experiences that resonate with consumers’ identities. By leveraging storytelling, personalized communication and consistent brand imagery, firms can foster stronger brand–consumer bonds, leading to higher repurchase intentions. These insights are particularly valuable for companies operating in emerging markets, where emotional differentiation can drive sustainable competitive advantage. Social implications This study underscores the social importance of brands as vehicles for identity expression, emotional connection and community belonging. By demonstrating that self-congruity and experiential factors significantly influence brand loyalty, the findings suggest that brands can foster stronger social ties and cultural resonance among consumers. In emerging markets, where consumer identity and aspirations are rapidly evolving, experience-based branding can promote inclusivity and empowerment through meaningful engagement. Furthermore, by focusing on emotional and symbolic connections rather than price competition, firms can contribute to more sustainable consumption patterns and enhance consumer well-being through authentic, trust-based brand–consumer relationships. Originality/value This study advances brand management literature by empirically examining how multiple brand-related factors collectively shape brand experience, preference and repurchase intention in an emerging market context – an area with limited prior research. By integrating functional, emotional and self-congruity dimensions into a unified framework, it offers a more holistic understanding of brand–consumer relationships. The results reveal that symbolic and experiential factors play a more crucial role than price or functionality in driving loyalty. This provides valuable theoretical insight for researchers and actionable guidance for practitioners seeking to build emotionally engaging, experience-based brand strategies that enhance long-term consumer retention.",
     "authors": [
-      "Donghyoun Lee",
-      "Heung Up Kim",
-      "Hyun Joo Song"
+      "Barış Armutcu",
+      "Veland Ramadani",
+      "Atınç Olcay",
+      "Christina Theodoraki"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Management",
-    "title": "Transformation of the Scientific Paradigm under the Influence of the Development of the Information Technology Industry",
-    "journal": "ADMINISTRATIVE LAW AND PROCEDURE",
+    "title": "Influencing factors of human–artificial intelligence interaction satisfaction: an experimental study of users' AI chatbot usage experience",
+    "journal": "Aslib Journal of Information Management",
     "year": "2026",
-    "date": "2026-09-10",
-    "doi": "10.18572/2071-1166-2026-9-22-24",
-    "url": "https://doi.org/10.18572/2071-1166-2026-9-22-24",
-    "abstract": "The relevance of the chosen topic is related to several factors: the spread of scientific and technological progress and the influence of digital technologies are changing the way the economy functions, revolutionizing the field of public administration; the concept of digital public administration is being considered as a key economic resource as society transitions from the industrial stage of development to the information stage; there is a digital transformation of science driven by the integration of digital advancements, making scientific knowledge more accessible to researchers; and modern scientists have access to new tools, such as artificial intelligence technologies, which can be used to assess the real impact of scientific research on a country’s social and economic development. These and other related processes suggest that the main trends in the transformation of the economy, state, and scientific doctrine should be examined in more detail in their development, interconnection, and mutual influence under the influence of the latest information technologies.",
+    "date": "2026-09-11",
+    "doi": "10.1108/ajim-12-2025-0976",
+    "url": "https://doi.org/10.1108/ajim-12-2025-0976",
+    "abstract": "Purpose This study investigates the key factors influencing user satisfaction in human–artificial intelligence interaction (HAI) with chatbots. Using the Cuban Culture Knowledge (CCK) chatbot as a case study, the research aims to examine how emotional state, user experience, task characteristics, service satisfaction, knowledge dissemination efficiency, time and fatigue affect HAI satisfaction. Design/methodology/approach A controlled experiment was conducted in which participants interacted with the CCK chatbot to complete knowledge-related tasks. The study combined subjective questionnaires with objective eye-tracking measurements to capture user perceptions and interaction behavior. Correlation and regression analyses were applied to examine the relationships between the proposed factors and HAI satisfaction. Given the relatively small sample size, this study adopts an exploratory approach to identify preliminary patterns and relationships among key variables. Findings The analysis identified six significant predictors of HAI satisfaction: emotional state, user experience, knowledge dissemination efficiency, fixation duration, time, and fatigue. These findings highlight the multidimensional nature of satisfaction with the CCK chatbot. Originality/value The findings offer practical insights for improving the design and user experience of AI chatbot systems, particularly by identifying specific features that enhance user satisfaction based on both subjective evaluations and physiological responses measured through eye-tracking data.",
     "authors": [
-      "Ekaterina A. Solomatina"
+      "Wencheng Su",
+      "Amalia Isabel Rivero Chávez",
+      "Zhangping Lu",
+      "Ying Pan"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
