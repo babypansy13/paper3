@@ -1,146 +1,150 @@
 [
   {
-    "field": "Consumer Research",
-    "title": "आर्टिफिशियल इंटेलिजेंस (AI) और हिंदी भाषा: संभावनाएं और चुनौतियाँ",
-    "journal": "International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences",
-    "year": "2026",
-    "date": "2026-09-13",
-    "doi": "10.37082/ijirmps.v14.i5.233215",
-    "url": "https://doi.org/10.37082/ijirmps.v14.i5.233215",
-    "abstract": "आर्टिफिशियल इंटेलिजेंस (AI) और हिंदी भाषा का मेल डिजिटल क्रांति की एक नई शुरुआत है, जो हिंदी को वैश्विक स्तर पर सशक्त बनाने के साथ-साथ कुछ तकनीकी व भाषाई बाधाओं का भी सामना कर रहा है। संभावनाएं (Possibilities)शिक्षा और ई-गवर्नेंस: BHASHINI जैसे राष्ट्रीय मंचों और AI चैटबॉट्स के जरिए ग्रामीण व वंचित वर्गों के लिए शिक्षा और सरकारी योजनाओं तक हिंदी में पहुंच आसान हो रही है। अनुवाद और वैश्विक पहुंच: ऑटोमेटेड ट्रांसलेशन सिस्टम और जनरेटिव AI के आने से हिंदी साहित्य, तकनीकी सामग्री और अकादमिक डेटा का अन्य भाषाओं में अनुवाद सरल हो गया है। प्राचीन पांडुलिपियों के डिजिटलीकरण और भाषाई अभिलेखन में AI हिंदी और अन्य भारतीय भाषाओं को सहेजने में मदद कर रहा है। चुनौतियाँ (Challenges) सांस्कृतिक प्रज्ञा (Cultural Intelligence) का अभाव: AI मुहावरों, कहावतों, व्यंग्य और स्थानीय संवेदनाओं के शाब्दिक अनुवाद से आगे बढ़कर उनके वास्तविक भाव को समझने में अक्सर असफल रहता है। जटिल व्याकरण और डेटा की कमी: देवनागरी लिपि और उसकी मात्राओं की जटिलता के कारण कंप्यूटर प्रोसेसिंग धीमी और महंगी होती है। साथ ही, उच्च गुणवत्ता वाले डिजिटल हिंदी डेटा का अभी भी अभाव है। पश्चिमी मॉडलों का प्रभुत्व: अधिकांश बड़े लैंग्वेज मॉडल्स (LLMs) पश्चिमी मानकों और अंग्रेजी भाषा पर आधारित हैं, जो भारतीय भाषाओं की विविधता के साथ पूरा न्याय नहीं कर पाते।",
-    "authors": [
-      "Vandana Sharma"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Marketing",
-    "title": "دراسة اتجاهات العملاء نحو تبني وسائل الدفع الالكتروني في ليبيا دراسة حالة لمصرف الجمهورية A Study of Customer Attitudes Towards Adopting Electronic Payment Methods in Libya: A Case Study of Jumhouria Bank",
-    "journal": "Comprehensive Journal of Science",
+    "title": "Web cookies and AI chatbots as conversion catalysts: the mediating role of customer personalization in e-entrepreneurship",
+    "journal": "Journal of Contemporary Marketing Science",
     "year": "2026",
-    "date": "2026-09-13",
-    "doi": "10.65405/0vvpsr78",
-    "url": "https://doi.org/10.65405/0vvpsr78",
-    "abstract": "هدفت هذه الدراسة الى التعرف على اتجاهات عملاء مصرف الجمهورية، نحو تجربتهم لوسائل الدفع الالكتروني، وذكر اهم الصعوبات والتحديات التي تواجههم نحو تبني هذه الوسائل، وقد اعتمدت هذه الدراسة على عدة ادوات في تجميع البيانات، متمثلة في المقابلات الشخصية مع بعض القيادات ذات العلاقة بالموضوع، وكذلك الاستبانة والتي وزعت الكترونياً على عملاء المصرف، والتي تم تحديدهم احصائياً (384) مفردة وبعد تحليل البيانات ببرنامج (SPSS) توصلت الدراسة الى ان اغلب العملاء تكونت عندهم اتجاهات سلبية نحو وسائل الدفع الالكتروني، بسبب التوقف المستمر للخدمات وتكرار عمليات الخصم، لتقادم الانظمة والشبكات المستخدمة من قبل المصرف والشركة الوسيطة المقدمة للخدمة، وكذلك اظهرت الدراسة إدراك اغلب مفردات عينة الدراسة بمختلف خصائصهم الشخصية، باهمية وسائل الدفع الالكتروني, وان العمر والمؤهل العلمي لا يمثلوا عائق نحو تبني هذه الوسائل لاستخدامها.",
+    "date": "2026-09-14",
+    "doi": "10.1108/jcmars-05-2025-0022",
+    "url": "https://doi.org/10.1108/jcmars-05-2025-0022",
+    "abstract": "Purpose The study examines the impact of web cookies and artificial intelligence chatbots on customer conversion rates in the e-entrepreneurship environment, with customer personalization serving as a mediating variable. The research aims to understand how these digital marketing tools work individually and synergistically to enhance conversion rates, addressing a gap in existing literature that has primarily focused on these technologies in isolation rather than their integrated effects. Design/methodology/approach A quantitative research design was employed using questionnaire surveys distributed to internet users engaged in online shopping in Pakistan. The sample comprised 374 respondents recruited through a convenience sampling approach targeting active online shoppers across social media platforms and online communities. Analysis was conducted using Statistical Package for the Social Sciences (SPSS) 20, employing Pearson’s correlation, regression analysis and Hayes’ (2009) bootstrapping method for mediation analysis. Findings All six hypothesized relationships were supported. Web cookies showed a strong positive relationship with conversion rate. Chatbots demonstrated an even stronger relationship with conversion rates. Both technologies positively influenced customer personalization–web cookies. Mediation analysis revealed that customer personalization significantly mediates the relationships between both web cookies and conversion rate and chatbots and conversion rate. Practical implications For e-entrepreneurs and marketers, results indicate that implementing web cookies and chatbots should prioritize creating personalized customer experiences rather than merely collecting data. Organizations should develop integrated strategies that leverage both technologies to enhance personalization across the customer journey. The strong mediation effects suggest that investments in personalization capabilities will yield higher returns than focusing solely on technology deployment. Originality/value This study makes a novel contribution by examining the integrated impact of web cookies and chatbots on conversion rates, addressing a significant gap where previous research examined these technologies in isolation. The research uniquely positions customer personalization as a mediating mechanism, providing empirical evidence for how digital tools translate into actual purchase behavior. Further, this research provides insights from an emerging market perspective (Pakistan), contributing to the geographical diversity of digital marketing literature while offering practical implications for global e-commerce strategies.",
     "authors": [
-      "رباب شكري أحمد محمود",
-      "ناصر علي منصور شنب"
+      "Abdul Wahab",
+      "Tanzeela Aqif",
+      "Maryam Azmat"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Family Studies",
-    "title": "Validating Brief Life Design Measures: Structural Relationships Among Career Beliefs, Self-Efficacy, and Flourishing in Singapore",
-    "journal": "Asia Pacific Career Development Journal, Vol 9, No 2",
-    "year": "2026",
-    "date": "2026-09-13",
-    "doi": "10.68047/apcdj.v9n2.85621",
-    "url": "https://doi.org/10.68047/apcdj.v9n2.85621",
-    "abstract": "Although Stanford’s Life Design curriculum has been adopted by over 500 educational institutions worldwide to build students’ lifelong career agency, empirical validation of its foundational components remains limited. The present study provides the first validation of shortened Life Design measures and structural test of the Life Design framework in an Asian polytechnic context. A total of 1,115 polytechnic students in Singapore responded to brief measures of certainty-oriented career beliefs, career development self-efficacy, and flourishing. Confirmatory factor analyses supported the factor structures of all three measures, and the structural model showed good fit. Certainty-oriented career beliefs were positively associated with career development self-efficacy, which in turn was associated with flourishing, whereas the direct association between beliefs and flourishing was nonsignificant. Overall, these findings extend Life Design’s proposed mediating pathway to an Asian polytechnic context while indicating that the role of certainty-oriented career beliefs is culturally contingent rather than uniformly maladaptive.",
-    "authors": [
-      "Renee Kok",
-      "Lee Wei Ching",
-      "Lindsay Oishi",
-      "Daniel Davis"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "Rıza Nur’da Dilin Biyopolitiği ve Sesbilig",
-    "journal": "Interdisciplinary Language Studies",
-    "year": "2026",
-    "date": "2026-09-13",
-    "doi": "10.48147/dada.2006035",
-    "url": "https://doi.org/10.48147/dada.2006035",
-    "abstract": "Bu çalışma, Dr. Rıza Nur’un Türk Şiirbiligi ve Tanrıdağ dergisi ekseninde şekillenen dil vizyonunu, dilin biyopolitiğine ilişkin yaklaşımını ve sesbilgisi alanındaki görüş ve uygulamalarını incelemeyi amaç-lamaktadır. Nur, dili sadece kültürel bir miras değil, ırkın biyolojik bir uzantısı olarak konumlandırır. Geliştirdiği “anatomo-fizyolojik ses borusu” kuramıyla konuşma eylemini hançere ve ciğerlerin mekanik işleyişine dayandırır; bu bağlamda ünlü uyumunu dilin özgünlüğünü koruyan doğal bir savunma mekanizma-sı olarak görür. Çalışma, Nur’un tıp birikimini termino-loji inşasına aktararak ürettiği Türkbilig, Dilbilig, Sesbilig ve Hecebilig gibi milli kavramları ve seslerin anatomik bölgelere göre yeniden tasnifini analiz eder. Araştırmanın temel özgünlüğü, Türk Şiirbiligi eserinde kurgulanan teorik manifestonun, 1942’de yayımlanan Tanrıdağ dergisindeki “ayrı imla” disipliniyle nasıl somut bir uygulama alanına dönüştüğünü belgeleme-sidir. Nitel doküman analizi yöntemiyle hazırlanan bu çalışma, Rıza Nur’un anatomik bilgisini disiplinlerarası bir milli terminoloji anlayışına nasıl dönüştürdüğünü ortaya koymayı amaçlamaktadır.",
-    "authors": [
-      "Eyyüp Acar"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Provincial Pollution-Control Investment and Wind–Huazheng Environmental Peer-Position Distance",
-    "journal": "Social Flourishing",
-    "year": "2026",
-    "date": "2026-09-13",
-    "doi": "10.63336/socflourish.57",
-    "url": "https://doi.org/10.63336/socflourish.57",
-    "abstract": "ESG-rating disagreement is commonly attributed to persistent differences across providers. We examine variation within a fixed pair by relating province-year pollution-control investment intensity to contemporaneous Wind and Huazheng environmental scores for 4,797 Chinese A-share firms during 2018–2023. We standardize each provider’s scores within its industry-year distribution and express them on a common peer scale. The primary outcome is the absolute gap between the two resulting peer positions, which shows how far apart the Wind and Huazheng scores place the same firm within its industry-year peer group. The signed Wind-minus-Huazheng difference preserves provider orientation. A one-standard-deviation increase in investment intensity is associated with 0.019 additional distance units, or 2.800 percent of the outcome standard deviation, with a restricted Webb-bootstrap p value of .005. The same increase is associated with a 0.046-unit decline in the signed difference, orienting the relationship toward a higher Huazheng-implied position. On the common pre-clipping scale, the Huazheng position accounts for most of the signed association. The Wind position changes little. The wider distance also appears within firms and under equal province-year weighting. Disagreement changes across places and years even when the provider pair remains fixed. In province-years with higher pollution-control investment intensity, the peer positions implied by Wind and Huazheng scores lie farther apart, which means that the choice between Wind and Huazheng matters more for comparisons and threshold decisions.",
-    "authors": [
-      "Xinnan Zhang"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "Whales, Wealth, and Market Power: How High-Net-Worth Individuals Influence Cryptocurrency Markets",
-    "journal": "Student Journal of Business and Economics",
-    "year": "2026",
-    "date": "2026-09-12",
-    "doi": "10.67521/sjbe.2026.002",
-    "url": "https://doi.org/10.67521/sjbe.2026.002",
-    "abstract": "Cryptocurrency is often described as a decentralized and accessible financial system, but the concentration of wealth among large holders raises questions about how decentralized cryptocurrency markets actually are. This study examines how high-net-worth individuals (HNWIs), particularly cryptocurrency “whales,” influence cryptocurrency markets and how their influence extends beyond their direct transactions. Using a literature review and secondary data analysis, this research examines ownership concentration, market spillover effects, and behavioral responses to whale activity using academic research, blockchain analytics, institutional reports, and case-based evidence. The findings show that a small number of large holders control a disproportionate share of cryptocurrency assets, allowing their transactions to affect market volatility and generate spillover effects across other assets. However, the findings also suggest that whale influence is amplified by the behavior of smaller investors. Investors may interpret whale transactions and announcements as signals of future market movements, leading them to imitate these actions and further amplify price changes. The Tesla Bitcoin case provides an example of how a major institutional announcement can influence market behavior beyond the direct financial transaction. Overall, the findings support the hypothesis that whale influence comes not only from concentrated ownership and trading power, but also from the behavioral responses of other market participants. This suggests that cryptocurrency may be decentralized technologically while remaining concentrated in terms of wealth, influence, and market power.",
-    "authors": [
-      "Lara Abdelfatah"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Mental Health",
-    "title": "Treatment effect or natural healing? Interpreting non-operative management of early urethrocutaneous fistulas after hypospadias repair",
-    "journal": "World Journal of Urology",
+    "title": "Utilization of Long-Acting Injectable Antipsychotics and Clozapine in Coordinated Specialty Care",
+    "journal": "The Journal of Clinical Psychiatry",
     "year": "2026",
-    "date": "2026-09-12",
-    "doi": "10.1007/s00345-026-06768-5",
-    "url": "https://doi.org/10.1007/s00345-026-06768-5",
+    "date": "2026-09-14",
+    "doi": "10.4088/jcp.26m16461",
+    "url": "https://doi.org/10.4088/jcp.26m16461",
     "abstract": "",
     "authors": [
-      "Cyrine Saadi",
-      "Souha Laarif",
-      "Youssef Hellal"
+      "John M. Kane",
+      "Nina R. Schooler",
+      "Patricia Marcy",
+      "C. Hendricks Brown"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "SpoVG as a pleiotropic regulator modulating Listeria monocytogenes biofilm formation and multi-dimensional niche establishment",
-    "journal": "npj Science of Food",
+    "title": "Understanding international university students' perceptions of healthcare service quality: development and validation of a new scale",
+    "journal": "International Journal of Health Care Quality Assurance",
     "year": "2026",
-    "date": "2026-09-12",
-    "doi": "10.1038/s41538-026-01134-6",
-    "url": "https://doi.org/10.1038/s41538-026-01134-6",
-    "abstract": "",
+    "date": "2026-09-14",
+    "doi": "10.1108/ijhcqa-09-2025-0131",
+    "url": "https://doi.org/10.1108/ijhcqa-09-2025-0131",
+    "abstract": "Purpose This study aimed to develop and validate a context-sensitive scale to assess international university students' perceptions of healthcare service quality in Türkiye, with particular attention to access, service delivery and expectation alignment. Design/methodology/approach A descriptive, cross-sectional survey design was employed. Following established scale development procedures, an item pool was generated based on a literature review, expert evaluation and pilot testing. The final 15-item scale was administered online to 286 international university students. Exploratory and confirmatory factor analyses were conducted using IBM SPSS and AMOS to examine the scale's psychometric properties. Findings The analyses supported a three-factor structure comprising positive perception, service and infrastructure quality and meeting expectations. The scale demonstrated acceptable construct validity and internal consistency (a = 0.865), with satisfactory model fit indices (CMIN/DF = 3.491; SRMR = 0.0798). Overall mean scores clustered around the neutral response category, suggesting cautious or uncertain evaluations of healthcare services, which may reflect multiple factors including system unfamiliarity, response style tendencies or variability in prior healthcare expectations. Significant differences were observed across selected socio-demographic variables. Originality/value Rather than proposing entirely new theoretical constructs, this study offers a context-sensitive measurement tool that operationalizes established healthcare service quality domains specifically for international university students. While generic instruments like SERVQUAL are widely used, they often fail to capture the unique challenges faced by internationally mobile populations, such as language barriers, system unfamiliarity and culturally shaped expectations. By addressing this measurement gap, the proposed scale provides a more precise diagnostic tool for universities and healthcare providers to identify areas of uncertainty and improve service delivery for diverse student populations.",
     "authors": [
-      "Changzheng Shi",
-      "Ping Zhu",
-      "Ruili Li",
-      "Huan Chen"
+      "Enes Kabul",
+      "Yalçın Karagöz"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "Key Contamination Control Trends Identified in Recent FDA Warning Letters",
-    "journal": "PDA Journal of Pharmaceutical Science and Technology",
+    "field": "Public Policy",
+    "title": "Trust dimensions and operational performance in VR-based drone tasks in construction",
+    "journal": "Engineering, Construction and Architectural Management",
     "year": "2026",
-    "date": "2026-09-12",
-    "doi": "10.5731/pdajpst.2026-000063.1",
-    "url": "https://doi.org/10.5731/pdajpst.2026-000063.1",
-    "abstract": "",
+    "date": "2026-09-14",
+    "doi": "10.1108/ecam-02-2026-0211",
+    "url": "https://doi.org/10.1108/ecam-02-2026-0211",
+    "abstract": "Purpose The successful deployment of drones in construction increasingly depends on human operators' willingness to work collaboratively with robotic systems. However, limited understanding of how trust develops during human–drone interaction and its relationship to performance outcomes hampers the design of effective human–drone interaction frameworks and adoption strategies. Design/methodology/approach We conducted a within-subjects experiment with 41 participants who completed collaborative drone flight operations in a virtual reality environment. Trust was measured pre- and post-interaction across four dimensions: perceived risk, benevolence, competence and reciprocity. Objective performance was quantified via task completion time and collision count. Findings One-sample t-tests revealed significant increases in trust for benevolence (d = 0.35), competence (d = 0.44) and reciprocity (d = 0.43), with overall trust improving substantially (d = 0.48, p = 0.004). Larger increases in trust were associated with operational performance, inversely correlating with both completion time (r = −0.60, p &lt; 0.001) and collisions (r = −0.71, p &lt; 0.001). Among trust dimensions, perceived reciprocity was the most associated with objective performance in this task, showing significant correlations with reduced collisions (r = −0.32, p = 0.041). Originality/value Collaborative interaction fosters measurable trust gains in humans toward drones, with reciprocity, the perceived sense of mutual responsiveness, showing a significant association with performance in the VR-based inspection task. These findings offer preliminary insights that may help inform the design of collaborative drone systems that consider mutual responsiveness, the development of operator training programs focused on reciprocal interaction patterns and organizational strategies to accelerate autonomous technology adoption in construction.",
     "authors": [
-      "Irina Pototskaia"
+      "Rahat Hussain",
+      "Chukwuma Nnaji",
+      "Umme Sabiha Onnesha"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "Tradition-innovation ambidexterity in family firms: a literature review and emerging framework",
+    "journal": "Journal of Family Business Management",
+    "year": "2026",
+    "date": "2026-09-14",
+    "doi": "10.1108/jfbm-04-2026-0129",
+    "url": "https://doi.org/10.1108/jfbm-04-2026-0129",
+    "abstract": "Purpose Organizational ambidexterity refers to a firm's ability to balance exploitation and exploration, thereby reconciling efficiency and innovation. This tension is particularly salient in family firms, where exploitation is often associated with tradition, legacy, and identity, while exploration is commonly linked to innovation and strategic renewal. This study integrates fragmented literature on ambidexterity in family firms into a framework of key antecedents and outcomes. Design/methodology/approach This study conducts a systematic literature review of 65 articles indexed in Scopus and Web of Science. Through a structured coding and synthesis process, it develops an integrative framework capturing the main antecedents and outcomes of ambidexterity in family firms. Findings The study identifies three clusters of antecedents: Ownership Factors, Organizational and Management Factors, and Environmental and Cultural Factors, and three main outcomes: longevity and continuity, firm performance, and organizational sustainability. These antecedents shape the conditions under which family firms develop organizational ambidexterity, which in turn influences multiple outcomes. Research limitations/implications As a literature-based study, this article offers a conceptual synthesis that future empirical research could test and refine across different family firm contexts. Practical implications The framework supports practitioners in developing a holistic understanding of the drivers of ambidexterity, helping family firms identify and coordinate key factors that enable the balance between tradition and innovation. Originality/value This study develops an integrative framework that synthesizes both the antecedents and organizational outcomes of ambidexterity in family firms. Whereas previous literature reviews have examined antecedents and outcomes in isolation or addressed specific aspects of ambidexterity separately, this review integrates multiple dimensions into a coherent framework interpreted through the tradition-innovation lens. The framework reveals how ownership, organizational and managerial, and environmental and cultural conditions collectively define the set of factors associated with ambidexterity, which in turn influences longevity and continuity, firm performance, and organizational sustainability.",
+    "authors": [
+      "Alisea Catalani",
+      "Francesca Ricciardi"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "The associations between perceived family support, HIV-related stigma, and depression among PLHIV in South Africa: the moderating role of age",
+    "journal": "Mental Health and Social Inclusion",
+    "year": "2026",
+    "date": "2026-09-14",
+    "doi": "10.1108/mhsi-01-2026-0036",
+    "url": "https://doi.org/10.1108/mhsi-01-2026-0036",
+    "abstract": "Purpose Depression remains a major mental health concern among people living with human immunodeficiency virus (PLHIV), with human immunodeficiency virus (HIV)-related stigma and family support identified as key psychosocial determinants. However, little is known about how these relationships vary across age groups. Therefore, this study aims to examine whether age moderates the effect of perceived family support and HIV-related stigma on depression among adult PLHIV. Design/methodology/approach A quantitative cross-sectional design was used among adult patients recruited through probability time–location sampling at a tertiary hospital between June and October 2020. Data were analyzed using IBM SPSS version 30 and the PROCESS macro. Descriptive statistics were computed to summarize the sample characteristics. Simple moderation analysis was estimated using two types of models, namely, a crude model and an adjusted model controlling for relevant covariates. Findings A total of 201 participants were included in the analysis, with ages ranging from 18 to 75 years (M = 39.28, SD = 12.12). In the unadjusted model, the interaction between perceived family support and middle-aged adults was statistically significant (B = 0.309, p = 0.021), but this association was attenuated after adjusting for gender, income, education, employment, and marital status (B = 0.256, p = 0.058). Adjusted conditional effects indicated that greater perceived family support was significantly associated with lower depression among young adults only (B = −0.352, p = 0.001). In contrast, the interaction between HIV-related stigma and middle-aged adults was significant even after controlling for sociodemographic factors (B = −0.274, p = 0.018). Adjusted conditional effects further showed that HIV-related stigma was significantly and positively associated with depression across all age groups, with the strongest association observed among young adults. Practical implications Findings inform and support HIV care practice that goes beyond uniform care approaches by providing empirical support for integrated HIV and mental health care models that are age-sensitive. Originality/value This study uniquely demonstrates that age differentially moderates the effects of perceived family support and HIV-related stigma on depression, revealing distinct psychosocial pathways across the adult life course of PLHIV.",
+    "authors": [
+      "Muziwandile Qiniso Luthuli",
+      "Johannes John-Langba"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Tax Incentives and Debt-Financing Efficiency in Advanced Manufacturing Enterprises: Evidence from Chinese A-Share Listed Firms",
+    "journal": "Financial Economics Research",
+    "year": "2026",
+    "date": "2026-09-14",
+    "doi": "10.70267/rswppv09",
+    "url": "https://doi.org/10.70267/rswppv09",
+    "abstract": "Advanced manufacturing firms face long investment cycles, high technological uncertainty, and limited pledgeable assets, so the efficiency with which they use debt is central to sustained innovation. This study examines the association between tax incentives and debt-financing efficiency among Chinese A-share listed advanced manufacturing firms. Annual efficiency scores are estimated using an input-oriented CCR data envelopment analysis model, and two-limit Tobit regressions are applied to 16,817 firm-year observations from 2015 to 2025. Tax incentives are measured as tax refunds received relative to operating revenue. The fully controlled coefficient is 0.5549 and the average marginal effect is 0.5039, indicating a significant positive association. Financing-constraint relief accounts for approximately 15.09% of the total association. The relationship is significantly stronger for non-state-owned and high-technology firms, whereas regional and firm-size differences are not statistically significant. Lagged and re-winsorized estimates support the baseline result, but alternative definitions of incentives and efficiency reverse the sign, revealing material measurement sensitivity. The findings suggest that timely tax relief can improve debt allocation, although interpretation should remain associational and conditional on the selected measures.",
+    "authors": [
+      "Pengfei Qian"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "Tax Incentives and Debt-Financing Efficiency in Advanced Manufacturing Enterprises: Evidence from Chinese A-Share Listed Firms",
+    "journal": "Financial Economics Research",
+    "year": "2026",
+    "date": "2026-09-14",
+    "doi": "10.70267/fer.v3n4.5360",
+    "url": "https://doi.org/10.70267/fer.v3n4.5360",
+    "abstract": "Advanced manufacturing firms face long investment cycles, high technological uncertainty, and limited pledgeable assets, so the efficiency with which they use debt is central to sustained innovation. This study examines the association between tax incentives and debt-financing efficiency among Chinese A-share listed advanced manufacturing firms. Annual efficiency scores are estimated using an input-oriented CCR data envelopment analysis model, and two-limit Tobit regressions are applied to 16,817 firm-year observations from 2015 to 2025. Tax incentives are measured as tax refunds received relative to operating revenue. The fully controlled coefficient is 0.5549 and the average marginal effect is 0.5039, indicating a significant positive association. Financing-constraint relief accounts for approximately 15.09% of the total association. The relationship is significantly stronger for non-state-owned and high-technology firms, whereas regional and firm-size differences are not statistically significant. Lagged and re-winsorized estimates support the baseline result, but alternative definitions of incentives and efficiency reverse the sign, revealing material measurement sensitivity. The findings suggest that timely tax relief can improve debt allocation, although interpretation should remain associational and conditional on the selected measures.",
+    "authors": [
+      "Pengfei Qian"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Triple primary cancer with concurrent detection of two tumor components in a lung biopsy specimen: a case report",
+    "journal": "BMC Pulmonary Medicine",
+    "year": "2026",
+    "date": "2026-09-14",
+    "doi": "10.1186/s12890-026-04709-x",
+    "url": "https://doi.org/10.1186/s12890-026-04709-x",
+    "abstract": "",
+    "authors": [
+      "Min Huang",
+      "Baohua Fan",
+      "Shaohua Yu",
+      "Xueyuan Du"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
