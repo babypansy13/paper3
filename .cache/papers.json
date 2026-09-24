@@ -1,149 +1,147 @@
 [
   {
-    "field": "Mental Health",
-    "title": "Y-chromosome lineages and surnames, two blurry trails",
-    "journal": "International Journal of Legal Medicine",
+    "field": "Marketing",
+    "title": "Verifying Graceful Degradation in a Distributed Malware-Detection System with SPIN",
+    "journal": "Electronic Proceedings in Theoretical Computer Science",
     "year": "2026",
-    "date": "2026-09-23",
-    "doi": "10.1007/s00414-026-04006-6",
-    "url": "https://doi.org/10.1007/s00414-026-04006-6",
+    "date": "2026-09-24",
+    "doi": "10.4204/eptcs.452.11",
+    "url": "https://doi.org/10.4204/eptcs.452.11",
     "abstract": "",
     "authors": [
-      "Agustina Geronazzo",
-      "Marina Muzzio",
-      "Paula B. Paz Sepúlveda",
-      "Lautaro D. Andrade"
+      "Andrei Aldea",
+      "Dumitru-Bogdan Prelipcean"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Using Statistics and Machine Learning to Manage Foreign Language Collections, Programs, and Services in Public Libraries",
+    "journal": "reference & user services quarterly",
+    "year": "2026",
+    "date": "2026-09-24",
+    "doi": "10.5860/rusq.62.1.8826",
+    "url": "https://doi.org/10.5860/rusq.62.1.8826",
+    "abstract": "",
+    "authors": [],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "Uncovering the innovation effects and multiple‌ antecedents of employee role orientations in human-generative AI collaboration: a social information processing perspective",
+    "journal": "Aslib Journal of Information Management",
+    "year": "2026",
+    "date": "2026-09-24",
+    "doi": "10.1108/ajim-10-2025-0800",
+    "url": "https://doi.org/10.1108/ajim-10-2025-0800",
+    "abstract": "Purpose In human-generative AI collaboration (HGAIC), employees can adopt different role orientations to collaborate with GenAI, but it remains unclear how employee role orientations affect their innovation and how they are shaped. Based on social information processing theory (SIPT), this study examines the effects of passive and co-production role orientations on GenAI-enabled employee innovation, the multiple antecedents of these orientations, and the moderating role of employee opportunism. Design/methodology/approach This study used partial least squares structural equation modeling (PLS-SEM) and fuzzy-set qualitative comparative analysis (fsQCA) to analyze survey data from 409 employees. Findings The results indicate that passive and co-production role orientations positively affect GenAI-enabled employee innovation. GenAI intellectual stimulation and task urgency positively influence passive role orientation, whereas task innovativeness negatively influences it. GenAI feedback richness, GenAI intellectual stimulation, and task innovativeness positively affect co-production role orientation. Opportunism only amplifies the positive effect of passive role orientation on GenAI-enabled employee innovation. Additionally, the fsQCA results reveal three configurations that lead to high levels of GenAI-enabled employee innovation. Originality/value First, this study reveals the relationship between different role orientations in HGAIC and GenAI-enabled employee innovation. Second, this study identifies the antecedents of passive and co-production role orientations from the perspectives of GenAI feedback and task requirement cues. Finally, this study reveals a counterintuitive finding: employee opportunism can act as a positive catalyst for innovation under specific HGAIC conditions.",
+    "authors": [
+      "Hongyu Cui",
+      "Peng Yu",
+      "Hu Tao"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Tubulocystic renal cell carcinoma with aggressive behavior-insights from molecular profiling and single-cell analysis: A case report",
+    "journal": "World Journal of Clinical Oncology",
+    "year": "2026",
+    "date": "2026-09-24",
+    "doi": "10.5306/wjco.122878",
+    "url": "https://doi.org/10.5306/wjco.122878",
+    "abstract": "BACKGROUND Tubulocystic renal cell carcinoma (TRCC) is a rare subtype of renal cell carcinoma that is generally regarded as an indolent malignancy with a favorable prognosis. CASE SUMMARY We report an exceptional case of aggressive TRCC characterized by rapid postoperative recurrence, distant metastasis, and resistance to multiple therapeutic modalities. Next-generation sequencing (NGS) was performed to identify genomic alterations in the patient, while single-cell RNA sequencing (scRNA-seq) was used to delineate the phenotypic heterogeneity of tumor cells and characterize the tumor microenvironment. Targeted NGS identified a germline missense fumarate hydratase mutation and somatic mutations in AFF3 , MDM2 , and LRP1B . scRNA-seq revealed marked activation of angiogenesis-related pathways in recurrent TRCC cells, along with a tumor microenvironment characterized by a high proportion of naïve T cells and SPP1 + tumor-associated macrophages. These findings suggest that enhanced angiogenic signaling in tumor cells, together with an immunosuppressive macrophage-rich microenvironment, may contribute to the aggressive behavior of the tumor and its resistance to therapy. CONCLUSION This study provides a comprehensive characterization of the molecular landscape and tumor microenvironment of aggressive TRCC, offering insights into its biological behavior and identifying potential therapeutic targets for future clinical intervention.",
+    "authors": [
+      "Chong-Liang Zheng",
+      "Ze Wang",
+      "Gao-Lei Liu",
+      "Hai-Yang Xiao"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Consumer Research",
-    "title": "Who is Responsible for Tackling Professional Deskilling?",
-    "journal": "Human Affairs",
+    "title": "Trends and Prospects for Improving the Legal Regulation of Digital Technologies in Customs Affairs in the Context of Globalization",
+    "journal": "CUSTOMS AFFAIRS",
     "year": "2026",
-    "date": "2026-09-23",
-    "doi": "10.1515/humaff-2026-0080",
-    "url": "https://doi.org/10.1515/humaff-2026-0080",
-    "abstract": "Abstract There has been increasing interest across several professional fields in problems of deskilling , that is, the loss or the lack of development of human skills due to outsourcing tasks to artificial intelligence. Avigail Ferdman (“AI Deskilling is a Structural Problem.” AI & Society 41 (4): 3001–13, 2026) has recently argued that deskilling should be seen as a structural problem. In this paper, based on empirical literature on the relevant heuristics and biases, I present a novel empirically-informed philosophical argument as to why this seems to be the case. According to the empirical literature on deskilling, automation bias, and skill decay, many professionals rely on artificial intelligence much more than is necessary when it is available, and the effects of such overreliance on skill decay are unlikely to be entirely understood by the professionals themselves. I argue that this – what I call the insidious nature of deskilling – supports a normative view, according to which the responsibility for tackling deskilling should not be ascribed to the individual professional but the risks of professional deskilling should be tackled by the professional community instead. Mitigating the risks of deskilling should start from an intra-field analysis of the core skills of the profession that should not be outsourced to artificial intelligence. Then, the individual professional would not be left alone to determine how and when to prevent deskilling during the adoption of artificial intelligence within her profession.",
+    "date": "2026-09-24",
+    "doi": "10.18572/2071-1220-2026-3-30-33",
+    "url": "https://doi.org/10.18572/2071-1220-2026-3-30-33",
+    "abstract": "The article examines the issues of legal support for the digitalization of customs administration. The impact of blockchain and artificial intelligence technologies on the efficiency of customs control is analyzed. Gaps in legislation regarding legal liability when using automated decision-making systems are identified. The necessity of systematizing the regulatory framework through the adoption of a specialized codified act — the Digital Code, designed to eliminate the fragmentation of legal regulation, is substantiated.",
     "authors": [
-      "Kaisa Kärki"
+      "Catalin Vieru"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Public Policy",
-    "title": "When awareness backfires: activation and attenuation in fast fashion ethics",
-    "journal": "Journal of Asia Business Studies",
+    "field": "Family Studies",
+    "title": "Toward effective AI leadership: a multidimensional framework for human–AI collaboration in organizations",
+    "journal": "Leadership & Organization Development Journal",
     "year": "2026",
-    "date": "2026-09-23",
-    "doi": "10.1108/jabs-02-2026-0082",
-    "url": "https://doi.org/10.1108/jabs-02-2026-0082",
-    "abstract": "Purpose This study aims to address a persistent paradox in sustainable fashion: why rising consumer awareness of fast fashion’s environmental and labour harms fails to produce durable attitudinal resistance, particularly in structurally high-saturation, high-exposure market environments characterised by dense media intensity, accelerated trend cycles, and persistent sustainability discourse. Design/methodology/approach A three-wave longitudinal survey of fast-fashion consumers in East and Southeast Asia was conducted. Latent growth curve modelling and random-intercept cross-lagged panel models were applied to isolate within-person change and examine dynamic mediation and boundary-conditioned trajectories. Findings Dark-side awareness activates perceived risk and moral concern at early exposure stages, strengthening attitudinal resistance, but these effects attenuate as exposure accumulates. Risk appraisal and moral concern function as time-sensitive transmission mechanisms with declining marginal influence. Information saturation accelerates attenuation, generating non-monotonic resistance trajectories characterised by activation, plateau, and reversal. Originality/value This study advances a theory-revising contribution by reconceptualising consumer awareness as a dynamic moral regulation process rather than a stable antecedent. It challenges linear escalation assumptions embedded in sustainable consumption research and demonstrates that repeated exposure can suppress, rather than amplify, ethical resistance. By evidencing non-monotonic awareness effects in market environments defined by structurally high media intensity, accelerated trend cycles, and dense sustainability discourse, the study establishes temporal adaptation as a core explanatory mechanism absent from dominant cross-sectional models.",
+    "date": "2026-09-24",
+    "doi": "10.1108/lodj-12-2025-1093",
+    "url": "https://doi.org/10.1108/lodj-12-2025-1093",
+    "abstract": "Purpose This study develops a comprehensive understanding of AI leadership by examining how traditional leadership theories and psychological constructs explain effective leadership behaviors in AI-intensive organizational contexts. Design/methodology/approach This study employs a systematic conceptual review, synthesizing theories from leadership studies, cognitive psychology, organizational behavior, and AI ethics to develop an integrated AI-adaptive leadership framework (Jaakkola, 2020; Torraco, 2016). Peer-reviewed literature was identified, screened and thematically synthesized across transformational, servant and ethical leadership, mapped against growth mindset, antifragility and consideration of future consequences. Findings AI leadership is inherently multidimensional, emerging from the integration of transformational, servant, and ethical leadership with growth mindset, antifragility and consideration of future consequences. Thematic synthesis identified four clusters linking these frameworks to core leadership capacities: digital innovation, responsible AI governance, adaptive resilience and long-term strategic foresight. These clusters converge into a multi-theoretical model bridging management and psychology, offering a framework for navigating human-AI collaboration and organizational transformation. Practical implications The study guides organizations in cultivating AI-ready leaders by emphasizing ethical, adaptive and human-centered competencies alongside technological foresight and learning-oriented cultures. Originality/value This research integrates leadership and psychological theories to offer a multidimensional perspective on AI leadership, bridging theoretical and practical insights not addressed in previous studies.",
     "authors": [
-      "Duy Phan Khanh",
-      "Phuc Nguyen Hoang"
+      "Divya Upadhyay"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Psychology",
-    "title": "What role does healthcare geographic accessibility play in the association between personal health responsibility and family doctor contract services?",
-    "journal": "Humanities and Social Sciences Communications",
+    "title": "The loss of local news and the impact on regional development",
+    "journal": "Journal of Humanities and Applied Social Sciences",
     "year": "2026",
-    "date": "2026-09-23",
-    "doi": "10.1057/s41599-026-09140-5",
-    "url": "https://doi.org/10.1057/s41599-026-09140-5",
-    "abstract": "",
+    "date": "2026-09-24",
+    "doi": "10.1108/jhass-12-2025-0265",
+    "url": "https://doi.org/10.1108/jhass-12-2025-0265",
+    "abstract": "Purpose For two decades, Australia’s regional news media outlets collapsed through closures, staff losses, amalgamations and de-localization. While researchers have paid some attention to these changes and their impacts on the provision of local news, the effects of the loss of locally based news media on regional development have received little attention. This article sets out to contribute to understanding how local regional news media contribute to regional development. Design/methodology/approach We explore the role of regional news media in relation to social, cultural and economic development as well as their contribution to the enhancement of well-being and living standards of regional communities. Entwining research into regional news media and regional development in Australia, this article probes the role and potential of regional news media in challenging progressivist narratives of regional development. Findings We conclude that regional news media must be supported because of the vital contribution they make to the regions in Australia. Research limitations/implications Further research can build on our discussion to explore how individuals and organizations in the regions are affected by the closure of regional media. Researchers need to immerse themselves in the regions that have experienced the loss of news media outlets to understand the mezzo- and micro- level effects. Practical implications This article has implications for Australian government policy on news media and sustainability of news media in regional Australia. Feasible interventions are needed to ensure regional news media’s continued existence and to enable them to fulfil the crucial roles they play. Social implications News media have a major social role in regional Australia as a community hub and connector. Their loss spreads outwards and throughout a community. Social, economic and health implications are tied to regional news media, which in turn have a role in regional development, which in turn links back to the health of a community at social, economic and other levels. Originality/value While researchers have paid some attention to the destruction of regional news media in Australia and their impacts on the provision of local news, the effects of the loss of locally based news media on regional development have received little attention.",
     "authors": [
-      "Jingjing Luo",
-      "Ziyu Liu",
-      "Chengchao Zhou"
+      "Jacqui Ewart",
+      "Tara Brabazon"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Food Industry / Science / Design",
-    "title": "Understanding food quality labels in complex markets. The role of heuristics in consumer decision-making",
-    "journal": "International Journal of Quality & Reliability Management",
-    "year": "2026",
-    "date": "2026-09-23",
-    "doi": "10.1108/ijqrm-05-2026-0249",
-    "url": "https://doi.org/10.1108/ijqrm-05-2026-0249",
-    "abstract": "Purpose This study examines how consumers interpret differentiated food quality labels in complex markets, focusing on cognitive accessibility and heuristics to explain why signals such as local origin can outweigh formal or technically complex certifications. Design/methodology/approach The article combines bibliometric analysis with a qualitative scoping review. A corpus of 510 publications from 1996–2026 was analysed using science-mapping techniques, followed by a cluster-guided synthesis of evidence on label proliferation, consumer interpretation, willingness to pay and territorial outcomes. Findings The literature has shifted from information provision and attitudes towards the economic valuation of sustainability attributes. The synthesis identifies label overload, attention competition, cue substitution, hypothetical bias and divergence between consumer valuation and territorial outcomes. Local origin often functions as an accessible cue bundling authenticity, trust, freshness and community support, which can increase its influence relative to more complex certifications. Practical implications Regulators, certification bodies and firms should assess overlap before adding labels, organise information hierarchically and combine credible verification with intuitive design. Consumer education should clarify what accessible claims such as “local” do and do not guarantee. Originality/value The study develops a multi-label heuristic framework distinguishing technical credibility from cognitive accessibility and specifying how their relative influence changes with label density. It integrates insights on trust, comprehension, label proliferation and heuristic choice to explain cross-label substitution, local-cue dominance and sub-additive valuation.",
-    "authors": [
-      "Alejandro Maya-Reyes",
-      "Eva Crespo-Cebada",
-      "Ángel Sabino Mirón-Sanguino",
-      "Carlos Díaz-Caro"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "Trade fairs as relational network spaces: catalysing sustainable innovation. A study in the footwear industrial network",
-    "journal": "Journal of Business & Industrial Marketing",
-    "year": "2026",
-    "date": "2026-09-23",
-    "doi": "10.1108/jbim-01-2025-0017",
-    "url": "https://doi.org/10.1108/jbim-01-2025-0017",
-    "abstract": "Purpose This paper aims to investigate how trade fairs (TFs), conceptualised as relational network spaces (RNS), catalyse sustainable innovation (SI) through changes in business relationship dynamics. It investigates how interactions at TFs stimulate SI at three analytical levels: firm, relationship and network, within the context of an industry facing increasing sustainability pressures. Design/methodology/approach Anchored in the Industrial Marketing and Purchasing perspective, this qualitative case study draws on semi-structured interviews and secondary data from the Portuguese footwear industry. A multi-level analysis is used to trace how TF-driven interactions reshape firms’ capabilities, inter-organisational ties and network dynamics in ways that support SI. Findings The study reveals that TFs act as multi-level catalysts for SI through three interrelated change processes: learning and reorienting at the firm level, accessing and connecting at the relationship level and collaborating and acting collectively at the network level. As temporary RNS, TFs create structural, relative and relational conditions that intensify interaction, enable access to sustainability-oriented actors, reshape existing relationships and support collective mobilisation around sustainability goals. SI emerges as a co-constructed and cumulative process unfolding across multiple actors and levels over time. Originality/value This study contributes to business network research by integrating space, process and time to explain how temporary interaction contexts generate enduring relational and innovation outcomes. It advances SI literature by conceptualising SI as a co-constructed, emergent, multi-level process shaped through business relationship dynamics. It also extends TF research by reframing TFs as relational infrastructures that actively support sustainability transitions.",
-    "authors": [
-      "Elisabete Barbosa Parodi",
-      "João F. Proença"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "Towards climate-resilient sustainable development: GIS-based multi-criteria flood risk assessment using Fuzzy-AHP in the Indian Sundarbans",
-    "journal": "Environment, Development and Sustainability",
-    "year": "2026",
-    "date": "2026-09-23",
-    "doi": "10.1007/s10668-026-08121-7",
-    "url": "https://doi.org/10.1007/s10668-026-08121-7",
-    "abstract": "",
-    "authors": [
-      "Roni Paul",
-      "Natarajan Mathimaran"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "Outside the box",
-    "journal": "Strategic Direction",
-    "year": "2026",
-    "date": "2026-09-23",
-    "doi": "10.1108/sd-09-2026-0259",
-    "url": "https://doi.org/10.1108/sd-09-2026-0259",
-    "abstract": "Purpose This paper aims to review the latest management developments across the globe and pinpoint practical implications from cutting-edge research and case studies. Design/methodology/approach This briefing is prepared by an independent writer who adds their own impartial comments and places the articles in context. Findings This paper identified that informality and power imbalances are central within global value chains and can influence different outcomes for participating entities. Originality/value The briefing saves busy executives, strategists and researchers hours of reading time by selecting only the very best, most pertinent information and presenting it in a condensed and easy-to-digest format.",
-    "authors": [],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Urban Studies",
-    "title": "Mitigation of mud cake adhesion by a humate-based dispersant and its compatibility with slurry performance in slurry shield tunnelling",
+    "title": "The erosion effect of dynamic seawater on the calcareous sand grouted body",
     "journal": "Bulletin of Engineering Geology and the Environment",
     "year": "2026",
-    "date": "2026-09-23",
-    "doi": "10.1007/s10064-026-05315-1",
-    "url": "https://doi.org/10.1007/s10064-026-05315-1",
+    "date": "2026-09-24",
+    "doi": "10.1007/s10064-026-05240-3",
+    "url": "https://doi.org/10.1007/s10064-026-05240-3",
     "abstract": "",
     "authors": [
-      "Guoping P. Ren",
-      "Jian Zhang",
-      "Tugen G. Feng",
-      "Haibo B. Wang"
+      "Tianshu Wang",
+      "Boda Shang",
+      "Peng Li",
+      "Qingsong Zhang"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Prosper or beggar thy neighbor? non-farm employment effects and spatial spillovers of China's National Digital Village Pilot Program",
+    "journal": "Frontiers in Sustainable Food Systems",
+    "year": "2026",
+    "date": "2026-09-24",
+    "doi": "10.3389/fsufs.2026.1950504",
+    "url": "https://doi.org/10.3389/fsufs.2026.1950504",
+    "abstract": "Introduction Counties are a key spatial unit linking cities and villages in China's rural transformation, yet many still lack the industrial base, market scale, and non-farm job opportunities needed to absorb rural labor. This study examines whether China's National Digital Village Pilot Program expands rural non-farm employment and whether its effects extend beyond pilot counties. Methods Using a panel of 1,450 Chinese counties and 24,111 county-year observations from 2007 to 2024, this study exploits the staggered implementation of the 2020 and 2024 pilot cohorts as a quasi-natural experiment. The policy effect is estimated using a multi-period difference-in-differences model and cross-validated with stacked DID and the Callaway-Sant'Anna estimator. Robustness is further assessed through propensity score matching, inverse probability weighting, entropy balancing, placebo tests, and alternative samples and specifications. Transmission channels, heterogeneity, and spatial effects are also examined. Results The National Digital Village Pilot Program increased rural non-farm employment in pilot counties by approximately 25% relative to non-pilot counties, and the result remains robust across alternative identification and estimation strategies. The two-step transmission-channel analysis provides evidence consistent with two potential channels: enhanced county-level innovation and improved mobile network access capability. The policy effect is significantly stronger in central-region counties than in western counties and stronger in smaller counties than in larger ones, with weaker evidence of a larger effect in counties with lower human capital. Spatial analysis shows a positive direct effect on pilot counties but a negative spillover effect on neighboring counties. Discussion The findings indicate that digital village development can strengthen local non-farm employment absorption, but part of the local gain may reflect a spatial reallocation of economic activity rather than net regional job creation. Effective implementation therefore requires not only county-level digital development but also cross-county resource coordination and regional policy integration.",
+    "authors": [
+      "Wei Yang",
+      "Lijun Wang",
+      "Yizhuo Ma"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
