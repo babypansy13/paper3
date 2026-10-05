@@ -1,149 +1,150 @@
 [
   {
-    "field": "Consumer Research",
-    "title": "Viral pneumonia in older adults: from immunosenescence and chronic disease to vaccine-modifiable risk",
-    "journal": "Aging Clinical and Experimental Research",
+    "field": "Mental Health",
+    "title": "i-Sihat 2026",
+    "journal": "Medicine & Health",
     "year": "2026",
-    "date": "2026-10-04",
-    "doi": "10.1007/s40520-026-03531-z",
-    "url": "https://doi.org/10.1007/s40520-026-03531-z",
+    "date": "2026-10-05",
+    "doi": "10.17576/mh.2026.s2110",
+    "url": "https://doi.org/10.17576/mh.2026.s2110",
     "abstract": "",
-    "authors": [
-      "R. C. Fluit",
-      "G. P. A. van den Bergh",
-      "T. D. Visser",
-      "D. Snijders"
-    ],
+    "authors": [],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Marketing",
-    "title": "User Perceptions of the Lentera Learning Platform: Reanalysis of a Custom Usability Questionnaire",
-    "journal": "MULTICA SCIENCE AND TECHNOLOGY (MST)",
+    "title": "ZBED6 deletion activates FNDC1-mediated PI3K/AKT and MAPK/ERK1/2 signaling pathways to promote myogenesis in pigs",
+    "journal": "Journal of Animal Science and Biotechnology",
     "year": "2026",
-    "date": "2026-10-04",
-    "doi": "10.47002/y9nbjq96",
-    "url": "https://doi.org/10.47002/y9nbjq96",
-    "abstract": "This study re-examines user perceptions of the Lentera learning platform using the 30-response, ten-item questionnaire dataset embedded in the source manuscript. The original report applied the alternating System Usability Scale (SUS) scoring rule and obtained 49.16, although all ten administered statements are positively worded and therefore do not match the directionally alternating SUS instrument. Recalculation reproduces the original arithmetic as 49.1667 but confirms that the value cannot be interpreted as a valid SUS score. Direct analysis of the 300 original responses yields an overall mean of 3.40 on the five-point scale, a respondent-level median of 3.45, and an exploratory Cronbach's alpha of 0.944. Item means range from 3.10 for the usefulness of error messages to 3.60 for perceived search efficiency. The strongest corrected item-total relationship is observed for overall satisfaction, while error handling remains the clearest descriptive area for follow-up. These results support a moderate, generally favorable perception of the platform in this sample, but they do not establish task effectiveness, objective efficiency, or a standardized usability grade. The paper therefore distinguishes custom-survey evidence from SUS benchmarking and outlines a more defensible evaluation design for future Lentera studies.",
+    "date": "2026-10-05",
+    "doi": "10.1186/s40104-026-01504-w",
+    "url": "https://doi.org/10.1186/s40104-026-01504-w",
+    "abstract": "Abstract Background Myogenesis is a tightly regulated biological process that is essential for skeletal muscle growth, regeneration, and livestock production. Although the transcription factor ZBED6 is a key regulator of skeletal muscle development, the downstream molecular mechanisms through which it controls myogenesis remain incompletely understood. Here, using ZBED6-deficient pigs and primary porcine skeletal muscle satellite cells, we sought to identify novel downstream targets of ZBED6 and elucidate the molecular mechanisms underlying ZBED6-mediated regulation of myogenesis. Results By integrating transcriptomic, quantitative proteomic, and ChIP-seq datasets, we identified fibronectin type III domain-containing protein 1 (FNDC1), a muscle-derived secreted factor, as a previously unrecognized direct transcriptional target of ZBED6. ChIP-qPCR and dual-luciferase reporter assays showed that ZBED6 directly binds to the FNDC1 promoter and represses its transcription. Functional analyses in primary porcine skeletal muscle satellite cells showed that ZBED6 knockdown markedly promoted myoblast proliferation, differentiation, and myotube formation, whereas FNDC1 knockdown partially attenuated these effects. Conversely, FNDC1 overexpression partially rescued the impaired myogenesis caused by ZBED6 overexpression. Mechanistically, ZBED6 deficiency promoted porcine myoblast proliferation and differentiation, at least in part, through FNDC1 -mediated activation of the PI3K/AKT and MAPK/ERK1/2 signaling pathways. Consistently, pharmacological inhibition of either pathway significantly attenuated the enhanced porcine myoblast proliferation and differentiation induced by ZBED6 deficiency, supporting that activation of these signaling pathways contributes in part to the pro-myogenic effects mediated by the ZBED6-FNDC1 regulatory axis in porcine myoblasts. Conclusions This study identifies FNDC1 as a novel direct transcriptional target of ZBED6, supporting the ZBED6-FNDC1 axis as a regulatory mechanism contributing to porcine myoblast proliferation and differentiation. These findings expand the current understanding of the ZBED6 regulatory network and provide a cellular framework for future studies investigating skeletal muscle growth in vivo.",
     "authors": [
-      "Nur Alsa Almadah",
-      "Yusuf Wibisono"
+      "Xiao Zhang",
+      "Ruirui Pan",
+      "Miaomiao Qin",
+      "Jiakai Tang"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Public Policy",
-    "title": "Unlocking Human Capital Development through Technopreneurship Education: Evidence on the Moderating Influence of Entrepreneurial Mindset from Niger State, Nigeria",
-    "journal": "Elicit Journal of Economics and Management Studies",
+    "title": "Working towards a triadic collaboration among teachers, academics, and community: a review of curriculum co-design",
+    "journal": "International Journal of Educational Management",
     "year": "2026",
-    "date": "2026-10-04",
-    "doi": "10.65820/ejems-2vol2-issue1-2026",
-    "url": "https://doi.org/10.65820/ejems-2vol2-issue1-2026",
-    "abstract": "Purpose: Graduate unemployment remains a persistent challenge in Niger State, Nigeria, despite growing investments in entrepreneurial education. This study examines the moderating effect of entrepreneurial mindset (EMS) on the relationship between technopreneurship education and human capital development (HCD) among tertiary institution students. Methodology: A quantitative research design was adopted using data from 500 students selected from a population of 9,135 students across tertiary institutions in Niger State through purposive sampling. The study assessed key dimensions of technopreneurship education—Business and Financial Literacy (BFL), Entrepreneurial Skills (ES), Innovation and Creativity (IC), and Technological Competence (TC). Data were analysed using Partial Least Squares Structural Equation Modelling (PLS-SEM), with EMS specified as a moderating variable. Results: The findings indicate that BFL (β = 0.194, p = 0.002), ES (β = 0.218, p = 0.001), IC (β = 0.146, p = 0.004), and TC (β = 0.224, p = 0.000) exert significant positive effects on HCD. Although EMS shows only a marginal direct effect on HCD (β = 0.092, p = 0.054), it significantly strengthens the relationships between TC and HCD (p = 0.000) and between BFL and HCD (p = 0.006). Novelty and contribution: The study advances technopreneurship literature by demonstrating that entrepreneurial mindset enhances the effectiveness of specific technopreneurial competencies in driving human capital development. Practical and social implications: The study recommends integrating entrepreneurial mindset training into technopreneurship curricula, supported by mentorship and experiential learning initiatives, to improve graduate employability and foster sustainable human capital development in tertiary institutions.",
+    "date": "2026-10-05",
+    "doi": "10.1108/ijem-02-2026-0201",
+    "url": "https://doi.org/10.1108/ijem-02-2026-0201",
+    "abstract": "Purpose This review synthesises empirical studies on collaborative curriculum co-design involving schools, universities, and community stakeholders. It examines how different partnership configurations: teachers-community, academics-community, teachers-academics, and triadic collaborations are conceptualised, enacted, and studied in practice. The purpose is to identify common collaborative approaches, methodological trends, and reported strengths and challenges, with particular attention to the underexplored role of three-way partnerships. By mapping existing evidence, the review aims to inform more culturally responsive, equitable, and sustainable curriculum development and co-design practices across educational contexts. Design/methodology/approach This study adopts a systematic review approach guided by PRISMA principles. Peer-reviewed empirical studies published since 2015 were identified through searches of five databases (ProQuest, Web of Science, Scopus, EBSCO, and PsycINFO) using a PCC framework. Records were independently screened by multiple reviewers, with disagreements resolved through consensus. Twenty-nine studies were included and categorised by collaboration type (teachers-community, academics-community, teachers-academics, and triadic). Data were extracted and analysed using both deductive and inductive thematic analysis to examine collaboration models, processes, and reported strengths and challenges. Findings The review found that collaborative curriculum co-design most commonly occurs through dyadic partnerships, particularly between teachers and community or academics and teachers, while triadic teachers-academics-community collaborations remain rare. Teacher-community partnerships emphasise socially responsive and culturally relevant pedagogy, academic-community collaborations support reciprocal learning and equitable solutions, and teacher-academic partnerships strengthen professional learning and innovation by linking theory and practice. Across all models, collaborations enhance curriculum relevance and teacher development but are constrained by time pressures, differing priorities, power imbalances, and limited institutional support, which hinder sustainability and scalability. Practical implications The findings suggest that effective curriculum co-design requires sustained institutional support, clear role negotiation, and time structures that accommodate collaboration across schools, universities, and communities. Universities can play a key mediating role by facilitating dialogue, providing methodological expertise, and supporting long-term partnerships beyond project timelines. Educators and community partners should prioritise shared decision-making, trust-building, and reciprocal knowledge exchange to enhance cultural relevance and professional learning. Policymakers and leaders can strengthen impact by embedding collaborative curriculum design into professional development frameworks and resourcing mechanisms to support sustainable, multi-stakeholder partnerships. Originality/value This review makes an original contribution by systematically comparing dyadic and triadic collaboration models in curriculum co-design across school, university, and community contexts. While prior research often examines partnerships in isolation, this study synthesises how different configurations operate, what roles stakeholders enact, and where gaps persist. By highlighting the scarcity yet potential of three-way collaborations, the review advances understanding of how universities can act as mediators to support culturally responsive and socially engaged curriculum development. The findings offer practical and conceptual insights for researchers, teacher educators, and policymakers seeking to design more equitable and sustainable collaborative partnerships.",
     "authors": [
-      "Silas Ndace"
+      "Grace Xuecong Ji",
+      "Sun Yee Yip",
+      "Hongzhi Zhang",
+      "Shaoru Annie Zeng"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Food Industry / Science / Design",
-    "title": "School administrators’ feedback styles and their relationship with teachers’ work motivation in public secondary schools in Ligao City, Albay",
-    "journal": "International Journal of Education, Learning, and Pedagogical Sciences (INJELPS)",
-    "year": "2026",
-    "date": "2026-10-04",
-    "doi": "10.63498/injelps110",
-    "url": "https://doi.org/10.63498/injelps110",
-    "abstract": "",
-    "authors": [],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Psychology",
-    "title": "Multivalent antiviral conjugates enhance activity against Influenza via cross-linking viruses",
-    "journal": "Nature Communications",
+    "title": "Understanding and managing ecological light pollution",
+    "journal": "Nature Reviews Biodiversity",
     "year": "2026",
-    "date": "2026-10-04",
-    "doi": "10.1038/s41467-026-78126-3",
-    "url": "https://doi.org/10.1038/s41467-026-78126-3",
-    "abstract": "Abstract Long-acting drug–Fc conjugate (CD388) has emerged as a new class of antivirals against influenza A and B, yet the mechanisms governing how Fc conjugation reshapes small-molecule function remain undefined. Here we establish a programmable multivalent antiviral conjugates (AVCs) platform by click chemistry that enables flexible combination of valencies and conjugated drugs, allowing systematic interrogation of valency-dependent antiviral mechanisms. Using zanamivir as a model, mono-, di-, and trivalent zanamivir are conjugated with Fc, with trivalent zanamivir-Fc conjugates (AVC-Z3) exhibiting higher activity than lower-valent AVCs. AVC-Z3 induces inter-virion aggregation, thereby coupling blockade of viral entry with restriction of viral release. This cross-linking–mediated dual-stage inhibition represents a mechanistic shift from neuraminidase suppression to physical viral immobilization. Furthermore, trivalent peramivir-Fc conjugate (AVC-P3) is synthesised and exhibits stronger antiviral activity than AVC-Z3 in vitro, with much longer half-life in vivo than AVC-Z3, and CD388 with YTE mutation. The in vivo antivirus efficacy of AVC-P3 surpasses other AVCs, baloxavir, and CD388 in H1N1-, H3N2-, H5N1-, and influenza B-infection mice models. Together, our findings define ligand valency as a determinant of antiviral mechanism.",
+    "date": "2026-10-05",
+    "doi": "10.1038/s44358-026-00206-5",
+    "url": "https://doi.org/10.1038/s44358-026-00206-5",
+    "abstract": "",
     "authors": [
-      "Xun Feng",
-      "Lunzhi Yuan",
-      "Lei Zhao",
-      "Lianqi Liu"
+      "Ashton L. Dickerson",
+      "Travis Longcore",
+      "Andreas Jechow",
+      "Eva Knop"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "From Resources to Performance: How Social and Intellectual Capital Drive MSME Innovation",
-    "journal": "Shirkah: Journal of Economics and Business",
+    "title": "The Workforce’s Judgement about a full Return to the Office Mandates: a transnational data analysis",
+    "journal": "Montenegrin Journal of Economics",
     "year": "2026",
-    "date": "2026-10-04",
-    "doi": "10.22515/shirkah.v11i3.1262",
-    "url": "https://doi.org/10.22515/shirkah.v11i3.1262",
-    "abstract": "Micro, small, and medium enterprises (MSMEs) operate under persistent resource constraints, making the effective mobilization of intangible resources increasingly important for sustaining business performance. This study examines how social capital and intellectual capital contribute to MSME performance and investigates whether innovation serves as a mechanism through which these resources are transformed into business outcomes. It also examines the role of managerial ability in strengthening the relationship between social capital and MSME performance. Drawing on Resource-Based Theory, the study employed a quantitative explanatory design involving 204 ultra-micro food and beverage entrepreneurs. Data were analyzed using Partial Least Squares Structural Equation Modeling (PLS-SEM) with SmartPLS. The findings demonstrate that social capital contributes to both innovation and MSME performance, while intellectual capital strengthens innovation and has a particularly important contribution to performance. Innovation also functions as a significant pathway linking both social capital and intellectual capital with MSME performance. Managerial ability contributes directly to performance but does not significantly moderate the social capital–performance relationship. These findings indicate that MSME performance depends not simply on possessing relational and knowledge-based resources, but on the capacity to mobilize and transform these resources through innovation and effective managerial action. The study extends the resource-based perspective by highlighting innovation as a critical resource-conversion mechanism in ultra-micro enterprises.",
-    "authors": [
-      "Ahmad Yani",
-      "Aripin Aripin",
-      "Harry Wiyanto"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Clinical and Metabolic Determinants of Serum Calcitonin Gene-Related Peptide Levels in Diabetic Peripheral Neuropathy: A Correlation and Multivariable Analysis",
-    "journal": "Medicine Updates",
-    "year": "2026",
-    "date": "2026-10-04",
-    "doi": "10.21608/muj.2026.528428.1397",
-    "url": "https://doi.org/10.21608/muj.2026.528428.1397",
+    "date": "2026-10-05",
+    "doi": "10.14254/1800-5845/2026.22-4.12",
+    "url": "https://doi.org/10.14254/1800-5845/2026.22-4.12",
     "abstract": "",
     "authors": [
-      "Hussein Mokhtar El Sanabary",
-      "Mamdouh El Nahas",
-      "Basma Badreldin Hasan",
-      "Asmaa Nabiel"
+      "MICHAL BENO"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "Toward a functional definition of leadership: A behavior analytic approach to operationally defining leadership behavior",
-    "journal": "Journal of Organizational Behavior Management",
-    "year": "2026",
-    "date": "2026-10-03",
-    "doi": "10.1080/01608061.2026.2742159",
-    "url": "https://doi.org/10.1080/01608061.2026.2742159",
-    "abstract": "",
-    "authors": [
-      "Paul F. Gavoni",
-      "John M. Guercio"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "Toward Evidence‐Based ESG Reporting: The Added Value of Geospatial and Satellite Data",
-    "journal": "Sustainable Development",
+    "title": "The Finance Dilemma in Developing Countries: Balancing Debt Servicing and Climate Stabilization",
+    "journal": "Journal of Globalization and Development",
     "year": "2026",
-    "date": "2026-10-03",
-    "doi": "10.1002/sd.71734",
-    "url": "https://doi.org/10.1002/sd.71734",
-    "abstract": "ABSTRACT This study addresses the limitations of conventional ESG reporting, including reliance on self‐reported and third‐party data, lack of standardization, and limited verifiability, by examining how geospatial data enhance disclosure quality. It aims to synthesize and critically evaluate existing research on satellite and geospatial data in ESG reporting in order to identify dominant research directions and unresolved challenges. It employs a systematic bibliometric analysis of Scopus‐indexed publications, complemented by thematic mapping and cluster identification, to explore the structure and evolution of the literature. The findings demonstrate that geospatial data enhance environmental performance measurement, enable asset‐level monitoring, and strengthen risk assessment, thereby mitigating information asymmetries. Nevertheless, the diffusion of these data remains constrained by coverage gaps, methodological inconsistencies, and governance issues. Standardization and interoperability challenges can be tackled through stronger global governance and structured public‐private collaboration that aligns data production with concrete user needs in sustainable finance, agriculture, and environmental management.",
+    "date": "2026-10-05",
+    "doi": "10.1515/jgd-2025-0064",
+    "url": "https://doi.org/10.1515/jgd-2025-0064",
+    "abstract": "Abstract This paper examines the dilemma faced by low- and lower-middle-income countries in balancing debt servicing with climate stabilization investments. The need to service external debt compels governments in developing countries to engage in extractive practices to generate foreign-exchange revenue to service their high external debt, creating a trade-off with climate-stabilization investments. Utilizing a panel dataset from 47 low – and lower-middle-income countries, excluding India, that produce at least one of the three fossil fuels- oil, natural gas, or coal- from 2010 to 2021, along with three case studies from the Democratic Republic of the Congo, Cameroon, and Bangladesh, this paper found that fossil fuel-producing low- and lower-middle-income countries increase fossil fuel production to manage external debt and consequently forgo investment in climate stabilization. Additionally, increasing debt forgiveness or providing debt reduction can reduce fossil fuel production and promote renewable energy production. Therefore, to enhance investment in climate stabilization in these countries, debt forgiveness programs could serve as practical tools to increase climate stabilization efforts, address the high demand for climate investment, and decouple external debt from fossil fuel production.",
     "authors": [
-      "Agnieszka Karman",
-      "Aleksandra Kowalska"
+      "Chavon Rogers"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Retailers as gatekeepers of the protein transition: commercialization patterns for plant-based meat alternatives in Europe",
+    "journal": "British Food Journal",
+    "year": "2026",
+    "date": "2026-10-05",
+    "doi": "10.1108/bfj-01-2026-0135",
+    "url": "https://doi.org/10.1108/bfj-01-2026-0135",
+    "abstract": "Purpose This study aims to examine retailer assortment decisions within the plant-based analogues (PBA) category by analyzing how product characteristics reflect assortment decisions in European online markets. In addition, it seeks to identify patterns in commercialization practices as conveyed through product claims and information on online retailers’ websites. Design/methodology/approach Through online store audits, 748 plant-based products were collected across 17 online retailers in 5 European countries. The dataset includes detailed information on product format, ingredients, nutritional value, price, claims, cooking instructions and visual package elements. Data elaboration includes descriptive statistics, factor analysis and cluster analysis. Findings Results suggest that retailers offer standardized PBA assortments across countries, while identifying distinct commercialization patterns to promote these products. These patterns primarily emphasize sustainability attributes, alignment with dietary lifestyle and a combination of health and taste attributes, appealing to different consumer targets. Practical implications Retailers have considerable potential to expand their assortments by diversifying the brands they carry, investing in underrepresented segments such as fish analogues, and increasing recipe-level variety in terms of flavour profiles, culinary traditions and plant protein sources. Further opportunities lie in strengthening category management through more consistent pricing strategies and clearer, more harmonized product categorization. Originality/value This study contributes to the literature by providing the first comprehensive, retailer-centred analysis of PBA assortment and commercialization patterns across EU online retailers, extending prior research beyond single-category and consumer-perception approaches. In doing so, it makes a significant contribution to the ongoing debate on plant-based alternatives as a rapidly growing food category and provides insights into how retail practices can support the protein transition.",
+    "authors": [
+      "Antonella Samoggia",
+      "Chiara Benussi",
+      "Giulia Rossi",
+      "Andrea Fantini"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Proof-of-Concept: Insertion Depth of a Single Diode Laser Tip in Relation to Canal Preparation Parameters",
+    "journal": "Journal of Dental Health and Oral Research",
+    "year": "2026",
+    "date": "2026-10-05",
+    "doi": "10.46889/jdhor.2026.7308",
+    "url": "https://doi.org/10.46889/jdhor.2026.7308",
+    "abstract": "Objective: This study aims to comprehensively demonstrate the diverse applications an Objective: Positioning an endodontic laser tip near the working length is important for laser-assisted disinfection of the apical root canal region. The aim of this proof-of-concept study was to investigate the achievable penetration depth of an endodontic diode laser tip in root canals prepared using different methods and to analyse the potential influences of canal geometry and user experience. Methods: Two identical artificial molars were prepared using different instrumentation systems and tapers. The penetration depth of an EasyTip Endo laser tip was examined in the Mesiobuccal (MB), Distobuccal (DB) and Palatal (P) canals by both an inexperienced and an experienced user. A total of 180 measurements were taken and the penetration depth was determined using ImageJ as the distance to the working length. Results: In the DB and P canals, the working length was reached in all measurements. In the MB canals, this was considerably less frequently, occurring in 13-33% of cases. There was no statistically significant difference between the two users. In the MB canal of tooth 2, which had a smaller taper, the distance to the working length was significantly greater than in tooth 1 (median 1.779 mm vs. 0.155 mm; p < 0.001; FDR-adjusted p = 0.006). Conclusion: The achievable penetration depth of an endodontic diode laser tip does not appear to depend solely on the preparation size. Particularly in MB canals, anatomical or geometric factors may limit positioning near the working length.",
+    "authors": [
+      "Jakob Ehrmann",
+      "Sebastian Fitzek",
+      "Jörg Philipp Tchorz"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Evaluating the Robustness of Machine Learning-Based Network Intrusion Detection Against Feature-Space Adversarial Evasion: An InSDN Study",
+    "journal": "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "year": "2026",
+    "date": "2026-10-05",
+    "doi": "10.55041/ijsrem67597",
+    "url": "https://doi.org/10.55041/ijsrem67597",
+    "abstract": "Machine learning-based network intrusion detection systems often perform extremely well on standard test datasets. However, high accuracy on clean data does not necessarily mean that these models can withstand carefully designed input manipulation. In this study, we examine the robustness of three widely used classifiers, namely Random Forest, XGBoost, and a multilayer perceptron (MLP), using the InSDN dataset. The problem is treated as a binary classification task in which network traffic is categorized as either Normal or Attack. Before training the models, duplicate records were removed, while identifier and timestamp fields were excluded from the dataset. The remaining data was processed using training-only preprocessing, and the 40 features with the highest mutual information scores were selected for the experiments. The three classifiers were initially tested using an untouched test set to establish their performance under normal conditions. They were then evaluated against a controlled feature-space adversarial evasion procedure, where bounded directional perturbations were applied using normalized budgets of ε ∈ {0.01, 0.025, 0.05, 0.10}. The models achieved almost perfect results on the clean test set, with F1 scores of 99.9927% for Random Forest, 99.9952% for XGBoost, and 99.9855% for MLP. However, their performance changed considerably when adversarial perturbations were introduced. For example, with a positive perturbation direction at ε=0.01, Random Forest recorded an attack success rate (ASR) of 94.09%. XGBoost reached an ASR of 93.15% at ε=0.05, while MLP reached 87.78% at the same perturbation budget. At ε=0.10 in the positive direction, both Random Forest and MLP reached an ASR of 100%.",
+    "authors": [
+      "Furqan Shaikh Mohammed Junaid",
+      "Aarti Sanjay Gawai"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
