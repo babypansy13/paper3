@@ -1,150 +1,149 @@
 [
   {
-    "field": "Mental Health",
-    "title": "i-Sihat 2026",
-    "journal": "Medicine & Health",
-    "year": "2026",
-    "date": "2026-10-05",
-    "doi": "10.17576/mh.2026.s2110",
-    "url": "https://doi.org/10.17576/mh.2026.s2110",
-    "abstract": "",
-    "authors": [],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "ZBED6 deletion activates FNDC1-mediated PI3K/AKT and MAPK/ERK1/2 signaling pathways to promote myogenesis in pigs",
-    "journal": "Journal of Animal Science and Biotechnology",
-    "year": "2026",
-    "date": "2026-10-05",
-    "doi": "10.1186/s40104-026-01504-w",
-    "url": "https://doi.org/10.1186/s40104-026-01504-w",
-    "abstract": "Abstract Background Myogenesis is a tightly regulated biological process that is essential for skeletal muscle growth, regeneration, and livestock production. Although the transcription factor ZBED6 is a key regulator of skeletal muscle development, the downstream molecular mechanisms through which it controls myogenesis remain incompletely understood. Here, using ZBED6-deficient pigs and primary porcine skeletal muscle satellite cells, we sought to identify novel downstream targets of ZBED6 and elucidate the molecular mechanisms underlying ZBED6-mediated regulation of myogenesis. Results By integrating transcriptomic, quantitative proteomic, and ChIP-seq datasets, we identified fibronectin type III domain-containing protein 1 (FNDC1), a muscle-derived secreted factor, as a previously unrecognized direct transcriptional target of ZBED6. ChIP-qPCR and dual-luciferase reporter assays showed that ZBED6 directly binds to the FNDC1 promoter and represses its transcription. Functional analyses in primary porcine skeletal muscle satellite cells showed that ZBED6 knockdown markedly promoted myoblast proliferation, differentiation, and myotube formation, whereas FNDC1 knockdown partially attenuated these effects. Conversely, FNDC1 overexpression partially rescued the impaired myogenesis caused by ZBED6 overexpression. Mechanistically, ZBED6 deficiency promoted porcine myoblast proliferation and differentiation, at least in part, through FNDC1 -mediated activation of the PI3K/AKT and MAPK/ERK1/2 signaling pathways. Consistently, pharmacological inhibition of either pathway significantly attenuated the enhanced porcine myoblast proliferation and differentiation induced by ZBED6 deficiency, supporting that activation of these signaling pathways contributes in part to the pro-myogenic effects mediated by the ZBED6-FNDC1 regulatory axis in porcine myoblasts. Conclusions This study identifies FNDC1 as a novel direct transcriptional target of ZBED6, supporting the ZBED6-FNDC1 axis as a regulatory mechanism contributing to porcine myoblast proliferation and differentiation. These findings expand the current understanding of the ZBED6 regulatory network and provide a cellular framework for future studies investigating skeletal muscle growth in vivo.",
-    "authors": [
-      "Xiao Zhang",
-      "Ruirui Pan",
-      "Miaomiao Qin",
-      "Jiakai Tang"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "Working towards a triadic collaboration among teachers, academics, and community: a review of curriculum co-design",
-    "journal": "International Journal of Educational Management",
-    "year": "2026",
-    "date": "2026-10-05",
-    "doi": "10.1108/ijem-02-2026-0201",
-    "url": "https://doi.org/10.1108/ijem-02-2026-0201",
-    "abstract": "Purpose This review synthesises empirical studies on collaborative curriculum co-design involving schools, universities, and community stakeholders. It examines how different partnership configurations: teachers-community, academics-community, teachers-academics, and triadic collaborations are conceptualised, enacted, and studied in practice. The purpose is to identify common collaborative approaches, methodological trends, and reported strengths and challenges, with particular attention to the underexplored role of three-way partnerships. By mapping existing evidence, the review aims to inform more culturally responsive, equitable, and sustainable curriculum development and co-design practices across educational contexts. Design/methodology/approach This study adopts a systematic review approach guided by PRISMA principles. Peer-reviewed empirical studies published since 2015 were identified through searches of five databases (ProQuest, Web of Science, Scopus, EBSCO, and PsycINFO) using a PCC framework. Records were independently screened by multiple reviewers, with disagreements resolved through consensus. Twenty-nine studies were included and categorised by collaboration type (teachers-community, academics-community, teachers-academics, and triadic). Data were extracted and analysed using both deductive and inductive thematic analysis to examine collaboration models, processes, and reported strengths and challenges. Findings The review found that collaborative curriculum co-design most commonly occurs through dyadic partnerships, particularly between teachers and community or academics and teachers, while triadic teachers-academics-community collaborations remain rare. Teacher-community partnerships emphasise socially responsive and culturally relevant pedagogy, academic-community collaborations support reciprocal learning and equitable solutions, and teacher-academic partnerships strengthen professional learning and innovation by linking theory and practice. Across all models, collaborations enhance curriculum relevance and teacher development but are constrained by time pressures, differing priorities, power imbalances, and limited institutional support, which hinder sustainability and scalability. Practical implications The findings suggest that effective curriculum co-design requires sustained institutional support, clear role negotiation, and time structures that accommodate collaboration across schools, universities, and communities. Universities can play a key mediating role by facilitating dialogue, providing methodological expertise, and supporting long-term partnerships beyond project timelines. Educators and community partners should prioritise shared decision-making, trust-building, and reciprocal knowledge exchange to enhance cultural relevance and professional learning. Policymakers and leaders can strengthen impact by embedding collaborative curriculum design into professional development frameworks and resourcing mechanisms to support sustainable, multi-stakeholder partnerships. Originality/value This review makes an original contribution by systematically comparing dyadic and triadic collaboration models in curriculum co-design across school, university, and community contexts. While prior research often examines partnerships in isolation, this study synthesises how different configurations operate, what roles stakeholders enact, and where gaps persist. By highlighting the scarcity yet potential of three-way collaborations, the review advances understanding of how universities can act as mediators to support culturally responsive and socially engaged curriculum development. The findings offer practical and conceptual insights for researchers, teacher educators, and policymakers seeking to design more equitable and sustainable collaborative partnerships.",
-    "authors": [
-      "Grace Xuecong Ji",
-      "Sun Yee Yip",
-      "Hongzhi Zhang",
-      "Shaoru Annie Zeng"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Understanding and managing ecological light pollution",
-    "journal": "Nature Reviews Biodiversity",
-    "year": "2026",
-    "date": "2026-10-05",
-    "doi": "10.1038/s44358-026-00206-5",
-    "url": "https://doi.org/10.1038/s44358-026-00206-5",
-    "abstract": "",
-    "authors": [
-      "Ashton L. Dickerson",
-      "Travis Longcore",
-      "Andreas Jechow",
-      "Eva Knop"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Urban Studies",
-    "title": "The Workforce’s Judgement about a full Return to the Office Mandates: a transnational data analysis",
-    "journal": "Montenegrin Journal of Economics",
+    "title": "The Geopolitics of Food and Agriculture",
+    "journal": "Annual Review of Resource Economics",
     "year": "2026",
-    "date": "2026-10-05",
-    "doi": "10.14254/1800-5845/2026.22-4.12",
-    "url": "https://doi.org/10.14254/1800-5845/2026.22-4.12",
-    "abstract": "",
+    "date": "2026-10-06",
+    "doi": "10.1146/annurev-resource-112624-010824",
+    "url": "https://doi.org/10.1146/annurev-resource-112624-010824",
+    "abstract": "Food has long served as an instrument of statecraft. Yet agricultural economics typically analyzes policy through the lens of consumer and producer welfare, which neglects security externalities. We review the literature at the intersection of agricultural economics and political science, examining how food systems both shape and are shaped by geopolitical forces through the two channels of ( a ) domestic instability with international spillovers and ( b ) the deliberate use of food in statecraft. Our synthesis of key findings in the literature suggests that ( a ) food prices relate to riots and instability while ambiguously relating to civil war and violence, ( b ) the wide geographic spread of agriculture limits but does not eliminate unilateral coercive leverage compared with other strategic sectors, and ( c ) domestic food policies are strongly related to national security goals. Moreover, we point out the many extant data sets one can use to do work in this area and identify several research gaps in the literature. As global uncertainty intensifies, integrating geopolitical analysis into agricultural economics is essential for policy relevance.",
     "authors": [
-      "MICHAL BENO"
+      "Bernhard Dalheimer",
+      "Marc F. Bellemare",
+      "Weston Loughmiller"
     ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 2,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "The Finance Dilemma in Developing Countries: Balancing Debt Servicing and Climate Stabilization",
-    "journal": "Journal of Globalization and Development",
+    "title": "“A state university in name only”: privatization and corporatization in contemporary Sri Lankan state universities",
+    "journal": "Journal of Management Development",
     "year": "2026",
-    "date": "2026-10-05",
-    "doi": "10.1515/jgd-2025-0064",
-    "url": "https://doi.org/10.1515/jgd-2025-0064",
-    "abstract": "Abstract This paper examines the dilemma faced by low- and lower-middle-income countries in balancing debt servicing with climate stabilization investments. The need to service external debt compels governments in developing countries to engage in extractive practices to generate foreign-exchange revenue to service their high external debt, creating a trade-off with climate-stabilization investments. Utilizing a panel dataset from 47 low – and lower-middle-income countries, excluding India, that produce at least one of the three fossil fuels- oil, natural gas, or coal- from 2010 to 2021, along with three case studies from the Democratic Republic of the Congo, Cameroon, and Bangladesh, this paper found that fossil fuel-producing low- and lower-middle-income countries increase fossil fuel production to manage external debt and consequently forgo investment in climate stabilization. Additionally, increasing debt forgiveness or providing debt reduction can reduce fossil fuel production and promote renewable energy production. Therefore, to enhance investment in climate stabilization in these countries, debt forgiveness programs could serve as practical tools to increase climate stabilization efforts, address the high demand for climate investment, and decouple external debt from fossil fuel production.",
+    "date": "2026-10-06",
+    "doi": "10.1108/jmd-03-2026-0175",
+    "url": "https://doi.org/10.1108/jmd-03-2026-0175",
+    "abstract": "Purpose This article examines changes in Sri Lankan state universities (i.e. public universities) in the last 3 decades through two core concepts of management: privatization and corporatization. Design/methodology/approach This article is a qualitative study using discourse analysis, focusing on practices of privatization and corporatization. I examine documentation produced by 16 state universities from 2016 to 2020 and a reflexive journal written by myself over the past 10 years. Findings The article describes the similarities in the characteristics of these two phenomena and distinguishes conceptual differences and their consequences in the Sri Lankan academic context. Sri Lankan universities show characteristics of both privatization and corporatization, which appear as practices (as described in activities) and discourses (e.g. competitiveness, unemployability). These include changes to academic work norms and corporate-like governing practices. Research limitations/implications This is an initial exploration using mostly documentary sources. Local specificities of global phenomena such as corporatization and privatization need in-depth study and the education sector is a rich setting for further research. Practical implications This has direct implications for how universities are managed in future. Social implications This article analyses the changes that come about when a public good, such as education, is privatized and corporatized insidiously. Originality/value This article contributes to the field of education and management by considering how the two phenomena, corporatization and privatization, manifest in Sri Lankan state universities, illustrating through this the local manifestations of global phenomena affecting higher education.",
     "authors": [
-      "Chavon Rogers"
+      "Kaushalya Perera"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Food Industry / Science / Design",
-    "title": "Retailers as gatekeepers of the protein transition: commercialization patterns for plant-based meat alternatives in Europe",
-    "journal": "British Food Journal",
+    "field": "Mental Health",
+    "title": "Utility of consolidation-to-tumor ratio and solid component size for risk stratification of occult lymph node metastasis in early-stage lung adenocarcinoma: a retrospective cohort study",
+    "journal": "BMC Pulmonary Medicine",
     "year": "2026",
-    "date": "2026-10-05",
-    "doi": "10.1108/bfj-01-2026-0135",
-    "url": "https://doi.org/10.1108/bfj-01-2026-0135",
-    "abstract": "Purpose This study aims to examine retailer assortment decisions within the plant-based analogues (PBA) category by analyzing how product characteristics reflect assortment decisions in European online markets. In addition, it seeks to identify patterns in commercialization practices as conveyed through product claims and information on online retailers’ websites. Design/methodology/approach Through online store audits, 748 plant-based products were collected across 17 online retailers in 5 European countries. The dataset includes detailed information on product format, ingredients, nutritional value, price, claims, cooking instructions and visual package elements. Data elaboration includes descriptive statistics, factor analysis and cluster analysis. Findings Results suggest that retailers offer standardized PBA assortments across countries, while identifying distinct commercialization patterns to promote these products. These patterns primarily emphasize sustainability attributes, alignment with dietary lifestyle and a combination of health and taste attributes, appealing to different consumer targets. Practical implications Retailers have considerable potential to expand their assortments by diversifying the brands they carry, investing in underrepresented segments such as fish analogues, and increasing recipe-level variety in terms of flavour profiles, culinary traditions and plant protein sources. Further opportunities lie in strengthening category management through more consistent pricing strategies and clearer, more harmonized product categorization. Originality/value This study contributes to the literature by providing the first comprehensive, retailer-centred analysis of PBA assortment and commercialization patterns across EU online retailers, extending prior research beyond single-category and consumer-perception approaches. In doing so, it makes a significant contribution to the ongoing debate on plant-based alternatives as a rapidly growing food category and provides insights into how retail practices can support the protein transition.",
+    "date": "2026-10-06",
+    "doi": "10.1186/s12890-026-04802-1",
+    "url": "https://doi.org/10.1186/s12890-026-04802-1",
+    "abstract": "",
     "authors": [
-      "Antonella Samoggia",
-      "Chiara Benussi",
-      "Giulia Rossi",
-      "Andrea Fantini"
+      "Tsuyoshi Uchida",
+      "Ryosuke Tanaka",
+      "Naoya Ashizawa",
+      "Koshi Mobara"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Consumer Research",
-    "title": "Proof-of-Concept: Insertion Depth of a Single Diode Laser Tip in Relation to Canal Preparation Parameters",
-    "journal": "Journal of Dental Health and Oral Research",
+    "title": "Unseen Inequities: How Workplace Inequalities Fuel Knowledge Hiding Through Cynicism, Buffered by Psychological Hardiness",
+    "journal": "Social Justice Research",
     "year": "2026",
-    "date": "2026-10-05",
-    "doi": "10.46889/jdhor.2026.7308",
-    "url": "https://doi.org/10.46889/jdhor.2026.7308",
-    "abstract": "Objective: This study aims to comprehensively demonstrate the diverse applications an Objective: Positioning an endodontic laser tip near the working length is important for laser-assisted disinfection of the apical root canal region. The aim of this proof-of-concept study was to investigate the achievable penetration depth of an endodontic diode laser tip in root canals prepared using different methods and to analyse the potential influences of canal geometry and user experience. Methods: Two identical artificial molars were prepared using different instrumentation systems and tapers. The penetration depth of an EasyTip Endo laser tip was examined in the Mesiobuccal (MB), Distobuccal (DB) and Palatal (P) canals by both an inexperienced and an experienced user. A total of 180 measurements were taken and the penetration depth was determined using ImageJ as the distance to the working length. Results: In the DB and P canals, the working length was reached in all measurements. In the MB canals, this was considerably less frequently, occurring in 13-33% of cases. There was no statistically significant difference between the two users. In the MB canal of tooth 2, which had a smaller taper, the distance to the working length was significantly greater than in tooth 1 (median 1.779 mm vs. 0.155 mm; p < 0.001; FDR-adjusted p = 0.006). Conclusion: The achievable penetration depth of an endodontic diode laser tip does not appear to depend solely on the preparation size. Particularly in MB canals, anatomical or geometric factors may limit positioning near the working length.",
+    "date": "2026-10-06",
+    "doi": "10.1007/s11211-026-00486-4",
+    "url": "https://doi.org/10.1007/s11211-026-00486-4",
+    "abstract": "",
     "authors": [
-      "Jakob Ehrmann",
-      "Sebastian Fitzek",
-      "Jörg Philipp Tchorz"
+      "Wang Xigen",
+      "Imran Saeed"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "Evaluating the Robustness of Machine Learning-Based Network Intrusion Detection Against Feature-Space Adversarial Evasion: An InSDN Study",
-    "journal": "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "field": "Psychology",
+    "title": "Transformación digital y reconfiguración institucional en el Poder Judicial peruano: tensiones, avances y límites del Expediente Judicial Electrónico",
+    "journal": "Global Journal of Human-Social Science",
     "year": "2026",
-    "date": "2026-10-05",
-    "doi": "10.55041/ijsrem67597",
-    "url": "https://doi.org/10.55041/ijsrem67597",
-    "abstract": "Machine learning-based network intrusion detection systems often perform extremely well on standard test datasets. However, high accuracy on clean data does not necessarily mean that these models can withstand carefully designed input manipulation. In this study, we examine the robustness of three widely used classifiers, namely Random Forest, XGBoost, and a multilayer perceptron (MLP), using the InSDN dataset. The problem is treated as a binary classification task in which network traffic is categorized as either Normal or Attack. Before training the models, duplicate records were removed, while identifier and timestamp fields were excluded from the dataset. The remaining data was processed using training-only preprocessing, and the 40 features with the highest mutual information scores were selected for the experiments. The three classifiers were initially tested using an untouched test set to establish their performance under normal conditions. They were then evaluated against a controlled feature-space adversarial evasion procedure, where bounded directional perturbations were applied using normalized budgets of ε ∈ {0.01, 0.025, 0.05, 0.10}. The models achieved almost perfect results on the clean test set, with F1 scores of 99.9927% for Random Forest, 99.9952% for XGBoost, and 99.9855% for MLP. However, their performance changed considerably when adversarial perturbations were introduced. For example, with a positive perturbation direction at ε=0.01, Random Forest recorded an attack success rate (ASR) of 94.09%. XGBoost reached an ASR of 93.15% at ε=0.05, while MLP reached 87.78% at the same perturbation budget. At ε=0.10 in the positive direction, both Random Forest and MLP reached an ASR of 100%.",
+    "date": "2026-10-06",
+    "doi": "10.34257/gjhssh276076",
+    "url": "https://doi.org/10.34257/gjhssh276076",
+    "abstract": "La transformación digital del sistema judicial peruano, lejos de limitarse a la incorporación de herramientas tecnológicas, configura un proceso de reconfiguración institucional cuya complejidad se manifiesta en la tensión constante entre innovación normativa, dinámicas organizacionales heredadas y condicionamientos sociopolíticos específicos. A través del estudio del Expediente Judicial Electrónico (EJE), se examinan críticamente las trayectorias de implementación tecnológica y los marcos institucionales que interactúan con las políticas de digitalización, identificando patrones de fragmentación estructural que desafían los supuestos de eficiencia y modernización frecuentemente asociados a estos procesos. Los hallazgos apuntan a una digitalización paradójica, donde la proliferación de iniciativas aisladas, la desarticulación entre actores institucionales, las debilidades en ciberseguridad y la persistencia de marcos normativos precarios configuran un escenario de vulnerabilidad estructural. En este contexto, se observa cómo las tensiones entre diseño formal y prácticas cotidianas reflejan no solo resistencias organizacionales, sino también una fragilidad de la arquitectura institucional que sostiene el proceso. Lejos de constituir una narrativa de éxito lineal, la experiencia peruana revela una modernización fragmentada en el que los avances técnicos coexisten con déficits de legitimidad, sostenibilidad y equidad, poniendo de relieve la necesidad de un enfoque sistémico que trascienda lo meramente instrumental e integre dimensiones de gobernanza, justicia social y resiliencia institucional.",
     "authors": [
-      "Furqan Shaikh Mohammed Junaid",
-      "Aarti Sanjay Gawai"
+      "Alvaro Fernando Gonzales Mejia"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "Tindak Pidana Perdagangan Orang Sebagai Kejahatan Transnasional Dalam Perspektif Hukum Dan Hak Asasi",
+    "journal": "Semarang Law Review (SLR)",
+    "year": "2026",
+    "date": "2026-10-06",
+    "doi": "10.26623/slr.v7i2.13502",
+    "url": "https://doi.org/10.26623/slr.v7i2.13502",
+    "abstract": "Trafficking in persons is a serious form of crime that has developed into a transnational crime with far-reaching implications for the protection of human rights. This crime not only constitutes a violation of national criminal law but also undermines human dignity by treating individuals as objects of economic and social exploitation. This article aims to analyze trafficking in persons as a transnational crime from the perspectives of Indonesian law and human rights, while also identifying challenges in the implementation of victim protection. This study employs normative legal research using a statutory approach and a conceptual approach. The legal materials consist of primary, secondary, and tertiary legal sources, which are analyzed qualitatively using a descriptive-analytical method. The findings indicate that Indonesia has established a relatively comprehensive legal framework through Law Number 21 of 2007 on the Eradication of the Criminal Act of Trafficking in Persons, as well as through the ratification of various international legal instruments, including the Palermo Protocol. However, a gap remains between legal norms and their implementation, particularly in the areas of prevention, law enforcement, inter-agency coordination, and the fulfillment of victims' rights. Victims of trafficking continue to face various obstacles in obtaining restitution, rehabilitation, and sustainable social reintegration. Therefore, combating trafficking in persons requires a comprehensive approach that integrates effective law enforcement, appropriate preventive policies, and human rights-based victim protection. Such an approach is expected to strengthen the protection of human dignity while enhancing the effectiveness of efforts to combat trafficking in persons as a transnational crime. Abstrak Tindak pidana perdagangan orang merupakan salah satu bentuk kejahatan serius yang berkembang menjadi kejahatan transnasional dengan dampak luas terhadap perlindungan hak asasi manusia. Kejahatan ini tidak hanya melibatkan pelanggaran terhadap hukum pidana nasional, tetapi juga mencederai martabat manusia karena menempatkan individu sebagai objek eksploitasi ekonomi dan sosial. Artikel ini bertujuan untuk menganalisis tindak pidana perdagangan orang sebagai kejahatan transnasional dalam perspektif hukum Indonesia dan hak asasi manusia, serta mengidentifikasi tantangan dalam implementasi perlindungan terhadap korban. Penelitian ini menggunakan metode penelitian hukum normatif dengan pendekatan perundang-undangan dan pendekatan konseptual. Bahan hukum yang digunakan berupa bahan hukum primer, sekunder, dan tersier yang dianalisis secara kualitatif dengan metode deskriptif-analitis. Hasil penelitian menunjukkan bahwa Indonesia telah memiliki kerangka hukum yang relatif komprehensif melalui Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang serta ratifikasi berbagai instrumen hukum internasional, termasuk Protokol Palermo. Namun, masih terdapat kesenjangan antara norma hukum dan implementasinya di lapangan, terutama dalam aspek pencegahan, penegakan hukum, koordinasi antarlembaga, serta pemenuhan hak-hak korban. Korban perdagangan orang masih menghadapi berbagai hambatan dalam memperoleh restitusi, rehabilitasi, dan reintegrasi sosial secara berkelanjutan. Oleh karena itu, penanggulangan tindak pidana perdagangan orang memerlukan pendekatan yang komprehensif dengan mengintegrasikan penegakan hukum yang efektif, kebijakan pencegahan yang tepat, serta perlindungan korban berbasis hak asasi manusia. Pendekatan tersebut diharapkan dapat memperkuat perlindungan terhadap martabat manusia sekaligus meningkatkan efektivitas penanggulangan perdagangan orang sebagai kejahatan transnasional.",
+    "authors": [
+      "Desi Amalia Anwar",
+      "Miftahul Jannah",
+      "Retno Wulan"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "The role of probiotics and prebiotics in preventing and treating oral mucositis caused by chemoradiotherapy: a narrative review",
+    "journal": "Food Production, Processing and Nutrition",
+    "year": "2026",
+    "date": "2026-10-06",
+    "doi": "10.1186/s43014-026-00426-4",
+    "url": "https://doi.org/10.1186/s43014-026-00426-4",
+    "abstract": "",
+    "authors": [
+      "Amir Ali Judaki",
+      "Amir Rashed Miran",
+      "Raouf Istgaldi",
+      "Setayesh Alimohamadi"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "The dimensions and realization mechanism of brand Jing-Jie(境界) initiated by brand ritual behaviours: a grounded analysis inspired by Chinese Zen Jing-Jie(境界) theory",
+    "journal": "Journal of Contemporary Marketing Science",
+    "year": "2026",
+    "date": "2026-10-06",
+    "doi": "10.1108/jcmars-04-2026-0035",
+    "url": "https://doi.org/10.1108/jcmars-04-2026-0035",
+    "abstract": "Purpose This research seeks to explain the phenomenon of consumers' internal growth initiated by brand ritual behaviours, by establishing a novel construct “brand Jing-Jie(境界)”, inspired by Chinese Zen Jing-Jie(境界)theory. The connotation of “brand Jing-Jie(境界)” is a supplement and expansion of traditional brand loyalty. Design/methodology/approach The data collection is from 32 in-depth interviews. A grounded theory research was adopted for analysis. Findings Through exploring the realization mechanism by which brand ritual behaviours achieve brand Jing-Jie(境界), this paper explores the phenomenon of brand Jing-Jie(境界) and its three dimensions (oneness state, Zen Satori and self-realization). Specifically, brand ritual behaviours (metaphoricity, repeatability and emotionality) facilitate consumers to comprehend brand tacit knowledge (body learning, brand metaphor internalization and brand ritual meaning), thereby facilitating consumer meaning-making (meaning-confirmation, meaning-projection, meaning-expansion and meaning-negotiation), and ultimately achieving brand Jing-Jie(境界). Originality/value The findings propose a novel construct – brand Jing-Jie(境界), which achieves spiritual loyalty, transcends traditional brand loyalty and develops the consumer–brand relationship into a co-cultivation(共修) relationship. Meanwhile, it explores brand tacit knowledge that plays an important antecedent role in transforming brand knowledge into consumer wisdom; it supplements the part of brand knowledge that cannot be conveyed through language and text.",
+    "authors": [
+      "Xianglin Ma",
+      "Ren Wang",
+      "Xiangxi Kong",
+      "Chris Rowley"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "How entrepreneurs can bounce back after failure",
+    "journal": "Strategic Direction",
+    "year": "2026",
+    "date": "2026-10-06",
+    "doi": "10.1108/sd-09-2026-0269",
+    "url": "https://doi.org/10.1108/sd-09-2026-0269",
+    "abstract": "Purpose This paper aims to review the latest management developments across the globe and pinpoint practical implications from cutting-edge research and case studies. Design/methodology/approach This briefing is prepared by an independent writer who adds their own impartial comments and places the articles in context. Findings Entrepreneurs looking to bounce back from failure are better positioned to succeed with new ventures if they have accrued sufficient social capital. This can enable them to build strong networks that provide exposure to new ideas, learning and potential opportunities. The emotional support such relationships generate is equally crucial, as it helps to minimize the negative effects of failure and boost confidence and entrepreneurial self-efficacy. Originality/value The briefing saves busy executives, strategists and researchers hours of reading time by selecting only the very best, most pertinent information and presenting it in a condensed and easy-to-digest format.",
+    "authors": [],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
