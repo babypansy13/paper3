@@ -1,149 +1,160 @@
 [
   {
-    "field": "Urban Studies",
-    "title": "The Geopolitics of Food and Agriculture",
-    "journal": "Annual Review of Resource Economics",
+    "field": "Public Policy",
+    "title": "morphological study of Balinese culinary terms and their equivalents in Balinese sentences",
+    "journal": "Linguistics and Culture Review",
     "year": "2026",
-    "date": "2026-10-06",
-    "doi": "10.1146/annurev-resource-112624-010824",
-    "url": "https://doi.org/10.1146/annurev-resource-112624-010824",
-    "abstract": "Food has long served as an instrument of statecraft. Yet agricultural economics typically analyzes policy through the lens of consumer and producer welfare, which neglects security externalities. We review the literature at the intersection of agricultural economics and political science, examining how food systems both shape and are shaped by geopolitical forces through the two channels of ( a ) domestic instability with international spillovers and ( b ) the deliberate use of food in statecraft. Our synthesis of key findings in the literature suggests that ( a ) food prices relate to riots and instability while ambiguously relating to civil war and violence, ( b ) the wide geographic spread of agriculture limits but does not eliminate unilateral coercive leverage compared with other strategic sectors, and ( c ) domestic food policies are strongly related to national security goals. Moreover, we point out the many extant data sets one can use to do work in this area and identify several research gaps in the literature. As global uncertainty intensifies, integrating geopolitical analysis into agricultural economics is essential for policy relevance.",
+    "date": "2026-10-07",
+    "doi": "10.21744/lingcure.v10n1.2383",
+    "url": "https://doi.org/10.21744/lingcure.v10n1.2383",
+    "abstract": "Many terms related to Balinese cuisine need to be documented to prevent them from falling into disuse or disappearing. Beyond describing linguistic aspects from a morphological perspective, this study also aims to document Balinese culinary terms that remain active and evolving within the Balinese community through their usage in Balinese sentences. Balinese culinary terms are highly diverse and numerous. These terms can be analyzed morphologically—covering base forms, as well as forms with prefixes, infixes, suffixes, and confixes—and examined in terms of their usage within the context of communication in Balinese sentences.",
     "authors": [
-      "Bernhard Dalheimer",
-      "Marc F. Bellemare",
-      "Weston Loughmiller"
-    ],
-    "citations": 2,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "“A state university in name only”: privatization and corporatization in contemporary Sri Lankan state universities",
-    "journal": "Journal of Management Development",
-    "year": "2026",
-    "date": "2026-10-06",
-    "doi": "10.1108/jmd-03-2026-0175",
-    "url": "https://doi.org/10.1108/jmd-03-2026-0175",
-    "abstract": "Purpose This article examines changes in Sri Lankan state universities (i.e. public universities) in the last 3 decades through two core concepts of management: privatization and corporatization. Design/methodology/approach This article is a qualitative study using discourse analysis, focusing on practices of privatization and corporatization. I examine documentation produced by 16 state universities from 2016 to 2020 and a reflexive journal written by myself over the past 10 years. Findings The article describes the similarities in the characteristics of these two phenomena and distinguishes conceptual differences and their consequences in the Sri Lankan academic context. Sri Lankan universities show characteristics of both privatization and corporatization, which appear as practices (as described in activities) and discourses (e.g. competitiveness, unemployability). These include changes to academic work norms and corporate-like governing practices. Research limitations/implications This is an initial exploration using mostly documentary sources. Local specificities of global phenomena such as corporatization and privatization need in-depth study and the education sector is a rich setting for further research. Practical implications This has direct implications for how universities are managed in future. Social implications This article analyses the changes that come about when a public good, such as education, is privatized and corporatized insidiously. Originality/value This article contributes to the field of education and management by considering how the two phenomena, corporatization and privatization, manifest in Sri Lankan state universities, illustrating through this the local manifestations of global phenomena affecting higher education.",
-    "authors": [
-      "Kaushalya Perera"
+      "I Made Suweta",
+      "Komang Puteri Yadnya Diari",
+      "Putu Wulandari Tristananda"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Utility of consolidation-to-tumor ratio and solid component size for risk stratification of occult lymph node metastasis in early-stage lung adenocarcinoma: a retrospective cohort study",
-    "journal": "BMC Pulmonary Medicine",
-    "year": "2026",
-    "date": "2026-10-06",
-    "doi": "10.1186/s12890-026-04802-1",
-    "url": "https://doi.org/10.1186/s12890-026-04802-1",
-    "abstract": "",
-    "authors": [
-      "Tsuyoshi Uchida",
-      "Ryosuke Tanaka",
-      "Naoya Ashizawa",
-      "Koshi Mobara"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "Unseen Inequities: How Workplace Inequalities Fuel Knowledge Hiding Through Cynicism, Buffered by Psychological Hardiness",
-    "journal": "Social Justice Research",
-    "year": "2026",
-    "date": "2026-10-06",
-    "doi": "10.1007/s11211-026-00486-4",
-    "url": "https://doi.org/10.1007/s11211-026-00486-4",
-    "abstract": "",
-    "authors": [
-      "Wang Xigen",
-      "Imran Saeed"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Psychology",
-    "title": "Transformación digital y reconfiguración institucional en el Poder Judicial peruano: tensiones, avances y límites del Expediente Judicial Electrónico",
-    "journal": "Global Journal of Human-Social Science",
+    "title": "Understanding the Pre-partnership Stage in Subnational International Cooperation",
+    "journal": "RSF Conference Series: Business, Management and Social Sciences",
     "year": "2026",
-    "date": "2026-10-06",
-    "doi": "10.34257/gjhssh276076",
-    "url": "https://doi.org/10.34257/gjhssh276076",
-    "abstract": "La transformación digital del sistema judicial peruano, lejos de limitarse a la incorporación de herramientas tecnológicas, configura un proceso de reconfiguración institucional cuya complejidad se manifiesta en la tensión constante entre innovación normativa, dinámicas organizacionales heredadas y condicionamientos sociopolíticos específicos. A través del estudio del Expediente Judicial Electrónico (EJE), se examinan críticamente las trayectorias de implementación tecnológica y los marcos institucionales que interactúan con las políticas de digitalización, identificando patrones de fragmentación estructural que desafían los supuestos de eficiencia y modernización frecuentemente asociados a estos procesos. Los hallazgos apuntan a una digitalización paradójica, donde la proliferación de iniciativas aisladas, la desarticulación entre actores institucionales, las debilidades en ciberseguridad y la persistencia de marcos normativos precarios configuran un escenario de vulnerabilidad estructural. En este contexto, se observa cómo las tensiones entre diseño formal y prácticas cotidianas reflejan no solo resistencias organizacionales, sino también una fragilidad de la arquitectura institucional que sostiene el proceso. Lejos de constituir una narrativa de éxito lineal, la experiencia peruana revela una modernización fragmentada en el que los avances técnicos coexisten con déficits de legitimidad, sostenibilidad y equidad, poniendo de relieve la necesidad de un enfoque sistémico que trascienda lo meramente instrumental e integre dimensiones de gobernanza, justicia social y resiliencia institucional.",
+    "date": "2026-10-07",
+    "doi": "10.31098/bmss.v6i2.1119",
+    "url": "https://doi.org/10.31098/bmss.v6i2.1119",
+    "abstract": "Artificial intelligence (AI) has transformed destination marketing by enabling the creation of visually compelling promotional content. While AI-generated visuals offer new opportunities for tourism promotion, concerns about their perceived authenticity and fairness may influence tourists’ behavioral intentions. This study examines how the perceived authenticity of AI-generated visuals and perceived justice affect tourist patronage intention toward Bali as a tourism destination. A quantitative explanatory research design was employed, using a cross-sectional survey of 130 valid respondents who had viewed AI-generated tourism visuals of Bali. Data were collected via an online questionnaire and analyzed using Partial Least Squares Structural Equation Modeling (PLS-SEM). The results show that perceived authenticity of AI-generated visuals has a positive and significant effect on tourist patronage intention (β = 0.299, p = 0.002). Perceived justice also has a positive and significant effect on tourist patronage intention and demonstrates a stronger effect (β = 0.611, p < 0.001). The findings indicate that tourists’ patronage intentions are shaped by both the perceived authenticity of AI-generated destination visuals and perceptions of fairness in destination management. The study contributes to the emerging literature on AI-enabled tourism marketing by integrating visual authenticity and perceived justice into a single framework and provides practical implications for destination marketing organizations to use AI-generated visual content while maintaining credible communication and responsible destination management.",
     "authors": [
-      "Alvaro Fernando Gonzales Mejia"
+      "Abdul Ghofar",
+      "Kunti Sunaryo",
+      "Sri Astuti",
+      "Niswatul Faizah"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Public Policy",
-    "title": "Tindak Pidana Perdagangan Orang Sebagai Kejahatan Transnasional Dalam Perspektif Hukum Dan Hak Asasi",
-    "journal": "Semarang Law Review (SLR)",
+    "field": "Mental Health",
+    "title": "Therapeutic targeting of TCF/LEF transcription factors in neuropsychiatric disorders via Wnt/β-catenin signaling",
+    "journal": "Translational Psychiatry",
     "year": "2026",
-    "date": "2026-10-06",
-    "doi": "10.26623/slr.v7i2.13502",
-    "url": "https://doi.org/10.26623/slr.v7i2.13502",
-    "abstract": "Trafficking in persons is a serious form of crime that has developed into a transnational crime with far-reaching implications for the protection of human rights. This crime not only constitutes a violation of national criminal law but also undermines human dignity by treating individuals as objects of economic and social exploitation. This article aims to analyze trafficking in persons as a transnational crime from the perspectives of Indonesian law and human rights, while also identifying challenges in the implementation of victim protection. This study employs normative legal research using a statutory approach and a conceptual approach. The legal materials consist of primary, secondary, and tertiary legal sources, which are analyzed qualitatively using a descriptive-analytical method. The findings indicate that Indonesia has established a relatively comprehensive legal framework through Law Number 21 of 2007 on the Eradication of the Criminal Act of Trafficking in Persons, as well as through the ratification of various international legal instruments, including the Palermo Protocol. However, a gap remains between legal norms and their implementation, particularly in the areas of prevention, law enforcement, inter-agency coordination, and the fulfillment of victims' rights. Victims of trafficking continue to face various obstacles in obtaining restitution, rehabilitation, and sustainable social reintegration. Therefore, combating trafficking in persons requires a comprehensive approach that integrates effective law enforcement, appropriate preventive policies, and human rights-based victim protection. Such an approach is expected to strengthen the protection of human dignity while enhancing the effectiveness of efforts to combat trafficking in persons as a transnational crime. Abstrak Tindak pidana perdagangan orang merupakan salah satu bentuk kejahatan serius yang berkembang menjadi kejahatan transnasional dengan dampak luas terhadap perlindungan hak asasi manusia. Kejahatan ini tidak hanya melibatkan pelanggaran terhadap hukum pidana nasional, tetapi juga mencederai martabat manusia karena menempatkan individu sebagai objek eksploitasi ekonomi dan sosial. Artikel ini bertujuan untuk menganalisis tindak pidana perdagangan orang sebagai kejahatan transnasional dalam perspektif hukum Indonesia dan hak asasi manusia, serta mengidentifikasi tantangan dalam implementasi perlindungan terhadap korban. Penelitian ini menggunakan metode penelitian hukum normatif dengan pendekatan perundang-undangan dan pendekatan konseptual. Bahan hukum yang digunakan berupa bahan hukum primer, sekunder, dan tersier yang dianalisis secara kualitatif dengan metode deskriptif-analitis. Hasil penelitian menunjukkan bahwa Indonesia telah memiliki kerangka hukum yang relatif komprehensif melalui Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang serta ratifikasi berbagai instrumen hukum internasional, termasuk Protokol Palermo. Namun, masih terdapat kesenjangan antara norma hukum dan implementasinya di lapangan, terutama dalam aspek pencegahan, penegakan hukum, koordinasi antarlembaga, serta pemenuhan hak-hak korban. Korban perdagangan orang masih menghadapi berbagai hambatan dalam memperoleh restitusi, rehabilitasi, dan reintegrasi sosial secara berkelanjutan. Oleh karena itu, penanggulangan tindak pidana perdagangan orang memerlukan pendekatan yang komprehensif dengan mengintegrasikan penegakan hukum yang efektif, kebijakan pencegahan yang tepat, serta perlindungan korban berbasis hak asasi manusia. Pendekatan tersebut diharapkan dapat memperkuat perlindungan terhadap martabat manusia sekaligus meningkatkan efektivitas penanggulangan perdagangan orang sebagai kejahatan transnasional.",
-    "authors": [
-      "Desi Amalia Anwar",
-      "Miftahul Jannah",
-      "Retno Wulan"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "The role of probiotics and prebiotics in preventing and treating oral mucositis caused by chemoradiotherapy: a narrative review",
-    "journal": "Food Production, Processing and Nutrition",
-    "year": "2026",
-    "date": "2026-10-06",
-    "doi": "10.1186/s43014-026-00426-4",
-    "url": "https://doi.org/10.1186/s43014-026-00426-4",
+    "date": "2026-10-07",
+    "doi": "10.1038/s41398-026-04509-1",
+    "url": "https://doi.org/10.1038/s41398-026-04509-1",
     "abstract": "",
     "authors": [
-      "Amir Ali Judaki",
-      "Amir Rashed Miran",
-      "Raouf Istgaldi",
-      "Setayesh Alimohamadi"
+      "Xincheng Li",
+      "Yifei Sang",
+      "Qiming Yu",
+      "Xiaoyu Liu"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Marketing",
-    "title": "The dimensions and realization mechanism of brand Jing-Jie(境界) initiated by brand ritual behaviours: a grounded analysis inspired by Chinese Zen Jing-Jie(境界) theory",
-    "journal": "Journal of Contemporary Marketing Science",
+    "title": "The use of drones in public safety: mapping applications, potential and limitations",
+    "journal": "Policing: An International Journal",
     "year": "2026",
-    "date": "2026-10-06",
-    "doi": "10.1108/jcmars-04-2026-0035",
-    "url": "https://doi.org/10.1108/jcmars-04-2026-0035",
-    "abstract": "Purpose This research seeks to explain the phenomenon of consumers' internal growth initiated by brand ritual behaviours, by establishing a novel construct “brand Jing-Jie(境界)”, inspired by Chinese Zen Jing-Jie(境界)theory. The connotation of “brand Jing-Jie(境界)” is a supplement and expansion of traditional brand loyalty. Design/methodology/approach The data collection is from 32 in-depth interviews. A grounded theory research was adopted for analysis. Findings Through exploring the realization mechanism by which brand ritual behaviours achieve brand Jing-Jie(境界), this paper explores the phenomenon of brand Jing-Jie(境界) and its three dimensions (oneness state, Zen Satori and self-realization). Specifically, brand ritual behaviours (metaphoricity, repeatability and emotionality) facilitate consumers to comprehend brand tacit knowledge (body learning, brand metaphor internalization and brand ritual meaning), thereby facilitating consumer meaning-making (meaning-confirmation, meaning-projection, meaning-expansion and meaning-negotiation), and ultimately achieving brand Jing-Jie(境界). Originality/value The findings propose a novel construct – brand Jing-Jie(境界), which achieves spiritual loyalty, transcends traditional brand loyalty and develops the consumer–brand relationship into a co-cultivation(共修) relationship. Meanwhile, it explores brand tacit knowledge that plays an important antecedent role in transforming brand knowledge into consumer wisdom; it supplements the part of brand knowledge that cannot be conveyed through language and text.",
+    "date": "2026-10-07",
+    "doi": "10.1108/pijpsm-05-2026-0159",
+    "url": "https://doi.org/10.1108/pijpsm-05-2026-0159",
+    "abstract": "Purpose This study aims to analyse the scientific production on the use of drones in public safety, identifying patterns of development, collaboration networks, intellectual structure, thematic evolution and research gaps in the field. Design/methodology/approach The research adopts a quantitative, descriptive and exploratory approach based on bibliometric analysis. Data were collected from the Scopus database, covering the period from 2021 to 2025. A total of 361 journal articles were analysed using performance indicators and science mapping techniques. The study employs PyBibX for performance analysis and VOSviewer and Bibliometrix (R) for co-authorship, co-citation, keyword co-occurrence and conceptual structure analysis through Multiple Correspondence Analysis (MCA). Additionally, a PRISMA-based protocol was applied to identify a core set of 65 articles for thematic classification. Findings The results indicate that research on drones in public safety is a rapidly expanding and highly collaborative field, characterised by strong internationalisation and interdisciplinary integration. The intellectual structure is supported by multiple interconnected domains, including artificial intelligence, signal processing, autonomous systems, and security studies. Thematic analysis reveals that drones function as central elements in the transition towards data-driven policing, enabling real-time monitoring, predictive analytics and operational optimisation. However, the study also identifies significant challenges related to regulatory gaps, cybersecurity risks, institutional barriers and ethical concerns, particularly regarding privacy, legitimacy and social acceptance. Research limitations/implications The study is limited to the Scopus database, English-language journal articles, and the 2021–2025 period, which may exclude relevant contributions from other sources or earlier foundational studies. Future research should incorporate multiple databases, extend temporal coverage, and explore qualitative and empirical approaches, particularly regarding governance, regulation, and societal impacts. Practical implications The findings provide insights for policymakers, public safety agencies, and practitioners by highlighting key applications, technological requirements, and implementation challenges associated with drone adoption. The study supports strategic decision-making related to resource allocation, operational integration, and technological investment in security systems. Social implications The increasing use of drones in public safety has significant implications for the relationship between the state and society, particularly in terms of surveillance, privacy, and institutional trust. The results emphasize the need for transparent governance, procedural justice, and proportional use of technology to ensure social legitimacy and public acceptance. Originality/value This study contributes to the literature by providing a comprehensive bibliometric and conceptual mapping of drones in public safety, integrating technological, organizational, and sociotechnical perspectives. It advances the field by proposing an analytical interpretation of UAVs as platforms of datafication, supporting the transition towards data-driven security systems.",
     "authors": [
-      "Xianglin Ma",
-      "Ren Wang",
-      "Xiangxi Kong",
-      "Chris Rowley"
+      "Marcio Pereira Basilio",
+      "Valdecy Pereira",
+      "Fatih Yigit"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "How entrepreneurs can bounce back after failure",
-    "journal": "Strategic Direction",
+    "field": "Family Studies",
+    "title": "The Diffusion of Cohabitation Among Immigrants in Europe: The Role of the National Cohabitation Context",
+    "journal": "European Journal of Population",
     "year": "2026",
-    "date": "2026-10-06",
-    "doi": "10.1108/sd-09-2026-0269",
-    "url": "https://doi.org/10.1108/sd-09-2026-0269",
-    "abstract": "Purpose This paper aims to review the latest management developments across the globe and pinpoint practical implications from cutting-edge research and case studies. Design/methodology/approach This briefing is prepared by an independent writer who adds their own impartial comments and places the articles in context. Findings Entrepreneurs looking to bounce back from failure are better positioned to succeed with new ventures if they have accrued sufficient social capital. This can enable them to build strong networks that provide exposure to new ideas, learning and potential opportunities. The emotional support such relationships generate is equally crucial, as it helps to minimize the negative effects of failure and boost confidence and entrepreneurial self-efficacy. Originality/value The briefing saves busy executives, strategists and researchers hours of reading time by selecting only the very best, most pertinent information and presenting it in a condensed and easy-to-digest format.",
-    "authors": [],
+    "date": "2026-10-07",
+    "doi": "10.1007/s10680-026-09790-w",
+    "url": "https://doi.org/10.1007/s10680-026-09790-w",
+    "abstract": "Abstract Immigrants and their descendants constitute an increasing share of European populations, yet research on how immigrant background shapes the cohabitation experience remains limited. This study investigates how generational status at the individual level and national context at the macro level influence the likelihood of ever having cohabited. Our central proposition is that the diffusion of cohabitation among immigrants is more pronounced in countries where the practice is common and socially accepted among the native population. We analysed pooled data from the European Social Survey (ESS; 2002–2023), encompassing 444,794 respondents across 32 countries. Mixed-effects modelling points to generational adaptation: descendants of immigrants are more likely to have ever cohabited than immigrants, though the magnitude of this difference varies across countries. The prevalence of cohabitation among natives emerges as a strong contextual predictor, increasing the likelihood of cohabitation for both immigrants and their descendants, and narrowing migrant-native differences in settings where cohabitation is more common. This study contributes to the literature by demonstrating that lifetime cohabitation among immigrants and their descendants is not merely a product of individual traits but is fundamentally shaped by the normative climate of the host country.",
+    "authors": [
+      "Katrin Schwanitz",
+      "Martin Klesment"
+    ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "The <b>Influence of Live Streaming Promotion and Online Customer Review on Consumer Fashion Purchase Intention on Lazada </b><b>in Depok City</b>",
+    "journal": "Lead Journal of Economy and Administration",
+    "year": "2026",
+    "date": "2026-10-07",
+    "doi": "10.56403/lejea.v5i1.469",
+    "url": "https://doi.org/10.56403/lejea.v5i1.469",
+    "abstract": "This study aims to analyze the influence of live streaming promotions and online customer reviews on consumer purchase intention for fashion products on the Lazada e-commerce platform in Depok City, both partially and simultaneously. A quantitative approach was employed, utilizing a questionnaire as the research instrument. The sample consisted of 120 respondents selected via non-probability sampling using a purposive sampling technique. Data analysis was conducted using SPSS software (version 26), encompassing validity tests, reliability tests, classical assumption tests, multiple linear regression analysis, the coefficient of determination (R²), and hypothesis testing via t-tests (partial) and F-tests (simultaneous). The results indicate that live streaming promotions have a significant negative effect on purchase intention, whereas online customer reviews have a significant positive effect. Simultaneously, both live streaming promotions and online customer reviews significantly influence consumer purchase intention for fashion products on Lazada in Depok City. The coefficient of determination reveals that the two independent variables explain 39.9% of the variation in purchase intention, while the remaining 60.1% is attributed to variables not included in this study. These findings suggest that enhancing the quality of customer reviews and optimizing live streaming promotional strategies can be effective measures for boosting consumer purchase intention on e-commerce platforms.",
+    "authors": [
+      "Rizki Rahmadani Nasution",
+      "Alfi Maghfuriyah",
+      "Revita Desi Hertin",
+      "Nur Fitri Dewi"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Synchronous small-cell lung cancer and metastatic gastric gastrointestinal stromal tumor: concurrent chemo-radiotherapy, consolidation immunotherapy, and imatinib",
+    "journal": "GECP Lung Cancer & Clinical Research Journal",
+    "year": "2026",
+    "date": "2026-10-07",
+    "doi": "10.24875/gecplc.26000004",
+    "url": "https://doi.org/10.24875/gecplc.26000004",
+    "abstract": "",
+    "authors": [
+      "Alejandro Olivares-Hernández",
+      "Carlos J. Fajardo-Flores",
+      "Edel del Barco-Morillo",
+      "Emilio Fonseca-Sánchez"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "In vitro evaluation of the phytochemical composition, antioxidant potential, and synergistic α-amylase inhibition kinetics of combined plant leaf freeze-dried extracts",
+    "journal": "Food Production, Processing and Nutrition",
+    "year": "2026",
+    "date": "2026-10-07",
+    "doi": "10.1186/s43014-026-00429-1",
+    "url": "https://doi.org/10.1186/s43014-026-00429-1",
+    "abstract": "",
+    "authors": [
+      "Tarek S. Mohamed",
+      "Samy M. Galal",
+      "Ayman A. Mohammad",
+      "Karima S. M. Hammad"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "Tree Structure and Turnover in a Peruvian Premontane Amazon Forest",
+    "journal": "Jurnal Manajemen Hutan Tropika (Journal of Tropical Forest Management)",
+    "year": "2026",
+    "date": "2026-10-07",
+    "doi": "10.7226/jtfm.32.4.399",
+    "url": "https://doi.org/10.7226/jtfm.32.4.399",
+    "abstract": "Humid tropical forests are increasingly exposed to fire, yet local diversity, stand structure, and species composition may respond differently. We compared tree communities in lower and upper sectors of a university reserve near Tingo María, Peru, using 27 rectangular 500 m² sampling units (13 lower, 14 upper). The upper sector showed field evidence of fire, although fire history was confounded with elevation and no pre-fire inventory was available. We assessed alpha and beta diversity, diameter and height structure, and species and family importance values at the sampling-unit level. Species composition differed robustly between sectors for presence-absence and abundance data (PERMANOVA, p-value < 0.001), whereas multivariate dispersion did not. After false-discovery-rate correction, alpha-diversity and structural variables showed no confirmed differences. Nevertheless, medium-to-large effect sizes indicated trends toward lower mean height and emergent-tree representation, and larger crown diameter and understory representation, in the upper sector; these trends were not confirmed at this sample size. Dominance shifted: upper-sector importance was density-driven for Senefeldera inclinata, whereas lower-sector importance was basal-area-driven for Cedrelinga cateniformis. The data therefore demonstrate taxonomic turnover but cannot attribute sector differences specifically to fire rather than elevation-associated conditions. Repeated integrated monitoring is needed to distinguish these effects.",
+    "authors": [
+      "N Y B Decada",
+      "E D Quintana",
+      "A F Cerna-Cueva",
+      "C A Escalante"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
