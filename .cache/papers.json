@@ -1,159 +1,138 @@
 [
   {
-    "field": "Marketing",
-    "title": "Minimal-actuation feather star–inspired soft swimmers for multimodal 3D maneuverability",
-    "journal": "Science Advances",
-    "year": "2026",
-    "date": "2026-10-09",
-    "doi": "10.1126/sciadv.aeg9211",
-    "url": "https://doi.org/10.1126/sciadv.aeg9211",
-    "abstract": "Complex, three-dimensional (3D) motions typically require actuator arrays and complex control architectures. Here, we present a feather star–inspired soft robotic swimmer that uses only two pneumatic inputs to produce three distinct and switchable swimming modes: jellyfish-like pulsation, fishlike propulsion, and rotor-like reorientation. The robot owes this ability to mechanical intelligence: It leverages a monostable instability in its flexible arms to convert two control actuation inputs into 3D swimming modes, including ascension and descension, forward and backward swimming, hovering, and rotation. The robot achieves a maximum swimming speed of 1.64 body lengths per second, minimum cost of transport of 17.6, and peak rotation speed of 90° per second. Particle image velocimetry analyses and computational fluid dynamics simulations reveal distinct vortex structures governing thrust generation and/or rotational torque in each swimming mode. The robot’s minimal input yet multimodal output demonstrates how mechanical intelligence can enable adaptive and multifunctional, yet simple and energy-efficient, robotic and biological swimming mechanisms.",
-    "authors": [
-      "Haitao Qing",
-      "Yuanhang Zhu",
-      "Jiacheng Guo",
-      "Caizhi Zhou"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "Blood Metabolomic Signatures of 1-Hour Glucose Predict Cardiometabolic Risk",
-    "journal": "Circulation Research",
-    "year": "2026",
-    "date": "2026-10-09",
-    "doi": "10.1161/circresaha.125.327816",
-    "url": "https://doi.org/10.1161/circresaha.125.327816",
-    "abstract": "BACKGROUND: Elevated 1-hour glucose levels during an oral glucose tolerance test strongly predict type 2 diabetes (T2D) and cardiovascular disease. We investigated whether the fasting blood metabolome predicting 1-hour glucose could be a target for improving β-cell function, long-term glycemic trajectories, and reducing the risks of T2D and coronary heart disease. We also investigated whether plasma microRNAs derived from key metabolic organs regulate changes in a metabolomic risk score (MRS) for predicting 1-hour glucose. METHODS: Untargeted blood metabolomics and a frequently sampled 75-g oral glucose tolerance test were performed in participants from the OmniCarb trial (n=162). In an independent weight-loss dietary intervention trial (POUNDS Lost [Preventing Overweight Using Novel Dietary Strategies]), temporal changes in MRS and plasma microRNAs measured by genome-wide sequencing were analyzed. In addition, associations of MRS at baseline and its 10-year changes with long-term risk of incident T2D and coronary heart disease were prospectively investigated in the NHS (Nurses’ Health Study). RESULTS: We created a fasting blood MRS for predicting 1-hour glucose (Pearson r =0.8) and found significant associations with half-day (diurnal) postprandial glucose excursions and insulin secretion after 5-week controlled feeding interventions varying in carbohydrate amount and glycemic index. In the POUNDS Lost trial, diet-induced changes in MRSs were related to 2-year trajectories of glucose metabolism; circulating microRNAs regulating cardiometabolic abnormalities were pivotal factors influencing these changes. In the NHS, women in the top 20% of MRS had a multivariate-adjusted relative risk of 3.80 (95% CI, 2.22–6.51) for T2D and 1.48 (95% CI, 1.04–2.12) for coronary heart disease compared with those in the lowest 20%. In addition, 10-year increases in plasma metabolites related to 1-hour glucose were linearly associated with a higher risk of T2D. CONCLUSIONS: Our findings indicate that fasting blood metabolomic signatures predicting elevated 1-hour glucose reflect disease pathophysiology and could be targets for preventing T2D and coronary heart disease.",
-    "authors": [
-      "Yoriko Heianza",
-      "Minghao Kou",
-      "Xuan Wang",
-      "Qi Sun"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "pH-responsive manganese carboxymethyl chitosan hydrogel releases pesticide to promote rice tillering and suppress root-parasitic weeds",
-    "journal": "Nature Communications",
-    "year": "2026",
-    "date": "2026-10-09",
-    "doi": "10.1038/s41467-026-78320-3",
-    "url": "https://doi.org/10.1038/s41467-026-78320-3",
-    "abstract": "Abstract Strigolactone (SL) signaling is an important agricultural target for controlling plant branching and parasitic weeds. Here, based on the SL inhibitor KK094, we describe the design of 32 indole derivatives, of which DK6 exhibits optimal activity. To enhance solubility and bioavailability, we describe a pH-responsive manganese-coordinated carboxymethyl chitosan hydrogel (CMCS-DK6), showing sustained release under alkaline conditions. We demonstrate CMCS-DK6 strongly inhibits germination of parasitic weeds, especially Striga asiatica (IC 50 = 1.80 μM), while promoting rice tillering, reducing height, and increasing dry weight. Molecular simulations, along with microscale thermophoresis results, suggest that DK6 binds stably to SL receptors. Transcriptomics reveal DK6 suppresses SL signaling, modulates metabolic pathways, and interacts with hormone pathways to regulate tillering. This work offers a hydrogel delivery strategy and some potential mechanistic implications for improving crop architecture and weed control.",
-    "authors": [
-      "Ali Dai",
-      "Zhiguo Zheng",
-      "Ronghao Wu",
-      "Dengke Ma"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20portrait%20silhouette%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "Urban Vernacular Transitions: Contesting Commercial Space Through Everyday Practices in Bangkok’s Privately-Owned Public Spaces",
-    "journal": "Journal of Architectural/Planning Research and Studies (JARS)",
-    "year": "2026",
-    "date": "2026-10-09",
-    "doi": "10.56261/jars.v23.281515",
-    "url": "https://doi.org/10.56261/jars.v23.281515",
-    "abstract": "This paper explores the transition of vernacular architecture from rural traditions to urban adaptations,expanding the discussion toward what may be termed the “urban vernacular.” While rural vernacular has longbeen associated with natural materials, collective labour, and the continuity of cultural wisdom, the urbanvernacular emerges in contexts marked by industrialised construction, consumer culture, and the negotiationof everyday life in rapidly growing cities. Privately-Owned Public Spaces (POPS) in Bangkok are introducedas illustrative cases through which these dynamics can be observed. Although designed as commercial interiors,malls and their semi-public areas are tactically re-appropriated by diverse groups: students transform foodcourts into study zones, elderly visitors establish routines of repeated occupation, and youth communitiesadapt mirrored walls for dance practice. Such activities reveal how POPS, despite their regulated and privatelymanaged frameworks, provide informal third places that foster social interaction, comfort, and adaptability. Thestudy employed non-participant observation and photographic documentation across selected malls, focusingon patterns of use that extend beyond consumption. These observations highlight how POPS serve as a lensto interpret broader processes of vernacular transition. The paper argues that urban vernacular heritage liesless in the preservation of form than in the recognition of lived practices that sustain cultural meaning. Byframing POPS as an example rather than an endpoint, the research underscores the resilience of improvisation,collectivity, and cultural continuity within contemporary urban conditions. While these spaces demonstratevernacular resilience through everyday improvisation, the analysis also exposes their precarity, a conditionshaped by surveillance, selective tolerance, and corporate governance that renders user autonomy contingentand unstable. This tension between resilience and precarity defines the contested terrain of urban vernacularpractices within Bangkok’s privately-owned public spaces.",
-    "authors": [
-      "Supitcha Tovivich"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "Understanding out-of-home food waste among young Chinese adults: a photo-elicitation study",
-    "journal": "British Food Journal",
-    "year": "2026",
-    "date": "2026-10-09",
-    "doi": "10.1108/bfj-03-2026-0340",
-    "url": "https://doi.org/10.1108/bfj-03-2026-0340",
-    "abstract": "Purpose This research examines how young Chinese adults understand and negotiate responsibility for food waste when dining out at the intersection of multiple cultural values. Design/methodology/approach This paper reports on a qualitative photo-elicitation study in which 20 young adults from China were asked to take photos when dining out. Follow-up interviews were conducted to explore the story behind photos. Data were analysed using an adaptive theory approach coupled with a moral economy lens to examine how cultural norms shape action. Findings Young Chinese adults' understandings and negotiation of responsibility for out-of-home food waste are embedded within intersecting normative narratives including relational harmony, market entitlement and personal standards. The data demonstrates that, even when moral concerns against food waste exist, responsibility is negotiated across social relationships. Market-based logic further legitimises this redistribution through economic values and market exchange. Together, these intersecting norms create a situation in which responsibility is negotiated and distributed rather than individually assumed. Originality/value This study spotlights a moral-economic “responsibilisation” dilemma faced by young Chinese adults from a cultural-normative perspective and highlights the need to develop new food waste avoidance norms grounded in existing and dominant Chinese cultural norms.",
-    "authors": [
-      "Ruoran Fu",
-      "Carol Richards",
-      "Katherine M. White",
-      "Patricia Obst"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Towards a suitable biomarker for childhood screening for familial hypercholesterolemia: a systematic literature review",
-    "journal": "Clinical Chemistry and Laboratory Medicine (CCLM)",
-    "year": "2026",
-    "date": "2026-10-09",
-    "doi": "10.1515/cclm-2026-0689",
-    "url": "https://doi.org/10.1515/cclm-2026-0689",
-    "abstract": "Abstract Familial hypercholesterolemia (FH) is a common genetic disorder causing elevated low-density lipoprotein cholesterol (LDL-c) concentrations from birth, resulting in a high risk of premature cardiovascular disease. Despite effective early treatment, FH remains underdiagnosed in children, highlighting the need for universal screening. This systematic review aims to evaluate the available evidence regarding suitable biomarkers for the purpose of universal screening for FH in childhood. The electronic databases Medline and Embase were systematically searched for studies comparing blood biomarkers in children with heterozygous FH and non-FH children. Of the 2,488 studies found, 35 were included. Although the data were constrained by considerable heterogeneity, LDL-c, total cholesterol (TC), and apolipoprotein B (ApoB) concentrations were consistently higher in children with FH across the included studies. Furthermore, increased non-high-density lipoprotein cholesterol (non-HDL-c), lathosterol, sitosterol and TC/HDL-c ratio, and a decreased squalene/TC ratio were found in children with FH. Only three screening studies combined biomarker (LDL-c, non-HDL-c and TC) and genetic testing simultaneously, revealing however limited sensitivity and specificity of these markers for FH screening in children. In this review, several biomarkers for FH screening in children were evaluated. As sensitivity and specificity data were generally not available or suboptimal, additional studies are needed to evaluate the screening performance of selected biomarkers in well-defined pediatric populations of suitable age and sex distribution, using valid analytical methods, and taking into account possible confounding factors. It is only through such studies that a well-considered selection of biomarkers can be made for the purpose of childhood screening for FH.",
-    "authors": [
-      "Vera H. de Kleijne",
-      "Barbara A. Hutten",
-      "Anita Boelen",
-      "Annet M. Bosch"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Management",
-    "title": "Topology optimization for link mechanism synthesis based on multi-layered generalized continuum model",
-    "journal": "Proceedings of the Japan Academy, Series B",
+    "title": "سوائل الحفر وأثرها في كفاءة الحفر وسلامة البئر: تجربة تطبيقية في الحقول الليبية Drilling Fluids and Their Impact on Drilling Efficiency and Wellbore Integrity: An Applied Experience in Libyan Fields",
+    "journal": "Derna Academy Journal for Applied Sciences",
     "year": "2026",
-    "date": "2026-10-09",
-    "doi": "10.2183/pjab.102.020",
-    "url": "https://doi.org/10.2183/pjab.102.020",
-    "abstract": "",
+    "date": "2026-10-10",
+    "doi": "10.71147/9agz9n28",
+    "url": "https://doi.org/10.71147/9agz9n28",
+    "abstract": "تتناول هذه الورقة دور سوائل الحفر في رفع كفاءة حفر الآبار النفطية وصون سلامتها في ظل الظروف الجيولوجية والتشغيلية التي تواجه الحقول الليبية. اعتمدت الدراسة منهجاً وصفياً تحليلياً جمع بين مراجعة منظمة للأدبيات المحكّمة الحديثة في الريولوجيا واستقرار البئر وفقد الدورة والإضافات المستحدثة، وبين قراءة تحليلية للخبرة التشغيلية للباحث التي تمتد عشرين عاماً في هندسة سوائل الحفر على الحفارات. وخلصت الورقة إلى أن عدم استقرار البئر في التكوينات الطينية ينشأ عن تفاعل ميكانيكي كيميائي لا يعالجه السائل وحده، بل يتطلب تصميمه في ضوء نموذج جيوميكانيكي للتكوين؛ وأن الخصائص الريولوجية للسائل تتغير بتغير الحرارة والضغط، فلا يكفي الاعتماد على القياسات السطحية؛ وأن اختيار نوع السائل مفاضلة بين الأداء والتكلفة والأثر البيئي. وتقدم الورقة إطاراً عملياً يربط المشكلات الشائعة بإجراءات سوائلية محددة، وتوصي ببناء نماذج جيوميكانيكية للآبار الجديدة، واختبار السوائل في ظروف القاع، وتوثيق بيانات الآبار المجاورة، وإجراء تجارب حقلية محدودة قبل تعميم الإضافات الحديثة.",
     "authors": [
-      "Yurika SAYO",
-      "Takayuki YAMADA"
+      "محمد منصور الجهاني",
+      "مصطفى أحمد بن حكومة",
+      "عدنان عمران أخليف"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Family Studies",
-    "title": "The evolution of relationship management from remote to hybrid work",
-    "journal": "Journal of Management Development",
+    "field": "Marketing",
+    "title": "[R-833] 化学状態と原子構造を統合するオペランド分析：[R-834] パワー半導体中の貫通転位の三次元解析",
+    "journal": "Vacuum and Surface Science",
     "year": "2026",
-    "date": "2026-10-09",
-    "doi": "10.1108/jmd-03-2026-0126",
-    "url": "https://doi.org/10.1108/jmd-03-2026-0126",
-    "abstract": "Purpose This study explores how first-line managers adapt relationship management practices during the transition from onsite to remote and hybrid work amid prolonged uncertainty. Design/methodology/approach A longitudinal case study using temporal bracketing analyzed 49 interviews with seven first-line managers over one year during the COVID-19 pandemic. Findings Managers initially compensated for reduced physical proximity and social cues through sensing and visibility practices. As remote work persisted, these practices became routinized and distributed through team relationships. With the transition to hybrid work, managers selectively integrated physical and virtual interaction based on the relational information each provided. Across these phases, managers progressively reconstructed social awareness. Practical implications Managers can support relationship management in hybrid work by deliberately creating opportunities for social awareness across physical and virtual interactions. Organizations can facilitate this through interaction structures, peer-learning opportunities and training to help managers recognize and respond to relational cues across distributed teams. Originality/value This study conceptualizes relationship management as a dynamic process that evolves through compensation, routinization, distribution and selective integration as managers’ access to physical proximity and social cues changes.",
-    "authors": [
-      "Nelda Andersone",
-      "Giulia Nardelli",
-      "Matti Vartiainen",
-      "Christine Ipsen"
-    ],
+    "date": "2026-10-10",
+    "doi": "10.1380/vss.69.601",
+    "url": "https://doi.org/10.1380/vss.69.601",
+    "abstract": "",
+    "authors": [],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Public Policy",
-    "title": "The Influence of Secret Consumption, Interactivity, Emotion, and Intimacy on Consumers’ Brand Loyalty in Live Streaming Commerce",
-    "journal": "Journal of Information & Knowledge Management",
+    "title": "Welcoming the stranger: A foreign student’s cross-cultural experience in the Philippines",
+    "journal": "International Journal of Research Studies in Education",
     "year": "2026",
-    "date": "2026-10-09",
-    "doi": "10.1142/s0219649226500693",
-    "url": "https://doi.org/10.1142/s0219649226500693",
-    "abstract": "Driven by the COVID-19 pandemic in 2021, live streaming shopping emerged as a prevalent consumer choice among residents in Hangzhou, China. This study focuses on exploring the impacts of consumer perceived privacy, platform interactivity, emotional intimacy, and touching emotion on consumer brand loyalty in the context of online live streaming commerce in Hangzhou, Zhejiang Province. Essentially, beyond realising direct consumer interaction, the core goal of e-commerce live streaming is to enhance consumers’ recognition of live streaming brands and further consolidate their brand loyalty. In this research, structural equation modelling (SEM) was adopted to construct and verify the hypothetical research framework, and online questionnaires were utilised for data collection and empirical investigation. The empirical results demonstrate that live streaming interactivity and touching emotion significantly and positively promote the formation of consumer emotional intimacy. The results reveal that secret consumption exerts a significant negative effect on intimacy. Moreover, enhanced emotional intimacy is further verified to exert a positive effect on consumer brand loyalty. This research clarifies the internal influencing mechanism of key perceptual factors on brand loyalty in live streaming scenarios. The findings of this study can provide empirical data and practical references for the high-quality development of China’s e-commerce live streaming industry.",
+    "date": "2026-10-10",
+    "doi": "10.5861/ijrse.2026.26422",
+    "url": "https://doi.org/10.5861/ijrse.2026.26422",
+    "abstract": "",
     "authors": [
-      "Li-Wei Lin",
-      "Lu-Jie Deng",
-      "Kuo-Liang Lu",
-      "Isaac Kofi Mensah"
+      "Thuy Bao Tran Nguyen"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Transforming Organizational Culture Through Leadership and Learning: A Framework for Employee Engagement, Innovation, and Sustainable Performance",
+    "journal": "Journal of Business Practice and Academic Research",
+    "year": "2026",
+    "date": "2026-10-10",
+    "doi": "10.68207/hwxp7513",
+    "url": "https://doi.org/10.68207/hwxp7513",
+    "abstract": "Organizations face continuous pressure to adapt to technological change, evolving workforce expectations, competitive intensity, and rising demands for sustainable performance, yet leadership development, learning, culture change, engagement, innovation, and sustainability are typically designed and evaluated as separate initiatives. This conceptual article develops an integrative framework explaining how transformational leadership and organizational learning jointly drive organizational culture transformation, and how a transformed culture supports sustainable performance through the complementary pathways of employee engagement and organizational innovation. The study adopts an integrative literature review and theory synthesis design, drawing on four complementary lenses: Transformational Leadership Theory, Organizational Learning Theory, Social Exchange Theory, and the Dynamic Capabilities perspective. Peer reviewed evidence is synthesized into four research questions and eight theoretically g",
+    "authors": [
+      "Saurabh Rajan Dongre Dongre"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Theorizing Instructional Assistant Practice in Inclusive Classrooms",
+    "journal": "Journal of Humanities and Social Policy",
+    "year": "2026",
+    "date": "2026-10-10",
+    "doi": "10.56201/jhsp.v10.no6.2024.pg211.227",
+    "url": "https://doi.org/10.56201/jhsp.v10.no6.2024.pg211.227",
+    "abstract": "Instructional assistants, known variously as paraprofessionals, teaching assistants, or educational support staff, have become the single largest category of adults supporting learners with disabilities in inclusive classrooms across most English-speaking and internationally comparable education systems. Despite that numerical predominance, the literature on Individualized Education Program (IEP) delivery has continued to treat teachers and specialist therapists as the primary agents of planning and implementation, with paraprofessionals occupying a secondary and frequently under-specified role. This paper proposes a conceptual framework that re-centres the instructional assistant as a co-deliverer of the IEP, while preserving the accountability and pedagogical leadership of the qualified teacher and specialist team. The framework, which is derived through the integration of the international paraprofessional research literature, the evidence base on IEP implementation, and the practitioner-oriented literature on inclusive special education, identifies four interlocking domains in which paraprofessionals contribute to IEP delivery: instructional delivery, behavioural scaffolding, communication support, and data collection. Each domain is specified in terms of observable practice, required competencies, supervisory structures, and ethical safeguards. The framework is distinguished from prior roletaxonomies by its explicit attention to the decision-making discretion exercised by paraprofessionals in the moment-to-moment classroom life of the learner, and by its insistence that paraprofessional practice be theorised rather than catalogued. Implications are drawn for teacher-paraprofessional collaboration, for paraprofessional preparation programmes, and for the evaluation of IEP implementation quality. The paper concludes that treating paraprofessionals as passive executors of plans designed elsewhere is both empirically inaccurate and pedagogically costly.",
+    "authors": [
+      "Esther Ajayi"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "The Rise of Mouth Taping and the Role of the Dental Profession",
+    "journal": "Journal of Dental Sleep Medicine",
+    "year": "2026",
+    "date": "2026-10-10",
+    "doi": "10.15331/jdsm.7478",
+    "url": "https://doi.org/10.15331/jdsm.7478",
+    "abstract": "",
+    "authors": [
+      "Mona Abdelrehim"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Temporal Infrastructure in Special Education: Routines, Visuals, and Transitions",
+    "journal": "International Journal of Education and Evaluation",
+    "year": "2026",
+    "date": "2026-10-10",
+    "doi": "10.56201/ijee.v8.no.8.2022.pg104.122",
+    "url": "https://doi.org/10.56201/ijee.v8.no.8.2022.pg104.122",
+    "abstract": "Classroom management is the institutional infrastructure through which the conditions for teaching and learning are established and sustained in the classroom. The construct has been developed primarily within general education research, but its adaptation to the distinctive conditions of the special education classroom requires sustained attention to the specific features of that setting: the wider range of developmental profiles, the more pronounced sensory and behavioural variability, the greater reliance on multi-adult teams, and the closer integration of routine with the individualised programmes through which the learners are served. This paper synthesises the conceptual and empirical literature on three interlocking strands of special education classroom management: the organisation of classroom routines as the temporal architecture of the school day, the use of visual schedules as cognitive and communicative supports that render the routine accessible to learners with varied processing profiles, and the structured support of transitions between activities, between settings, and across longer-duration changes. The paper traces the foundational work on which contemporary practice rests, examines the empirical base for each strand, articulates the mechanisms through which the three strands operate jointly, and considers the implementation considerations that shape the success of classroom management in real settings. The paper is explicitly conceptual; no primary data are presented, and its claims are offered as a scaffold for further research and for the coherent design of pedagogical programmes",
+    "authors": [
+      "Esther Ajayi"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "Inclusive Self-Efficacy and Paraprofessional Collaboration: An Integrated Framework",
+    "journal": "Research Journal of Humanities and Cultural Studies",
+    "year": "2026",
+    "date": "2026-10-10",
+    "doi": "10.56201/rjhcs.v11.no7.2025.pg106.125",
+    "url": "https://doi.org/10.56201/rjhcs.v11.no7.2025.pg106.125",
+    "abstract": "Teacher self-efficacy, the educator's belief in her capacity to organise and execute the courses of action required to produce specified instructional attainments, has emerged as one of the most generative constructs in the educational psychology of the late twentieth and early twenty-first centuries. When applied to inclusive classrooms serving learners with disabilities, the construct both illuminates and complicates the relationship between belief and practice. Inclusive selfefficacy is structured by the educator's perceived competence across instructional, behavioural, and collaborative domains, and the collaborative domain has become increasingly salient as paraprofessional staff has assumed a central role in the daily implementation of inclusive education. This paper synthesises the conceptual and empirical literature on teacher self-efficacy for inclusive practice with the emerging literature on paraprofessional-teacher collaboration, with a view to specifying how the two bodies of work can inform one another. The paper traces the genealogy of the self-efficacy construct within social cognitive theory, examines its specialisation as inclusive self-efficacy, identifies the principal correlates and antecedents documented in the empirical literature, and articulates the role of the paraprofessional workforce in the efficacypractice relationship. Particular attention is given to the mechanisms through which collaborative practice generates, sustains, or erodes inclusive self-efficacy for both categories of adult. The paper is explicitly conceptual, and its arguments are offered as an organising framework for further empirical and theoretical work.",
+    "authors": [
+      "Esther AJAYI"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "Who Plans to Marry? Economic Security and Marital Intentions Among Never‐Married Adults in Türkiye",
+    "journal": "Family Relations",
+    "year": "2026",
+    "date": "2026-10-09",
+    "doi": "10.1111/fare.70385",
+    "url": "https://doi.org/10.1111/fare.70385",
+    "abstract": "ABSTRACT Objective To examine how three dimensions of economic security, namely employment position, wealth, and income, are associated with the marital intentions of never‐married adults in Türkiye, and to formally test whether these associations differ by gender. Background Marriage remains the dominant pathway to family formation in Türkiye, yet marriage is increasingly postponed amid economic uncertainty. Existing policy measures largely target the immediate costs of marrying rather than the underlying economic security that shapes whether marriage is perceived as feasible. Method By using the 2016 Türkiye Family Structure Survey, ordered logit models are estimated separately by gender and reported as average marginal effects on the probability of intending to marry; gender differences are tested formally in pooled models interacting gender with all covariates. Results Public‐sector employment is associated with higher marital intentions and student status with lower intentions for both genders, whereas labor‐market inactivity predicts lower intentions only among men. Car and other‐asset ownership are positively associated with men's, but not women's intentions, although gender differences in these differences are not statistically distinguishable. Significant gender differences emerge instead in education. Tertiary‐educated women are more likely, and tertiary‐educated men less likely, to intend to marry relative to their less‐educated counterparts. Conclusion Employment‐based security is the most consistent correlate of marital intentions for both women and men, consistent with uncertainty‐based accounts of marriage timing. Implications Policies that foster stable employment and predictable labor‐market entry for young adults may be more relevant to family formation than measures targeting wedding costs alone.",
+    "authors": [
+      "Ayşenur Karakaş Aydınbakar",
+      "Nilay Yörük Toraman"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
