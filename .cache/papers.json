@@ -1,145 +1,152 @@
 [
   {
-    "field": "Mental Health",
-    "title": "Healthy Ageing: Measuring and Maintaining Functional Ability",
-    "journal": "German Journal of Sports Medicine",
-    "year": "2026",
-    "date": "2026-10-25",
-    "doi": "10.5960/dzsm.2026.680",
-    "url": "https://doi.org/10.5960/dzsm.2026.680",
-    "abstract": "Healthy ageing is defined by the World Health Organization as “the process of developing and maintaining the functional ability that enables well-being in older age” (9, 10). This definition, which underpins the UN Decade of Healthy Ageing (2021-2030), shifts the focus from the absence of disease to what people can be and do as they grow older. Functional ability reflects an individual’s intrinsic capacity, the environment, and the interaction between them. Maintaining or improving functional ability is therefore a central challenge for clinicians, researchers and practitioners in exercise and rehabilitation.",
-    "authors": [
-      "Anne Kelso",
-      "Eling D. de Bruin"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "قيادة الجنرال هنري بيتان لمعركة فردان وسطوع نجمهُ العسكري (شباط - كانون الأول 1916)",
-    "journal": "Arabian Gulf Journal of Humanities and Social Studies",
-    "year": "2026",
-    "date": "2026-10-20",
-    "doi": "10.64355/agjhss71924",
-    "url": "https://doi.org/10.64355/agjhss71924",
-    "abstract": "",
-    "authors": [
-      "أيوب عبد المطلب محمد الحجية",
-      "أزهار مخيبر مخيبر"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "When the crowd crashes the market: consumer complaints, informal monitoring, and stock price crash risk",
-    "journal": "China Finance Review International",
-    "year": "2026",
-    "date": "2026-10-20",
-    "doi": "10.1108/cfri-08-2025-0575",
-    "url": "https://doi.org/10.1108/cfri-08-2025-0575",
-    "abstract": "Purpose This study aims to investigate whether and how consumer complaints function as an informal monitoring force affecting stock price crash risk. Design/methodology/approach This research employs a two-way fixed effects model using a matched dataset of China A-share listed firms and complaint records from the “Black Cat Complaints” platform for 2019–2023. We further corroborate the findings through endogeneity tests and heterogeneity analyses. Findings Consumer complaints increase future stock price crash risk through three channels: external triggering, by attracting media coverage and investor attention; managerial bad-news hoarding, by reducing disclosure transparency and Management Discussion and Analysis specificity; and industry spillover, by diffusing negative signals to peer firms. Further analyses show that complaint frequency predicts crash risk more strongly than claimed monetary amount, indicating that the recurrence of complaints contains more market-relevant information than their financial magnitude. Full resolution weakens but does not eliminate the complaint effect, stronger negative sentiment in complaint texts intensifies crash risk, and the effect persists into subsequent years. Originality/value This study is the first to reveal the impact of consumer complaints on stock price crash risk, clarifying how the negative signals conveyed by consumers transmit from firm level to capital market. This finding suggests that complaints contain market-unassimilated negative information predicting future crash risk, offering valuable insights for firms, investors and regulators.",
-    "authors": [
-      "Jinhai Wang",
-      "Dandan Nan"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "VALIDATION OF AFFECTIVE EVALUATION OF ARCHITECTURAL IMAGES USING LARGE LANGUAGE MODELS 大規模言語モデルを用いた建築画像の感性評価の検証",
-    "journal": "AIJ Journal of Technology and Design",
-    "year": "2026",
-    "date": "2026-10-20",
-    "doi": "10.3130/aijt.32.1458",
-    "url": "https://doi.org/10.3130/aijt.32.1458",
-    "abstract": "",
-    "authors": [
-      "Naoyuki HARADA",
-      "Mizuki INOUE",
-      "Ryuta TSURUMI",
-      "Yuichi HOSHINO"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "Truck-Drone Collaborative Delivery Strategies in Rural Last-Mile Logistics: A Constraint Theory and Contingency Theory Review",
-    "journal": "Exploring Science Academic Conference Series",
-    "year": "2026",
-    "date": "2026-10-20",
-    "doi": "10.70267/icrafm.202617485492",
-    "url": "https://doi.org/10.70267/icrafm.202617485492",
-    "abstract": "Compared with urban regions, rural last-mile logistics faces special delivery conditions, including scattered delivery points, sparse road infrastructure and low customer demand density. Currently, truck-drone collaborative delivery has emerged as a promising solution to this issue. But strategy selection across varying rural factors remains unexplored. This review aims to examine how collaborative delivery strategies perform under distinct types of rural bottlenecks through integrating Constraint Theory and Contingency Theory. Existing literature identifies that rural last-mile delivery is primarily confronted with four bottleneck types. They include road-network-driven, demand-driven, structure-driven and hybrid. Using this classification, this study compares the performance of two-stage and integrated optimization methods across categories. Findings reveal that integrated strategies are superior under road-network and structure bottlenecks, whereas two-stage strategies suffice under demand bottlenecks. A bottleneck-oriented strategy selection framework is constructed. The review delivers a theoretical framework by integrating two management theories into collaborative delivery research, practically providing valuable decision-making guidance for logistics enterprises and policy-makers.",
-    "authors": [
-      "Yichen Su"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "Toughening performance of ASA core-shell graft copolymers constructed with various crosslinking agents on SAN resins",
-    "journal": "Journal of Polymer Research",
-    "year": "2026",
-    "date": "2026-10-20",
-    "doi": "10.1007/s10965-026-05151-7",
-    "url": "https://doi.org/10.1007/s10965-026-05151-7",
-    "abstract": "",
-    "authors": [
-      "Wenyu Xu",
-      "Yan Li",
-      "Zhixiang Yan",
-      "Jiaheng Huang"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Family Studies",
-    "title": "Too middling to stay? Perceived job complexity, occupational identity threat and career change intention",
-    "journal": "Career Development International",
+    "title": "Enhance EV station charge and discharge based on deep learning forecasting method incorporating renewable energy sources and multi-objective optimization algorithm",
+    "journal": "International Journal of Renewable Energy Development",
     "year": "2026",
-    "date": "2026-10-20",
-    "doi": "10.1108/cdi-06-2026-0475",
-    "url": "https://doi.org/10.1108/cdi-06-2026-0475",
-    "abstract": "Purpose This study aims to examine when and how job complexity may prompt occupational reconsideration. Drawing on an identity appraisal perspective, it tests the inverted-U-shaped association between perceived job complexity and occupational identity threat, the corresponding indirect association with career change intention and the moderating role of workplace sense of power. Design/methodology/approach Two complementary studies were conducted. Study 1 analyzed from the Second European Skills and Jobs Survey data involving 43,859 employees in 29 European countries to examine the focal association. Study 2 used two-wave survey data from 434 Chinese full-time employees to test the full research model. Findings Study 1 identified an inverted-U association between job complexity and occupational identity threat in the pooled cross-national sample. Study 2 supported this pattern. Occupational identity threat peaked at intermediate complexity and was positively associated with career change intention. The indirect curvilinear association through occupational identity threat was also significant. Workplace sense of power was associated with lower threat and a more pronounced inverted-U association. Originality/value This study develops a nonlinear account of job complexity's occupational identity implications. It links everyday work design to occupational reconsideration through occupational identity threat. It also identifies workplace sense of power as a factor shaping the appraisal of complex work.",
+    "date": "2026-11-01",
+    "doi": "10.61435/ijred.2026.61916",
+    "url": "https://doi.org/10.61435/ijred.2026.61916",
+    "abstract": "As electric vehicle charging station operations become more common, proper coordination of energy management is necessary to avoid high operational costs and carbon emissions caused by electric vehicle charging requirements, intermittent renewable sources, and fluctuating electricity rates. In this research, a forecast-based optimization methodology is created with the objective of optimizing the charge-discharge management of a renewable-powered electric vehicle charging station system involving photovoltaic generation, wind generation, fuel cells, electric vehicles, and stationary batteries. First, a recurrent neural network is used to predict relevant time series data, such as photovoltaic energy, wind energy, electric vehicle load demand, fuel cell energy production, and electric vehicle energy consumption. These forecasted data are then applied to a bi-objective energy management optimization problem, which is solved using NSGA-II. The objective is to minimize operating cost and emissions while considering power balance, grid energy exchange, and other operational constraints associated with the fuel cell, battery storage system, and electric vehicles. In this study, two scenarios are examined using one month of hourly data; Scenario 1 does not use stationary batteries, whereas Scenario 2 uses them. The forecasting results show robust predictions, with one-hour-ahead values ranging from 0.9162 to 0.9708. The optimization results show that Scenario 2 provides better energy shifting and peak-period support through battery charging and discharging management. Compared with Scenario 1, the operating cost is reduced from $171,833.86 to $160,388.44, and emissions are decreased from 13,485.48 kg to 12,892.23 kg, leading to 6.7% and 4.4% reductions, respectively.",
     "authors": [
-      "Ruijia Geng",
-      "Xiulin Geng"
+      "Delu Li",
+      "Rujie Xia"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "The contingent racial politics of municipal incorporation: fiscal diffusion and suburban segregation",
-    "journal": "Journal of Historical Political Economy",
+    "title": "Workforce Aging and Firm Productivity: Evidence from Türkiye",
+    "journal": "Review of Middle East Economics and Finance",
     "year": "2026",
-    "date": "2026-10-20",
-    "doi": "10.1108/jhpe-07-2026-0015",
-    "url": "https://doi.org/10.1108/jhpe-07-2026-0015",
-    "abstract": "Does American municipal incorporation produce racial inequality? Existing accounts emphasize either racial design or local fiscal control, but few account for variation over time. Using a 60-year panel (1962–2022) of 1,988 incorporations linked to county fiscal, demographic, and political data, this paper shows that incorporation’s racial character was contingent and temporary. Among unincorporated communities that could have incorporated, whiter ones were substantially more likely to do so during the 1990s, but not in the decades before or after. The mechanism is a fiscal externality: each incorporation withdraws tax base from its county, raising the incentive for remaining communities to follow, and because wealthier communities capture the largest benefit from exit and wealth correlated with whiteness in postwar suburbs, the process produced racially disparate outcomes when it ran through segregated suburban geography. Incorporating communities were 7.2 percentage points whiter than unincorporated communities observed in the same decade during the 1990s, with no such gap in the 1970s, 1980s, or 2010s; backlash mechanisms such as school desegregation orders, the Voting Rights Act, and racial threat fail to explain when racial selection emerged; and the pattern was self-limiting, with nearly a quarter of 2010s incorporations majority-minority. Racial disparities produced by American institutions need not arise from intentional exclusion or reactive resistance, and can emerge and dissolve through race-neutral processes operating on racially structured landscapes – which also means such disparities may persist unaddressed absent deliberate intervention.",
+    "date": "2026-10-21",
+    "doi": "10.1515/rmeef-2026-0019",
+    "url": "https://doi.org/10.1515/rmeef-2026-0019",
+    "abstract": "Abstract Does workforce aging lower firm productivity? We study this question for a large emerging economy using matched employer–employee records from Türkiye linked to firm balance sheets over 2013–2023, roughly 1.75 million firm–year observations. Identifying the relationship from within-firm variation, we find that a higher share of older workers is associated with modestly lower productivity: a one-unit increase in the share of workers aged 50 and above lowers value added per worker by about 8.3 %. Much of the larger raw correlation reflects sorting of younger workforces into more productive firms, but a precise negative effect survives selection. The average conceals pronounced heterogeneity: the penalty is about 11 % in manufacturing and routine-intensive services, roughly half as large in construction and trade, and statistically absent in agriculture. Interacting the firm’s age composition with task scores confirms the mechanism: the penalty is attenuated where non-routine interpersonal content is high and amplified where routine and analytical content are high. What matters is less the age of a workforce than the work it performs. This is among the first firm-level evidence on aging and productivity for a large emerging economy.",
     "authors": [
-      "Michael Greenberger"
+      "Mahmut Ablay",
+      "Seren Özsoy"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "Digital technologies and sustainability aid firm competitiveness",
-    "journal": "Strategic Direction",
+    "field": "Mental Health",
+    "title": "Whole-Body Effect Profiles of Acupoints: A Profile-Centric Framework for Specificity",
+    "journal": "Chinese Journal of Integrative Medicine",
     "year": "2026",
-    "date": "2026-10-20",
-    "doi": "10.1108/sd-10-2026-0294",
-    "url": "https://doi.org/10.1108/sd-10-2026-0294",
-    "abstract": "Purpose This paper aims to review the latest management developments across the globe and pinpoint practical implications from cutting-edge research and case studies. Design/methodology/approach This briefing is prepared by an independent writer who adds their own impartial comments and places the articles in context. Findings Digital technologies are playing an increasingly major role in enhancing both the business and environmental performance of emerging economy firms. Desired outcomes can become likelier when the organization possesses and exploits strong social capital needed to build trust and relationships to inspire the sharing of knowledge and technologies that can fuel new sustainability initiatives within challenging international markets. Originality/value The briefing saves busy executives, strategists and researchers hours of reading time by selecting only the very best, most pertinent information and presenting it in a condensed and easy-to-digest format.",
-    "authors": [],
+    "date": "2026-10-21",
+    "doi": "10.1007/s11655-026-4167-z",
+    "url": "https://doi.org/10.1007/s11655-026-4167-z",
+    "abstract": "",
+    "authors": [
+      "Da-Eun Yoon",
+      "Heeyoung Moon",
+      "In-Seon Lee",
+      "Younbyoung Chae"
+    ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "When do consumers respond to ASMR-based retail advertising in Taiwan? The boundary role of ASMR responsiveness",
+    "journal": "Asia Pacific Journal of Marketing and Logistics",
+    "year": "2026",
+    "date": "2026-10-21",
+    "doi": "10.1108/apjml-07-2026-1740",
+    "url": "https://doi.org/10.1108/apjml-07-2026-1740",
+    "abstract": "Purpose This study examines how Taiwanese consumers respond to autonomous sensory meridian response (ASMR)-based retail advertising. It proposes a bounded sensory-affective persuasion framework in which ASMR responsiveness functions as a consumer-level boundary condition, rather than assuming that ASMR cues are universally persuasive. Design/methodology/approach Survey data from 626 Taiwanese consumers were analyzed using partial least squares structural equation modeling. A separate within-subject EEG pilot experiment involving 18 participants was used only as a supplementary physiological check on frontal α-band patterns during advertising exposure; repeated trials were treated as within-participant observations, not as an enlarged participant-level sample. Findings Affective mechanism and brand awareness positively predicted purchase intention, which in turn predicted anticipated purchase behavior. ASMR responsiveness negatively moderated the relationship between affective mechanism and purchase intention, indicating attenuation rather than reversal of the positive effect. The cognitive-load-based moderated moderation was not supported. The EEG pilot showed no statistically significant omnibus effects of cognitive load, ASMR exposure, or their interaction on frontal a activity. Accordingly, the EEG component is interpreted cautiously as supplementary descriptive context rather than as confirmatory evidence. Originality/value The study advances sensory marketing and Asia-Pacific retail advertising research by showing that consumer responses to ASMR-based retail advertising in Taiwan depend on individual ASMR responsiveness and on whether sensory-affective experiences are converted into purchase-related evaluation.",
+    "authors": [
+      "Chih-Chin Liang",
+      "Chien-Ming Chen",
+      "Jin-Yu Chen"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Ultrasound-Assisted Alkaline Extraction of Soluble Dietary Fiber from Cucumber Pomace: Structural Modification, Hydration Properties and In Vitro Glucose and Cholesterol Adsorption Capacities",
+    "journal": "Food Analytical Methods",
+    "year": "2026",
+    "date": "2026-10-21",
+    "doi": "10.1007/s12161-026-03323-1",
+    "url": "https://doi.org/10.1007/s12161-026-03323-1",
+    "abstract": "",
+    "authors": [
+      "Xiwen Zheng",
+      "Junlin Huang",
+      "Wanting Zhang",
+      "Chenrui Fu"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "Towards the learning estate: from digital–physical to experience orchestration",
+    "journal": "London Review of Education",
+    "year": "2026",
+    "date": "2026-10-21",
+    "doi": "10.14324/lre.24.1.20",
+    "url": "https://doi.org/10.14324/lre.24.1.20",
+    "abstract": "Universities increasingly orchestrate teaching and learning through compound configurations that span spaces, devices, timetables and roles. As digital content and workflows increasingly shape physical estates, and vice versa, alignment frames overlook the compound, cross-host configurations already in motion. In this article we ask whether estate-level orchestration, rather than digital–physical alignment alone, should be the operative unit of design for planning and delivering student experiences across and beyond campus. We draw on three exemplars at a research-intensive university: (1) a theatre-scale interactive three-dimensional system, which streams or web-delivers interactive three-dimension into traditional lecture theatres and learners’ devices; (2) a high-fidelity virtual reality digital twin of a chemistry lab for pre-lab rehearsal; and (3) space-planning web apps for co-design and decision support. From these, we sketch a purpose-orientated, configuration-first stance and situate it within work on cyber-/smart-campus estates, learning ecologies, TPACK and postdigital perspectives. Beyond education, digital-first space planning is already operational at scale, including in automotive manufacturing (BMW Group), cultural architecture (Dubai Museum of the Future) and national infrastructure (National Grid’s Triton platform). Higher education has both the conceptual case and, in several respects, the enabling conditions to follow. Hence, we argue that the convergence of immersive, computational and spatial technologies is expanding what institutions can compose and deliver, making device-label categories less useful for both learning and space design. This configuration-first stance is also directly applicable to the governance of artificial intelligence in higher education: as with earlier technology labels, institutions risk misallocating attention and resource if ‘artificial intelligence’ is treated as a discrete category rather than as a family of capabilities, from generative code or audiovisual models to computer vision and wearable ‘artificial intelligence’, some of which already permeate the configurations described here. We conclude with operational implications and a call for institutions to transcend their siloed functions and budgets, by elevating orchestration (not devices, spaces or platforms) as the primary unit of design.",
+    "authors": [
+      "Daniel Mitelpunkt",
+      "Luke McCrone"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "The enabling role of the INTOSAI development initiative to audit SDGs for public value in the Western Balkans",
+    "journal": "Meditari Accountancy Research",
+    "year": "2026",
+    "date": "2026-10-21",
+    "doi": "10.1108/medar-11-2025-3427",
+    "url": "https://doi.org/10.1108/medar-11-2025-3427",
+    "abstract": "Purpose This study aims to explore the enabling role of the International Organization of Supreme Audit Institutions’ (INTOSAI) Development Initiative (IDI) to audit sustainable development goals (SDGs) and embed public value thinking within a transitional Supreme Audit Institutions (SAIs) context of the Western Balkans (Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia). Design/methodology/approach The paper is built on a qualitative research design; empirical data were obtained by conducting ad hoc interviews with IDI experts on SDGs auditing and auditing experts in the Western Balkans, complemented with secondary data analysis. To analyse the empirical data, the authors applied Moore’s Strategic Triangle (1995, 2013), which offers a more nuanced perspective on what constitutes value-driven public accountability, legitimacy, trust and the operational capacity of a transitional SAIs context. Findings The transition from compliance-based to performance auditing, including the more recent and more complex practice of SDGs auditing, is becoming more broadly institutionalised across many transitional SAIs contexts, including the Western Balkans. The authors presented IDI’s enabling role in supporting SAIs in emerging economies in their SDGs auditing by enhancing their professional capacity, institutional legitimacy and accountability mechanisms. Still, the authors also empirically observe that the shift towards public value orientation, focused on legitimacy, trust, professional capacity, collective outcomes and societal well-being, remains at an early stage in the Western Balkans. It also reveals that public value creation involves balancing competing demands, reconciling global expectations with national priorities and reforms and navigating resource asymmetries and competing stakeholders’ expectations. Originality/value This paper contributes by offering a nuanced perspective on the conceptual and empirical development of SDGs auditing within transitional SAIs contexts. It highlights IDI’s enabling role in supporting SAIs in transitional contexts to embed public value thinking into their audit frameworks, while maintaining methodological rigour and adherence to internationally recognised sustainability assurance standards.",
+    "authors": [
+      "Giuseppe Grossi",
+      "Veronika Vakulenko"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Team Teaching for Maternal and Child Health Preparation Among Assistant Medical Officer Trainees: Confidence and Competency Outcomes",
+    "journal": "The Journal of Health Management",
+    "year": "2026",
+    "date": "2026-10-21",
+    "doi": "10.63719/johm.v23i2.247",
+    "url": "https://doi.org/10.63719/johm.v23i2.247",
+    "abstract": "Background: Assistant Medical Officer (AMO) trainees are expected to perform maternal and child health (MCH) procedures safely during clinical placement, yet confidence may remain low when earlier exposure is fragmented. Methods: This single-group quasi-experimental pretest-posttest study evaluated a structured team-teaching intervention among 52 Semester 5 (Year 3 Semester I) trainees at the Training Institute, Ministry of Health Malaysia (ILKKM) Kota Kinabalu. The intervention involved two days of supervised practice covering 11 MCH procedures aligned with the Clinical Practice IV module. Competency was assessed during the structured training using the national Diploma in Medical and Health Sciences (DMHS) rubric, while confidence and satisfaction were measured using a content-validated questionnaire. The pre-intervention confidence assessment was conducted before team teaching, while the post-intervention confidence assessment was administered after trainees completed their subsequent two-week MCH clinical placement. Paired-sample t-tests were used to compare pre- and post-confidence scores. Results: Mean self-perceived confidence scores increased from 2.31 ± 0.36 after the team-teaching intervention and subsequent MCH clinical posting (p < 0.001), with a large effect size (Cohen’s dz = 3.02). Most trainees demonstrated competency at Scores 3 and 4 across the assessed procedures. Positive responses to the three principal satisfaction indicators ranged from 90.4% to 94.2%. The findings indicate increased self-perceived confidence following the structured training and subsequent clinical exposures, alongside generally high competency performance and positive perceptions of the learning experience. Conclusion: Structured team teaching combined with subsequent clinical exposure was associated with increased self-perceived confidence, while trainees demonstrated generally high competency during procedural assessment. The approach may support competency-based preparation within AMO training programmes, although further comparative evaluation is required to determine the specific contribution of team teaching.",
+    "authors": [
+      "Melvin Ebin Bondi",
+      "Abdul Hakim Mansor",
+      "Mohamad Rithaudin Ribut",
+      "Talvinder Kaur Jeswant Singh"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Social impacts of disasters in South Korea: A systematic literature review",
+    "journal": "Sustainable Social Development",
+    "year": "2026",
+    "date": "2026-10-21",
+    "doi": "10.23812/ssd8484",
+    "url": "https://doi.org/10.23812/ssd8484",
+    "abstract": "<p class=\"MsoNormal\" style=\"line-height: 200%; word-break: keep-all;\">Given the increasing frequency and complexity of disasters in South Korea, there is a growing need to strengthen forward-looking and effective disaster management. South Korea has concentrated on managing physical impacts, but disasters can have both physical and social impacts. This research aimed to examine creative and feasible alternatives for addressing the social impacts of disasters in the field of South Korean disaster management. Based on a systematic literature review (to include PRISMA 2020 guidelines) as a major methodology, three periods of social impacts of disasters (as analytical categories) were analyzed by cross-checking three analytical levels (as analytical units): Individual, community, and national, as well as four aspects of social impacts (as analytical units): Psychological hurt, unequal minority, unemployment disadvantages, and political battle. The key theme was that the social impacts of disasters evolved or may evolve into social ignorance (July 1953&ndash;May 2004), social complaint (June 2004&ndash;April 2014), and social awareness (from May 2014 onwards), in chronological order. This article comprehensively examines the social impacts of disasters on dynamic South Korea, surpassing previous studies.&nbsp;</p>",
+    "authors": [
+      "Kyoo-Man Ha"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
