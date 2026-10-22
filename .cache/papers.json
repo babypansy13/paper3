@@ -1,152 +1,148 @@
 [
   {
-    "field": "Family Studies",
-    "title": "Enhance EV station charge and discharge based on deep learning forecasting method incorporating renewable energy sources and multi-objective optimization algorithm",
-    "journal": "International Journal of Renewable Energy Development",
+    "field": "Management",
+    "title": "When volunteer mobilization outpaces coordination: workflow repair in disaster response",
+    "journal": "Disaster Prevention and Management: An International Journal",
     "year": "2026",
-    "date": "2026-11-01",
-    "doi": "10.61435/ijred.2026.61916",
-    "url": "https://doi.org/10.61435/ijred.2026.61916",
-    "abstract": "As electric vehicle charging station operations become more common, proper coordination of energy management is necessary to avoid high operational costs and carbon emissions caused by electric vehicle charging requirements, intermittent renewable sources, and fluctuating electricity rates. In this research, a forecast-based optimization methodology is created with the objective of optimizing the charge-discharge management of a renewable-powered electric vehicle charging station system involving photovoltaic generation, wind generation, fuel cells, electric vehicles, and stationary batteries. First, a recurrent neural network is used to predict relevant time series data, such as photovoltaic energy, wind energy, electric vehicle load demand, fuel cell energy production, and electric vehicle energy consumption. These forecasted data are then applied to a bi-objective energy management optimization problem, which is solved using NSGA-II. The objective is to minimize operating cost and emissions while considering power balance, grid energy exchange, and other operational constraints associated with the fuel cell, battery storage system, and electric vehicles. In this study, two scenarios are examined using one month of hourly data; Scenario 1 does not use stationary batteries, whereas Scenario 2 uses them. The forecasting results show robust predictions, with one-hour-ahead values ranging from 0.9162 to 0.9708. The optimization results show that Scenario 2 provides better energy shifting and peak-period support through battery charging and discharging management. Compared with Scenario 1, the operating cost is reduced from $171,833.86 to $160,388.44, and emissions are decreased from 13,485.48 kg to 12,892.23 kg, leading to 6.7% and 4.4% reductions, respectively.",
+    "date": "2026-10-22",
+    "doi": "10.1108/dpm-07-2026-0384",
+    "url": "https://doi.org/10.1108/dpm-07-2026-0384",
+    "abstract": "Purpose This study examines what happens when rapid volunteer mobilization expands faster than the capacity to organize heterogeneous people, information, resources and tasks during disaster response. Design/methodology/approach The study uses a single embedded qualitative process design centered on a rapidly scaled, messaging-mediated volunteer response following a September 2025 barrier-lake flood in eastern Taiwan. The primary process evidence consists of contemporaneous records from the focal coordination group, supplemented by targeted traces from task-specific subgroups, two public forums, nine semi-structured interviews, five fieldnote-based observations and open-ended volunteer accounts. Findings Mobilization-generated coordination strain became visible through repeated verification, misrouting, uneven task allocation, stale or ambiguous requests and situations in which volunteers or resources accumulated in some locations while remaining needed elsewhere. The analysis identifies three recurrent forms of workflow repair: functional differentiation, boundary regulation and intermediary translation. These practices were observably enacted and reused, but repair remained partial, uneven and subject to changing task demand, participant learning, formal intervention and safety constraints. Originality/value The study distinguishes the capacity to mobilize help from the capacity to organize what has been mobilized. It conceptualizes workflow repair as an episode-level, problem-triggered process linking an identifiable coordination breakdown to targeted reconfiguration of an already operating workflow, observable uptake or reuse and a bounded process consequence or incomplete repair after volunteer mobilization has already scaled.",
     "authors": [
-      "Delu Li",
-      "Rujie Xia"
+      "Jin Lo"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "Workforce Aging and Firm Productivity: Evidence from Türkiye",
-    "journal": "Review of Middle East Economics and Finance",
-    "year": "2026",
-    "date": "2026-10-21",
-    "doi": "10.1515/rmeef-2026-0019",
-    "url": "https://doi.org/10.1515/rmeef-2026-0019",
-    "abstract": "Abstract Does workforce aging lower firm productivity? We study this question for a large emerging economy using matched employer–employee records from Türkiye linked to firm balance sheets over 2013–2023, roughly 1.75 million firm–year observations. Identifying the relationship from within-firm variation, we find that a higher share of older workers is associated with modestly lower productivity: a one-unit increase in the share of workers aged 50 and above lowers value added per worker by about 8.3 %. Much of the larger raw correlation reflects sorting of younger workforces into more productive firms, but a precise negative effect survives selection. The average conceals pronounced heterogeneity: the penalty is about 11 % in manufacturing and routine-intensive services, roughly half as large in construction and trade, and statistically absent in agriculture. Interacting the firm’s age composition with task scores confirms the mechanism: the penalty is attenuated where non-routine interpersonal content is high and amplified where routine and analytical content are high. What matters is less the age of a workforce than the work it performs. This is among the first firm-level evidence on aging and productivity for a large emerging economy.",
-    "authors": [
-      "Mahmut Ablay",
-      "Seren Özsoy"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Whole-Body Effect Profiles of Acupoints: A Profile-Centric Framework for Specificity",
-    "journal": "Chinese Journal of Integrative Medicine",
-    "year": "2026",
-    "date": "2026-10-21",
-    "doi": "10.1007/s11655-026-4167-z",
-    "url": "https://doi.org/10.1007/s11655-026-4167-z",
-    "abstract": "",
-    "authors": [
-      "Da-Eun Yoon",
-      "Heeyoung Moon",
-      "In-Seon Lee",
-      "Younbyoung Chae"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "When do consumers respond to ASMR-based retail advertising in Taiwan? The boundary role of ASMR responsiveness",
-    "journal": "Asia Pacific Journal of Marketing and Logistics",
-    "year": "2026",
-    "date": "2026-10-21",
-    "doi": "10.1108/apjml-07-2026-1740",
-    "url": "https://doi.org/10.1108/apjml-07-2026-1740",
-    "abstract": "Purpose This study examines how Taiwanese consumers respond to autonomous sensory meridian response (ASMR)-based retail advertising. It proposes a bounded sensory-affective persuasion framework in which ASMR responsiveness functions as a consumer-level boundary condition, rather than assuming that ASMR cues are universally persuasive. Design/methodology/approach Survey data from 626 Taiwanese consumers were analyzed using partial least squares structural equation modeling. A separate within-subject EEG pilot experiment involving 18 participants was used only as a supplementary physiological check on frontal α-band patterns during advertising exposure; repeated trials were treated as within-participant observations, not as an enlarged participant-level sample. Findings Affective mechanism and brand awareness positively predicted purchase intention, which in turn predicted anticipated purchase behavior. ASMR responsiveness negatively moderated the relationship between affective mechanism and purchase intention, indicating attenuation rather than reversal of the positive effect. The cognitive-load-based moderated moderation was not supported. The EEG pilot showed no statistically significant omnibus effects of cognitive load, ASMR exposure, or their interaction on frontal a activity. Accordingly, the EEG component is interpreted cautiously as supplementary descriptive context rather than as confirmatory evidence. Originality/value The study advances sensory marketing and Asia-Pacific retail advertising research by showing that consumer responses to ASMR-based retail advertising in Taiwan depend on individual ASMR responsiveness and on whether sensory-affective experiences are converted into purchase-related evaluation.",
-    "authors": [
-      "Chih-Chin Liang",
-      "Chien-Ming Chen",
-      "Jin-Yu Chen"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "Ultrasound-Assisted Alkaline Extraction of Soluble Dietary Fiber from Cucumber Pomace: Structural Modification, Hydration Properties and In Vitro Glucose and Cholesterol Adsorption Capacities",
-    "journal": "Food Analytical Methods",
-    "year": "2026",
-    "date": "2026-10-21",
-    "doi": "10.1007/s12161-026-03323-1",
-    "url": "https://doi.org/10.1007/s12161-026-03323-1",
-    "abstract": "",
-    "authors": [
-      "Xiwen Zheng",
-      "Junlin Huang",
-      "Wanting Zhang",
-      "Chenrui Fu"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Public Policy",
-    "title": "Towards the learning estate: from digital–physical to experience orchestration",
-    "journal": "London Review of Education",
+    "title": "When does AI dependence for decisions trigger moral disengagement? A proposed model with ethical position as a moderator",
+    "journal": "International Journal of Organizational Analysis",
     "year": "2026",
-    "date": "2026-10-21",
-    "doi": "10.14324/lre.24.1.20",
-    "url": "https://doi.org/10.14324/lre.24.1.20",
-    "abstract": "Universities increasingly orchestrate teaching and learning through compound configurations that span spaces, devices, timetables and roles. As digital content and workflows increasingly shape physical estates, and vice versa, alignment frames overlook the compound, cross-host configurations already in motion. In this article we ask whether estate-level orchestration, rather than digital–physical alignment alone, should be the operative unit of design for planning and delivering student experiences across and beyond campus. We draw on three exemplars at a research-intensive university: (1) a theatre-scale interactive three-dimensional system, which streams or web-delivers interactive three-dimension into traditional lecture theatres and learners’ devices; (2) a high-fidelity virtual reality digital twin of a chemistry lab for pre-lab rehearsal; and (3) space-planning web apps for co-design and decision support. From these, we sketch a purpose-orientated, configuration-first stance and situate it within work on cyber-/smart-campus estates, learning ecologies, TPACK and postdigital perspectives. Beyond education, digital-first space planning is already operational at scale, including in automotive manufacturing (BMW Group), cultural architecture (Dubai Museum of the Future) and national infrastructure (National Grid’s Triton platform). Higher education has both the conceptual case and, in several respects, the enabling conditions to follow. Hence, we argue that the convergence of immersive, computational and spatial technologies is expanding what institutions can compose and deliver, making device-label categories less useful for both learning and space design. This configuration-first stance is also directly applicable to the governance of artificial intelligence in higher education: as with earlier technology labels, institutions risk misallocating attention and resource if ‘artificial intelligence’ is treated as a discrete category rather than as a family of capabilities, from generative code or audiovisual models to computer vision and wearable ‘artificial intelligence’, some of which already permeate the configurations described here. We conclude with operational implications and a call for institutions to transcend their siloed functions and budgets, by elevating orchestration (not devices, spaces or platforms) as the primary unit of design.",
+    "date": "2026-10-22",
+    "doi": "10.1108/ijoa-03-2026-6619",
+    "url": "https://doi.org/10.1108/ijoa-03-2026-6619",
+    "abstract": "Purpose The purpose of this study is to present a conceptual model investigating the moderating role of individuals’ ethical positions (idealism and relativism) in the relationship between dependence on artificial intelligence (AI) for decisions and moral disengagement. Design/methodology/approach Theoretical explanations and logical connections among the variables are developed within a propositional framework by integrating conservation of resources theory, social cognitive theory and ethics position theory, informed by research on algorithmic decision-making and moral disengagement. Findings This study proposes that dependence on AI for decisions is positively associated with moral disengagement. Idealism is expected to weaken this relationship, whereas relativism is expected to strengthen it where organisational performance demands favour accepting AI recommendations despite foreseeable stakeholder harm. The model concerns employees who retain meaningful discretion over AI-supported decisions. Practical implications Organisations should provide meaningful opportunities to question and escalate AI recommendations and examine whether performance expectations discourage ethical review. Training should address stakeholder harm and responsibility-displacing rationalisations. Originality/value This study distinguishes dependence on AI for decisions from general AI usage and restrictions on employee autonomy. It develops an explanation of how such dependence may facilitate moral disengagement and identifies idealism and relativism as distinct boundary conditions, specifying the context of the proposed strengthening effect of relativism.",
     "authors": [
-      "Daniel Mitelpunkt",
-      "Luke McCrone"
+      "Alptekin Develi",
+      "Yavuz Selim Özyer"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Consumer Research",
-    "title": "The enabling role of the INTOSAI development initiative to audit SDGs for public value in the Western Balkans",
-    "journal": "Meditari Accountancy Research",
+    "field": "Marketing",
+    "title": "Viewpoint: understanding consumer vulnerability across service ecosystem configurations",
+    "journal": "Journal of Services Marketing",
     "year": "2026",
-    "date": "2026-10-21",
-    "doi": "10.1108/medar-11-2025-3427",
-    "url": "https://doi.org/10.1108/medar-11-2025-3427",
-    "abstract": "Purpose This study aims to explore the enabling role of the International Organization of Supreme Audit Institutions’ (INTOSAI) Development Initiative (IDI) to audit sustainable development goals (SDGs) and embed public value thinking within a transitional Supreme Audit Institutions (SAIs) context of the Western Balkans (Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia). Design/methodology/approach The paper is built on a qualitative research design; empirical data were obtained by conducting ad hoc interviews with IDI experts on SDGs auditing and auditing experts in the Western Balkans, complemented with secondary data analysis. To analyse the empirical data, the authors applied Moore’s Strategic Triangle (1995, 2013), which offers a more nuanced perspective on what constitutes value-driven public accountability, legitimacy, trust and the operational capacity of a transitional SAIs context. Findings The transition from compliance-based to performance auditing, including the more recent and more complex practice of SDGs auditing, is becoming more broadly institutionalised across many transitional SAIs contexts, including the Western Balkans. The authors presented IDI’s enabling role in supporting SAIs in emerging economies in their SDGs auditing by enhancing their professional capacity, institutional legitimacy and accountability mechanisms. Still, the authors also empirically observe that the shift towards public value orientation, focused on legitimacy, trust, professional capacity, collective outcomes and societal well-being, remains at an early stage in the Western Balkans. It also reveals that public value creation involves balancing competing demands, reconciling global expectations with national priorities and reforms and navigating resource asymmetries and competing stakeholders’ expectations. Originality/value This paper contributes by offering a nuanced perspective on the conceptual and empirical development of SDGs auditing within transitional SAIs contexts. It highlights IDI’s enabling role in supporting SAIs in transitional contexts to embed public value thinking into their audit frameworks, while maintaining methodological rigour and adherence to internationally recognised sustainability assurance standards.",
+    "date": "2026-10-22",
+    "doi": "10.1108/jsm-07-2025-0497",
+    "url": "https://doi.org/10.1108/jsm-07-2025-0497",
+    "abstract": "Purpose This viewpoint aims to advance understanding of consumer vulnerability by examining how different configurations of structural, institutional and relational conditions shape vulnerability across service ecosystems. Country context, regulation and customer-to-customer (C2C) interaction provide complementary perspectives for examining these conditions. Design/methodology/approach This paper adopts a conceptual, integrative approach, synthesising literature from transformative service research, service ecosystem theory and marketing to develop an analytical framework that integrates country context, regulation and C2C interaction. Findings Consumer vulnerability varies according to the configuration and interdependence of structural conditions, institutional arrangements and relational processes. Together, these conditions may create, reinforce, negotiate or alleviate vulnerability across different service ecosystems. Research limitations/implications The framework encourages comparative, multi-level and longitudinal research examining how structural, institutional and relational conditions combine and change across service ecosystem configurations. Practical implications The framework encourages service providers and policymakers to adopt ecosystem-oriented strategies that consider structural, institutional and relational conditions together when addressing sources of vulnerability. Originality/value Building on existing understandings of vulnerability as dynamic and ecosystem-based, this viewpoint provides an analytical framework for explaining how variation and interdependence among structural, institutional and relational conditions shape vulnerability across service ecosystems, supporting more comparative and context-sensitive theorising within TSR.",
     "authors": [
-      "Giuseppe Grossi",
-      "Veronika Vakulenko"
+      "Emmanuel Mogaji"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "UNIFORM RULES IN THE FIELD OF CONSUMER RIGHTS PROTECTION: ON THEIR PLACE IN THE SYSTEM OF RUSSIAN LEGISLATION AND KEY NOVELTIES. PART 2",
+    "journal": "ECONOMY and LAW",
+    "year": "2026",
+    "date": "2026-10-22",
+    "doi": "10.18572/0134-2398-2026-10-3-16",
+    "url": "https://doi.org/10.18572/0134-2398-2026-10-3-16",
+    "abstract": "The article analyzes the innovations in the field of consumer protection legislation that arose in connection with the approval, by Decree of the Supreme State Council of the Union State, of the Uniform Rules in the Field of Consumer Protection, which came into force on December 6, 2024, on the territory of the Russian Federation and the Republic of Belarus. The article analyzes the main changes introduced by this act into Russian legislation, noting the focus of the Uniform Rules on raising the level of guarantees of consumer rights and interests, imposing additional obligations on business entities, expanding the scope of application to relations arising from the acquisition of goods, works, and services on a gratuitous basis, as well as the involvement of persons who do not have the status of individual entrepreneurs and sell their products to consumers.",
+    "authors": [
+      "Yaroslav S. Kozheurov",
+      "Maria V. Samsonova"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "Threshold-based multi-scale analysis of thermal-acoustic comfort in urban public spaces: identifying critical thresholds and individual heterogeneity",
+    "journal": "Environment, Development and Sustainability",
+    "year": "2026",
+    "date": "2026-10-22",
+    "doi": "10.1007/s10668-026-08213-4",
+    "url": "https://doi.org/10.1007/s10668-026-08213-4",
+    "abstract": "",
+    "authors": [
+      "Lu Xu",
+      "Wenqiang Jing",
+      "Wei Ding",
+      "Jing He"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "The volatility spillover between digital currencies and stock markets:evidence from DCC-GARCH R2 decomposed connectedness measures",
+    "journal": "Humanities and Social Sciences Communications",
+    "year": "2026",
+    "date": "2026-10-22",
+    "doi": "10.1057/s41599-026-09419-7",
+    "url": "https://doi.org/10.1057/s41599-026-09419-7",
+    "abstract": "Abstract Based on weekly data from December 2018 to October 2025, this study employs the DCC-GARCH R² decomposed connectedness approach to investigate volatility spillovers between four major digital currencies (Bitcoin, Ethereum, Tether USD, USD Coin) and five key stock markets (China, the U.S., Germany, Japan, and the UK). Empirical findings reveal three core insights. First, dynamic conditional correlations exhibit distinct patterns across digital currency subtypes and stock markets: public chain coins (BTC and ETH) are strongly correlated with each other, stablecoins show negative correlations with other assets, and China’s stock market remains largely insulated from global markets. Second, R² decomposed connectedness analysis reveals substantial cross-market linkages, with China’s stock market displaying the weakest connectedness and the U.S. market acting as the primary risk transmitter. Third, the dynamic total connectedness index exhibits three distinct peaks in early 2019, the first half of 2020, and mid-2023, before entering a current downward trajectory. These peak periods may be associated with possible explanations, including the 2019 crypto crash, the 2020 COVID-19 pandemic, and the 2023 regulatory changes. Net connectedness analysis identifies BTC, the U.S., and German markets as net transmitters of shocks, while China, Japan, and the UK are net receivers. These findings underscore the heterogeneous spillover dynamics across digital currency subtypes, offering actionable insights for cross-market risk management and asset allocation.",
+    "authors": [
+      "Yiguo Chen",
+      "Peng Luo"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "The impact of increased child benefits on tempo and quantum of fertility in Estonia",
+    "journal": "Demographic Research",
+    "year": "2026",
+    "date": "2026-10-22",
+    "doi": "10.4054/demres.2026.55.25",
+    "url": "https://doi.org/10.4054/demres.2026.55.25",
+    "abstract": "",
+    "authors": [
+      "Tanel Paas",
+      "Allan Puur",
+      "Mark Gortfelder"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "Team Teaching for Maternal and Child Health Preparation Among Assistant Medical Officer Trainees: Confidence and Competency Outcomes",
-    "journal": "The Journal of Health Management",
+    "field": "Mental Health",
+    "title": "Strengthening the diagnosis of death due to lightning: an integrated forensic approach – a literature review",
+    "journal": "Forensic Science, Medicine and Pathology",
     "year": "2026",
-    "date": "2026-10-21",
-    "doi": "10.63719/johm.v23i2.247",
-    "url": "https://doi.org/10.63719/johm.v23i2.247",
-    "abstract": "Background: Assistant Medical Officer (AMO) trainees are expected to perform maternal and child health (MCH) procedures safely during clinical placement, yet confidence may remain low when earlier exposure is fragmented. Methods: This single-group quasi-experimental pretest-posttest study evaluated a structured team-teaching intervention among 52 Semester 5 (Year 3 Semester I) trainees at the Training Institute, Ministry of Health Malaysia (ILKKM) Kota Kinabalu. The intervention involved two days of supervised practice covering 11 MCH procedures aligned with the Clinical Practice IV module. Competency was assessed during the structured training using the national Diploma in Medical and Health Sciences (DMHS) rubric, while confidence and satisfaction were measured using a content-validated questionnaire. The pre-intervention confidence assessment was conducted before team teaching, while the post-intervention confidence assessment was administered after trainees completed their subsequent two-week MCH clinical placement. Paired-sample t-tests were used to compare pre- and post-confidence scores. Results: Mean self-perceived confidence scores increased from 2.31 ± 0.36 after the team-teaching intervention and subsequent MCH clinical posting (p < 0.001), with a large effect size (Cohen’s dz = 3.02). Most trainees demonstrated competency at Scores 3 and 4 across the assessed procedures. Positive responses to the three principal satisfaction indicators ranged from 90.4% to 94.2%. The findings indicate increased self-perceived confidence following the structured training and subsequent clinical exposures, alongside generally high competency performance and positive perceptions of the learning experience. Conclusion: Structured team teaching combined with subsequent clinical exposure was associated with increased self-perceived confidence, while trainees demonstrated generally high competency during procedural assessment. The approach may support competency-based preparation within AMO training programmes, although further comparative evaluation is required to determine the specific contribution of team teaching.",
+    "date": "2026-10-22",
+    "doi": "10.1007/s12024-026-01381-9",
+    "url": "https://doi.org/10.1007/s12024-026-01381-9",
+    "abstract": "Abstract The diagnosis of “death by lightning strike” is typically confirmed through an external postmortem examination. The principle pathological findings are typically located on the external aspects of the body and clothing, while internal examination typically reveals few, if any, specific or diagnostic pathological changes. Following a fatal lightning strike, the victim may have only subtle or no typical findings on the body’s surface. Misdiagnoses have occurred repeatedly in the past. Therefore, this literature review investigated whether autopsies of lightning strike victims can lead to or support the correct diagnosis. From a total of 120 case reports on lightning strike accidents with autopsy findings, 34 cases exhibited characteristic injuries that the authors attributed to the lightning strike. The head, heart, lungs, and skeletal system were the most commonly affected areas. Since there is currently no pathognomonic finding for internal injuries after a lightning strike incident, the authors propose at least one additional piece of evidence in addition to a characteristic finding to establish the correct diagnosis. The diagnostic certainty of a lightning-related death may be increased by corroborative evidence, which may include reliable witness accounts, additional trace evidence indicative of a lightning strike at the location where the body was found, or confirmation of lightning activity in the area by a regional lightning detection system.",
     "authors": [
-      "Melvin Ebin Bondi",
-      "Abdul Hakim Mansor",
-      "Mohamad Rithaudin Ribut",
-      "Talvinder Kaur Jeswant Singh"
+      "Rebecca Bingert",
+      "A Köhne",
+      "R Blumenthal",
+      "A Büttner"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Psychology",
-    "title": "Social impacts of disasters in South Korea: A systematic literature review",
-    "journal": "Sustainable Social Development",
+    "field": "Food Industry / Science / Design",
+    "title": "Regional digital finance and food supply-chain management resilience: evidence on the regional-to-firm conversion gap in China’s emerging listed food enterprises",
+    "journal": "Frontiers in Sustainable Food Systems",
     "year": "2026",
-    "date": "2026-10-21",
-    "doi": "10.23812/ssd8484",
-    "url": "https://doi.org/10.23812/ssd8484",
-    "abstract": "<p class=\"MsoNormal\" style=\"line-height: 200%; word-break: keep-all;\">Given the increasing frequency and complexity of disasters in South Korea, there is a growing need to strengthen forward-looking and effective disaster management. South Korea has concentrated on managing physical impacts, but disasters can have both physical and social impacts. This research aimed to examine creative and feasible alternatives for addressing the social impacts of disasters in the field of South Korean disaster management. Based on a systematic literature review (to include PRISMA 2020 guidelines) as a major methodology, three periods of social impacts of disasters (as analytical categories) were analyzed by cross-checking three analytical levels (as analytical units): Individual, community, and national, as well as four aspects of social impacts (as analytical units): Psychological hurt, unequal minority, unemployment disadvantages, and political battle. The key theme was that the social impacts of disasters evolved or may evolve into social ignorance (July 1953&ndash;May 2004), social complaint (June 2004&ndash;April 2014), and social awareness (from May 2014 onwards), in chronological order. This article comprehensively examines the social impacts of disasters on dynamic South Korea, surpassing previous studies.&nbsp;</p>",
+    "date": "2026-10-22",
+    "doi": "10.3389/fsufs.2026.1948192",
+    "url": "https://doi.org/10.3389/fsufs.2026.1948192",
+    "abstract": "Food supply chains face climate shocks, logistics disruption, food-safety incidents and volatile demand, yet the relevance of regional digital finance for firm-level resilience remains uncertain. This study examines the association between a province-level digital-finance environment and an accounting-based food supply-chain resilience proxy among emerging listed food enterprises in China. Using public data for 122 eligible firms, we construct annual resistance, recovery and stability measures from revenue, operating cash flow and net margin; the common two-way fixed-effects sample contains 732 firm-year observations from 119 firms during 2017–2023. Regional digital finance is measured as a province-level external financial environment rather than firm-level digital transformation or adoption. Operational capability and regional consumption capacity are accounting- and province-level proxies and do not directly observe supplier coordination, traceability, cold-chain performance, or product-level demand. The preferred estimate is close to zero [beta = −0.005, SE = 0.063, 95% CI (−0.128, 0.117)]. Alternative covariance estimators, outcome definitions and timing specifications do not establish a stable positive within-firm association. The proxy-based operational-capability pathway and the conditional consumption-capacity association are likewise not established. Equivalence tests at 0.05 and 0.10 SCR-standard-deviation bounds are not significant, and the approximate 80% minimum detectable effect is 1.575 SCR standard deviations. The evidence therefore cannot distinguish a small contextual association from limited within-firm statistical precision. The findings support a bounded regional-to-firm conversion interpretation: regional finance may widen resource availability, but whether it is associated with resilience depends on unobserved operational conversion routines and food-sector coordination conditions.",
     "authors": [
-      "Kyoo-Man Ha"
+      "Jieyu Zhao"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
