@@ -1,148 +1,156 @@
 [
   {
-    "field": "Management",
-    "title": "When volunteer mobilization outpaces coordination: workflow repair in disaster response",
-    "journal": "Disaster Prevention and Management: An International Journal",
+    "field": "Consumer Research",
+    "title": "Pathogenic B-T Cell Axis Driven by BAFF Induces Endothelial Apoptosis in SLE-PAH",
+    "journal": "Circulation Research",
     "year": "2026",
-    "date": "2026-10-22",
-    "doi": "10.1108/dpm-07-2026-0384",
-    "url": "https://doi.org/10.1108/dpm-07-2026-0384",
-    "abstract": "Purpose This study examines what happens when rapid volunteer mobilization expands faster than the capacity to organize heterogeneous people, information, resources and tasks during disaster response. Design/methodology/approach The study uses a single embedded qualitative process design centered on a rapidly scaled, messaging-mediated volunteer response following a September 2025 barrier-lake flood in eastern Taiwan. The primary process evidence consists of contemporaneous records from the focal coordination group, supplemented by targeted traces from task-specific subgroups, two public forums, nine semi-structured interviews, five fieldnote-based observations and open-ended volunteer accounts. Findings Mobilization-generated coordination strain became visible through repeated verification, misrouting, uneven task allocation, stale or ambiguous requests and situations in which volunteers or resources accumulated in some locations while remaining needed elsewhere. The analysis identifies three recurrent forms of workflow repair: functional differentiation, boundary regulation and intermediary translation. These practices were observably enacted and reused, but repair remained partial, uneven and subject to changing task demand, participant learning, formal intervention and safety constraints. Originality/value The study distinguishes the capacity to mobilize help from the capacity to organize what has been mobilized. It conceptualizes workflow repair as an episode-level, problem-triggered process linking an identifiable coordination breakdown to targeted reconfiguration of an already operating workflow, observable uptake or reuse and a bounded process consequence or incomplete repair after volunteer mobilization has already scaled.",
+    "date": "2026-10-23",
+    "doi": "10.1161/circresaha.126.328338",
+    "url": "https://doi.org/10.1161/circresaha.126.328338",
+    "abstract": "BACKGROUND: Pulmonary arterial hypertension (PAH) is a fatal complication of systemic lupus erythematosus (SLE), yet the mechanisms linking autoimmune dysregulation to progressive pulmonary vascular remodeling are poorly defined, leading to inadequate therapies. This study investigated BAFF (B-cell activating factor), a key cytokine in SLE, as a potential driver of SLE-PAH pathogenesis. METHODS: BAFF expression was assessed in patients with SLE-PAH and animal models. Humanized BAFF-transgenic mice were generated to investigate the effects of BAFF elevation on serological, hemodynamic, and histological parameters of SLE and PAH. Single-cell RNA sequencing, flow cytometry, histological analyses, and cell-based experiments were performed to elucidate cellular and molecular mechanisms. The therapeutic efficacy of the BAFF-neutralizing antibody Belimumab was tested in 2 distinct SLE-PAH animal models. RESULTS: BAFF was significantly upregulated in both SLE-PAH patient cohorts and animal models. Humanized BAFF-transgenic mice exhibited systemic B-cell hyperactivation and pulmonary infiltration and spontaneously developed hallmark features of both SLE and PAH. Single-cell transcriptomic analysis of lung tissues revealed that BAFF overexpression drove the increase of a novel, disease-specific S 100a6 + mature B-cell subset, which orchestrated a pathogenic immune cascade by activating a cytotoxic Gzmk + CD8 + T-cell population via MHC-I (major histocompatibility complex class I)-mediated antigen presentation and CD80-CD28 costimulation. This B-T cell crosstalk triggered apoptosis of a susceptible endothelial cell subpopulation through Fas/Fas ligand signaling, ultimately culminating in pulmonary vascular remodeling. The BAFF-neutralizing antibody Belimumab effectively ameliorated both autoimmune and cardiopulmonary manifestations in 2 distinct SLE-PAH animal models, while improving survival. CONCLUSIONS: These findings establish BAFF as a key mediator in SLE-PAH, driving a previously unrecognized pathogenic immune axis connecting dysregulated B cells to T-cell-mediated endothelial injury. BAFF inhibition may represent a therapeutic strategy for SLE-PAH.",
     "authors": [
-      "Jin Lo"
+      "Xuehan Jiang",
+      "Leyao Ma",
+      "Yutong Li",
+      "Xiaoyue Deng"
     ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 1,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Public Policy",
-    "title": "When does AI dependence for decisions trigger moral disengagement? A proposed model with ethical position as a moderator",
-    "journal": "International Journal of Organizational Analysis",
+    "field": "Psychology",
+    "title": "“You start the day you get a job”: a life-course perspective on retirement preparedness among Ugandan academics",
+    "journal": "International Journal of Social Economics",
     "year": "2026",
-    "date": "2026-10-22",
-    "doi": "10.1108/ijoa-03-2026-6619",
-    "url": "https://doi.org/10.1108/ijoa-03-2026-6619",
-    "abstract": "Purpose The purpose of this study is to present a conceptual model investigating the moderating role of individuals’ ethical positions (idealism and relativism) in the relationship between dependence on artificial intelligence (AI) for decisions and moral disengagement. Design/methodology/approach Theoretical explanations and logical connections among the variables are developed within a propositional framework by integrating conservation of resources theory, social cognitive theory and ethics position theory, informed by research on algorithmic decision-making and moral disengagement. Findings This study proposes that dependence on AI for decisions is positively associated with moral disengagement. Idealism is expected to weaken this relationship, whereas relativism is expected to strengthen it where organisational performance demands favour accepting AI recommendations despite foreseeable stakeholder harm. The model concerns employees who retain meaningful discretion over AI-supported decisions. Practical implications Organisations should provide meaningful opportunities to question and escalate AI recommendations and examine whether performance expectations discourage ethical review. Training should address stakeholder harm and responsibility-displacing rationalisations. Originality/value This study distinguishes dependence on AI for decisions from general AI usage and restrictions on employee autonomy. It develops an explanation of how such dependence may facilitate moral disengagement and identifies idealism and relativism as distinct boundary conditions, specifying the context of the proposed strengthening effect of relativism.",
+    "date": "2026-10-23",
+    "doi": "10.1108/ijse-09-2025-0896",
+    "url": "https://doi.org/10.1108/ijse-09-2025-0896",
+    "abstract": "Purpose The study aimed to explore how academic staff in Ugandan public institutions understand the concept of retirement preparedness throughout their life course, with a focus on the influence of timing, financial knowledge, social influence and personal attitudes. Design/methodology/approach Using a life-course conceptual model, we carried out semi-structured interviews with 13 university academic staff from eight public universities in Uganda. The participants were purposively selected, and the data were analysed for themes using ATLAS.ti 25 software, paying attention to temporality, agency and relational embeddedness in which planning takes place. Findings Three main themes emerged, namely: “Early Thinking, Better Planning”, “Learning from Others” and “Living Forward”. Gender roles and the instability of the institution also influenced how people prepared for retirement. Practical implications These results suggest that retirement preparedness should also be understood through the lenses of health management, social inclusion and life course timing, in addition to the financial perspective. Policymakers should invest in comprehensive models of retirement planning that are more context-sensitive. Originality/value The study adds to life-course theory and contributes to the gerontological literature by focusing on the real-life experiences of academic staff in Uganda.",
     "authors": [
-      "Alptekin Develi",
-      "Yavuz Selim Özyer"
+      "Sarah Keryne Ajok",
+      "Jason Kasozi"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "Viewpoint: understanding consumer vulnerability across service ecosystem configurations",
-    "journal": "Journal of Services Marketing",
-    "year": "2026",
-    "date": "2026-10-22",
-    "doi": "10.1108/jsm-07-2025-0497",
-    "url": "https://doi.org/10.1108/jsm-07-2025-0497",
-    "abstract": "Purpose This viewpoint aims to advance understanding of consumer vulnerability by examining how different configurations of structural, institutional and relational conditions shape vulnerability across service ecosystems. Country context, regulation and customer-to-customer (C2C) interaction provide complementary perspectives for examining these conditions. Design/methodology/approach This paper adopts a conceptual, integrative approach, synthesising literature from transformative service research, service ecosystem theory and marketing to develop an analytical framework that integrates country context, regulation and C2C interaction. Findings Consumer vulnerability varies according to the configuration and interdependence of structural conditions, institutional arrangements and relational processes. Together, these conditions may create, reinforce, negotiate or alleviate vulnerability across different service ecosystems. Research limitations/implications The framework encourages comparative, multi-level and longitudinal research examining how structural, institutional and relational conditions combine and change across service ecosystem configurations. Practical implications The framework encourages service providers and policymakers to adopt ecosystem-oriented strategies that consider structural, institutional and relational conditions together when addressing sources of vulnerability. Originality/value Building on existing understandings of vulnerability as dynamic and ecosystem-based, this viewpoint provides an analytical framework for explaining how variation and interdependence among structural, institutional and relational conditions shape vulnerability across service ecosystems, supporting more comparative and context-sensitive theorising within TSR.",
-    "authors": [
-      "Emmanuel Mogaji"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "UNIFORM RULES IN THE FIELD OF CONSUMER RIGHTS PROTECTION: ON THEIR PLACE IN THE SYSTEM OF RUSSIAN LEGISLATION AND KEY NOVELTIES. PART 2",
-    "journal": "ECONOMY and LAW",
+    "title": "Yapay Zekâ Tutumunun İstihdam Edilebilirlik Algısı Üzerindeki Etkisinde Yapay Zekâ Okuryazarlığının Aracılık Rolü",
+    "journal": "Business and Economics Research Journal",
     "year": "2026",
-    "date": "2026-10-22",
-    "doi": "10.18572/0134-2398-2026-10-3-16",
-    "url": "https://doi.org/10.18572/0134-2398-2026-10-3-16",
-    "abstract": "The article analyzes the innovations in the field of consumer protection legislation that arose in connection with the approval, by Decree of the Supreme State Council of the Union State, of the Uniform Rules in the Field of Consumer Protection, which came into force on December 6, 2024, on the territory of the Russian Federation and the Republic of Belarus. The article analyzes the main changes introduced by this act into Russian legislation, noting the focus of the Uniform Rules on raising the level of guarantees of consumer rights and interests, imposing additional obligations on business entities, expanding the scope of application to relations arising from the acquisition of goods, works, and services on a gratuitous basis, as well as the involvement of persons who do not have the status of individual entrepreneurs and sell their products to consumers.",
+    "date": "2026-10-23",
+    "doi": "10.20409/berj.2026.514",
+    "url": "https://doi.org/10.20409/berj.2026.514",
+    "abstract": "Günümüzde yapay zekâ ve araçları hızlı bir şekilde gelişmektedir. Yaşamın çeşitli alanlarında olduğu gibi iş hayatı da bu durumdan etkilenmekte ve yapay zekâ, istihdam sürecini dönüştüren unsurlardan biri olarak ortaya çıkmaktadır. Çalışmanın temel amacı, bireylerin yapay zekâya yönelik tutumlarının istihdam edilebilirlik algıları üzerindeki etkisinde yapay zekâ okuryazarlığının aracı rolünü incelemektir. Çalışma, nicel araştırma yaklaşımına dayalı kesitsel bir araştırma olarak tasarlanmıştır. Bu doğrultuda, Türkiye’deki bir devlet üniversitesinde öğrenim gören 592 lisans ve ön lisans öğrencisinden kolayda örnekleme yöntemi kullanılarak anket aracılıyla veri toplanmıştır. Yapılan regresyon ve aracılık analizleri neticesinde yapay zekâya yönelik olumlu tutumun yapay zekâ okuryazarlığını artırarak istihdam edilebilirlik algısını olumlu yönde etkilediği tespit edilmiştir. Bu bulgu bireylerin istihdam edilebilirlik algısının, yapay zekâya yönelik tutumlarının yanı sıra söz konusu teknolojiyi verimli bir biçimde kullanma düzeyine de bağlı olduğunu ortaya koymaktadır. Bu çalışma ile yapay zekâ tutumu ve okuryazarlığının istihdam edilebilirlik algısı üzerindeki rolüne dikkat çekilerek istihdam edilebilirliği artırmanın bir yolu olarak yapay zekânın önemi vurgulanmaktadır. Yapay zekâ okuryazarlığının, yapay zekâya yönelik olumlu tutum ile istihdam edilebilirlik algısı arasında aracı bir rol üstlendiğinin ampirik olarak kanıtlanması, bireylerin iş piyasasındaki konumlarını anlamada sadece teknolojiye yönelik genel eğilimlerin değil, somut bilgi ve beceri düzeylerinin de belirleyici olduğunu ortaya koymaktadır.",
     "authors": [
-      "Yaroslav S. Kozheurov",
-      "Maria V. Samsonova"
+      "İfakat ATAK",
+      "Şerife Merve KOŞAROĞLU"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "Threshold-based multi-scale analysis of thermal-acoustic comfort in urban public spaces: identifying critical thresholds and individual heterogeneity",
-    "journal": "Environment, Development and Sustainability",
+    "title": "When more is not better: how business model portfolios drive performance in multi-business model entrepreneurial firms",
+    "journal": "Journal of Small Business and Enterprise Development",
     "year": "2026",
-    "date": "2026-10-22",
-    "doi": "10.1007/s10668-026-08213-4",
-    "url": "https://doi.org/10.1007/s10668-026-08213-4",
-    "abstract": "",
+    "date": "2026-10-23",
+    "doi": "10.1108/jsbed-10-2025-0734",
+    "url": "https://doi.org/10.1108/jsbed-10-2025-0734",
+    "abstract": "Purpose Drawing on configuration theory, this study examines how different combinations of business model (BM) design themes shape the financial performance of entrepreneurial firms that simultaneously adopt multiple business models. We thus depart from typical BM research that investigates design themes in isolation to focus on how configurations of design themes differentially influence the performance of firms that operate BM portfolios. Design/methodology/approach We employ fuzzy-set qualitative comparative analysis (fsQCA) to test whether specific configurations of BM design themes relate to high financial performance. fsQCA aligns well with the main objectives of this study because it captures equifinality and causal complexity, allowing for the empirical examination of multiple configurations that can lead to high performance. The final sample consists of 107 UK software firms characterized by rapid innovation adoption and frequent use of BM portfolios. Findings The results indicate three distinct configurations that relate to high financial performance: (1) novelty combined with the absence of customer lock-in and product/service complementarities; (2) novelty combined with efficiency and the absence of product/service complementarities; and (3) novelty combined with customer lock-in and product/service complementarities in the absence of efficiency. Across all these configurations, novelty clearly emerges as a core BM theme. Notably, we do not find a configuration in which all four BM design themes are present, suggesting that high performance relates with specific combinations rather than the cumulative presence of all themes. Research limitations/implications This study contributes to BM literature by providing new theoretical arguments and evidence on how firms with BM portfolios can realize performance benefits. We therefore extend pertinent BM theory to the portfolio level and shift scholarly attention from optimizing individual BMs to understanding how design themes are configured across multiple BMs within the same firm. Practical implications Our findings show how software firms can combine different design themes in their BM portfolio to achieve high performance. The results suggest that performance benefits relate to specific combinations of novelty, efficiency, customer lock-in, and product/service complementarities. Although our findings are specific to the context of UK software companies, they provide managers with a practical guide on how to design their BM portfolios when pursuing high financial performance. Originality/value Despite the growing attention to the design of business models, our understanding of BM portfolios in entrepreneurial firms remains limited. This study advances this stream of literature by theorizing and empirically examining configurations of BM design themes (novelty, efficiency, customer lock-in and product/service complementarities) at the portfolio level. Based on configuration theory, it moves beyond analyzing individual design themes in isolation and contributes to a more nuanced understanding of how combinations of BM design themes are associated with high performance.",
     "authors": [
-      "Lu Xu",
-      "Wenqiang Jing",
-      "Wei Ding",
-      "Jing He"
+      "Michail Xenakis",
+      "Alexandros Papalexandris",
+      "Dimitris Manolopoulos",
+      "Konstantinos Kostopoulos"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Psychology",
-    "title": "The volatility spillover between digital currencies and stock markets:evidence from DCC-GARCH R2 decomposed connectedness measures",
-    "journal": "Humanities and Social Sciences Communications",
+    "field": "Public Policy",
+    "title": "Waste management efficiency in Europe: evidence from low-efficiency countries",
+    "journal": "Management Decision",
     "year": "2026",
-    "date": "2026-10-22",
-    "doi": "10.1057/s41599-026-09419-7",
-    "url": "https://doi.org/10.1057/s41599-026-09419-7",
-    "abstract": "Abstract Based on weekly data from December 2018 to October 2025, this study employs the DCC-GARCH R² decomposed connectedness approach to investigate volatility spillovers between four major digital currencies (Bitcoin, Ethereum, Tether USD, USD Coin) and five key stock markets (China, the U.S., Germany, Japan, and the UK). Empirical findings reveal three core insights. First, dynamic conditional correlations exhibit distinct patterns across digital currency subtypes and stock markets: public chain coins (BTC and ETH) are strongly correlated with each other, stablecoins show negative correlations with other assets, and China’s stock market remains largely insulated from global markets. Second, R² decomposed connectedness analysis reveals substantial cross-market linkages, with China’s stock market displaying the weakest connectedness and the U.S. market acting as the primary risk transmitter. Third, the dynamic total connectedness index exhibits three distinct peaks in early 2019, the first half of 2020, and mid-2023, before entering a current downward trajectory. These peak periods may be associated with possible explanations, including the 2019 crypto crash, the 2020 COVID-19 pandemic, and the 2023 regulatory changes. Net connectedness analysis identifies BTC, the U.S., and German markets as net transmitters of shocks, while China, Japan, and the UK are net receivers. These findings underscore the heterogeneous spillover dynamics across digital currency subtypes, offering actionable insights for cross-market risk management and asset allocation.",
+    "date": "2026-10-23",
+    "doi": "10.1108/md-03-2026-1174",
+    "url": "https://doi.org/10.1108/md-03-2026-1174",
+    "abstract": "Purpose This study aims to evaluate the dynamic efficiency of municipal waste management systems across 28 European countries during the period 2010–2022 and to identify the structural determinants of efficiency differences to support evidence-based environmental policy and decision-making. Design/methodology/approach The study employs DEA Window analysis (CCR framework) to assess the dynamic efficiency of municipal waste-management systems across 28 European countries during 2010–2022. The evaluation is based on one input and four output indicators derived from the European Circular Economy Monitoring Framework. Additional BCC sensitivity analysis and Monte Carlo simulations are conducted to assess the robustness of the efficiency rankings. In the second stage, a panel fractional logit model is used to identify the structural determinants of efficiency in a group of structurally comparable low-efficiency countries. Findings The results reveal pronounced and persistent cross-country disparities in waste management efficiency across Europe. Countries with stronger institutional and infrastructural capacity consistently operate closer to the efficiency frontier, whereas structurally constrained countries exhibit persistent inefficiencies, particularly in recycling and material recovery. Although gradual improvements are observed over time, the convergence toward best-practice benchmarks remains limited. Panel fractional logit analysis further indicates that institutional quality exerts a stronger influence on efficiency than conventional macroeconomic or innovation-related factors. Originality/value This paper contributes by developing an integrated analytical framework that combines dynamic DEA Window benchmarking, robustness assessment, and panel fractional response modeling to explain persistent structural differences in waste-management efficiency across European countries. Beyond measuring efficiency, the proposed framework supports evidence-based decision-making by identifying structural performance gaps, their institutional drivers, and differentiated policy priorities for countries at different stages of circular-economy transition.",
     "authors": [
-      "Yiguo Chen",
-      "Peng Luo"
+      "Ana Krstic Srejovic",
+      "Predrag Mimovic"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "The impact of increased child benefits on tempo and quantum of fertility in Estonia",
-    "journal": "Demographic Research",
-    "year": "2026",
-    "date": "2026-10-22",
-    "doi": "10.4054/demres.2026.55.25",
-    "url": "https://doi.org/10.4054/demres.2026.55.25",
-    "abstract": "",
-    "authors": [
-      "Tanel Paas",
-      "Allan Puur",
-      "Mark Gortfelder"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Mental Health",
-    "title": "Strengthening the diagnosis of death due to lightning: an integrated forensic approach – a literature review",
-    "journal": "Forensic Science, Medicine and Pathology",
+    "title": "The role of cadherins and catenins in endometrial function and embryo implantation: A comprehensive review",
+    "journal": "Clinical and Experimental Reproductive Medicine",
     "year": "2026",
-    "date": "2026-10-22",
-    "doi": "10.1007/s12024-026-01381-9",
-    "url": "https://doi.org/10.1007/s12024-026-01381-9",
-    "abstract": "Abstract The diagnosis of “death by lightning strike” is typically confirmed through an external postmortem examination. The principle pathological findings are typically located on the external aspects of the body and clothing, while internal examination typically reveals few, if any, specific or diagnostic pathological changes. Following a fatal lightning strike, the victim may have only subtle or no typical findings on the body’s surface. Misdiagnoses have occurred repeatedly in the past. Therefore, this literature review investigated whether autopsies of lightning strike victims can lead to or support the correct diagnosis. From a total of 120 case reports on lightning strike accidents with autopsy findings, 34 cases exhibited characteristic injuries that the authors attributed to the lightning strike. The head, heart, lungs, and skeletal system were the most commonly affected areas. Since there is currently no pathognomonic finding for internal injuries after a lightning strike incident, the authors propose at least one additional piece of evidence in addition to a characteristic finding to establish the correct diagnosis. The diagnostic certainty of a lightning-related death may be increased by corroborative evidence, which may include reliable witness accounts, additional trace evidence indicative of a lightning strike at the location where the body was found, or confirmation of lightning activity in the area by a regional lightning detection system.",
+    "date": "2026-10-23",
+    "doi": "10.5653/cerm.2025.09075",
+    "url": "https://doi.org/10.5653/cerm.2025.09075",
+    "abstract": "Cadherins and catenins are essential transmembrane proteins and cytoplasmic binding partners that mediate cell–cell adhesion, intracellular signaling, and the maintenance of tissue architecture. Their coordinated functions are central to endometrial biology and embryo implantation, a process that requires complex cell–cell interactions and tissue remodeling for pregnancy to be established. In this review, we summarize current evidence on the molecular mechanisms through which cadherins and catenins regulate endometrial receptivity and support embryo attachment to maternal tissue. We also discuss how advances in molecular biology and reproductive medicine have clarified the roles of cadherin–catenin complexes in cell adhesion, intracellular signaling, including Wnt/β-catenin signaling, and the regulation of trophoblast invasion. In addition, we examine the potential clinical relevance of dysfunction in these complexes, which has been associated with implantation failure and infertility. A clearer understanding of cadherin–catenin function in the endometrium may support the development of diagnostic tools and therapeutic targets for infertility.",
     "authors": [
-      "Rebecca Bingert",
-      "A Köhne",
-      "R Blumenthal",
-      "A Büttner"
+      "Flavia Costanzi",
+      "Maria Paola De Marco",
+      "Andrea Giannini",
+      "Aris Raad Besharat"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "Regional digital finance and food supply-chain management resilience: evidence on the regional-to-firm conversion gap in China’s emerging listed food enterprises",
-    "journal": "Frontiers in Sustainable Food Systems",
+    "title": "Sustainable bio-based concrete: material innovations, durability challenges and life cycle perspectives",
+    "journal": "Journal of Engineering, Design and Technology",
     "year": "2026",
-    "date": "2026-10-22",
-    "doi": "10.3389/fsufs.2026.1948192",
-    "url": "https://doi.org/10.3389/fsufs.2026.1948192",
-    "abstract": "Food supply chains face climate shocks, logistics disruption, food-safety incidents and volatile demand, yet the relevance of regional digital finance for firm-level resilience remains uncertain. This study examines the association between a province-level digital-finance environment and an accounting-based food supply-chain resilience proxy among emerging listed food enterprises in China. Using public data for 122 eligible firms, we construct annual resistance, recovery and stability measures from revenue, operating cash flow and net margin; the common two-way fixed-effects sample contains 732 firm-year observations from 119 firms during 2017–2023. Regional digital finance is measured as a province-level external financial environment rather than firm-level digital transformation or adoption. Operational capability and regional consumption capacity are accounting- and province-level proxies and do not directly observe supplier coordination, traceability, cold-chain performance, or product-level demand. The preferred estimate is close to zero [beta = −0.005, SE = 0.063, 95% CI (−0.128, 0.117)]. Alternative covariance estimators, outcome definitions and timing specifications do not establish a stable positive within-firm association. The proxy-based operational-capability pathway and the conditional consumption-capacity association are likewise not established. Equivalence tests at 0.05 and 0.10 SCR-standard-deviation bounds are not significant, and the approximate 80% minimum detectable effect is 1.575 SCR standard deviations. The evidence therefore cannot distinguish a small contextual association from limited within-firm statistical precision. The findings support a bounded regional-to-firm conversion interpretation: regional finance may widen resource availability, but whether it is associated with resilience depends on unobserved operational conversion routines and food-sector coordination conditions.",
+    "date": "2026-10-23",
+    "doi": "10.1108/jedt-04-2026-0276",
+    "url": "https://doi.org/10.1108/jedt-04-2026-0276",
+    "abstract": "Purpose This review presents a critical evaluation of bio-based and bio-enabled cementitious systems as solutions for lowering resource use and climate change impact without compromising performance. This study aims to review their components based on the processing of the components, their interaction with the matrix, the mechanical properties, durability performance and Life Cycle Assessment (LCA). Design/methodology/approach This research uses a structured narrative review methodology based on peer-reviewed sources from the Scopus database, which includes peer-reviewed English-language literature from the years 2005 to 2025. Data were categorized in terms of material type, manufacturing process, density and test age, mechanical and durability performance and LCA functional unit, system boundary, biogenic carbon handling, energy and water metrics. Findings What emerges is an inherent performance-functional property balance, rather than a universally superior material per se. Low-density materials made from hemp, straw, wood and cork possess excellent insulating capabilities, yet generally do not have structural properties. Surface-treated fibers, biochar and Microbial-Induced Carbonate Precipitation (MICP) improve crack prevention, transport resistance and self-healing after cracking; however, some environmental gains might be compromised due to the use of increased chemicals and additional energy requirements. Results obtained in the process of comparative LCA are very much dependent on the choice of the functional unit, system boundaries, considered lifetime, allocation and biogenic carbon assumptions. Originality/value This review integrates a taxonomy-based approach linking feedstock choice and processing approaches to performance, durability and environmental impacts. Evidence tables of three themes include processing of constituents, mechanical properties and durability data and LCA studies. Moreover, there is a cross-theme research agenda highlighting the processes involved in design, standardization and scaling up.",
     "authors": [
-      "Jieyu Zhao"
+      "Firoz Alam Faroque",
+      "Adithya Tantri",
+      "Vandana Jha",
+      "Salman Alshamrani"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "Multiple allosteric sites allow for synergistic enhancement of GPCR signaling",
+    "journal": "Science Advances",
+    "year": "2026",
+    "date": "2026-10-23",
+    "doi": "10.1126/sciadv.aeh3401",
+    "url": "https://doi.org/10.1126/sciadv.aeh3401",
+    "abstract": "Allosteric modulation of G protein–coupled receptors (GPCRs) offers promising therapeutic opportunities. Although multiple allosteric binding sites have been identified in GPCRs, whether and how these spatially distinct sites cooperate to regulate receptor activation remain poorly understood. Here, we elucidate the molecular mechanism of cooperative multisite allostery in the dopamine D1 receptor (D1R). We developed two novel D1R positive allosteric modulators (PAMs), UNC9815 and UNC10062, and used cryo–electron microscopy to structurally identify two previously uncharacterized D1R allosteric sites occupied by UNC9815/UNC10062 and another D1R PAM, BMS-A1. Both sites localize to the transmembrane helix (TM) 1 to 7 interface as vertically adjacent allosteric pockets organized in a spatially complementary manner. Our structures demonstrate the simultaneous binding of the chemically distinct PAMs (LY3154207, BMS-A1, and UNC9815/UNC10062) in three nonoverlapping pockets. Concurrent engagement of all three allosteric sites produces pronounced functional cooperativity, increasing dopamine potency by >1000-fold, thereby demonstrating that coordinated multisite modulation can achieve substantial pharmacological amplification beyond the limits imposed by single PAM administration. Molecular dynamics (MD) simulations revealed that multisite PAM engagement restricts intracellular loop 3 dynamics and stabilizes the TM7-NPxxY activation motif, effects not achieved by binding of LY3154207 alone, thereby biasing the receptor toward a more stabilized active conformation, and may also improve agonist potency by stabilizing extracellular loop 2. Together, these findings establish the structural framework for cooperative multisite allostery in a GPCR, revealing how distributed allosteric sites act in concert to amplify receptor activation and providing a conceptual foundation for developing innovative GPCR allosteric therapeutics.",
+    "authors": [
+      "Kai Wang",
+      "Snezana T. Dimova",
+      "John N. Hanson",
+      "Abhishek Thakur"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "“I wouldn’t forgive me”: apology, forgiveness from others, and self-forgiveness among incarcerated men and women",
+    "journal": "BMC Psychology",
+    "year": "2026",
+    "date": "2026-10-23",
+    "doi": "10.1186/s40359-026-05843-1",
+    "url": "https://doi.org/10.1186/s40359-026-05843-1",
+    "abstract": "",
+    "authors": [
+      "Inbal Peleg-Koriat",
+      "Dana Weimann-Saks"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
