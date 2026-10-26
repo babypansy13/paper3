@@ -1,154 +1,149 @@
 [
   {
     "field": "Public Policy",
-    "title": "Sustainable Business Models for Climate Resilience: Adapting Organisational Strategy in an Era of Environmental Uncertainty",
-    "journal": "Management Studies",
+    "title": "Introducing LÄNDParl – a Biographical Dataset on Members of the Baden-Württemberg State Parliament, 1952–2026",
+    "journal": "Statistics, Politics and Policy",
     "year": "2026",
-    "date": "2026-10-30",
-    "doi": "10.17265/2328-2185/2025.05.002",
-    "url": "https://www.davidpublisher.com/Public/uploads/Contribute/694cb43f2c7db.pdf",
-    "abstract": "This study investigates the application of climate-resilient sustainable business models in the manufacturing and agricultural value chains in Africa and Asia. In the context of heightened environmental volatility and regulatory scrutiny between 2020 and 2024, the study investigates adaptation strategies that are reasonably economical and ecologically viable for addressing specific regional issues. Employing a mixed-method design, quantitative analysis from 87 firms was supplemented with qualitative case studies from 12 industry leaders. The evaluation model incorporated business model innovation, resource use efficiency measurement, and adaptive capacity assessment through executive and sustainability officer interviews. Data collection was done longitudinally over 36 months, factoring in seasonal and periodic extreme weather shifts. The study identified four emergent business models with exceptional resilience: climate-responsive supply chain restructuring, community-embedded production, circular economy integration, and ecosystem service valuation. Implementing these models resulted in 28% reduced disruption costs and 17% increased resource efficiency during extreme weather events compared to traditional models across both continents. Following the comparative assessment, the study suggested adopting scenario-based planning, incorporating climate data, creating collaborative industry-wide knowledge-sharing platforms, embedding climate-related performance indicators into key figure reporting, and recalibrating governance frameworks to support strategic sustainability targets. There are contextual implementation approaches for global companies and local capital-bent firms. This research assists in understanding business model innovation in the context of climate vulnerability and competitive advantage in adapting regions. Other studies should investigate the integration of different sectors and target geographic areas more closely, focusing on enduring adaptability as organisational responses to environmental unpredictability mature.",
+    "date": "2026-10-26",
+    "doi": "10.1515/spp-2026-0039",
+    "url": "https://doi.org/10.1515/spp-2026-0039",
+    "abstract": "Abstract This research note introduces LÄNDParl, a novel open-access dataset covering all 1,056 persons who have held a seat in the Landtag of Baden-Württemberg, the parliament of Germany’s third most populous federal state, from the Constituent State Assembly of 1952 to the 18th legislative term that began in 2026. The dataset records 2,552 MdL (state level MP) terms across 18 legislative terms (plus 127 in the Constituent Assembly) and combines biographical information (sex, date and place of birth, religious denomination, education, occupation coded in a standard occupational scheme, family status, migration background) with a complete record of each mandate: constituency, mandate type, entry and exit dates and reasons, parliamentary party group and switches. Its distinctive feature is a geo-referenced classification of every birthplace and – for the two most recent terms – of places of residence into the three historical territories that shape subregional identities to this day: Baden, Württemberg and Hohenzollern. LÄNDParl thus enables research on territorial and descriptive representation, legislative recruitment and careers at the subnational level, as well as on the consequences of the 2022 electoral reform.",
     "authors": [
-      "O. O. Adegoke",
-      "T. Olubiyi"
+      "Sebastian Jäckle",
+      "Ronald Schleehauf"
     ],
     "citations": 1,
     "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Consumer Research",
-    "title": "Reliability and validity of the Japanese version of the Multidimensional Test Anxiety Scale Multidimensional Test Anxiety Scale日本語版の作成および信頼性と妥当性の検討",
-    "journal": "The Japanese journal of psychology",
+    "field": "Management",
+    "title": "Workplace benign envy and employee outcomes: the mediating role of a leader’s knowledge-sharing behaviour on innovative work behaviour and workplace well-being among nurses",
+    "journal": "Journal of Health Organization and Management",
     "year": "2026",
-    "date": "2026-10-25",
-    "doi": "10.4992/jjpsy.97.25205",
-    "url": "https://doi.org/10.4992/jjpsy.97.25205",
-    "abstract": "",
+    "date": "2026-10-26",
+    "doi": "10.1108/jhom-04-2026-0400",
+    "url": "https://doi.org/10.1108/jhom-04-2026-0400",
+    "abstract": "Purpose This study aims to examine the effect of benign envy in the workplace on innovative work behaviour and well-being among nurses, and to test the mediating role of leaders' knowledge-sharing behaviour in these relationships. Design/methodology/approach A cross-sectional survey was used to collect data from 518 nurses working at a public hospital in Turkey. The mediation model was examined using SPSS, AMOS and PROCESS Macro (Model 4). Findings The results suggest that workplace benign envy is positively and significantly associated with innovative work behaviour and workplace well-being (r = 0.508 and r = 0.382, respectively). Furthermore, it was observed that benign envy significantly influences the leader’s information-sharing behaviour. Mediation analyses revealed that the leader’s knowledge-sharing behaviour plays a significant role in these relationships. It is therefore concluded that the indirect effect of benign envy on innovative work behaviour is significant (β = 0.059), although this effect remains relatively limited. Conversely, the indirect effect on workplace well-being was found to be stronger (β = 0.109), indicating a moderate mediating effect. Originality/value The findings indicate that a leader’s support for knowledge sharing is a crucial variable in determining the impact of envy on employees. Furthermore, it is observed that in a supportive environment, this emotion can transform into a constructive role that enhances employees’ innovative behaviour and workplace well-being.",
     "authors": [
-      "Sawako Kawasaki",
-      "Tomohiro Asakura",
-      "Hiroshi Sato",
-      "Shin-ichi Ishikawa"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "Visitor Incentives in Urban Center Outdoor Spaces 中心市街地屋外空間における来訪誘因の実態",
-    "journal": "Journal of the City Planning Institute of Japan",
-    "year": "2026",
-    "date": "2026-10-25",
-    "doi": "10.11361/journalcpij.61.369",
-    "url": "https://doi.org/10.11361/journalcpij.61.369",
-    "abstract": "",
-    "authors": [
-      "Sachi Horikawa",
-      "Taichi Murooka",
-      "Mamoru Taniguchi"
+      "Sermed Dogan",
+      "Nurperihan Tosun",
+      "Tugba Gul Baynal Doğan"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "The Mediating Role of Maladaptive Coping in the Association Between Neuroticism and Family Accommodation in Obsessive-Compulsive Disorder",
-    "journal": "Psychiatry Investigation",
-    "year": "2026",
-    "date": "2026-10-25",
-    "doi": "10.30773/pi.2026.0259",
-    "url": "https://doi.org/10.30773/pi.2026.0259",
-    "abstract": "Objective Family accommodation, in which relatives facilitate obsessive-compulsive symptoms, is highly prevalent in obsessive-compulsive disorder (OCD) and associated with poor treatment outcomes. Although neuroticism and maladaptive coping have been linked to OCD severity, the mechanisms by which personality traits relate to family accommodation remain poorly understood. This study examined associations between neuroticism, coping strategies, symptom severity, and family accommodation in OCD, and tested whether maladaptive coping mediates the neuroticism–family accommodation association.Methods We conducted a cross-sectional study with 149 adults diagnosed with OCD via the Structured Clinical Interview for DSM-5 at a university hospital outpatient clinic. Participants completed the Family Accommodation Scale–Patient Version, Yale-Brown Obsessive Compulsive Scale Self-Report, Big Five Inventory-44, and Brief COPE. Hierarchical regression and bootstrap-based mediation analyses (PROCESS Model 4; 5,000 bootstrap samples) were performed, controlling for age, sex, education, and symptom severity.Results OCD symptom severity (β=0.342, p<0.001) and maladaptive coping (β=0.347, p<0.001) were significantly associated with family accommodation, explaining 26.6% of its variance. Neuroticism was not directly associated with family accommodation; however, mediation analysis revealed a significant indirect association through maladaptive coping (B=0.189, 95% confidence interval [0.034 to 0.399]).Conclusion These cross-sectional findings suggest that maladaptive coping may represent a potential behavioral pathway linking neuroticism to family accommodation in OCD. While the findings provide a theoretical rationale for further investigating coping mechanisms, longitudinal and experimental studies are needed to determine whether interventions targeting maladaptive coping lead to reductions in family accommodation.",
-    "authors": [
-      "Mustafa Karaağaç",
-      "Betül Bakay",
-      "Fadime Şimşek",
-      "Beyza Işık"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "The Interplay of Digital Literacy and Parenting Styles on Critical Thinking: The Mediating Role of Emotional Intelligence in Islamic Education",
-    "journal": "Journal of Multidisciplinary Science: MIKAILALSYS",
-    "year": "2026",
-    "date": "2026-10-25",
-    "doi": "10.58578/mikailalsys.v4i3.12428",
-    "url": "https://doi.org/10.58578/mikailalsys.v4i3.12428",
-    "abstract": "Understanding how digital competencies and family environments relate to students’ emotional and cognitive development can inform Islamic Religious Education (Pendidikan Agama Islam; PAI). This study examined the relationships of digital literacy and parenting styles with students’ emotional intelligence and critical thinking skills, including the mediating role of emotional intelligence. A quantitative design was employed involving 79 students selected from a population of 377 at MAN 1 Mojokerto through proportionate stratified random sampling. Data were collected using validated and reliable questionnaires and analyzed through path analysis following statistical assumption testing. The findings indicated that digital literacy and authoritative parenting were positively and significantly associated with both emotional intelligence and critical thinking skills. Authoritarian and permissive parenting showed comparatively limited associations with these outcomes. Emotional intelligence also emerged as a significant statistical mediator linking digital literacy and parenting styles to critical thinking. These findings suggest that emotional intelligence provides a relevant link between students’ digital and family contexts and their critical thinking in PAI, although the reported relationships do not establish causality. The study contributes an integrated account of these relationships within Islamic religious education and highlights the relevance of digital literacy development, supportive parenting, and emotional learning to educational efforts aimed at strengthening students’ critical thinking.",
-    "authors": [
-      "M. Sholahuddin Nur",
-      "Saldin Matto",
-      "Nirwana Suciyati"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Prevalence of multi-nuclear and multi-ovular follicles within paediatric ovarian tissue: recommendations for systematic subclassification",
-    "journal": "Human Reproduction",
-    "year": "2026",
-    "date": "2026-10-25",
-    "doi": "10.1093/humrep/deag167",
-    "url": "https://doi.org/10.1093/humrep/deag167",
-    "abstract": "Abstract STUDY QUESTION Do premenarcheal girls have a high proportion of morphologically abnormal ovarian follicles? SUMMARY ANSWER A higher prevalence of follicles with an abnormal number of oocytes and nuclei was found in premenarcheal ovarian tissue compared with postmenarcheal tissue. WHAT IS KNOWN ALREADY Morphological aberrations of ovarian follicles, including multi-nuclear oocytes and multi-ovular follicles, have been documented across species, including humans. These specific morphological aberrations, together with other types of abnormal follicles, are more prevalent in the ovaries of children and decline in number with age. However, detailed studies of the prevalence of multi-nuclear and multi-ovular follicles in paediatric ovarian tissue are limited. STUDY DESIGN, SIZE, DURATION This was an observational study of the ovaries of children and adolescents who underwent ovarian cryopreservation prior to chemotherapy. PARTICIPANTS/MATERIALS, SETTING, METHODS The study recruited participants aged 0–18 years who underwent ovarian tissue cryopreservation at a single centre. Haematoxylin and eosin-stained slides of ovarian biopsies were scanned and analysed to determine follicle number and aberrations in morphology and the cortical area was measured. Abnormal follicles were defined as those with an abnormal number of oocytes or oocyte nuclei. Relationships with menarcheal status (premenarcheal; postmenarcheal) and age were assessed. MAIN RESULTS AND THE ROLE OF CHANCE A total of 149 participants’ ovarian samples were evaluated in the study, of whom 67 (45%) had follicles with abnormal numbers of oocytes or oocyte nuclei. Amongst 117 participants who had adequate follicle numbers, these abnormal follicle types accounted for 3.8% (902/23 891) of the total number of follicles and were significantly more common in premenarcheal girls (52/80; 65.0%) compared with postmenarcheal girls (15/37; 40.5%; P = 0.013). Ovular abnormalities (in 76.7% of abnormal follicles) were more common than nuclear abnormalities (in 23.3% of abnormal follicles; P &lt; 0.001). Bi-ovular primordial follicles were the most common abnormality, comprising 54% of the total abnormal follicle population and were present in 41.9% of participants. LIMITATIONS, REASONS FOR CAUTION Small ovarian biopsies were analysed, which may not fully represent the whole ovary. There is also a limited number of participants in each menarcheal group. WIDER IMPLICATIONS OF THE FINDINGS Our study highlights that although follicle numbers are high in the prepubertal ovary, there was also a high proportion of follicles containing abnormal numbers of oocytes and oocyte nuclei. Further longitudinal and functional studies are recommended to determine whether this impacts fertility and the longevity of function following ovarian tissue grafting for restoration of fertility in these participants. Our work supports a separate multioocytic follicle class within the NICHD follicle classification, and we suggest expanding it to include a distinct multinuclear follicle category (oocyte contains more than one nucleus), as these likely represent different aberrations in oogenesis or folliculogenesis. This classification with clear definitions and nomenclature may improve consistency in reporting and facilitate future research. FUNDING This work was supported by an MRFF Grant (MRFAR000308) supporting the funding of coauthors M.J. and M.A. Y.J. is supported through a Dame Kate Campbell Fellowship, The University of Melbourne. Co-authors V.G.-L. and J.Y.M. are supported through National Institute of Health (NIH) Z1A HD009005. DISCLOSURES No conflict of interests are declared. TRIAL REGISTRATION NUMBER n/a.",
-    "authors": [
-      "M Jayasingam",
-      "M Assis",
-      "D A Gook",
-      "T W Kelsey"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "“It Felt Like We Were a Council of Elders”: Black Teacher-Coaches Sustaining Professional Identity with Affinity, Support, and Communal Care",
-    "journal": "The Urban Review",
-    "year": "2026",
-    "date": "2026-10-24",
-    "doi": "10.1007/s11256-026-00871-y",
-    "url": "https://doi.org/10.1007/s11256-026-00871-y",
-    "abstract": "Abstract This study examines how Black teacher-coaches (BTCs) build and sustain professional and pedagogical networks of support amid divisive concepts legislation that restricts classroom discussions related to race, identity, inequality, and systemic oppression. Drawing upon frameworks of communalism, collective Black identity, and Black historical consciousness, this research investigates how three BTCs collectively responded to legislative pressures that seek to constrain instructional autonomy and limit engagement with Black intellectual traditions. Findings demonstrate that these educators tended to each other with communal efforts that mirrored the purpose and functionality of a Black affinity group. Collectively, the participants supported one another’s beliefs and practices through mutual care, demonstrating what it meant to learn from their respective communities, and how their shared identities as Black educators and athletic coaches shaped their bond. This study contributes to scholarship by highlighting how communal educational practices function as mechanisms of support and resilience under restrictive legislative conditions.",
-    "authors": [
-      "Alex E. Chisholm"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Food Industry / Science / Design",
-    "title": "Targeting Olfaction for Control: OR17 and Its Ligand E-β-Caryophyllene Contribute to Host Location in Phthorimaea Absoluta",
-    "journal": "Journal of Agricultural and Food Chemistry",
+    "title": "Where traditions meet change: a qualitative evidence synthesis and meta-aggregation exploring healthy eating perceptions among Asian populations living in high-income Western countries",
+    "journal": "International Journal of Behavioral Nutrition and Physical Activity",
     "year": "2026",
-    "date": "2026-10-24",
-    "doi": "10.1021/acs.jafc.6c04606",
-    "url": "https://doi.org/10.1021/acs.jafc.6c04606",
-    "abstract": "Abstract Odorant receptors (ORs) of phytophagous insects mediate detection and discrimination of plant volatiles for host location and oviposition. Using the reverse chemical ecology approach, we identified host-related odorants and receptors in Phthorimaea absoluta. Molecular docking identified limonene, α-terpinene, and E-β-caryophyllene as putative ligands of OR9, OR6, and OR17, respectively. All three compounds elicited significant antennal responses in both sexes, with stronger responses in females. In Y-tube assays, E-β-caryophyllene attracted females, and a ternary blend (5:3:2) elicited significantly greater attraction than individual compounds. This female-biased attraction persisted across 72 h cage assays and for at least 18 days in a greenhouse. PabsOR17 silencing significantly reduced female behavioral responses to E-β-caryophyllene. These findings support the contribution of OR17-mediated E-β-caryophyllene detection to female host location, providing a potential molecular target for female-oriented behavioral disruption and a reverse chemical ecology framework for semiochemical-based pest management.",
+    "date": "2026-10-26",
+    "doi": "10.1186/s12966-026-01990-1",
+    "url": "https://doi.org/10.1186/s12966-026-01990-1",
+    "abstract": "Abstract Background Asian populations in Western, high-income countries (WHICs) face growing diet-related health disparities. Prior work highlights dietary acculturation as a contributing factor, yet an in-depth understanding of Asian populations’ perspectives on healthy eating with traditional cuisines blended with Western practices and environments remains limited. This qualitative evidence synthesis systematically examined definitions and cultural influences on healthy eating perceived by diverse Asian ethnic groups in WHICs to inform tailored interventions to improve nutrition and health. Methods A systematic search was conducted in six databases (PubMed, CINAHL, EMBASE, Web of Science, Scopus, PsycINFO), focusing on qualitative studies examining healthy eating perceptions among Asian populations in WHICs. Data extraction used an adapted Joanna Briggs Institute (JBI) Qualitative Data Extraction Form, followed by quality assessment using the JBI Critical Appraisal Checklist. The meta-aggregation approach guided finding synthesis, with cumulative confidence evaluated through the ConQual approach. Results From 8,117 records screened, 25 qualitative papers were included in the synthesis, representing eight Asian ethnic groups across seven Western countries. The synthesis revealed both pan-Asian patterns and ethnicity-specific phenomena. Four synthesized findings emerged: (1) culturally grounded definitions of healthy eating that prioritize freshness, balance, and traditions, with notable variations in perceptions between ethnic groups; (2) dual nutrition knowledge systems that blend Western dietary guidelines with traditional medicine frameworks; (3) migration-driven changes including a critical gap where improved food security coincides with poorer nutrition security; and (4) socio-cultural meanings of foods as expressions of cultural identity that are frequently prioritized over health considerations. All synthesized findings were rated as moderate level in confidence. Conclusions This is the first qualitative evidence synthesis to summarize the healthy eating perceptions of Asian ethnic groups in WHICs. Study findings reveal the complexity and nuances of their dietary knowledge and perceptions, which were often intertwined with cultural traditions and migration experiences. The coexistence of pan-Asian patterns and ethnic-specific variations warrants the need for targeted nutrition environment interventions to accommodate both the shared values and the unique needs across diverse Asian populations in WHICs.",
     "authors": [
-      "Yidi Zhan",
-      "Jiahui Zhang",
-      "Meina Jin",
-      "Jinyu Li"
+      "Hoang Tong",
+      "Shuxian Hua",
+      "Farheen Zafar",
+      "Kenny Kusnadi"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "Pure Wit: The Revolutionary Life of Margaret Cavendish. FrancescaPeacock. New York: Pegasus Books, 2024. New York: Pegasus Books, 2024. 384 pp. ISBN 13: 9781639366033. $29.95 (hardcover)",
-    "journal": "Milton Quarterly",
+    "field": "Consumer Research",
+    "title": "What Opportunities Does Retirement Bring to Life? Views on Retirement among Slovak Working and Non-working Retirees: A Q Methodology Study",
+    "journal": "Human Affairs",
     "year": "2026",
-    "date": "2026-10-24",
-    "doi": "10.1111/milt.70035",
-    "url": "https://doi.org/10.1111/milt.70035",
-    "abstract": "",
+    "date": "2026-10-26",
+    "doi": "10.1515/humaff-2026-0077",
+    "url": "https://doi.org/10.1515/humaff-2026-0077",
+    "abstract": "Abstract Retirement represents a significant life phase; however, individual experiences and perceived quality of life in retirement are highly diverse. This study explored the subjective views of Slovak working and non-working retirees regarding the opportunities retirement brings, using Q methodology. A set of 36 statements covering key domains (retirement conceptualisations, perceived gains and losses, retirement-related concerns, self-efficacy, and attitudes toward working after retirement) was ranked by 56 participants aged 62 to 73. Factor analysis revealed five distinct perspectives: (1) Life as Before , viewing retirement as a continuation of working life; (2) Slower Pace , favoring both retirement and work at reduced intensity; (3) Freedom , emphasizing retirement as an opportunity for personal fulfillment; (4) Enjoying Retirement , highlighting the right not to work while maintaining skills and financial stability; and (5) Stressed and Frustrated , reflecting dissatisfaction with mandatory retirement and concerns about financial security and loss of meaning. These perspectives illustrate the multifaceted and heterogeneous nature of retirement experiences, demonstrating how retirees evaluate their quality of life and the opportunities available to them. Findings underscore the importance of flexible retirement policies and personalized support systems that acknowledge the diversity of resources, capabilities, and retirement trajectories among individuals.",
     "authors": [
-      "Lara Dodds"
+      "Viera Bačová",
+      "Peter Halama",
+      "Kvetoslava Predmerská"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "Vision Based Robotic Autonomous Refueling System for Highway Service Areas",
+    "journal": "Journal of Computer Science and Frontier Technologies",
+    "year": "2026",
+    "date": "2026-10-26",
+    "doi": "10.63313/jcsft.9107",
+    "url": "https://doi.org/10.63313/jcsft.9107",
+    "abstract": "Highway service-area fueling stations face recurring challenges in labor cost, centralized management, and operational safety. This paper presents a prototype autonomous visual unmanned gas-station system that combines YOLOv5s object detection, a Raspberry Pi-controlled two-degree-of-freedom manipulator, and an ESP32-based Internet-of-Things (IoT) interface. A camera detects the fuel-inlet proxy target, and its image coordinates are transmitted through a serial link to an incremental PI controller that aligns the nozzle. Users select a fueling amount through a mobile interface connected to the Bafa Cloud platform. A 900-image dataset was collected under varied viewpoints and backgrounds; the model was trained for 400 epochs with an 80/20 train–validation split. The prototype achieved detection accuracies above 80% on the tested target shapes, while nozzle positioning errors remained below 3 cm. The results demonstrate the feasibility of integrating lightweight deep learning, embedded control, and cloud interaction for unattended fueling, while also revealing the need for larger real-vehicle datasets and additional safety sensing.",
+    "authors": [
+      "Rongrong Zhu",
+      "Xiaofang Zhang"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Trace H2O2-triggered Fenton-like reaction by secondary coordination sphere in iron-based metal-organic frameworks",
+    "journal": "Nature Communications",
+    "year": "2026",
+    "date": "2026-10-26",
+    "doi": "10.1038/s41467-026-79095-3",
+    "url": "https://doi.org/10.1038/s41467-026-79095-3",
+    "abstract": "",
+    "authors": [
+      "Limin Duan",
+      "Zhihui Fu",
+      "Jiali Wang",
+      "Huihao Jiang"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "The “Speed Paradox” of Capability Building: A Study on the Chain Mediation Mechanism of Innovation Capability Affecting the Speed of Enterprise Internationalization",
+    "journal": "International Business & Economics Studies",
+    "year": "2026",
+    "date": "2026-10-26",
+    "doi": "10.22158/ibes.v8n4p101",
+    "url": "https://doi.org/10.22158/ibes.v8n4p101",
+    "abstract": "To explore the impact mechanism of innovation capability on the speed of enterprise internationalization, this study takes China A-share listed companies in manufacturing and software and information technology services from 2012 to 2016 as samples. Based on dynamic capability and organizational learning theory, a chain mediating model of “innovation capability—absorption capability—adaptability—internationalization speed” is constructed, and empirical tests are conducted through regression analysis, Bootstrap testing, and endogeneity treatment. The results show that innovation capability significantly enhances absorption capability, which in turn significantly promotes adaptability, while adaptability has a significant negative impact on internationalization speed. Innovation capability does not have a direct effect on internationalization speed. The chain mediating path is significantly established. This study breaks through the limitation of a single cause, verifies the chain transmission mechanism of absorption capability and adaptability for the first time, fills the gap in the research on the timing of capability transformation, integrates interdisciplinary theories, and provides practical guidance for enterprises to improve their capability systems and differentiate their responses to environmental distance to optimize their internationalization strategies.",
+    "authors": [
+      "Menghan Ge"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "The personal, the political, and the academic in applied linguistics: a feminist autoethnography of doing trauma research as a survivor",
+    "journal": "Applied Linguistics Review",
+    "year": "2026",
+    "date": "2026-10-26",
+    "doi": "10.1515/applirev-2025-0325",
+    "url": "https://doi.org/10.1515/applirev-2025-0325",
+    "abstract": "Abstract Applied linguistics has increasingly turned toward trauma, yet traumatized individuals typically enter research as those to be known rather than those who know. What if the researcher studying trauma is herself a survivor? In this feminist autoethnography, I examine how my lived experience of gender-based violence propelled me toward research on language and violence and shaped the questions I asked, the meanings I perceived, and the knowledge I produced. As I trace how silence, dissociation, helplessness, and anger became entangled with my research trajectory, I show how they became epistemically productive rather than disruptive: my affective proximity to violence and trauma sensitized me to forms of agency under constraint, the linguistic construction of harm and resistance, and the embodied force of language in ways that might otherwise remain less perceptible. Research, in turn, became a site of meaning-making, agency, and healing. Bringing feminist epistemologies into current applied linguistic discussions of autoethnography, epistemic injustice, and decolonial knowledge production, I argue for feminist autoethnography as an embodied and affective mode of inquiry through which survivor-researchers can become not merely objects of knowledge but legitimate producers of knowledge.",
+    "authors": [
+      "Merve Özçelik"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "The Psychology of Generative AI Dependence: Reward, PsychologicalNeeds, and the Emerging Architecture of Problematic Human–AIEngagement",
+    "journal": "Journal of Psychiatry Research Reviews & Reports",
+    "year": "2026",
+    "date": "2026-10-26",
+    "doi": "10.47363/jpsrr/2026(8)231",
+    "url": "https://doi.org/10.47363/jpsrr/2026(8)231",
+    "abstract": "The rapid diffusion of Generative Artificial Intelligence (GenAI) has transformed the relationship between humans and digital technology. Unlike digital systems that primarily delivered information, mediated interpersonal communication, or provided entertainment, generative AI can respond conversationally, personalise interactions, produce immediate solutions, simulate empathy, reduce cognitive effort, and remain continuously available. These characteristics raise an emerging question: can repeated engagement with generative AI develop into psychologically dependent or addiction-like patterns, and, if so, through what mechanisms? This paper employs an integrative critical literature review and conceptual synthesis to examine problematic generative-AI use through the combined perspectives of behavioural addiction theory, reward and reinforcement processes, the Interaction of Person–Affect–Cognition–Execution (I-PACE) model, self-determination theory, compensatory technology use, social anxiety, loneliness, anthropomorphism, cognitive offloading, and human psychological needs. The current study identifies a major gap in the current literature: emerging research frequently examines AI dependence as either a behavioural outcome, an educational problem, or a form of social attachment, but insufficiently integrates the neuropsychological processes of reinforcement with the psychological needs that make generative AI personally rewarding. To address this gap, this paper proposes the Need–Reward–Dependence (NRD) Framework, according to which problematic GenAI engagement develops through the interaction of three processes: unmet or salient psychological needs, rapid need-contingent reinforcement delivered by AI, and repeated cognitive or emotional outsourcing that strengthens habitual reliance. The framework proposes that competence, relatedness, autonomy, reassurance, emotional regulation, cognitive ease, social safety, and control can act as psychologically rewarding affordances of generative AI. Repeated reinforcement may increase cue-reactivity, habitual checking, perceived indispensability, cognitive delegation, emotional attachment, and impaired self-regulation in susceptible users. Importantly, this paper does not claim that generative-AI addiction is currently established as a distinct psychiatric disorder. Rather, it argues that a theoretically coherent and increasingly empirically observable continuum exists from adaptive use through reliance and dependence to potentially compulsive engagement associated with functional impairment. The paper concludes that future research should distinguish productive high-frequency use from clinically meaningful problematic use and should examine the interaction between users’ psychological vulnerabilities and the reward architecture of generative-AI systems",
+    "authors": [
+      "Paul Andrew Bourne"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
