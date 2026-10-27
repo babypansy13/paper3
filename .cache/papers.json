@@ -1,149 +1,151 @@
 [
   {
-    "field": "Public Policy",
-    "title": "Introducing LÄNDParl – a Biographical Dataset on Members of the Baden-Württemberg State Parliament, 1952–2026",
-    "journal": "Statistics, Politics and Policy",
+    "field": "Marketing",
+    "title": "Phygital customer experience and the adoption of immersive technologies in hospitality: an exploratory study with a value co-creation perspective",
+    "journal": "Journal of Services Marketing",
     "year": "2026",
-    "date": "2026-10-26",
-    "doi": "10.1515/spp-2026-0039",
-    "url": "https://doi.org/10.1515/spp-2026-0039",
-    "abstract": "Abstract This research note introduces LÄNDParl, a novel open-access dataset covering all 1,056 persons who have held a seat in the Landtag of Baden-Württemberg, the parliament of Germany’s third most populous federal state, from the Constituent State Assembly of 1952 to the 18th legislative term that began in 2026. The dataset records 2,552 MdL (state level MP) terms across 18 legislative terms (plus 127 in the Constituent Assembly) and combines biographical information (sex, date and place of birth, religious denomination, education, occupation coded in a standard occupational scheme, family status, migration background) with a complete record of each mandate: constituency, mandate type, entry and exit dates and reasons, parliamentary party group and switches. Its distinctive feature is a geo-referenced classification of every birthplace and – for the two most recent terms – of places of residence into the three historical territories that shape subregional identities to this day: Baden, Württemberg and Hohenzollern. LÄNDParl thus enables research on territorial and descriptive representation, legislative recruitment and careers at the subnational level, as well as on the consequences of the 2022 electoral reform.",
+    "date": "2026-10-27",
+    "doi": "10.1108/jsm-07-2025-0445",
+    "url": "https://doi.org/10.1108/jsm-07-2025-0445",
+    "abstract": "Purpose This study aims to explore immersive-technology adoption in hospitality through the Phygital Customer Experience (PH-CX) framework. PH-CX extends existing technology acceptance, service-dominant logic, omnichannel and customer-journey perspectives by emphasizing embodied, co-created and human-centered experience across physical, digital and artificial intelligence (AI)-mediated interactions. Design/methodology/approach Using Bayesian Networks, the study examines probabilistic dependencies among perceived usefulness, collaborative value, responsive co-creation attitudes and intention to use immersive technologies. Data was collected from 208 participants exposed to an AI-supported immersive hotel journey scenario. The analysis is exploratory and identifies conditional associations rather than causal effects or latent-variable relationships. Findings Adoption intention was conditionally associated with perceived usefulness, collaborative value and responsiveness to service innovation. The findings suggest that immersive-hospitality engagement involves functional, relational and participatory conditions beyond usefulness alone. However, the item-level results are hypothesis-generating and do not demonstrate PH-CX’s incremental predictive superiority over technology acceptance model (TAM) or service-dominant logic. Research limitations/implications The scenario-based, cross-sectional bayesian network (BN) design cannot model latent constructs, measurement error, mediation or causal effects. Future studies should validate PH-CX dimensions and compare TAM, TAM-plus-service-dominant logic (SDL) and PH-CX models using structural equation modeling, longitudinal designs and holdout-sample prediction. Practical implications Hotels can implement PH-CX through phased AI concierge pilots, cross-platform data integration and guest co-creation mechanisms. Relevant metrics include booking conversion, AI resolution rates, cross-channel engagement, co-creation participation and net promoter score (NPS). Ethical implementation requires transparency, opt-in participation, privacy safeguards, accessibility and human escalation options. Social implications Human-centered phygital hospitality requires safeguards against digital exclusion, surveillance and loss of human warmth. Transparency, agency, equity, privacy and non-digital alternatives are essential for inclusive and trustworthy service innovation. Originality/value The study advances PH-CX as a theory-extending framework linking usefulness, co-creation, embodied experience and ethical safeguards in immersive hospitality. It also proposes experience-design orientation as a future research profile and offers a phased implementation framework for responsible phygital service design.",
     "authors": [
-      "Sebastian Jäckle",
-      "Ronald Schleehauf"
+      "Taewon Suh",
+      "Luigi Nasta",
+      "Luca Pirolo",
+      "Barbara Sveva Magnanelli"
     ],
     "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Management",
-    "title": "Workplace benign envy and employee outcomes: the mediating role of a leader’s knowledge-sharing behaviour on innovative work behaviour and workplace well-being among nurses",
-    "journal": "Journal of Health Organization and Management",
-    "year": "2026",
-    "date": "2026-10-26",
-    "doi": "10.1108/jhom-04-2026-0400",
-    "url": "https://doi.org/10.1108/jhom-04-2026-0400",
-    "abstract": "Purpose This study aims to examine the effect of benign envy in the workplace on innovative work behaviour and well-being among nurses, and to test the mediating role of leaders' knowledge-sharing behaviour in these relationships. Design/methodology/approach A cross-sectional survey was used to collect data from 518 nurses working at a public hospital in Turkey. The mediation model was examined using SPSS, AMOS and PROCESS Macro (Model 4). Findings The results suggest that workplace benign envy is positively and significantly associated with innovative work behaviour and workplace well-being (r = 0.508 and r = 0.382, respectively). Furthermore, it was observed that benign envy significantly influences the leader’s information-sharing behaviour. Mediation analyses revealed that the leader’s knowledge-sharing behaviour plays a significant role in these relationships. It is therefore concluded that the indirect effect of benign envy on innovative work behaviour is significant (β = 0.059), although this effect remains relatively limited. Conversely, the indirect effect on workplace well-being was found to be stronger (β = 0.109), indicating a moderate mediating effect. Originality/value The findings indicate that a leader’s support for knowledge sharing is a crucial variable in determining the impact of envy on employees. Furthermore, it is observed that in a supportive environment, this emotion can transform into a constructive role that enhances employees’ innovative behaviour and workplace well-being.",
-    "authors": [
-      "Sermed Dogan",
-      "Nurperihan Tosun",
-      "Tugba Gul Baynal Doğan"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20office%20desk%20documents%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "Where traditions meet change: a qualitative evidence synthesis and meta-aggregation exploring healthy eating perceptions among Asian populations living in high-income Western countries",
-    "journal": "International Journal of Behavioral Nutrition and Physical Activity",
-    "year": "2026",
-    "date": "2026-10-26",
-    "doi": "10.1186/s12966-026-01990-1",
-    "url": "https://doi.org/10.1186/s12966-026-01990-1",
-    "abstract": "Abstract Background Asian populations in Western, high-income countries (WHICs) face growing diet-related health disparities. Prior work highlights dietary acculturation as a contributing factor, yet an in-depth understanding of Asian populations’ perspectives on healthy eating with traditional cuisines blended with Western practices and environments remains limited. This qualitative evidence synthesis systematically examined definitions and cultural influences on healthy eating perceived by diverse Asian ethnic groups in WHICs to inform tailored interventions to improve nutrition and health. Methods A systematic search was conducted in six databases (PubMed, CINAHL, EMBASE, Web of Science, Scopus, PsycINFO), focusing on qualitative studies examining healthy eating perceptions among Asian populations in WHICs. Data extraction used an adapted Joanna Briggs Institute (JBI) Qualitative Data Extraction Form, followed by quality assessment using the JBI Critical Appraisal Checklist. The meta-aggregation approach guided finding synthesis, with cumulative confidence evaluated through the ConQual approach. Results From 8,117 records screened, 25 qualitative papers were included in the synthesis, representing eight Asian ethnic groups across seven Western countries. The synthesis revealed both pan-Asian patterns and ethnicity-specific phenomena. Four synthesized findings emerged: (1) culturally grounded definitions of healthy eating that prioritize freshness, balance, and traditions, with notable variations in perceptions between ethnic groups; (2) dual nutrition knowledge systems that blend Western dietary guidelines with traditional medicine frameworks; (3) migration-driven changes including a critical gap where improved food security coincides with poorer nutrition security; and (4) socio-cultural meanings of foods as expressions of cultural identity that are frequently prioritized over health considerations. All synthesized findings were rated as moderate level in confidence. Conclusions This is the first qualitative evidence synthesis to summarize the healthy eating perceptions of Asian ethnic groups in WHICs. Study findings reveal the complexity and nuances of their dietary knowledge and perceptions, which were often intertwined with cultural traditions and migration experiences. The coexistence of pan-Asian patterns and ethnic-specific variations warrants the need for targeted nutrition environment interventions to accommodate both the shared values and the unique needs across diverse Asian populations in WHICs.",
-    "authors": [
-      "Hoang Tong",
-      "Shuxian Hua",
-      "Farheen Zafar",
-      "Kenny Kusnadi"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "What Opportunities Does Retirement Bring to Life? Views on Retirement among Slovak Working and Non-working Retirees: A Q Methodology Study",
-    "journal": "Human Affairs",
-    "year": "2026",
-    "date": "2026-10-26",
-    "doi": "10.1515/humaff-2026-0077",
-    "url": "https://doi.org/10.1515/humaff-2026-0077",
-    "abstract": "Abstract Retirement represents a significant life phase; however, individual experiences and perceived quality of life in retirement are highly diverse. This study explored the subjective views of Slovak working and non-working retirees regarding the opportunities retirement brings, using Q methodology. A set of 36 statements covering key domains (retirement conceptualisations, perceived gains and losses, retirement-related concerns, self-efficacy, and attitudes toward working after retirement) was ranked by 56 participants aged 62 to 73. Factor analysis revealed five distinct perspectives: (1) Life as Before , viewing retirement as a continuation of working life; (2) Slower Pace , favoring both retirement and work at reduced intensity; (3) Freedom , emphasizing retirement as an opportunity for personal fulfillment; (4) Enjoying Retirement , highlighting the right not to work while maintaining skills and financial stability; and (5) Stressed and Frustrated , reflecting dissatisfaction with mandatory retirement and concerns about financial security and loss of meaning. These perspectives illustrate the multifaceted and heterogeneous nature of retirement experiences, demonstrating how retirees evaluate their quality of life and the opportunities available to them. Findings underscore the importance of flexible retirement policies and personalized support systems that acknowledge the diversity of resources, capabilities, and retirement trajectories among individuals.",
-    "authors": [
-      "Viera Bačová",
-      "Peter Halama",
-      "Kvetoslava Predmerská"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "Vision Based Robotic Autonomous Refueling System for Highway Service Areas",
-    "journal": "Journal of Computer Science and Frontier Technologies",
-    "year": "2026",
-    "date": "2026-10-26",
-    "doi": "10.63313/jcsft.9107",
-    "url": "https://doi.org/10.63313/jcsft.9107",
-    "abstract": "Highway service-area fueling stations face recurring challenges in labor cost, centralized management, and operational safety. This paper presents a prototype autonomous visual unmanned gas-station system that combines YOLOv5s object detection, a Raspberry Pi-controlled two-degree-of-freedom manipulator, and an ESP32-based Internet-of-Things (IoT) interface. A camera detects the fuel-inlet proxy target, and its image coordinates are transmitted through a serial link to an incremental PI controller that aligns the nozzle. Users select a fueling amount through a mobile interface connected to the Bafa Cloud platform. A 900-image dataset was collected under varied viewpoints and backgrounds; the model was trained for 400 epochs with an 80/20 train–validation split. The prototype achieved detection accuracies above 80% on the tested target shapes, while nozzle positioning errors remained below 3 cm. The results demonstrate the feasibility of integrating lightweight deep learning, embedded control, and cloud interaction for unattended fueling, while also revealing the need for larger real-vehicle datasets and additional safety sensing.",
-    "authors": [
-      "Rongrong Zhu",
-      "Xiaofang Zhang"
-    ],
-    "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Psychology",
-    "title": "Trace H2O2-triggered Fenton-like reaction by secondary coordination sphere in iron-based metal-organic frameworks",
-    "journal": "Nature Communications",
+    "field": "Mental Health",
+    "title": "Ziziphus spina-christi leaf extract in schistosomal liver disease: Biomarker gains in hepatectomy model-perioperatively actionable?",
+    "journal": "World Journal of Hepatology",
     "year": "2026",
-    "date": "2026-10-26",
-    "doi": "10.1038/s41467-026-79095-3",
-    "url": "https://doi.org/10.1038/s41467-026-79095-3",
-    "abstract": "",
+    "date": "2026-10-27",
+    "doi": "10.4254/wjh.117794",
+    "url": "https://doi.org/10.4254/wjh.117794",
+    "abstract": "Schistosomiasis is a major neglected tropical disease that leads to periportal fibrosis, portal hypertension, and compromised hepatic reserve. In endemic regions, the disease persists despite anthelmintic therapy, thereby increasing surgical risks. This editorial discusses the study by Alghamdi published in the World Journal of Hepatology , which evaluates the effects of Ziziphus spina-christi leaf extract (ZSCLE) in a hamster model of Schistosoma mansoni-induced fibrosis undergoing 50% partial hepatectomy. The study demonstrated that ZSCLE reduced hepatic egg burden, improved biochemical markers and inflammatory markers, activated cellular injury responses, and increased regeneration indices. Although these preclinical findings indicate potential benefits, they do not yet establish clinical perioperative efficacy due to the absence of definitive outcomes, such as post-hepatectomy liver failure, bleeding/transfusion surrogates, survival, and dynamic reserve testing. The central clinical question remains whether ZSCLE enhances hepatic tolerance and recovery following major surgical stress, possibly through anti-inflammatory/antioxidant signaling or direct antiparasitic activity, beyond improvements in biochemical markers alone. Future development of ethnomedicines should prioritize standardized research methodologies, comprehensive safety evaluations, and investigations incorporating clinically relevant functional endpoints and hard clinical outcomes to ensure both efficacy and safety in clinical settings.",
     "authors": [
-      "Limin Duan",
-      "Zhihui Fu",
-      "Jiali Wang",
-      "Huihao Jiang"
+      "Xue-Hu Song",
+      "Hao-Xian Gou",
+      "Zhu Huang",
+      "Zhu-Lin Luo"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20solitude%20bedroom%20morning%20light%20mental%20health%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Urban Studies",
-    "title": "The “Speed Paradox” of Capability Building: A Study on the Chain Mediation Mechanism of Innovation Capability Affecting the Speed of Enterprise Internationalization",
-    "journal": "International Business & Economics Studies",
+    "field": "Public Policy",
+    "title": "Why employee silence persists: unequal capacity to bear the consequences of speaking up",
+    "journal": "International Journal of Organizational Analysis",
     "year": "2026",
-    "date": "2026-10-26",
-    "doi": "10.22158/ibes.v8n4p101",
-    "url": "https://doi.org/10.22158/ibes.v8n4p101",
-    "abstract": "To explore the impact mechanism of innovation capability on the speed of enterprise internationalization, this study takes China A-share listed companies in manufacturing and software and information technology services from 2012 to 2016 as samples. Based on dynamic capability and organizational learning theory, a chain mediating model of “innovation capability—absorption capability—adaptability—internationalization speed” is constructed, and empirical tests are conducted through regression analysis, Bootstrap testing, and endogeneity treatment. The results show that innovation capability significantly enhances absorption capability, which in turn significantly promotes adaptability, while adaptability has a significant negative impact on internationalization speed. Innovation capability does not have a direct effect on internationalization speed. The chain mediating path is significantly established. This study breaks through the limitation of a single cause, verifies the chain transmission mechanism of absorption capability and adaptability for the first time, fills the gap in the research on the timing of capability transformation, integrates interdisciplinary theories, and provides practical guidance for enterprises to improve their capability systems and differentiate their responses to environmental distance to optimize their internationalization strategies.",
+    "date": "2026-10-27",
+    "doi": "10.1108/ijoa-08-2026-7727",
+    "url": "https://doi.org/10.1108/ijoa-08-2026-7727",
+    "abstract": "Purpose This study aims to develop capacity to bear voice consequences to explain why employees anticipating comparable repercussions from speaking up may make different communication choices. It examines how unequal protection shapes silence within a voice episode and how experience can alter later choices. Design/methodology/approach The conceptual argument integrates employee voice and silence research with conservation of resources theory, career scholarship and employment relations to develop propositions linking anticipated exposure, available capacity and perceived capacity. Findings The model proposes that anticipated consequence exposure is more strongly associated with silence when perceived capacity is low. Available capacity comprises resources that employees can access and mobilise to absorb, contain or recover from specified losses. Perceived capacity concerns their assessment of that protection. Appraisals may underestimate or exceed the protection available at the decision point. Communication arrangements and experiences of harm or protection may alter exposure, capacity and subsequent choices. Originality/value The contribution specifies how resources become protective through their fit with anticipated consequences. By distinguishing available protection from its appraisal, the model explains why comparable anticipated events can exert unequal behavioural influence across employees. It connects resource inequality with silence through a proposed interaction between exposure and perceived capacity, then examines how that relationship may change across episodes.",
     "authors": [
-      "Menghan Ge"
+      "Daniel Costa Pacheco"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Why Should a Data-Driven Cancer Center Prioritize Well-Being?",
+    "journal": "Advances in Cancer Education and Quality Improvement",
+    "year": "2026",
+    "date": "2026-10-27",
+    "doi": "10.52519/aceqi.26.2.2.a4",
+    "url": "https://doi.org/10.52519/aceqi.26.2.2.a4",
+    "abstract": "",
+    "authors": [
+      "Peter Pisters"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "What drives EU economic growth? Key takeaways in a shifting global economy",
+    "journal": "Review of Economics and Political Science",
+    "year": "2026",
+    "date": "2026-10-27",
+    "doi": "10.1108/reps-02-2025-0013",
+    "url": "https://doi.org/10.1108/reps-02-2025-0013",
+    "abstract": "Purpose This study explores the key drivers of economic growth in the EU from 2000 to 2024, focusing on investment, trade openness, government expenditure and R&D. Using panel data from 27 EU countries, the research examines how these variables influence GDP per capita growth, emphasizing the role of human capital, foreign direct investment (FDI) and manufacturing. Design/methodology/approach The study employs the generalized method of moments (GMM) to address endogeneity and obtain robust estimates. The model includes lagged GDP per capita growth, investment, trade openness and government expenditure, along with R&D-related variables such as researchers per million inhabitants and tertiary school enrollment. The analysis also explores variations based on R&D intensity and transition status. Findings Results indicate that trade openness significantly boosts economic growth, with manufacturing growth playing a key role, particularly in higher R&D-intensity countries. Government expenditure and investment appear insignificant, while tertiary enrollment can have negative effects, depending on the context. Originality/value This study provides novel insights into the heterogeneous effects of R&D and human capital on EU economic growth, emphasizing the importance of trade and industrial policies in fostering long-term development.",
+    "authors": [
+      "Kristijan Kotarski",
+      "Marina Tkalec",
+      "Iva Bujger"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Travel without movement: understanding the impact of immersive technologies on virtual tourism experiences",
+    "journal": "Consumer Behavior in Tourism and Hospitality",
+    "year": "2026",
+    "date": "2026-10-27",
+    "doi": "10.1108/cbth-09-2025-0277",
+    "url": "https://doi.org/10.1108/cbth-09-2025-0277",
+    "abstract": "Purpose This study aims to examine how immersive digital technologies shape virtual tourism by investigating the mediating role of user engagement in the relationships among digital technology adoption, accessibility, content quality, interactivity and the effectiveness of virtual tourism experiences. Design/methodology/approach A quantitative research design was adopted using a structured online survey of 235 respondents with prior virtual tourism experience, selected through purposive and snowball sampling. Data were analyzed using SPSS and AMOS using confirmatory factor analysis and structural equation modeling. Findings User engagement significantly mediates the relationships between technological attributes and virtual tourism effectiveness. Content quality and digital technology adoption demonstrate strong direct and indirect effects, accessibility and interactivity operate only through engagement, suggesting that experiential immersion depends more on cognitive and emotional engagement than on functional interaction alone. Practical implications The findings provide guidance for platform developers, destination marketers and policymakers on designing immersive, accessible and user-centered virtual tourism environments that enhance engagement and broaden access to tourism experiences. Social implications Virtual tourism can promote more inclusive tourism participation by providing access to destinations for individuals facing physical, financial, or geographical barriers to travel. By complementing physical tourism, immersive digital experiences can broaden cultural exposure and support more equitable access to tourism experiences. Originality/value This study extends virtual tourism literature by integrating technological, psychological and experiential dimensions within a unified framework that explains how user engagement translates technological attributes into effective virtual tourism experiences.",
+    "authors": [
+      "Bijin Philip",
+      "Geethu Anna Mathew",
+      "Roshen Therese Sebastian"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "The personal, the political, and the academic in applied linguistics: a feminist autoethnography of doing trauma research as a survivor",
-    "journal": "Applied Linguistics Review",
+    "title": "The more confident the more digital? A study of the mechanisms of CEO overconfidence on corporate digital transformation",
+    "journal": "Leadership & Organization Development Journal",
     "year": "2026",
-    "date": "2026-10-26",
-    "doi": "10.1515/applirev-2025-0325",
-    "url": "https://doi.org/10.1515/applirev-2025-0325",
-    "abstract": "Abstract Applied linguistics has increasingly turned toward trauma, yet traumatized individuals typically enter research as those to be known rather than those who know. What if the researcher studying trauma is herself a survivor? In this feminist autoethnography, I examine how my lived experience of gender-based violence propelled me toward research on language and violence and shaped the questions I asked, the meanings I perceived, and the knowledge I produced. As I trace how silence, dissociation, helplessness, and anger became entangled with my research trajectory, I show how they became epistemically productive rather than disruptive: my affective proximity to violence and trauma sensitized me to forms of agency under constraint, the linguistic construction of harm and resistance, and the embodied force of language in ways that might otherwise remain less perceptible. Research, in turn, became a site of meaning-making, agency, and healing. Bringing feminist epistemologies into current applied linguistic discussions of autoethnography, epistemic injustice, and decolonial knowledge production, I argue for feminist autoethnography as an embodied and affective mode of inquiry through which survivor-researchers can become not merely objects of knowledge but legitimate producers of knowledge.",
+    "date": "2026-10-27",
+    "doi": "10.1108/lodj-06-2025-0433",
+    "url": "https://doi.org/10.1108/lodj-06-2025-0433",
+    "abstract": "Purpose This study examines how CEO overconfidence influences corporate digital transformation and explores the cognitive-behavioral mechanisms underlying this relationship. Design/methodology/approach Using a panel dataset of Chinese A-share listed firms from 2010 to 2024, this study constructs a language-based measure of CEO overconfidence from CEOs' personal social media posts and their directly attributable statements reported in publicly available sources. Two-way fixed-effects models are employed to examine the relationship between CEO overconfidence and corporate digital transformation, supplemented by robustness checks including alternative measures, additional fixed effects, instrumental variable analyses and Heckman two-stage analysis. Findings The results show that CEO overconfidence is positively associated with firms' digital transformation. This effect operates primarily through entrepreneurial orientation and strategic risk-taking, with the two mechanisms forming a sequential mediating relationship. Furthermore, the positive effect of CEO overconfidence on digital transformation is strengthened when CEOs possess an IT background and greater CEO power, as well as when firms have higher levels of resource slack and operate in regions with higher levels of market development, but is weakened in state-owned enterprises. Originality/value This study advances upper echelons theory by developing a commitment-based account of how CEO overconfidence shapes strategic change under uncertainty and by specifying a cognition–posture–action process through which executive cognition is translated into firm-level digital transformation. Methodologically, it introduces a language-based measure of CEO overconfidence derived from CEOs' linguistic expressions, offering an alternative approach to capturing executive cognition beyond traditional financial proxies.",
     "authors": [
-      "Merve Özçelik"
+      "Ethan Xin Liu",
+      "Lily Dang"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Mental Health",
-    "title": "The Psychology of Generative AI Dependence: Reward, PsychologicalNeeds, and the Emerging Architecture of Problematic Human–AIEngagement",
-    "journal": "Journal of Psychiatry Research Reviews & Reports",
+    "field": "Urban Studies",
+    "title": "The Influence of the Non-Arabic Tongue on Qur'anic Recitation: A Contrastive Phonetic Study of Samples from Visiting Students in the Qur'an Circles of the Sacred Mosque in Makkah",
+    "journal": "AL-Lisan International Journal for Linguistic & Literary Studies",
     "year": "2026",
-    "date": "2026-10-26",
-    "doi": "10.47363/jpsrr/2026(8)231",
-    "url": "https://doi.org/10.47363/jpsrr/2026(8)231",
-    "abstract": "The rapid diffusion of Generative Artificial Intelligence (GenAI) has transformed the relationship between humans and digital technology. Unlike digital systems that primarily delivered information, mediated interpersonal communication, or provided entertainment, generative AI can respond conversationally, personalise interactions, produce immediate solutions, simulate empathy, reduce cognitive effort, and remain continuously available. These characteristics raise an emerging question: can repeated engagement with generative AI develop into psychologically dependent or addiction-like patterns, and, if so, through what mechanisms? This paper employs an integrative critical literature review and conceptual synthesis to examine problematic generative-AI use through the combined perspectives of behavioural addiction theory, reward and reinforcement processes, the Interaction of Person–Affect–Cognition–Execution (I-PACE) model, self-determination theory, compensatory technology use, social anxiety, loneliness, anthropomorphism, cognitive offloading, and human psychological needs. The current study identifies a major gap in the current literature: emerging research frequently examines AI dependence as either a behavioural outcome, an educational problem, or a form of social attachment, but insufficiently integrates the neuropsychological processes of reinforcement with the psychological needs that make generative AI personally rewarding. To address this gap, this paper proposes the Need–Reward–Dependence (NRD) Framework, according to which problematic GenAI engagement develops through the interaction of three processes: unmet or salient psychological needs, rapid need-contingent reinforcement delivered by AI, and repeated cognitive or emotional outsourcing that strengthens habitual reliance. The framework proposes that competence, relatedness, autonomy, reassurance, emotional regulation, cognitive ease, social safety, and control can act as psychologically rewarding affordances of generative AI. Repeated reinforcement may increase cue-reactivity, habitual checking, perceived indispensability, cognitive delegation, emotional attachment, and impaired self-regulation in susceptible users. Importantly, this paper does not claim that generative-AI addiction is currently established as a distinct psychiatric disorder. Rather, it argues that a theoretically coherent and increasingly empirically observable continuum exists from adaptive use through reliance and dependence to potentially compulsive engagement associated with functional impairment. The paper concludes that future research should distinguish productive high-frequency use from clinically meaningful problematic use and should examine the interaction between users’ psychological vulnerabilities and the reward architecture of generative-AI systems",
+    "date": "2026-10-27",
+    "doi": "10.63226/aijlls.v10i22.6255",
+    "url": "https://doi.org/10.63226/aijlls.v10i22.6255",
+    "abstract": "Abstract: This research examines the impact of the mother tongue on the Quranic recitation of non-Arabic speakers, based on observations recorded by the researcher while teaching in the study circles of the Grand Mosque (Al-Masjid Al-Haram) during Rajab 1447 AH. The study observed twenty-five visiting students reciting according to the narration of Ḥafṣ ‘an ‘Āṣim: ten from West Africa and fifteen from Southeast Asia. Utilizing a descriptive-analytical approach alongside contrastive analysis, the study evaluated deviations using the criteria of manifest (al-laḥn al-jalī) and hidden (al-laḥn al-khafiyy) errors established by tajwīd scholars. The findings indicate that shared deviations between the two groups concentrate on the letters ḥā' (ح), ‘ayn (ع), and emphasized (muṭbaqah) sounds. The most prominent difference between the groups lies in the degree of deviation: complete substitution predominated among the African students, whereas approximation predominated among the Asian students—a difference the research attributes to the level of emphasis placed on tajwīd instruction. Furthermore, the study revealed causes of deviation that cannot be predicted solely by comparing the phonologies of the two languages, such as over-correction, adjacency effects (assimilation/coarticulation), and syllable constraints. It concludes with remedial exercises based on minimal pairs derived from Quranic vocabulary. Keywords: Non-Arabic tongue (Al-Lisān Al-‘Ajamī), Quranic performance, manifest and hidden errors (al-laḥn al-jalī and al-khafiyy), contrastive analysis, linguistic interference, Grand Mosque study circles.",
     "authors": [
-      "Paul Andrew Bourne"
+      "Abdullah Mohammed A Alkhayri"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "Behavioral intention to use FinTech lending based on a holistic theory – Does lifestyle of hedonic consumption matter?",
+    "journal": "Journal of Economic and Administrative Sciences",
+    "year": "2026",
+    "date": "2026-10-27",
+    "doi": "10.1108/jeas-05-2025-0264",
+    "url": "https://doi.org/10.1108/jeas-05-2025-0264",
+    "abstract": "Purpose This study empirically tests the effects of effort expectancy (EE), performance expectancy (PE), social influence (SI), facilitating conditions (FC), attitude, subjective norm (SN), perceived behavioral control (PBC), and lifestyle of hedonic consumption (LOHC) on behavioral intention to use FinTech lending (BIUFL) and actual usage of FinTech lending (AUFL). Design/methodology/approach This study utilized convenience sampling to select 350 university students from Indonesia. Data were collected using an online questionnaire. Data were analyzed using variance-based structural equation modeling with WarpPLS. Findings Our study found that PE, attitude, PBC, and LOHC were essential factors in BIUFL. We report that the EE, SI, FC, and SN do not affect BIUFL. Finally, BIUFL was found to positively influence AUFL. Practical implications Regulators enhance supervision by issuing regulations that set strict requirements for Gen Z to access FinTech lending, particularly regarding prospective customers' ability to repay credit, and add parental consent as an additional requirement for Gen Z. Originality/value We employ a holistic research model that combines the unified theory of acceptance and use of technology (UTAUT), theory of planned behavior (TPB), and LOHC to explain students' BIUFL.",
+    "authors": [
+      "Hasan Mukhibad",
+      "Fachrurrozie Fachrurrozie",
+      "Indah Anisykurlillah",
+      "Kuat Waluyo Jati"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
