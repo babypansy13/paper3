@@ -1,157 +1,152 @@
 [
   {
     "field": "Mental Health",
-    "title": "NUMERICAL STUDY OF MAGNETOHYDRODYNAMIC BIOCONVECTIVE FLOW OVER A CURVED SURFACE WITH RADIATION AND THERMAL SOLUTAL EFFECTS",
-    "journal": "Journal of Mechanics in Medicine and Biology",
+    "title": "When Patients Need an Enemy",
+    "journal": "New England Journal of Medicine",
     "year": "2026",
-    "date": "2026-11-04",
-    "doi": "10.1142/s0219519426500740",
-    "url": "https://doi.org/10.1142/s0219519426500740",
-    "abstract": "This study investigates the influence of chemical species on magnetized bioconvection flow of a viscous nanofluid over a stretching curved surface. The analysis incorporates the effects of Brownian motion, Thermophoresis, Thermal radiation, and internal heat generation/absorption. Convective thermal and solutal boundary conditions are imposed to examine heat and mass transport characteristics. Appropriate similarity transformations are employed to convert the governing partial differential equations into a system of nonlinear ordinary differential equations, which are then solved numerically using the BVP4C scheme. The results indicate that an increase in the magnetic field parameter significantly suppresses the velocity gradient due to the Lorentz force. Moreover, simultaneous enhancement of thermal radiation and Brownian motion parameters leads to a pronounced rise in the temperature distribution. The concentration gradient is found to increase with higher values of the solutal Biot number and Brownian motion parameter. Additionally, the local density number, Nusselt number, and Sherwood number are computed and analyzed. A comparative assessment with previously published results in limiting cases is presented, demonstrating excellent agreement and validating the accuracy of the numerical methodology. This study presents a novel unified numerical framework that simultaneously incorporates bioconvection, magnetohydrodynamics, thermal radiation, and thermo-solutal effects over a curved surface, addressing the lack of comprehensive analyses of these coupled phenomena in existing literature. The findings provide new insights into the interaction between curvature, magnetic fields, heat transfer, mass transfer, and microorganism dynamics. The proposed model has potential applications in biomedical engineering, bio-reactors, solar thermal systems, microfluidic devices, and advanced heat and mass transfer technologies.",
-    "authors": [
-      "ASRA ANJUM",
-      "G. SWAMY REDDY",
-      "SAMDANI PEERUSAB",
-      "AMBER NEHAN KASHIF"
-    ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "When social pedagogy goes to school: innovative approaches promoting agency, community and democracy in formal education",
-    "journal": "International Journal of Social Pedagogy",
-    "year": "2026",
-    "date": "2026-11-04",
-    "doi": "10.14324/111.444.ijsp.2026.v15.x.022",
-    "url": "https://doi.org/10.14324/111.444.ijsp.2026.v15.x.022",
+    "date": "2026-11-05",
+    "doi": "10.1056/nejmp2606011",
+    "url": "https://doi.org/10.1056/nejmp2606011",
     "abstract": "",
     "authors": [
-      "Daniel Schugurensky",
-      "Tara Bartlett"
+      "Daniel A. Brenner"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Public Policy",
-    "title": "Value co-creation pathways for construction waste reduction",
-    "journal": "Engineering, Construction and Architectural Management",
-    "year": "2026",
-    "date": "2026-11-04",
-    "doi": "10.1108/ecam-01-2026-0147",
-    "url": "https://doi.org/10.1108/ecam-01-2026-0147",
-    "abstract": "Purpose This study aims to address the persistent challenges of fragmented collaboration and unclear value exchange in construction waste reduction (CWR). It seeks to develop a systematic understanding of how stakeholders collaborate by constructing a stakeholder value network (SVN) model. Design/methodology/approach A mixed-methods approach was employed, integrating value co-creation and social exchange theory. The SVN model was developed and analyzed using data from a literature review, policy analysis and semi-structured expert interviews. The network analysis identified 45 value streams and 846 value loops, with robustness ensured through sensitivity analysis. Findings The results reveal that non-economic values, specifically knowledge sharing, policy support and social recognition, play a more critical structural role than financial incentives in sustaining collaborative networks. Furthermore, contractors, owners and designers form the triadic core of CWR governance, whereas suppliers and the public assume more peripheral roles than traditionally presumed. Originality/value This study contributes a novel, network-based analytical framework for examining multi-stakeholder cooperation in sustainability-oriented projects. It challenges the conventional overemphasis on economic drivers as the primary collaborative force and redefines core governance actors. Based on the findings, a government-led guarantee mechanism is proposed to strengthen cross-sector collaboration, providing actionable strategies for policymakers and project managers to optimize value exchange and enhance CWR performance.",
-    "authors": [
-      "Lizi Luo",
-      "Ziyi Zhang",
-      "Tianyun Zhang",
-      "Jason Xin Zhou"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Consumer Research",
-    "title": "Uncorking change: female leadership and sustainable transformation in the Chilean wine industry",
-    "journal": "International Journal of Wine Business Research",
+    "title": "What is compassion connected to, and does it differ by gender and age?​ ​​A network analysis of compassion, self-compassion, mindfulness, empathy and mental health",
+    "journal": "BMC Psychology",
     "year": "2026",
-    "date": "2026-11-04",
-    "doi": "10.1108/ijwbr-01-2026-0013",
-    "url": "https://doi.org/10.1108/ijwbr-01-2026-0013",
-    "abstract": "Purpose This study aims to explore how women leaders in the Chilean wine industry describe and enact leadership practices in relation to sustainability-oriented management. It further examines the organizational and sector-specific conditions that enable or constrain these practices in a historically male-dominated industry. Design/methodology/approach This qualitative, interpretive study used semi-structured interviews with 16 women leaders in the Chilean wine industry, analyzed through hybrid thematic analysis combining deductive and inductive coding, supported by ATLAS.ti 23. Findings Participants described relational, participatory and long-term-oriented leadership practices linked to sustainability-oriented management, including employee engagement, capacity-building, formalized environmental routines and interorganizational collaboration. Implementation depended on decision-making authority, organizational resources, senior-management support and sectoral pressures. Findings are exploratory and do not establish that these practices are exclusive to women or causally linked to sustainability. Research limitations/implications The study focuses exclusively on women leaders in the Chilean wine industry, limiting generalizability. Future research could incorporate comparative perspectives across sectors, countries and gender groups, and longitudinal analyses of sustainability-oriented leadership. Practical implications Findings highlight the value of inclusive leadership development, transparent promotion systems, mentoring networks and gender-sensitive policies to strengthen sustainable management in the wine sector. Social implications By linking gender-inclusive leadership to sustainability transitions, the study reinforces the relevance of SDG 5 – gender equality and SDG 8 – decent work and economic growth, emphasizing women’s leadership in fostering more equitable, sustainable organizations. Originality/value This study integrates female leadership, gender equality and sustainable management in an emerging-economy wine sector, extending Grimstad’s (2011) framework by examining how women leaders describe relational and long-term-oriented practices as resources that may support sustainability-oriented management under specific institutional conditions.",
+    "date": "2026-11-05",
+    "doi": "10.1186/s40359-026-05930-3",
+    "url": "https://doi.org/10.1186/s40359-026-05930-3",
+    "abstract": "",
     "authors": [
-      "Valentina Gomes Haensel Schmitt",
-      "Mirza Marvel Cequea",
-      "Jessika Milagros Vásquez Neyra",
-      "Marcos Ferasso"
+      "Su-gyeong Lee",
+      "Jang-won Seo"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Marketing",
-    "title": "Triterpenoid saponins from the aerial parts of Phytolacca americana and their anti-influenza A virus activity",
-    "journal": "Royal Society Open Science",
+    "field": "Public Policy",
+    "title": "Weaving the path towards profitability at Utkalamrita",
+    "journal": "Emerald Emerging Markets Case Studies",
     "year": "2026",
-    "date": "2026-11-04",
-    "doi": "10.1098/rsos.262034",
-    "url": "https://doi.org/10.1098/rsos.262034",
-    "abstract": "Abstract Phytolacca americana L. (Phytolaccaceae), a perennial species native to North America, is rich in oleanane-type triterpenoid saponins. In this study, ultra-performance liquid chromatography coupled with quadrupole time-of-flight mass spectrometry (UPLC–QTOF–MS) profiling of the aerial-part extract revealed characteristic fragment ions of phytolaccagenin- and phytolaccagenic acid-type saponins with diverse glycosylation. MS-guided annotation enabled targeted isolation and structural elucidation of two previously undescribed compounds, one oleanane-type triterpenoid saponin (1) and one neolignan (3). Additionally, compound 2, which had been reported only based on mass spectrometric data, was isolated, and its structure was fully elucidated for the first time, together with those of 10 known oleanane-type triterpenoid saponins (4–13). Their structures were elucidated by comprehensive one-dimensional and two-dimensional nuclear magnetic resonance spectroscopic analyses combined with UPLC–QTOF–MS data. Although P. americana extracts have been reported to inhibit influenza A virus infection in previous studies, the bioactive constituents responsible for this antiviral activity have not been identified. The crude extract and isolated saponins were evaluated using complementary in vitro assays. In H1N1-infected A549 cells, compound 11 (3-O-trisaccharide phytolaccagenic acid) reduced viral NS1 RNA levels at 6 and 24 hpi as determined by RT–qPCR. Antiviral activity was further confirmed by plaque reduction and immunoblot analyses, with a plaque-assay IC50 of 57.98 ± 0.26 µM.",
+    "date": "2026-11-05",
+    "doi": "10.1108/eemcs-12-2025-0842",
+    "url": "https://doi.org/10.1108/eemcs-12-2025-0842",
+    "abstract": "Learning outcomes By the end of this case study, learners should be able to: 1. Identify the key managerial, financial and market challenges faced by Utkalamrita brand; 2. Classify cost, prepare cost sheet, conduct common-size analysis, calculate contribution margin and analyse profitability position; 3. Formulate short-term and long-term strategic initiatives to protect contribution margin and move towards profitability target; and 4. Evaluate the financial impact of external policy shocks on exports and profitability. Case overview/synopsis This case examines the costing and profitability challenges faced by handloom entrepreneurs Ms Amrita Sabat and Dr Anita Sabat, co-founders of Utkalamrita, a brand producing Geographical Indication tagged Utkala-Gouraba sarees originating from Odisha, India. While the brand derived cultural value from authentic craftsmanship, fair artisan wages and heritage preservation, these very commitments contributed to a high-cost base and limited pricing flexibility. Operating with low margins, the firm now targeted 12% profitability. A sudden US$100 export duty announcement on all US-bound parcels, effective immediately, eliminated the duty-free threshold that powered international sales for Utkalamrita. A saree order, ready for dispatch to a US client, suddenly became financially unviable. Barely a week before shipment deadline, Amrita had to decide whether to absorb the duty, pass it on to the client or negotiate middle path. Beyond this single order loomed a deeper question, could Utkalamrita survive, achieve 12% profitability and compete amongst dynamic global trade regulations and policies. This case enables students to prepare a cost sheet, conduct common-size analysis and compute contribution margins. Furthermore, students evaluate the financial implications of absorbing the US$100 duty and passing it on to the client through cost–volume–profit analysis. They also explore short-term and long-term strategic initiatives in the face of external shocks. Ultimately, this case integrates cost and managerial accounting with strategic decision-making, encouraging learners to assess how craft-based enterprises navigate external shocks while preserving financial viability and cultural authenticity. The case is grounded in primary data obtained through founders’ interviews. Complexity academic level The case is suitable for undergraduate (Bachelor of Business Administration) and postgraduate (Master of Business Administration) students: primarily aimed at students learning cost and management accounting course. Subject code CSS 1: Accounting and Finance.",
     "authors": [
-      "Shuo Tian",
-      "Jisu Park",
-      "You Jin Kim",
-      "Sainan Li"
+      "Nandita Mishra",
+      "Khushboo Vora",
+      "Manjula Shastri",
+      "Mahesh Luthia"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "The entrepreneurial and engaged university: development and validation of a faculty perception scale",
-    "journal": "Journal of Small Business and Enterprise Development",
-    "year": "2026",
-    "date": "2026-11-04",
-    "doi": "10.1108/jsbed-11-2025-0763",
-    "url": "https://doi.org/10.1108/jsbed-11-2025-0763",
-    "abstract": "Purpose The modern university is increasingly mandated to move beyond its traditional missions and act as a core engine for regional development. This has given rise to the concepts of the “entrepreneurial” and “socially engaged” university. However, existing metrics often focus narrowly on quantitative outputs, failing to capture the underlying institutional culture. This paper addresses this gap by developing and validating a novel instrument to measure the entrepreneurial and engaged university through faculty perceptions. Design/methodology/approach Based on a review of the literature, a perception-based scale was developed. The instrument was then validated using a sample of 186 university professors from various Brazilian higher education institutions. The data were analyzed using exploratory factor analysis (EFA) and confirmatory factor analysis (CFA). Findings The analysis validates a seven-dimension model for assessing the entrepreneurial-engaged university. The results indicate that faculty members perceive the entrepreneurial and engagement dimensions of the third mission as a unified construct. Notably, the outreach dimension was consolidated: three constructs initially hypothesized as distinct could not be maintained as separate dimensions because inter-construct correlations of 0.887 and 0.900 exceeded the square roots of their respective average variances extracted. This finding suggests that faculty members do not cognitively distinguish among these aspects of the university's societal engagement. A second-order construct analysis further demonstrates that the seven validated dimensions are viewed by faculty as manifestations of a single, integrated higher-order construct, with all path coefficients positive and statistically significant. This perceptual integration aligns with theoretical arguments regarding the convergence of entrepreneurial and engaged university models and this study contributes a faculty-level analytical perspective to this discourse. Practical implications The validated scale provides university administrators with a diagnostic tool to assess their institution's internal capabilities, identify cultural and procedural bottlenecks and strategically guide investments to foster a more productive entrepreneurial environment. The second-order composite score additionally allows a single summary indicator of the institution's overall entrepreneurial-engaged orientation, complementing the seven-dimension profile. Originality/value This study provides empirical evidence that faculty perceive entrepreneurial and engaged orientations as a single integrated profile, and it delivers the first validated, perception-based scale designed to measure that profile.",
-    "authors": [
-      "Simona Adriana Banacu dos Santos",
-      "Luisa Veras de Sandes-Guimarães",
-      "Maria do Carmo Romeiro",
-      "Celso Machado Junior"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Urban Studies",
-    "title": "THE CROSS-BORDER MIGRATION OF CHINA'S DIGITAL GOVERNANCE EXPERIENCE UNDER THE CHINA-ASEAN DIGITAL ECONOMY COOPERATION FRAMEWORK",
-    "journal": "World Journal of Economics and Business Research",
+    "title": "Uncrewed aircraft systems for blood transport in Kenya: a facility location, utilization, and cost-efficiency analysis",
+    "journal": "Health Economics Review",
     "year": "2026",
-    "date": "2026-11-04",
-    "doi": "10.61784/wjebr3135",
-    "url": "https://doi.org/10.61784/wjebr3135",
-    "abstract": "With the rapid development of digital technology, digital governance has become an important path to modernizing national governance and a key issue in global economic cooperation. Within the framework of China-ASEAN digital economy cooperation, regional cooperation practices centered on the \"Digital Silk Road\" have provided fertile ground for the cross-border transfer of China's digital governance experience. This paper, from the dialectical perspective of \"development empowerment and sovereignty balance,\" systematically examines the core elements, current status, and pathways of the cross-border transfer of China's digital governance experience. The study finds that China's digital governance model, characterized by state-capacity leadership, infrastructure exports as a precursor, the promotion of technical standards as a link, and multi-party collaborative governance as a mechanism, has generated significant spillover effects in ASEAN's digital transformation process. This cooperation not only provides ASEAN countries with a development path different from the West and innovates the South-South digital cooperation paradigm, but also injects new momentum into the equitable and diversified transformation of the global digital governance system, highlighting the global governance significance of the \"Chinese solution.\"",
+    "date": "2026-11-05",
+    "doi": "10.1186/s13561-026-00873-2",
+    "url": "https://doi.org/10.1186/s13561-026-00873-2",
+    "abstract": "Abstract Background Uncrewed aircraft systems (UAS) are increasingly promoted to improve access to blood and emergency medical commodities in low-and middle-income countries. However, economic evaluations have mostly focused on aircraft performance, with limited attention to base station placement, utilization, and staffing requirements – key determinants of unit cost given high fixed operating expenses. Moreover, blood and similar commodities can only be administered in facilities that are legally authorized and clinically equipped to manage severe adverse reactions, constraining effective demand. We evaluated how these factors would jointly affect the cost-efficiency of UAS blood transport in Kenya. Methods We conducted a facility location and economic analysis of UAS blood transport under three base station placement scenarios: existing blood bank sites, urban centers (> 30,000 population), and unrestricted village and town locations. We estimated geographic and population-weighted coverage of transfusing hospitals, compared UAS flight times with road travel times within identical service areas, and projected delivery volumes and unit costs using facility catchment populations, utilization assumptions, and staffing models consistent with 24/7 emergency operations. Results Across scenarios, three base stations covered 50% of transfusing hospitals and 60–81% of national blood demand when weighted by population. Seven stations would cover 75% of transfusing facilities, and 93% of population demand, beyond which marginal gains diminished sharply. Mean UAS delivery time was approximately one-third of road travel time, with the largest advantage observed in urban and peri-urban corridors – precisely where straight-line distance alone would suggest UAS offer limited benefit. Estimated annual base station costs were US$61,500 [95% CI $58,200: $106,000], of which staffing accounted for 59%-84% of costs. The estimated UAS transport costs per unit of whole blood transported was $7.59 [95% CI $5.4: $34.22], compared to $0.78[95% CI $0.63: $1.01] for road transport under our base assumptions of three units delivered per flight. Achieving complete geographic coverage would require approximately 28 stations, many operating at low utilization and high cost. Conclusions In Kenya, a small number of well-placed UAS base stations can achieve substantial gains in hospital access and delivery speed relative to road transport, particularly in dense urban and peri-urban corridors. UAS blood transport is most cost-efficient when concentrated in a limited number of high-utilization stations; staffing, rather than aircraft costs, dominates expenditure and explains why expansion into low-demand areas rapidly increases unit costs. These cost-efficiency findings should be weighed alongside access and equity value of UAS in remote areas, which this analysis does not capture.",
     "authors": [
-      "Yao Cai",
-      "Miao Yu",
-      "YanXi Lu"
+      "Walter O. Ochieng",
+      "Aun Lor",
+      "Marisa Young",
+      "Akwabi Wameyo"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20concrete%20housing%20city%20morning%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Food Industry / Science / Design",
-    "title": "Smallholder farmers' preferences for public expenditure priorities to support maize productivity: evidence from a best–worst scaling experiment in western Kenya",
-    "journal": "Frontiers in Sustainable Food Systems",
+    "field": "Marketing",
+    "title": "Trust gained, trust lost: how service robot anthropomorphism shapes consumer trust in tight and loose cultures",
+    "journal": "International Journal of Contemporary Hospitality Management",
     "year": "2026",
-    "date": "2026-11-04",
-    "doi": "10.3389/fsufs.2026.1884660",
-    "url": "https://doi.org/10.3389/fsufs.2026.1884660",
-    "abstract": "Understanding how smallholder farmers want public resources allocated is essential for designing effective agricultural policies, especially in the maize sub-sector, where public interventions often compete for limited fiscal resources. This paper determined smallholder farmers’ preferences for enhancing maize productivity in western Kenya. Using survey data from 1,531 smallholder farmers, the study applied a best–worst scaling experiment in which farmers evaluated seven policy options across seven choice sets. Count analysis was used to rank aggregate policy preferences, while latent class modeling was used to identify heterogeneity in farmers’ preferences across classes. Results show that farmers strongly prefer improving access to soil-testing services, followed by increasing the quantity of subsidized fertilizer available to smallholder farmers, providing low-interest, unsecured loans, and increasing the number of well-trained and well-resourced public extension agents. Lower-ranked options included creating more market opportunities, improving access to agricultural lime, and improving rural roads and bridges. The latent class analysis further revealed heterogeneity in the preferences of smallholder farmers in western Kenya. The findings highlight the need to align public expenditure decisions with farmers’ expressed priorities, particularly when agricultural budgets are limited, and to design policy interventions that respond to the constraints farmers consider most urgent.",
+    "date": "2026-11-05",
+    "doi": "10.1108/ijchm-12-2025-1766",
+    "url": "https://doi.org/10.1108/ijchm-12-2025-1766",
+    "abstract": "Purpose This paper aimed to examine the dual pathways through which service-robot (SR) anthropomorphism shapes consumer trust in service robots (CTSR), specifically the positive serial mediating effect of perceived warmth (WA) and perceived competence (CO) and the negative serial mediating effect of perceived identity threat (TH) and discomfort (DI). It further explored cross-cultural differences in consumer attitudes and their underlying reasons from the perspective of cultural tightness-looseness. Design/methodology/approach Five scenario experiments were conducted across three sets of SR picture stimuli, two service settings (hotel and hospital) and two cultures (China and the United States). Findings Both study 1 and study 2 found that anthropomorphism had a double-edged sword effect on CTSR across different sets of SR picture stimuli, service settings and cultures. An exploratory analysis in study 1 further revealed that among Chinese consumers, CTSR and its antecedents did not show significant differences across different service settings. Study 2 results further indicated that Chinese (versus. American) consumers had higher WA, CO and CTSR, along with lower TH and DI and that region-level cultural tightness influenced CTSR and its antecedents, potentially explaining these cross-cultural differences. Practical implications For hospitality managers, this paper offers insights on how to deploy anthropomorphic SRs across different cultural contexts. Originality/value This study developed a dialectical framework that integrates cognitive and affective serial mediation pathways and considers both the country- and region-level effects of cultural tightness on attitudes toward SRs.",
     "authors": [
-      "Fido Orawo",
-      "Dickson Okello",
-      "John Olwande"
+      "Yi Li",
+      "Yan Zhou",
+      "Xia Jiang",
+      "Fan Fan"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Toward Ternary Computing Enabled by Origami-Inspired Modular Architectures",
+    "journal": "Nature Communications",
+    "year": "2026",
+    "date": "2026-11-05",
+    "doi": "10.1038/s41467-026-79187-0",
+    "url": "https://doi.org/10.1038/s41467-026-79187-0",
+    "abstract": "Abstract Modern mechanical computing, being envisioned as a pathway toward structure- and material-level processing, holds potential for intelligent metamaterials and robotics in extreme environments. However, current computing architectures remain constrained by binary paradigms. Here, we introduce an origami-inspired modular architecture that encodes logical mappings into its inherent kinematic responses under an input-output decoupled paradigm, enabling both binary and ternary mechanical computing. Within this emerging paradigm, the multi-stable states of two Kresling origami configurations serve as physical carriers for generating discrete signals, while torsional transitions among these states ensure signal switching, supporting operations from logic gates to advanced arithmetic. Based on this mechanical architecture, we systematically demonstrate seven common logic gates and modular arithmetic half- and full-adders in both binary and ternary systems, revealing challenges and opportunities in advancing multi-valued logic through comparative analysis. The physical platform, along with its accompanying response-programming strategy, represents a simplified and generalized paradigm that supports migration to higher-level mechanical computing mechanisms.",
+    "authors": [
+      "Xiaolei Wang",
+      "Zihe Wang",
+      "Haibo Qu",
+      "Peiyi Wang"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20window%20light%20chair%20contemplative%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Family Studies",
+    "title": "The case of PBX operators in a multinational hotel company: job performance and communication",
+    "journal": "International Hospitality Review",
+    "year": "2026",
+    "date": "2026-11-05",
+    "doi": "10.1108/ihr-08-2025-0077",
+    "url": "https://doi.org/10.1108/ihr-08-2025-0077",
+    "abstract": "Purpose Managing All Guest Incoming Calls (MAGIC) is a department in a five-star hotel in Mumbai, India. A couple of PBX operators were hired to work in the MAGIC department. The operators shared a foundational knowledge base, and managed information and guests' requests using improvised solutions. Every call to the PBX operator require equal attention and the same standard of service. Some calls require a “handle with care” status more than others. PBX operators make decisions with the approval of Duty Managers and Front Office Managers. It is important to examine the work design within MAGIC. To support optimal performance, technology and information must be easily accessible, and PBX operators should be regularly updated with current data. The Erlang C model is a popular model used for performance measurement in MAGIC. Design/methodology/approach This case study offers an in-depth, holistic investigation of a real-world phenomenon within its specific operational context. The narrative centers on how the hotel leveraged or failed to leverage—physical assets, staff competencies, and technological resources to maintain a competitive advantage, explicitly grounding its analysis in the technological and economic realities of that time. Findings Within the hotel, communication typically adheres to established chains of command and is formally documented. Vertical communication occurs in two directions: downward and upward. Downward communication flows from managers to staff, for instance, from the general manager (GM) to the front office manager. At MAGIC, human resources (HR) failed to provide continuous training and development, contributing to elevated turnover rates driven by the stressful nature of PBX operations. Additionally, employee job performance and discretion directly impact overall guest service quality. Ultimately, this case study provides practical implications regarding PBX operators-employees frequently overlooked by HR and GM. Originality/value To the best of the authors' knowledge, this original article, prepared for submission to the Special Issue on Industry Insights is grounded in authentic professional experience and rigorous domain knowledge, contributing substantive practical implications to the field.",
+    "authors": [
+      "Rachel Mammen"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Socioeconomic and institutional factors associated with pesticide safety knowledge among vegetable farmers in Central Uttar Pradesh, India",
+    "journal": "Frontiers in Sustainable Food Systems",
+    "year": "2026",
+    "date": "2026-11-05",
+    "doi": "10.3389/fsufs.2026.1989803",
+    "url": "https://doi.org/10.3389/fsufs.2026.1989803",
+    "abstract": "Introduction Unsafe pesticide handling in vegetable production poses risks to applicators, consumers and ecosystems. This study assessed pesticide safety knowledge and its socioeconomic and institutional correlates among vegetable growers in Central Uttar Pradesh, India. Methods A cross-sectional ex-post facto survey was conducted in 2025 among 320 growers from eight villages in Kannauj and Farrukhabad districts, using structured interviews supplemented by field documentation. Knowledge was assessed using a 38-item test. Nine predictors were examined using multiple linear regression; an observed-variable path representation summarized the same adjusted relationships. Results Mean age was 41.58 years; 78.13% were literate and 55.94% operated holdings below 1 ha. Low, medium and high farming experience comprised 43 (13.44%), 230 (71.88%) and 47 (14.69%) growers, respectively. Medium knowledge predominated (65.31%), followed by low (17.50%) and high (17.19%). Regression explained 35.6% of knowledge-score variance (adjusted R 2 = 0.337; F (9, 310) = 19.023, p &lt; 0.001). Education ( B = 0.282, p = 0.006), experience ( B = 0.080, p = 0.012) and information-source score ( B = 0.300, p &lt; 0.001) had positive adjusted associations. Training was not significant ( p = 0.731); 85.31% reported none. The saturated path representation had zero degrees of freedom, precluding meaningful global-fit interpretation. Discussion The findings support evaluating access to credible safety information and training quality and reach. Cross-sectional associations do not establish causation, and interpretation remains subject to predictor-coding and diagnostic limitations.",
+    "authors": [
+      "Prashish Singh",
+      "Kalyan Ghadei",
+      "Shubhadeep Roy",
+      "Jaydeep Halder"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20food%20design%20studio%20labels%20menus%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Management",
-    "title": "Processing capacity under complexity: an organizational information processing perspective on humanitarian supply chain performance",
-    "journal": "Journal of Humanitarian Logistics and Supply Chain Management",
+    "title": "Revolutionizing Vehicle Detection for Autonomous Vehicles: Insights and Challenges Across Multiple Modalities and Environments",
+    "journal": "Proceedings of the National Academy of Sciences, India Section A: Physical Sciences",
     "year": "2026",
-    "date": "2026-11-04",
-    "doi": "10.1108/jhlscm-06-2026-0140",
-    "url": "https://doi.org/10.1108/jhlscm-06-2026-0140",
-    "abstract": "Purpose This study aims to investigate the role of processing capacity in shaping humanitarian supply chain performance under crisis conditions. Specifically, it examines how information processing capacity influences response performance and equity performance, and how environmental complexity and structural integration moderate these relationships. It also examines whether environmental complexity moderates the information processing capacity-equity performance relationship more strongly than the information processing capacity-response performance relationship. Design/methodology/approach Drawing on Organizational Information Processing Theory (OIPT) and a contingency perspective, the research model is proposed and empirically evaluated using survey data collected from 600 professionals with relevant experience working in the humanitarian supply chain across India. The hypotheses were tested using partial least squares structural equation modeling (PLS-SEM) in SmartPLS. Findings The PLS-SEM results show that processing capacity has a significant positive effect on both response performance and equity performance. The environmental complexity amplifies the impact of processing capacity on both outcomes, but results confirm that it has stronger moderating effect for equity performance compared to response performance. Similarly, structural integration also significantly strengthens the relationship positively between processing capacity and both performance dimensions. Research limitations/implications First, this study extends OIPT to humanitarian supply chains by demonstrating that the relationship between information processing capacity and performance depends on environmental complexity. Second, it advances contingency-based reasoning by showing that environmental complexity strengthens the relationship between processing capacity and equity performance more than its relationship with response performance, suggesting that the value of processing capacity varies across humanitarian performance dimensions. Third, it extends OIPT by identifying structural integration, defined as the alignment between emergency and routine supply chain structures, as an organizational condition that strengthens the relationship between processing capacity and both response and equity performance. Practical implications The results and analysis presented in the study suggest that humanitarian organizations need to prioritize coordination among multiple actors, real-time information sharing, decentralized decision-making, and structural integration explained through the mechanisms of emergency and routine supply chain tasks. Originality/value This study contributes to the humanitarian supply chain literature by theorizing and empirically showing that processing capacity matters differently across humanitarian performance dimensions. It demonstrates that environmental complexity strengthens the processing capacity-performance relationship more strongly for equity performance than for response performance. The study also shows that structural integration enables humanitarian organizations to translate processing capacity into improved response and equity outcomes.",
+    "date": "2026-11-05",
+    "doi": "10.1007/s40010-026-01274-0",
+    "url": "https://doi.org/10.1007/s40010-026-01274-0",
+    "abstract": "",
     "authors": [
-      "Surajit Bag",
-      "Sapna Tyagi",
-      "Muhammad Sabbir Rahman"
+      "Ratnapal Kumarswami Mane",
+      "Poonam Sharma"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
