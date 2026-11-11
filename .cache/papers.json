@@ -1,148 +1,159 @@
 [
   {
-    "field": "Marketing",
-    "title": "[R-835] ストレイントロニクス：歪みによる新奇物性発現：[R-836] 原子層堆積（ALD）のはじまりと発展",
-    "journal": "Vacuum and Surface Science",
+    "field": "Family Studies",
+    "title": "A Framework To Assess The Transformative Potential Of Transdisciplinary Research: Application To Cases In The European Alps",
+    "journal": "Mountain Research and Development",
     "year": "2026",
-    "date": "2026-11-10",
-    "doi": "10.1380/vss.69.661",
-    "url": "https://doi.org/10.1380/vss.69.661",
-    "abstract": "",
-    "authors": [],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "date": "2026-11-11",
+    "doi": "10.1659/mrd.2025.00021",
+    "url": "https://doi.org/10.1659/mrd.2025.00021",
+    "abstract": "The implementation of transformative changes that address the root causes of social–ecological challenges is urgently needed. Transdisciplinary research has been proposed as one suitable approach to coproduce relevant knowledge for transformative change. However, there is a lack of conceptual clarity to assess whether and how transdisciplinary research can deliver transformative change, and also about what transformative change is. Here, we present a framework to assess the transformative potential of transdisciplinary research and test it in 4 cases from the European Alps. The framework includes a characterization of the transdisciplinary research process, a characterization of the changes in the target unit (the entity that the transdisciplinary research aims to transform), and a theory of change linking the former to the latter. The framework allows examination of whether and how transdisciplinary research contributes to changing target units and to what extent these changes are transformative, while highlighting the importance of the temporal context. In addition, the framework highlights key characteristics of the transdisciplinary research process that shape its transformative potential. The main value of the framework lies in the explicit link between the assessment of the transdisciplinary research process and the assessment of transformative change over the medium term (from years to decades). Moving forward, studies are needed that rely on a larger and more diverse number of cases and that better grasp the depth of transformative change. This article offers insights for improving assessments of the impacts of research, which are increasingly critical for researchers, universities, funders, and beneficiaries. These insights can support the effective design and evaluation of research aimed at implementing transformative change to address complex social–ecological challenges.",
+    "authors": [
+      "Iago Otero",
+      "Emmanuel Reynard",
+      "Carine Pachoud",
+      "Isabelle Arpin"
+    ],
+    "citations": 1,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20wedding%20ritual%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Public Policy",
-    "title": "When AI takes control, who takes responsibility? Structural analysis of agentic AI risks in supply chains",
+    "title": "When bots act like us: the role of social media accounts' human-likeness in opinion polarization",
     "journal": "Industrial Management & Data Systems",
     "year": "2026",
-    "date": "2026-11-10",
-    "doi": "10.1108/imds-05-2026-0878",
-    "url": "https://doi.org/10.1108/imds-05-2026-0878",
-    "abstract": "Purpose Agentic AI systems execute procurement decisions, reroute shipments and renegotiate supplier contracts at speeds that preclude real-time human review. The existing literature offers limited analytical attention to the risks that arise when decision authority is delegated to agents. This paper develops a risk taxonomy for agentic AI in supply chains and traces the hierarchical dependencies and influence magnitudes among the identified risks. Design/methodology/approach A systematic review of literature, analyzed through theories–characteristics–contexts–methods framework, produces the risk taxonomy. A hybrid modified total interpretive structural modeling and fuzzy decision-making trial and evaluation laboratory methodology is then applied to structured expert judgments to establish the causal hierarchy and quantify inter-risk influence. Findings Three risks, namely workforce skill gap, data quality and reliability and ethical misalignment occupy the deepest level of the causal hierarchy. Lack of accountability and governance and data privacy emerge as terminal outcomes. All three analytical methods converge on a conclusion: agentic AI risks originate at the institutional layer, with technical risks acting as transmission mechanisms. Practical implications The findings indicate that effective governance requires that workforce capability, data integrity and objective-function alignment are addressed before deployment. The stratified agentic AI governance framework is proposed that translates hierarchical structure into a sequenced intervention architecture, providing practitioners with governance priorities organized by risk-propagation logic. Originality/value This paper contributes a systematically derived risk taxonomy and a causally weighted governance map for agentic AI risks in supply chains. Five propositions are derived from the causal structure and are advanced as a testable research agenda.",
+    "date": "2026-11-11",
+    "doi": "10.1108/imds-12-2025-1746",
+    "url": "https://doi.org/10.1108/imds-12-2025-1746",
+    "abstract": "Purpose As social bots penetrate social media, social media accounts with different human-likeness interact with each other, with opinion polarization as one of the results. This study investigates the impact of human-likeness of social media accounts on opinion polarization on social media. Design/methodology/approach Drawing on the social validation principle and its intersections with the optimal distinctiveness theory as the theoretical foundation, this study applies empirical analysis with a dataset of 2,034,201 replies from Weibo to examine the proposed model. Findings An inverted U-shaped relationship between human-likeness of social media accounts and opinion polarization in replies mediated by their social validation and moderated by information valence. Originality/value Our findings advance understanding of human–bot interaction dynamics, highlighting how bot human-likeness relates to opinion polarization at the community level. This study provides actionable measures for stakeholders: bot developers should carefully calibrate human-likeness, platforms should implement graded indicators on human-likeness of social media accounts and users must critically evaluate information sources to mitigate polarization.",
     "authors": [
-      "Rajat Goyal",
-      "Mohit Tyagi",
-      "Manikant Roy"
+      "Shiyu Shen",
+      "Yue Xu",
+      "Chenwei Li",
+      "Xiaobo Xu"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "Visual Filters and Digital Subjectivity on Chinese Social Media: Platform Power, Beauty Labour, and Identity Negotiation",
-    "journal": "Communications in Humanities Research",
-    "year": "2026",
-    "date": "2026-11-10",
-    "doi": "10.54254/2753-7064/2026.ba38799",
-    "url": "https://doi.org/10.54254/2753-7064/2026.ba38799",
-    "abstract": "In the digital presentation of the self, visual filters can have a huge impact in Chinese social media on identity construction and expression, emotional expression, and social expectation negotiation. In this research, we will look at the double effect of the visual filters on Douyin and Xiaohongshu (Rednote) and how they (re)produce aesthetic standards and offer possibilities for individual agency. Taking on the qualitative case study approach, the three types of filtering - beautification filters connected to the \"bai-you-shou\" aesthetic, crying filters for an expression of emotions, and cartoon distortion filters for concealment of identity - are examined based on the theory of disciplinary power and technologies of the self and the theory of emotional capitalism and the theory of everyday tactics. The analysis shows that beautification filters are suitable for the function of self-surveillance and beautification work in the online space, and the emotional filters have an influence on the presentation and perception of emotion in an online space. Filters for concealment, on the other hand, offer other ways to work on issues of visibility and negotiate privacy. These practices show visual filters to not only be about platform control, but also not solely about personal empowerment. Rather, they must be comprehended within the dynamic between platform architecture and cultural norms and uses of the platform. This study integrates the aspects of aesthetic control, emotional expression and identity management of digital subjectivity to social media in the modern China, which enriches the research on digital subjectivity in China with a more sophisticated dimension.",
-    "authors": [
-      "Yiyi Zheng"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Towards normalization of cognitive function and psychiatric morbidity in patients with neurological symptoms post COVID-19: a longitudinal study",
-    "journal": "European Archives of Psychiatry and Clinical Neuroscience",
-    "year": "2026",
-    "date": "2026-11-10",
-    "doi": "10.1007/s00406-026-02402-y",
-    "url": "https://doi.org/10.1007/s00406-026-02402-y",
-    "abstract": "",
-    "authors": [
-      "Siv Elin Pignatiello",
-      "Marion Boldingh",
-      "Astrid Gjerdrum Hornslien",
-      "Ingvil Okkenhaug"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "The Introduction, Survival and Development of Public REITs in China",
-    "journal": "Advances in Economics, Management and Political Sciences",
-    "year": "2026",
-    "date": "2026-11-10",
-    "doi": "10.54254/2754-1169/2026.ld38872",
-    "url": "https://doi.org/10.54254/2754-1169/2026.ld38872",
-    "abstract": "Public real estate investment trusts provide a capital-market mechanism for converting income-producing assets into liquid and tradable investment vehicles. China launched its pilot programme for publicly offered infrastructure REITs in 2020, and the first nine products began trading on the Shanghai and Shenzhen Stock Exchanges on 21 June 2021, raising approximately RMB 31.4 billion. Over the subsequent five years the market evolved from a narrowly focused pilot into a multi-asset platform covering infrastructure, affordable rental housing, consumption facilities and commercial real estate. By mid-June 2026 the number of listed public REITs had reached 86, with cumulative capital raised of RMB 245 billion. Expansion offerings became operational, creating a dual mechanism of primary issuance and follow-on fundraising. This paper examines the policy origins, market expansion trajectory, operating performance and principal constraints facing Chinese public REITs. Drawing on exchange statistics, regulatory notices and secondary-market data, the analysis shows that the sector has achieved substantial scale and institutional completeness. Nevertheless, limited secondary-market liquidity, valuation dispersion across asset classes and an institutionally concentrated investor base continue to constrain market depth. Sustained development will depend on further improvements in market microstructure, operational transparency and investor diversification.",
-    "authors": [
-      "Peijiang Yan"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Family Studies",
-    "title": "The Impact of Work–Life Balance and Organizational Support on Job Satisfaction: The Mediating Role of Psychological Well-Being",
-    "journal": "Journal of Management, and Development Research",
-    "year": "2026",
-    "date": "2026-11-10",
-    "doi": "10.69739/jmdr.v3i2.2259",
-    "url": "https://doi.org/10.69739/jmdr.v3i2.2259",
-    "abstract": "The present study attempts to examine the relationship between job satisfaction (JS) of bankers in Bangladesh and work-life balance (WLB) and organizational support (OS), with the mediating role of psychological well-being (PWB). Drawing on the Job Demands-Resources (JD-R) model, Work-Life Balance Theory, and Social Exchange Theory, the study provides a holistic understanding of how personal and organizational factors shape satisfaction differences in high-demand service environments. A cross-sectional quantitative survey was conducted using convenience sampling, with data collected from 201 bankers across 19 commercial banks in Bangladesh via a structured questionnaire. The data were analysed using confirmatory factor analysis and structural equation modelling (SEM). Results show that WLB and OS have significant positive effects on PWB, which in turn has a positive effect on JS. The mediation analysis indicated that PWB partially mediated the relationship between WLB and JS, and also partially mediated the relationship between OS and JS. The findings emphasize the importance of psychological health in translating a positive work environment and work-life balance into job satisfaction. Theoretically, the study contributes to the research on WLB and OS by adding insights from the context of a developing country. Practically, it offers implications for HR managers aiming to implement interventions that boost employee satisfaction, engagement, and sustainable performance",
-    "authors": [
-      "Jobayra Afsana",
-      "Md. Bashir Uddin"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20home%20interior%20hands%20family%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Psychology",
-    "title": "Sustainable off-grid cage culture: assessing the performance of a functional, energy-autonomous, solar-powered farming model for Etroplus suratensis (Bloch, 1790) in remote mangrove habitats",
-    "journal": "Aquaculture Science and Management",
+    "title": "Water resilience in the high Andean basins of Peru and Ecuador: A synthesis of hydrological modeling, cryosphere dynamics, and ecohydrological approaches under climate change (2011–2025)",
+    "journal": "Sustainable Social Development",
     "year": "2026",
-    "date": "2026-11-10",
-    "doi": "10.1186/s44365-026-00050-w",
-    "url": "https://doi.org/10.1186/s44365-026-00050-w",
-    "abstract": "",
+    "date": "2026-11-11",
+    "doi": "10.23812/ssd8663",
+    "url": "https://doi.org/10.23812/ssd8663",
+    "abstract": "<p class=\"MsoNormal\" style=\"text-align: justify;\">The high Andean basins of Peru and Ecuador supply freshwater to approximately 60% and 70% of their respective national populations. However, these systems are increasingly threatened by glacier retreat, land-use transformation, and climate variability, which jeopardize long-term water security. This study presents an integrative narrative review of 58 peer-reviewed scientific publications published between 2011 and 2025, focusing on hydrological modeling, cryospheric dynamics, hydrometeorological monitoring, climate change impacts, and ecohydrological processes in tropical Andean mountain systems. Following a systematic selection process, the reviewed evidence was organized into five thematic areas: advances in hydrological modeling under data-scarce conditions, validation of satellite precipitation products, glacio-hydrological and cryospheric dynamics, hydroclimatic scenario simulation, and ecohydrological approaches. The results reveal a sustained methodological transition from semi-distributed conceptual models (SWAT, HEC-HMS, and GR2M) toward physically based distributed models (MGB, PREVAH, and JULES), integrated with satellite products (GPM-IMERG, SM2RAIN, and ERA5-Land) and machine learning algorithms, significantly reducing the limitations associated with data scarcity. Climate projections under CMIP6 scenarios indicate increases of up to 60% in extreme precipitation intensity and up to 39% in annual runoff in some basins, while glacier mass loss could reduce dry-season water storage by as much as 25% over the coming decades. At the same time, land-use changes, including the conversion of p&aacute;ramo ecosystems to pasturelands and deforestation, have been shown to alter baseflow and infiltration processes independently of climatic forcing. The synthesis further reveals that water resilience in the Andes cannot be fully understood through physical hydrology alone. The conservation of water-regulating ecosystems such as p&aacute;ramos, bofedales, and montane forests plays a critical role in maintaining hydrological regulation and sustaining water availability under changing environmental conditions. The review highlights the importance of integrating hydrological processes, cryospheric dynamics, and ecosystem functions to improve water resilience assessments and support sustainable water resources management in the tropical Andes.</p>",
     "authors": [
-      "Suresh Kunjiraman",
-      "P. S. Akshay",
-      "M. S. Ambadi Kannan",
-      "Manomi Sarasan"
+      "Cristian Santiago Tapia Ramírez",
+      "Dennis Renato Manzano Vela",
+      "Edmundo Danilo Guilcapi Pacheco",
+      "David Santiago León Armijos"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20room%20portrait%20shadow%20cinematic%20psychology%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Food Industry / Science / Design",
-    "title": "Near-infrared-activated photothermal/chemodynamic/nitric-oxide synergistic tumor therapy by Fe-PDA/BNN6@GelMA hydrogel microspheres 基于Fe-PDA/BNN6@GelMA 水凝胶微球的近红外激活 光热/化学动力学/一氧化氮协同肿瘤治疗",
-    "journal": "Bio-Design and Manufacturing",
-    "year": "2026",
-    "date": "2026-11-10",
-    "doi": "10.1631/bdm.2600103",
-    "url": "https://doi.org/10.1631/bdm.2600103",
-    "abstract": "",
-    "authors": [
-      "Jian Hu",
-      "Ming Yang",
-      "Hanhan Xie",
-      "Zongze Li"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Marketing",
-    "title": "Who stands with the virtual influencer? Trust in nonprofit versus corporate partnerships in social advocacy",
-    "journal": "Journal of Research in Interactive Marketing",
+    "title": "Walk the talk: how procurement professionals' interpretations shape social sustainability cascading",
+    "journal": "International Journal of Operations & Production Management",
     "year": "2026",
-    "date": "2026-11-10",
-    "doi": "10.1108/jrim-12-2025-0764",
-    "url": "https://doi.org/10.1108/jrim-12-2025-0764",
-    "abstract": "Purpose This research investigates whether collaborations between virtual influencers (VIs) and organizations can reduce consumers' perceptions of opportunism and cynicism in social advocacy. It further examines the mediating role of trust and whether vulnerability disclosure moderates these relationships. Design/methodology/approach Two preregistered experiments (N = 640) examined responses to social advocacy campaigns. Study 1 compared three conditions: a VI advocating alone, a VI collaborating with a company, and a VI collaborating with a nonprofit organization (NPO). Study 2 used a 2 × 2 design crossing collaboration type (VI-company vs. VI-NPO) with vulnerability disclosure (budget constraints disclosed vs. not disclosed) to test whether disclosure moderated the indirect effects through trust. Findings In Study 1, VI-NPO collaboration generated higher trust and lower opportunism and cynicism than VI-only advocacy, whereas the corresponding VI-company comparisons were not significant. Study 2 found the same nonprofit advantage over company collaboration. Trust mediated these differences in negative perceptions. Vulnerability disclosure reduced opportunism and cynicism but did not significantly increase trust or moderate the indirect effects through trust. Originality/value This research advances understanding of how organizational partnerships shape consumer responses to VIs in social advocacy. The findings highlight the importance of the organizational partner's identity and the role of trust in consumers' evaluations of advocacy actors. They also extend research on vulnerability disclosure by showing that acknowledging organizational constraints can reduce negative evaluations even when its proposed effects on trust are not supported.",
+    "date": "2026-11-11",
+    "doi": "10.1108/ijopm-11-2025-1123",
+    "url": "https://doi.org/10.1108/ijopm-11-2025-1123",
+    "abstract": "Purpose Procurement professionals shape how firms translate their commitments to social sustainability into supplier-facing governance, which can vary markedly, even within the same firm. This study explains this variation by theorizing how procurement professionals interpret their role and translate engagement with suppliers into governance practices. Design/methodology/approach The study draws on constructivist grounded theory and interviews with 27 professionals across organizational contexts. The analysis combines iterative coding, constant comparison, theoretical sampling, and abductive engagement with sensitizing literature. Findings The study develops a process model that explains cascading depth from a people-centric perspective. The interviewed procurement professionals differed on whether they construed their remit to include social sustainability, whether supplier-facing action appeared worth pursuing, and whether more improvement-oriented engagement appeared feasible. This situated judgment shaped whether cascading is enacted predominantly through procedural compliance or through more generative supplier-facing practice. Prospective paradoxical sensemaking helped explain how more generative supplier-facing responses could remain actionable under competing commercial demands, as professionals saw anticipated social and commercial consequences as relevant to their judgment in the present. Originality/value The study reframes cascading depth as a matter of how procurement professionals enact governance mechanisms. It specifies interpretive and relational conditions that remain underexplored in the literature on sustainable behavioral supply chain management. It extends paradoxical sensemaking research on how tensions are framed to include how more generative responses may be established and sustained in practice.",
     "authors": [
-      "Leping You",
-      "Fanjue Liu"
+      "Svetlana Castre de Chabot",
+      "Salomee Ruel",
+      "Anicia Jaegler",
+      "Stefan Gold"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "Validating and configuring a higher-order environmental ergonomics construct for occupant performance",
+    "journal": "Smart and Sustainable Built Environment",
+    "year": "2026",
+    "date": "2026-11-11",
+    "doi": "10.1108/sasbe-02-2026-0095",
+    "url": "https://doi.org/10.1108/sasbe-02-2026-0095",
+    "abstract": "Purpose This study empirically examines the influence of environmental ergonomics implementation (EEI) on indoor environmental comfort (IECP), cognitive and behavioral performance (CBP), health and wellbeing (HWP) and occupant productivity (OPP). By conceptualizing EEI as a multidimensional higher-order construct, the study assesses the strength of these relationships, identifies the most influential dimensions and explores how contextual combinations shape human-centered performance outcomes in real-world building environments. Design/methodology/approach A structured quantitative survey was administered to 106 built-environment professionals practicing in Lagos State, Nigeria. Partial Least Squares Structural Equation Modeling (PLS-SEM) was used to validate the higher-order EEI construct and estimate its predictive effects on the four outcome variables. To complement the net-effects analysis, fuzzy-set Qualitative Comparative Analysis (fsQCA) was applied to identify configurational pathways, revealing how different combinations of EEI dimensions jointly lead to high levels of occupant performance. Findings The PLS-SEM results indicate that EEI has significant positive effects on all four human-centered performance dimensions, with the strongest effect observed for indoor environmental comfort. The fsQCA findings reveal multiple causal configurations through which EEI dimensions interact to produce optimal performance outcomes, highlighting the synergistic and multi-causal nature of environmental ergonomics in building contexts. Practical implications The findings underscore the need for stronger regulatory frameworks, targeted professional training, and sustained investment in ergonomics-enhancing technologies to improve human-centered building performance. Originality/value This study is among the first in the region to conceptualize and empirically validate environmental ergonomics implementation as a multidimensional higher-order construct and to examine its simultaneous effects on comfort, cognition, health and productivity using a combined PLS-SEM and fsQCA approach. It advances environmental ergonomics research by moving beyond isolated factor analysis toward an integrated, predictive and implementation-oriented perspective.",
+    "authors": [
+      "John Ogbeleakhu Aliu",
+      "Ayodeji Emmanuel Oke",
+      "Oluponmile Olonilua",
+      "Molusiwa Stephan Ramabodu"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Understanding Condom Use and Condom Preparation Behaviors Among Portuguese HIV Voluntary Counseling and Testing (VCT-HIV) Users: Insights into Cognition and Risk Reduction",
+    "journal": "Sexuality Research and Social Policy",
+    "year": "2026",
+    "date": "2026-11-11",
+    "doi": "10.1007/s13178-026-01431-5",
+    "url": "https://doi.org/10.1007/s13178-026-01431-5",
+    "abstract": "",
+    "authors": [
+      "Eleonora C. V. Costa",
+      "Paula Sá",
+      "Alexandra Soares",
+      "Ana Luísa Patrão"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20bookstore%20aisle%20human%20choice%20warm%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Transitivity and Treatment-Effect Modifiers in Network Meta-Analysis of Co-Occurring ADHD and Stimulant Use Disorder",
+    "journal": "The Journal of Clinical Psychiatry",
+    "year": "2026",
+    "date": "2026-11-11",
+    "doi": "10.4088/jcp.26lr16713a",
+    "url": "https://doi.org/10.4088/jcp.26lr16713a",
+    "abstract": "",
+    "authors": [
+      "Henrique N. P. Oliva",
+      "Gustavo A. Angarita"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "The effects of work overload on emotional exhaustion among nurses: serial mediation of job stress and depression",
+    "journal": "Journal of Health Organization and Management",
+    "year": "2026",
+    "date": "2026-11-11",
+    "doi": "10.1108/jhom-06-2026-0694",
+    "url": "https://doi.org/10.1108/jhom-06-2026-0694",
+    "abstract": "Purpose This study examines the relationship between work overload and emotional exhaustion among nurses. Specifically, the study investigates the serial mediating effect of job stress and depression on the relationship between work overload and emotional exhaustion. Design/methodology/approach Data were gathered between October 2025 and January 2026 through an online and face-to-face cross-sectional survey of 613 nurses working in two state hospitals in Türkiye. Sequential mediating effects were analyzed using the Statistical Package for the Social Sciences PROCESS macro (Model 6). Findings The findings showed that work overload is positively related to emotional exhaustion. Furthermore, the results revealed that job stress and depression sequentially mediate the relationship between work overload and emotional exhaustion. Originality/value This research offers a clearer understanding of the potential psychological mechanisms underlying the relationship between work overload and emotional exhaustion among nurses. It also extends the literature by informing the development of interventions aimed at alleviating job stress and reducing depression levels among nurses in the healthcare sector. In particular, primary caregivers and hospital administrations responsible for nurses should develop work overload-conscious, stress-reducing, and mental health-supporting methods to improve nurse well-being and enhance the quality and safety of patient care.",
+    "authors": [
+      "Nurperihan Tosun",
+      "Murat Baş",
+      "Emre Gül"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Storage Virtualization for Hybrid Cloud: A Policy-Driven Object Storage Layer with Placement, Compliance, and Cost Constraints",
+    "journal": "International Journal of Sustainability and Innovation in Engineering",
+    "year": "2026",
+    "date": "2026-11-11",
+    "doi": "10.56830/ijsie202615",
+    "url": "https://doi.org/10.56830/ijsie202615",
+    "abstract": "The study proposes a policy-based S3-compatible virtualization layer that can be extended to both private MinIO/Ceph and public object storage services. It also analyzes five representative traces (T15, T29, T65, T78, and T79), containing about 17.4 million requests, within a larger set of about 1.6 billion requests that represent 342 million unique objects from a collection of traced IBM Cloud Object Storage requests. The 5 reported modeled-cost comparisons have a low of 38.7% modeled cost reduction compared to static tiering, a high of 47.2%, and an unweighted mean of 43.7%. These numbers refer to differences in the modeled totals, and do not represent statistically significant differences or newly confirmed cloud bills. Geography or regulatory classifications are not recorded with the dataset, and assumptions about compliance and causation of egress are made during simulation but not included in the dataset. HMAC-SHA-256 is used to validate the authenticity of policy metadata, rather than physical residence. Allows for repeatable assessments such as measurable tariff snapshots, baseline definition, fault-injection tests, and more.",
+    "authors": [
+      "Chiranjevi Sai Venkat Kaushik Dhulipudi",
+      "Sashank Siwakoti"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
