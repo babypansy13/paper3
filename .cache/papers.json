@@ -1,151 +1,148 @@
 [
   {
-    "field": "Consumer Research",
-    "title": "XAYOL TUSHUNCHASI VA UNING PSIXOLOGIK ASOSLARI",
-    "journal": "New Uzbekistan Journal of Academic Research",
-    "year": "2026",
-    "date": "2026-11-19",
-    "doi": "10.70413/yoitj-v03-i11-a11092",
-    "url": "https://doi.org/10.70413/yoitj-v03-i11-a11092",
-    "abstract": "Mazkur tezisda kognitiv jarayonlarning muhim tarkibiy qismi bo‘lgan xayol tushunchasi va uning psixologik asoslari, yangi obrazlarni shakllantirish mexanizmlari hamda shaxs kamolotidagi amaliy-pedagogik ahamiyati ilmiy va amaliy jihatdan keng yoritilgan. Tadqiqot jarayonida xayol jarayonining psixologik va neyropsixologik qonuniyatlarini to‘g‘ri rejalashtirish hamda ta’lim-tarbiya jarayoniga joriy etish insonlarning bilish jarayonlarini (tafakkur, xotira, diqqat), ijodiy salohiyatini va emotsional-irodaviy barqarorligini oshirish mexanizmlari tahlil qilingan. Maqolada umumiy va kognitiv psixologiya tamoyillari asosida faoliyatni tashkil etishning samaradorligi hamda shaxsni har tomonlama barkamol etib shakllantirishdagi o‘rni ochib berilgan.",
-    "authors": [
-      "Ravshanbek Xalbay o‘g‘li Radjapbayev",
-      "Asilbek Anvar o‘g‘li Tojiboyev"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "When brand extension strategy meets sensory execution: the interactive effects of brand fit and sensory modality on perceived sub-brand value",
-    "journal": "Asia Pacific Journal of Marketing and Logistics",
-    "year": "2026",
-    "date": "2026-11-19",
-    "doi": "10.1108/apjml-04-2026-0815",
-    "url": "https://doi.org/10.1108/apjml-04-2026-0815",
-    "abstract": "Purpose Drawing on brand ecosystem theory and expectation confirmation theory, this study examines how the interaction between parent-subsidiary brand fit types (high fit, low fit, Janus fit) and sensory modalities (proximal vs distal) influences perceived sub-brand value. It further investigates the mediating role of region-of-origin image and the moderating role of agricultural product category. Design/methodology/approach This study employs two scenario-based experiments (total N = 590 after exclusions). Study 1 manipulates fit type and sensory modality through offline physical exposure combined with sensory transfer guidance; Study 2 replicates and extends the design using online consumer review scenarios with text-based sensory priming, while additionally manipulating agricultural product category (primary vs processed). Findings The results reveal a significant interactive effect between parent-sub-brand fit types and sensory modality on perceived sub-brand value. Specifically, distal (sight/sound) cues outperform proximal (taste/touch) cues under high-fit conditions, whereas the reverse holds under low-fit conditions; Janus-fit extensions generate higher perceived sub-brand value than high-fit and low-fit extensions when averaged across sensory modalities. The mediating role of region-of-origin image is conditional, being significant only under proximal sensory processing but not under distal processing. Furthermore, agricultural product category shapes the strength and pattern of the fit-sensory interaction, with a more systematic pattern observed for processed products, whereas for primary products, the sensory advantage emerges only under low-fit conditions. Originality/value This research integrates Janus fit into agricultural geographical brand extension, develops a strategic-tactical coordination perspective linking strategic and tactical levels and expands the combined application scope of brand ecosystem and expectation confirmation theories.",
-    "authors": [
-      "Yidan Huang",
-      "Xiaofang Peng",
-      "Yuhan Hu"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20brand%20packaging%20still%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Public Policy",
-    "title": "What factors predict the innovation of Chinese family firms: empirical evidence based on machine learning",
-    "journal": "Journal of Asia Business Studies",
+    "title": "ماهية القياس وحجيته عند الأصوليين: دراسة تحليلية أصولية مقارنة لأدلة المثبتين والنافين",
+    "journal": "Arabian Gulf Journal of Humanities and Social Studies",
     "year": "2026",
-    "date": "2026-11-19",
-    "doi": "10.1108/jabs-02-2026-0085",
-    "url": "https://doi.org/10.1108/jabs-02-2026-0085",
-    "abstract": "Purpose Prior studies on family firm innovation have focused primarily on causal explanations and isolated variable significance, but lack a prediction-oriented approach that systematically compares the relative importance of multiple predictors. Drawing on the capability–willingness–pressure framework, this paper aims to identify the key predictors of innovation in Chinese family firms and to reconcile inconsistent findings in prior research. By integrating a prediction-oriented perspective to complement traditional causal inference, this study examines how the family, firm and environmental characteristics jointly predict innovation input and output. Design/methodology/approach Based on a systematic review of 102 empirical studies, this paper constructs a multidimensional framework encompassing 30 predictors across family, firm and external environmental factors. Using Chinese A-share listed family firms from 2010 to 2024, the final samples include 10,078 firm-year observations for R&D investment and 10,145 firm-year observations for R&D output. R&D investment is measured by R&D intensity, while R&D output is measured by patent applications. The study uses the gradient boosting regression tree algorithm. Relative importance measures and partial dependence plots are used to evaluate predictive power and uncover nonlinear boundaries. Rolling-window out-of-sample tests are conducted to assess model performance. Findings The results show that the gradient boosting regression trees (GBRT) model outperforms traditional linear benchmark models in predicting both R&D investment and output. In the integrated model, GBRT achieves rolling-window out-of-sample R-squared values of 30.656% for R&D investment and 43.086% for R&D output, compared with 13.266% and 31.294% for ordinary least squares, respectively. Family ownership involvement, digital transformation, clan culture, ownership balance and industry competition emerge as the core predictors. Crucially, these features exhibit distinct nonlinear tipping points. By identifying the specific ranges where moderate levels are positively associated with innovation and excessive levels may weaken or reverse these associations, the predictive model identifies nonlinear boundary patterns that are consistent with different theoretical expectations in prior research. These nonlinear boundary patterns provide a potential explanation for previously conflicting empirical findings. Practical implications The findings offer actionable implications for multiple stakeholders. For family business managers, the results provide a specific blueprint for balancing family control with appropriate ownership checks and strengthening digital transformation to support innovation investment and patent output. In particular, moderate ownership balance may help support innovation output, whereas excessive family ownership concentration may weaken innovation incentives. For policymakers, the study highlights the necessity of tailoring regional innovation support and technological subsidies to account for localized clan cultures and varying degrees of industry competition. In regions with strong clan culture or intense industry competition, policy support may need to place greater emphasis on governance professionalization, external knowledge access and mechanisms that reduce the risk of innovation investment. Originality/value This study contributes to the literature by introducing a prediction-oriented capability–willingness–pressure framework to family firm innovation research. It moves beyond isolated variable significance to identify the relative predictive importance, nonlinear patterns and boundary conditions of key predictors, thereby helping reconcile previously conflicting empirical findings.",
+    "date": "2026-11-20",
+    "doi": "10.64355/agjhss72021",
+    "url": "https://doi.org/10.64355/agjhss72021",
+    "abstract": "",
     "authors": [
-      "Nan Li",
-      "Yanzhao Tang"
+      "رضاء إبراهيم بدر حسانين"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20government%20office%20window%20night%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "Warranty and service contracts for reliable service quality: a traceability-based framework",
-    "journal": "International Journal of Quality & Reliability Management",
-    "year": "2026",
-    "date": "2026-11-19",
-    "doi": "10.1108/ijqrm-06-2026-0328",
-    "url": "https://doi.org/10.1108/ijqrm-06-2026-0328",
-    "abstract": "Purpose This paper develops a conceptual framework for examining how warranty and long-term service agreements may shape maintenance decisions, service quality and auditability in asset-intensive settings. Design/methodology/approach The paper synthesizes literature on warranty management, service contracts, reliability, maintenance documentation and servitization. It presents a Reliability Decision Architecture (RDA), conceptual decision equations, five propositions and three illustrative contractual archetypes. Findings The synthesis identifies four proposed distortion mechanisms: metric narrowing, asymmetric risk transfer, evidentiary under-specification and oversight decoupling. The RDA links contract clauses to feasible maintenance choices and their reviewability. Effects on reliability, availability and lifecycle cost remain propositions requiring validation. Research limitations/implications The framework is conceptual. The archetypes vary several clauses together and provide neither causal identification nor empirical validation. A qualitative evidence checklist supports review; numerical scoring and the proposed decision relationships require testing. Practical implications Managers can use the framework to examine whether metrics, evidence duties, escalation rules and review rights support feasible, reviewable maintenance choices. Documentation burdens and excessive risk transfer also require consideration. Originality/value The contribution is an integrative diagnostic architecture distinguishing technical admissibility, contractual feasibility and private attractiveness, with evidence and review requirements made explicit at each maintenance decision.",
-    "authors": [
-      "Vicente González-Prida Díaz",
-      "Bernal Picado Arguello"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20food%20packaging%20graphic%20design%20editorial%20still%20life%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Trypanosomes Maintain Propulsion in Confined Environments by Modulating Rotational Motility from Swimming to Network-Threading Propulsion",
-    "journal": "Nature Communications",
-    "year": "2026",
-    "date": "2026-11-19",
-    "doi": "10.1038/s41467-026-79874-y",
-    "url": "https://doi.org/10.1038/s41467-026-79874-y",
-    "abstract": "Abstract The parasite Trypanosoma brucei lives in the body fluids of its hosts, including blood and interstitial fluids of various tissues. The mechanism of dissemination within these environments remains largely unresolved, although the trypanosome´s motility is known to play an essential role for its survival. The unicellular flagellate is a versatile microswimmer, like bacteria or sperm cells, albeit structurally more complex than these classical models. Here we study their motility in different viscous and elastic regimes. Using quantitative high speed video microscopy and digital holography microscopy, we detail the three-dimensional mechanical reaction of the flexible cell body with its uniquely attached flagellum to increasing confinement, leading to a network-threading type propulsion. This allows stable progressive motility despite a reduction in wave parameters up to tissue-like confinement. We thus show how trypanosomes can mechanically adjust in response to various microenvironments and, using flagellar beat reversal, manage the exploration of their complex environments.",
-    "authors": [
-      "Narges Jamshidi Khameneh",
-      "Timothy Krüger",
-      "Patryk Nienaltowski",
-      "Marie Kater"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?analog%20film%20portrait%20silhouette%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "Transformational leadership, psychological safety, and work engagement in family businesses: the indirect roles of resilience and job satisfaction",
-    "journal": "Journal of Family Business Management",
+    "title": "When infrastructure is not enough: understanding faculty intention towards AI adoption in a resource-constrained developing economy",
+    "journal": "Asian Education and Development Studies",
     "year": "2026",
-    "date": "2026-11-19",
-    "doi": "10.1108/jfbm-09-2026-0307",
-    "url": "https://doi.org/10.1108/jfbm-09-2026-0307",
-    "abstract": "Purpose This study examines how transformational leadership is associated with work engagement in family businesses through interconnected relational, personal and attitudinal pathways involving psychological safety, resilience and job satisfaction, while also assessing the complete sequential indirect association among these constructs. Design/methodology/approach Data were collected from 800 employees working in Portuguese family businesses and analysed using partial least squares structural equation modelling (PLS-SEM). The measurement and structural models, direct and indirect associations, predictive performance and potential endogeneity were assessed. Findings Transformational leadership was positively associated with psychological safety and work engagement. Psychological safety was positively associated with resilience, job satisfaction and work engagement, while resilience was positively associated with job satisfaction and work engagement. Job satisfaction was also positively associated with work engagement. Furthermore, several statistically significant indirect associations linked transformational leadership with work engagement through psychological safety, resilience and job satisfaction. The complete sequential indirect association was statistically significant but very small in magnitude (ß = 0.005), indicating that the findings are better characterised by multiple interconnected pathways, with the complete sequential indirect association representing only one component of this broader pattern. Practical implications Family businesses may support employee engagement by attending to transformational leadership, psychological safety, resilience and employees' evaluations of their jobs. These implications should not be interpreted as evidence of causal intervention effects. Originality/value The study extends family-business research beyond the established transformational leadership–psychological safety–engagement relationship by integrating relational, personal and attitudinal components within a broader pattern of direct and indirect associations. In doing so, it applies Conservation of Resources theory to provide a more differentiated explanation of employee engagement in family businesses.",
+    "date": "2026-11-20",
+    "doi": "10.1108/aeds-07-2026-0496",
+    "url": "https://doi.org/10.1108/aeds-07-2026-0496",
+    "abstract": "Purpose Artificial intelligence (AI) offers transformative potential for higher education, yet faculty adoption in developing contexts remains underexplored. This study examines how personal innovativeness, facilities conditions, perceived usefulness and perceived ease of use influence faculty intention to adopt AI, with self-efficacy serving as a mediating mechanism, within the context of a resource-constrained developing economy. Design/methodology/approach A quantitative research design was adopted, underpinned by the positivism paradigm and a hypothetico-deductive method. Data were collected via a structured questionnaire from 388 faculty members across 10 private universities in Dhaka, Bangladesh. The data were analysed using Smart PLS 4.0 for structural equation modelling and SPSS v25 for preliminary statistical analysis. Findings Personal innovativeness, perceived usefulness, perceived ease of use and self-efficacy each show positive and significant relationships with intention to use AI. Personal innovativeness, facilities conditions and perceived usefulness are also found to have positive and significant relationships with intention to use AI through the mediating effect of self-efficacy, highlighting self-efficacy's central role in translating readiness and resources into adoption intention. Originality/value The study extends the technology acceptance model by integrating personal, institutional and cognitive factors into a single framework, offering theoretical contribution and practical guidance for policymakers seeking to improve AI adoption among faculty in resource-constrained higher education settings such as Bangladesh, where infrastructure alone proves insufficient to drive adoption.",
     "authors": [
-      "Susana Alves Pereira",
-      "Pedro Mota Veiga",
-      "Juan Herrera-Ballesteros"
+      "Bulbul Ahamed",
+      "Mohammad Rashed Hasan Polas",
+      "Syed Mustafizur Rahman Chowdhury",
+      "Mohammed Masum Billah"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "The Establishment, Development, and Educational Role of MI Al-Amin Sinongko",
-    "journal": "Journal of Economics, Law, and Humanities",
-    "year": "2026",
-    "date": "2026-11-19",
-    "doi": "10.21154/jelhum.v5i2.4755",
-    "url": "https://doi.org/10.21154/jelhum.v5i2.4755",
-    "abstract": "Background/Introduction: The history of MI Al-Amin Sinongko illustrates how local initiatives can support the provision of Islamic primary education. Research Objectives: This study traces the madrasah’s establishment, examines its institutional development, and describes its educational role in Sinongko. Methodology: The study used a qualitative historical approach. The study examined interviews and madrasah documents through source collection, source criticism, interpretation, and historiography. Results: The madrasah was established in 2007 through cooperation between the Al-Mukmin Foundation and local community members, using waqf land. It expanded from one building to four and offered regular Qur’an memorization (tahfiz) programs. Two alumni recalled experiences related to worship, memorization, and discipline. One alumnus also felt that religious instruction left less time for general subjects. Unique Contribution: The study connects the community’s role in establishing the madrasah with its subsequent development and alumni experiences. Conclusion: The madrasah provided local families with an option for Islamic primary education. Its wider influence on the community remains uncertain. Recommendations: Future research should use comparable school records and include parents and residents to examine changes in educational access.",
-    "authors": [
-      "Maimunah Atika"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20urban%20street%20architecture%20warm%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Mental Health",
-    "title": "Serum proprotein convertase subtilisin/kexin type 9 levels correlate with depression severity in post-stroke patients",
-    "journal": "World Journal of Psychiatry",
+    "title": "When Plantar Fasciitis Is Not the Answer",
+    "journal": "American Journal of Physical Medicine & Rehabilitation",
     "year": "2026",
-    "date": "2026-11-19",
-    "doi": "10.5498/wjp.122026",
-    "url": "https://doi.org/10.5498/wjp.122026",
-    "abstract": "BACKGROUND Post-stroke depression (PSD) is a common neuropsychiatric complication affecting an estimated 30%-40% of stroke survivors and adversely affecting rehabilitation and quality of life. Emerging evidence suggests that proprotein convertase subtilisin/kexin type 9 (PCSK9) may be involved in neuroinflammation and mood regulation. Evolocumab, a PCSK9 inhibitor, may have effects beyond lipid lowering when added to statin therapy; however, its association with depressive symptoms in patients with PSD remains unclear. AIM To investigate the association between serum PCSK9 levels and depression severity in patients with PSD receiving evolocumab plus statin therapy and to assess the association of this combination with changes in depressive symptoms. METHODS This retrospective study included 128 patients with PSD: 64 received evolocumab (140 mg every 2 weeks) plus atorvastatin (20 mg daily), and 64 received atorvastatin alone (20 mg daily). The primary outcomes were serum PCSK9 concentrations and 17-item Hamilton Depression Rating Scale (HAMD-17) scores at baseline and at weeks 4, 8, and 12. Secondary outcomes included Hamilton Anxiety Scale (HAMA) scores, lipid profiles, inflammatory markers [interleukin-6 (IL-6), tumor necrosis factor-α, and high-sensitivity C-reactive protein], and cognitive function assessed using the Montreal Cognitive Assessment (MoCA). Correlation analyses examined associations between PCSK9 concentrations and clinical outcomes. RESULTS At week 12, serum PCSK9 levels decreased from 385.6 ± 78.4 ng/mL to 156.3 ± 42.1 ng/mL in the combination-therapy group, compared with 378.2 ± 76.9 ng/mL to 298.5 ± 68.7 ng/mL in the atorvastatin-only group (P < 0.001). HAMD-17 scores decreased from 22.8 ± 4.5 to 10.2 ± 3.1 and from 22.3 ± 4.2 to 14.6 ± 3.8, respectively (P < 0.001 for the between-group comparison at week 12). Serum PCSK9 levels were positively correlated with HAMD-17 scores at week 12 (r = 0.652, P < 0.001). Compared with the atorvastatin-only group, the combination-therapy group had lower week-12 HAMA scores (8.5 ± 2.3 vs 12.1 ± 3.2, P < 0.001) and IL-6 concentrations (3.2 ± 0.8 pg/mL vs 5.1 ± 1.2 pg/mL, P < 0.001), higher MoCA scores (25.8 ± 2.1 vs 23.4 ± 2.6, P = 0.001), and a higher depression treatment response rate (73.4% vs 48.4%, P = 0.003). CONCLUSION In this retrospective, evolocumab added to atorvastatin was associated with greater reductions in serum PCSK9 levels and depressive symptom scores than atorvastatin alone. The correlation between PCSK9 concentrations and depression severity suggests that PCSK9 warrants further investigation as a potential biomarker in PSD. Prospective studies are needed to establish whether PCSK9 inhibition improves depressive symptoms.",
+    "date": "2026-11-20",
+    "doi": "10.1097/phm.0000000000003211",
+    "url": "https://doi.org/10.1097/phm.0000000000003211",
+    "abstract": "",
     "authors": [
-      "Hong-Yan Song",
-      "Yue Yang",
-      "Xiao-Yang Sun",
-      "Meng-Jun Zhang"
+      "Gülşah Çelik"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Viscoelasticity of synthetic antigen presenting cells reprograms T cell metabolism for TCR-T cell manufacturing and therapy",
+    "journal": "Nature Communications",
+    "year": "2026",
+    "date": "2026-11-20",
+    "doi": "10.1038/s41467-026-78131-6",
+    "url": "https://doi.org/10.1038/s41467-026-78131-6",
+    "abstract": "Abstract Adoptive T cell receptor (TCR)–based immunotherapy offers a powerful strategy to target solid tumors. However, how the physical properties of the antigen-presenting interface regulate T cell metabolic programming remains poorly defined. Here we develop synthetic viscoelastic activating cells (SynVAC), artificial antigen-presenting cells whose stress-relaxation kinetics are chemically tuned independently of stiffness and of peptide–MHC (pMHC) and co-stimulatory ligand density. SynVAC-pMHC provides a defined, scalable platform that outperforms monocyte-derived dendritic cells to enrich antigen-specific CD8 + T cells. Fast-relaxing SynVAC-pMHC amplifies TCR signaling and mTOR activity, drives metabolic changes, and programs antigen-specific T cells toward an energetically favorable state with improved memory-like features after expansion. TCR-T cells expanded using fast-relaxing SynVAC-pMHC exhibit superior persistence and durable antitumor activity in melanoma and ovarian cancer models. These results establish cell-mimetic viscoelasticity as a key biophysical cue governing T cell metabolism and differentiation and offer a fully synthetic strategy for manufacturing potent TCR-T cells.",
+    "authors": [
+      "Youcheng Yang",
+      "Yan-Ruide Li",
+      "Zeyang Liu",
+      "Hao Zhou"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Validation of an ED-XRF Method for Multi-element Determination and Physicochemical Characterization of Chamaerops humilis L. Leaves and Fruits",
+    "journal": "Food Analytical Methods",
+    "year": "2026",
+    "date": "2026-11-20",
+    "doi": "10.1007/s12161-026-03359-3",
+    "url": "https://doi.org/10.1007/s12161-026-03359-3",
+    "abstract": "",
+    "authors": [
+      "Mohammed Freha",
+      "Mohammed El-Amine Nouairi",
+      "Ali Bellil"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Consumer Research",
+    "title": "Utilization of Technology-Integrated Applications in Mathematics and Technological Competence: Effects on the Engagement and Achievement of Public Junior High School Learners",
+    "journal": "International Journal of Innovative and Multidisciplinary Research",
+    "year": "2026",
+    "date": "2026-11-20",
+    "doi": "10.66206/eduheart.ijimr.56",
+    "url": "https://doi.org/10.66206/eduheart.ijimr.56",
+    "abstract": "This descriptive-correlational study examined the utilization of technology-integrated applications in mathematics and teachers’ technological competence and their effects on the engagement and achievement of public junior high school learners in the Trinidad 1 and Trinidad 2 Districts in School Year 2025–2026.",
+    "authors": [
+      "Clarisa Libot"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?film%20photography%20hands%20holding%20everyday%20objects%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "Uneven recovery: spatial and temporal patterns in owner-driven housing reconstruction after the 2015 Nepal Earthquake",
+    "journal": "International Journal of Disaster Resilience in the Built Environment",
+    "year": "2026",
+    "date": "2026-11-20",
+    "doi": "10.1108/ijdrbe-07-2026-0164",
+    "url": "https://doi.org/10.1108/ijdrbe-07-2026-0164",
+    "abstract": "Purpose This study aims to examine whether urban disadvantage in post-earthquake housing reconstruction in Nepal is a general urban pattern or is concentrated within the Kathmandu Valley, and whether spatial disparities persisted over time. Design/methodology/approach Quarterly panel data from 131 municipalities across the 14 districts most severely affected by the 2015 Gorkha earthquake, covering November 2018 to November 2020, are analyzed. Pooled ordinary least squares (OLS) regression with municipality-clustered robust standard errors and period fixed effects models quarterly reconstruction flow rates using municipality type, lagged cumulative reconstruction progress, housing characteristics, poverty and other municipal characteristics. Additional robustness analyses assess the sensitivity of the findings to alternative model specifications. Findings Urban disadvantage is not uniform. Urban municipalities within the Kathmandu Valley had significantly lower quarterly reconstruction flow rates than rural municipalities, whereas urban municipalities outside the Valley showed no statistically significant difference. Lagged cumulative reconstruction progress was negatively associated with reconstruction flow, while the share of stone/mud-masonry housing showed a positive association. Reconstruction activity varied across periods, including a decline coinciding with the COVID-19 pandemic. Practical implications The observed spatial disparities highlight the importance of considering local reconstruction conditions when designing and delivering financial and technical assistance, particularly in dense and historically complex urban settings such as the Kathmandu Valley. Originality/value This municipality-level longitudinal analysis highlights important heterogeneity within urban areas, showing that reconstruction patterns vary not only between urban and rural municipalities but also across different urban contexts.",
+    "authors": [
+      "Bikash Adhikari"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "The voice–evidence gap: how reviews and surveys differ in the relational representation of customer satisfaction",
+    "journal": "Marketing Intelligence & Planning",
+    "year": "2026",
+    "date": "2026-11-20",
+    "doi": "10.1108/mip-01-2026-0003",
+    "url": "https://doi.org/10.1108/mip-01-2026-0003",
+    "abstract": "Purpose Digital platforms now host massive volumes of consumer-generated content, and firms increasingly treat online reviews and structured surveys as parallel “listening systems” for assessing service quality and satisfaction. However, whether these sources can be used interchangeably as indicators of customer satisfaction remains an open empirical question. This study examines the voice–evidence gap by comparing how online reviews and survey responses represent satisfaction. Design/methodology/approach This study uses a network-based approach to examine how customer satisfaction is represented across different customer-information sources. Online reviews capture co-occurring experiential cues, whereas surveys record responses to pre-specified attributes. Study 1 analyzes 10,752 online reviews using a co-occurrence network, and Study 2 examines 506 survey responses using a partial correlation network. The study compares the relational structures derived from the two data sources. Findings The findings reveal a voice–evidence gap as an observed divergence in the relational representation of customer satisfaction across the two data sources. Customer satisfaction is embedded within clusters of co-mentioned experiential attributes in the review-based co-occurrence network but is less locally embedded within these clusters in the survey-based partial correlation network while maintaining strong overall network connectivity. In review-based networks, satisfaction aligns closely with hygiene and other experiential service cues. In survey-based networks, professionalism emerges as the principal bridging attribute linking experiential attributes to satisfaction. These findings show that relying on a single data source can yield incomplete representations of customer satisfaction. Originality/value This study contributes to marketing intelligence research by showing that consumer data sources differ not only in content but also in how they represent satisfaction relationally. By comparing relational structures across reviews and survey data, the study illustrates how different customer-information sources are associated with different relational representations of customer satisfaction.",
+    "authors": [
+      "Hong-Youl Ha"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?editorial%20product%20shelf%20soft%20halation%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Management",
-    "title": "Probabilistic Multisets: Coupling Envelopes, Operations, and Metrics",
-    "journal": "Proceedings of the National Academy of Sciences, India Section A: Physical Sciences",
+    "title": "Surgical treatment of pain syndrome in patients with amputation defects of the limbs resulting from combat trauma",
+    "journal": "Bulletin of the Russian Military Medical Academy",
     "year": "2026",
-    "date": "2026-11-19",
-    "doi": "10.1007/s40010-026-01283-z",
-    "url": "https://doi.org/10.1007/s40010-026-01283-z",
-    "abstract": "",
+    "date": "2026-11-20",
+    "doi": "10.17816/brmma716711",
+    "url": "https://doi.org/10.17816/brmma716711",
+    "abstract": "BACKGROUND: Combat-related limb injury requiring amputation is a severe, disabling injury. Effective prosthetic fitting is key to the quality of life of such patients. One of the main obstacles to prosthetic fitting is chronic pain syndrome. AIM: To evaluate the efficacy of various surgical treatment methods for pain syndrome in patients with amputated limb defects resulting from combat trauma, and to identify factors influencing the treatment outcome. METHODS: Pain was assessed using a visual analog scale and a neuropathic pain diagnostic questionnaire. To identify independent predictors of failure in pain control, unsuccessful prosthetic fitting, and recurrence, a multivariable logistic regression analysis was performed. RESULTS: Neurosurgical operations using microsurgical techniques and the addition of alcohol neurolysis (chemical neurolysis with alcohol) were superior to similar operations without alcoholization. Thus, the median visual analog scale score after treatment was 0.5 points versus 1 point (p = 0.018), and the success rate of prosthetic fitting was 76% versus 53% (p = 0.022). In 66.7% of patients who underwent repeated surgeries, switching to neurosurgical interventions using microsurgical techniques and nerve alcoholization ensured successful prosthetic fitting. A correlation was identified between the time from injury to admission and the duration of treatment (r = 0.42; p = 0.004). Operations without nerve alcoholization were the strongest independent risk factor for failure in pain relief, unsuccessful prosthetic fitting, and recurrence (odds ratio = 5.05; p = 0.009; 5.81; p = 0.011; and 5.21; p = 0.015, respectively). Therapeutic blocks were associated with a lower risk of failure in pain relief and prosthetic fitting (odds ratio = 0.1; p = 0.040 and 0.06; p = 0.046, respectively). Amputation at the thigh level was a predictor of unsuccessful prosthetic fitting and recurrence (odds ratio = 4.18; p = 0.025 and 3.82; p = 0.036, respectively); each additional neuroma increased the risk of unsuccessful prosthetic fitting by 2.1-fold (p = 0.025) and the risk of recurrence by 2.41-fold (p = 0.012). CONCLUSION: Adding nerve alcoholization to microsurgical interventions significantly improves the outcomes of neuroma treatment and reduces the risk of recurrence; surgeries without nerve alcoholization are not recommended as a standalone method for this population. The identified predictors can be used for risk stratification, but they require confirmation in larger samples.",
     "authors": [
-      "Debjyoti Chatterjee",
-      "Shashi Bajaj Mukherjee"
+      "Petr S. Sinitsyn",
+      "Ivan A. Soloviev",
+      "Alexey L. Kudyashev",
+      "Mariia N. Kuprenkova"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
