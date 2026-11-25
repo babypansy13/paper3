@@ -1,158 +1,157 @@
 [
   {
-    "field": "Psychology",
-    "title": "XR-as-Stage: more-than-human worlding in extended reality for decentralized storytelling",
-    "journal": "Frontiers in Human Dynamics",
-    "year": "2026",
-    "date": "2026-11-24",
-    "doi": "10.3389/fhumd.2026.1795938",
-    "url": "https://doi.org/10.3389/fhumd.2026.1795938",
-    "abstract": "XR-as-Stage is a framework for extended reality (XR) co-creation and techno-dramaturgy that builds shared worlds for decentralized storytelling. We describe how it opens imaginative play for more-than-human design, posthumous collaboration, and companion intelligences. XR-as-Stage operates in two coupled registers. The first is rehearsal, enabling lived relations to be explored through collaborative, low-stakes encounters, worlding futures together. The second is transformation, ephemeral actions becoming durable, iterable structures that can be revisited, altered, and built upon, designing futures together. Writeability couples the two: a rehearsal becomes a structure others can return to and rework, a way of rehearsing not just the future but reality together. We developed the approach through four of our own creative projects. The Middle is a webXR story commons, co-created asynchronously by rural communities navigating substance use disorder. Being In You stages presence with musician Cat Janice, across her life and death; her voice and creative legacy remain active through archives and ritual scenography. Fish Phone Booth places a single participant inside a dark booth to encounter marine life through spatial audio and bioacoustics. Live Action Robotic Role Play rehearses what care might look like when companion intelligences share the room. Together these projects show how XR can expand who and what gets to take part in worlding collective futures.",
-    "authors": [
-      "Ash Eliza Smith",
-      "Daniel Lichtman",
-      "Samantha Bendix",
-      "Michał Stankiewicz"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "When Patients Speak More to Machines: Active Ingredients, Mechanisms, and Limitations of Mental Health Support from Large Language Models",
-    "journal": "European Psychiatry",
-    "year": "2026",
-    "date": "2026-11-24",
-    "doi": "10.1192/j.eurpsy.2026.12280",
-    "url": "https://doi.org/10.1192/j.eurpsy.2026.12280",
-    "abstract": "",
-    "authors": [
-      "Charlotte Blease",
-      "Andrea Fiorillo",
-      "Umberto Volpe"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20hospital%20corridor%20quiet%20warm%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
     "field": "Public Policy",
-    "title": "Trends, differentials and determinants of modern contraceptive use among urban poor women in Nigeria",
-    "journal": "Discover Public Health",
+    "title": "Cognitive Management: A Systematic Explication of Applying Cognitive Sciences in Management",
+    "journal": "Emerging Technologies and Governance",
     "year": "2026",
-    "date": "2026-11-24",
-    "doi": "10.1186/s12982-026-03126-z",
-    "url": "https://doi.org/10.1186/s12982-026-03126-z",
+    "date": "2026-11-25",
+    "doi": "10.47176/etg.2026.1003",
+    "url": "https://doi.org/10.47176/etg.2026.1003",
     "abstract": "",
     "authors": [
-      "Simon Osilama Izuagie",
-      "Olusina Samson Bamiwuye",
-      "Bola Lukman Solanke",
-      "Temisola Emmanuel Oyelakin"
+      "Mohammad Milad Ahmadi",
+      "Peyman Hajizadeh",
+      "Changiz Valmohammadi"
     ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20city%20hall%20corridor%20documentary%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "The impact of roof-contact gap on the stability of the backfill strip-immediate roof composite structure",
-    "journal": "Bulletin of Engineering Geology and the Environment",
-    "year": "2026",
-    "date": "2026-11-24",
-    "doi": "10.1007/s10064-026-05415-y",
-    "url": "https://doi.org/10.1007/s10064-026-05415-y",
-    "abstract": "",
-    "authors": [
-      "Qipeng Huang",
-      "Xianjie Du",
-      "Guorui Feng",
-      "Wenhao Liu"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Marketing",
-    "title": "The digital transformation of grassroots agriculture: A text-mining analysis of Thai research portfolios",
-    "journal": "Creative Science",
-    "year": "2026",
-    "date": "2026-11-24",
-    "doi": "10.55674/cs.v19i1.267120",
-    "url": "https://doi.org/10.55674/cs.v19i1.267120",
-    "abstract": "The concept of “Agriculture 4.0” promises to transform farming through the Internet of Things (IoT), Artificial Intelligence (AI), and big data, but in developing economies the technologies emphasized in policy may differ from those funded. This study evaluates the technological composition of Thailand’s public agricultural research portfolio as a retrospective baseline. The dataset contains 629 project records from four funding streams (Basic Research, NRCT, PMU-A and TSRI); the primary analysis covers the 579 projects funded in fiscal years 2020–2021, of which 406 with a specified technology descriptor were used for clustering and association tests, while 50 PMU-A projects from FY2024 were analyzed as a follow-up. We combined Term Frequency–Inverse Document Frequency (TF-IDF) features, latent semantic analysis, and K-Means clustering with Fisher’s exact and chi-square tests. Five exploratory innovation archetypes emerged: Agri-Processing & Product Engineering (n = 123), Digital Sensing & Resource Monitoring (n = 103), Green Production & Renewable Energy (n = 69), Value-Added Processing & Craft Textiles (n = 58), and Digital Platforms & Marketing (n = 53); cluster structure was weak (mean silhouette = 0.16), so the archetypes are interpreted cautiously. Funding agencies occupied distinct niches (χ²(12, N = 406) = 67.47, p < .001; Cramér’s V = 0.24). Three in four projects (76.2%) addressed a lack of skills, whereas water shortage (6.6%), soil issues (8.5%), and disaster risk (2.4%) were addressed far less often, mainly through GIS, sensing, and soil technologies. IoT projects were not disproportionately skills-oriented, indicating that the deployment gap is portfolio-wide rather than specific to IoT. These findings describe funded project descriptions, not field deployment. As a creative science contribution, the study offers a reproducible text-mining pipeline that funding agencies could apply in annual portfolio audits to compare funded research with strategic goals. GRAPHICAL ABSTRACT HIGHLIGHTS Text mining of 579 Thai agricultural R&D projects (FY2020–2021) yields five exploratory innovation archetypes Three in four projects address a lack of skills; water, soil and disaster problems are each addressed by fewer than 9% Funding agencies occupy distinct technological niches (Cramér’s V = 0.24)",
-    "authors": [
-      "Pita Jarupunphol",
-      "Wichidtra Sudjarid"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "The Routledge Handbook of Translanguaging in the Global South",
-    "journal": "Southern African Linguistics and Applied Language Studies",
-    "year": "2026",
-    "date": "2026-11-24",
-    "doi": "10.2989/16073614.2026.2736198",
-    "url": "https://doi.org/10.2989/16073614.2026.2736198",
-    "abstract": "",
-    "authors": [
-      "Peter Chai"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20food%20science%20laboratory%20packaging%20prototype%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Consumer Research",
-    "title": "Structural basis for pore block of human Cav1.4 by SR33805",
-    "journal": "Cell Research",
-    "year": "2026",
-    "date": "2026-11-24",
-    "doi": "10.1038/s41422-026-01324-7",
-    "url": "https://doi.org/10.1038/s41422-026-01324-7",
-    "abstract": "",
-    "authors": [
-      "Yitong Sun",
-      "Tong Wu",
-      "Tongtong Wang",
-      "Huan Wang"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20editorial%20still%20life%20personal%20objects%20warm%20morning%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 1,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "Scoping review of interventions and their effectiveness to improve quality of cause of death information on death certificates",
-    "journal": "Population Health Metrics",
+    "title": "Современная эпидемиология и вопросы профилактики кишечных инфекций бактериальной природы: Обзор литературы Current Epidemiology and Prevention of Bacterial Enteric Infections: A Literature Review Бактериялық этиологиялы ішек инфекцияларының заманауи эпидемиологиясы және алдын алу мәселелері: Әдеби шолу",
+    "journal": "Journal of Health Development",
     "year": "2026",
-    "date": "2026-11-24",
-    "doi": "10.1186/s12963-026-00528-8",
-    "url": "https://doi.org/10.1186/s12963-026-00528-8",
-    "abstract": "",
+    "date": "2026-11-25",
+    "doi": "10.32921/2663-1776-2026-61-5-jhd095",
+    "url": "https://doi.org/10.32921/2663-1776-2026-61-5-jhd095",
+    "abstract": "Тyphoid fever, non-typhoidal salmonellosis, and shigellosis remain important public health concerns worldwide and in Kazakhstan. Their causative agents differ in sources and routes of transmission, disease severity, and prevention approaches. The spread of antimicrobial-resistant strains makes infection control more challenging. Objective. To summarize the epidemiological characteristics of typhoid fever, non-typhoidal salmonellosis, and shigellosis worldwide and in Kazakhstan, and to review their prevention in the context of antimicrobial resistance. Мethods. A review was conducted of the scientific publications and official epidemiological materials cited in the article. A total of 28 sources were analyzed. Data were descriptively compared by pathogen, distribution, transmission route, and preventive measures. Results. The global burden of these infections remains substantial, although their epidemiological patterns differ. In Kazakhstan, 898 cases of non-typhoidal salmonellosis (4.40 per 100,000 population) and 226 cases of shigellosis (1.11 per 100,000) were reported in 2025. According to the data presented in the article, no typhoid fever cases have been reported since 2002. The spread of antimicrobial-resistant strains is a relevant concern for all three infections. Conclusion. Prevention should be tailored to the source and transmission route of each pathogen. An integrated approach is needed, combining safe water and food, sanitation, laboratory diagnosis, epidemiological surveillance, and antimicrobial-resistance monitoring.",
     "authors": [
-      "Pamela Groenewald",
-      "Beatrice Nojilana",
-      "Sudarshan Govender",
-      "Natasha Kallis"
+      "Ж.М. Бекшин",
+      "Н.Т. Амирханова",
+      "А.М. Аскаров",
+      "Б.К. Мусабаева"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Management",
-    "title": "An Empirical Examination of Stakeholder Factors and Value-for-Money Audit Effectiveness in the Nigerian Public Service",
-    "journal": "Sinergi International Journal of Management and Business",
+    "field": "Consumer Research",
+    "title": "Wrinkle-engineered hybrid carbon electrodes for enhanced stretchability, conductivity, and strain sensitivity",
+    "journal": "Journal of Polymer Research",
     "year": "2026",
-    "date": "2026-11-24",
-    "doi": "10.61194/ijmb.v4i4.1043",
-    "url": "https://doi.org/10.61194/ijmb.v4i4.1043",
-    "abstract": "The systemic issues of poor stakeholder integration, low inclusiveness, and weak frameworks remain persistent and undermine the effectiveness of the VFM audit in Nigeria, raising serious concerns among scholars. This study examined how the application of stakeholder factors affects value-for-money (VFM) audit effectiveness within the Nigerian public service. This study used a quantitative cross-sectional design and a stratified random sample of 115 stakeholders (auditors, policymakers, civil servants, and representatives of civil society) from federal ministries, departments, and agencies (MDAs) in Nigeria, selected using the Yamane formula, with 106 responding. A structured questionnaire in Google Forms was used to obtain primary data. Analysis of quantitative data was done with SPSS v30 using descriptive statistics and regression analysis techniques. The results indicated that the effect of stakeholder influence (β = 0.356, p = 0.008) and auditors’ role (β = 0.421, p = 0.010) were significantly positive on VFM audit effectiveness. On the other hand, stakeholder engagement (β = -0.214, p = 0.132) inversely and insignificantly influenced the effectiveness of the VFM audit. The study established that stakeholder influence and auditors' roles are significant determinants of VFM audit effectiveness, while stakeholder engagement return is insignificant. The study recommends that the stakeholder engagement structures within the public service be redesigned in such a way that engagement is not cosmetic but more realistic and result-oriented.",
+    "date": "2026-11-25",
+    "doi": "10.1007/s10965-026-05152-6",
+    "url": "https://doi.org/10.1007/s10965-026-05152-6",
+    "abstract": "",
     "authors": [
-      "Amos Adejare Aderibigbe",
-      "Chris Sunday Awe-Mathias",
-      "Olusegun Amos Oyebanjo",
-      "Kafayat Ololade Edun"
+      "Bismark Mensah",
+      "Elsie Effah Kaufmann",
+      "John Kwaku Kutor",
+      "Boniface Yeboah Antwi"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20late%20night%20office%20window%20tungsten%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "Words in motion: how dynamic linguistics undermines medical crowdfunding success",
+    "journal": "European Journal of Marketing",
+    "year": "2026",
+    "date": "2026-11-25",
+    "doi": "10.1108/ejm-12-2024-1006",
+    "url": "https://doi.org/10.1108/ejm-12-2024-1006",
+    "abstract": "Purpose This study investigates how dynamic linguistics, referring to language that leads readers to mentally recreate the described movement, undermines medical crowdfunding performance, challenging the assumption that perceived dynamism enhances persuasive effectiveness across communication contexts. Design/methodology/approach Three studies are conducted using a multi-method approach. Study 1 analyzes field data from 106,428 medical crowdfunding campaigns on GoFundMe. Study 2 employs a controlled experiment to provide preliminary evidence for the empathy avoidance mechanism. Study 3 further examines the proposed mechanism through a moderated mediation approach by manipulating campaign category (medical vs non-medical). Findings Dynamic linguistics negatively affects medical crowdfunding performance because it prompts donors to experientially recreate the depicted suffering, triggering empathy avoidance. This downstream negative effect is weaker in non-medical campaigns, where suffering is less central. Research limitations/implications The findings extend dynamism research from the visual to the linguistic domain, identifying a boundary condition whereby the mental simulation that enhances persuasion in positive or neutral contexts becomes counterproductive when content involves human suffering. They also advance empathy avoidance research by identifying dynamic linguistics as a communication-level antecedent, complementing prior work focused on factors external to message content. Practical implications Crowdfunding platforms can integrate dynamic linguistics detection into their writing assistance tools to flag problematic phrasing in medical appeals. Campaign creators should exercise caution when using language that leads donors to vicariously recreate suffering in medical appeals. Originality/value This study challenges the well-established finding that perceived dynamism enhances persuasive effectiveness, showing that in medical crowdfunding dynamism evoked through language can backfire and reduce fundraising performance.",
+    "authors": [
+      "Hebo Lu",
+      "Yanli Jia",
+      "Xixian Zheng",
+      "Shaojie Wang"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Vocational Education Cooperation Between China and Central Asian Countries from the Perspective of a Neighborhood Community with a Shared Future: Strategic Positioning and Implementation Pathways",
+    "journal": "World Vocational and Technical Education",
+    "year": "2026",
+    "date": "2026-11-25",
+    "doi": "10.1515/wvte-2026-0008",
+    "url": "https://doi.org/10.1515/wvte-2026-0008",
+    "abstract": "Abstract Central Asian countries occupy a strategically important position in China’s neighborhood. Since gaining independence, they have successively established diplomatic relations with China and pursued practical cooperation across multiple fields, including vocational education within people-to-people and cultural exchanges. Vocational education cooperation between China and Central Asian countries has progressed through several major stages. The proposal to build a China–Central Asia community with a shared future marked the beginning of a pivotal phase and a golden era for this cooperation. This study finds that China’s four global initiatives call for a recalibration of the strategic positioning of vocational education cooperation between China and Central Asian countries. This cooperation is positioned to advance economic and social progress in the development dimension, contribute to social stability in Central Asia in the security dimension, promote cultural exchanges and mutual learning in the civilization dimension, and establish a new model of vocational education cooperation in the global governance dimension. Underpinned by strong mutual political trust, economic and trade cooperation, and scientific and technological innovation, vocational education cooperation between China and Central Asian countries has expanded in both depth and breadth.",
+    "authors": [
+      "Ruisi Li"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Psychology",
+    "title": "Understanding the drivers of displacement in Somalia: evidence from internally displaced communities",
+    "journal": "Frontiers in Human Dynamics",
+    "year": "2026",
+    "date": "2026-11-25",
+    "doi": "10.3389/fhumd.2026.2035665",
+    "url": "https://doi.org/10.3389/fhumd.2026.2035665",
+    "abstract": "Introduction Internal displacement is still a serious humanitarian and development problem in Somalia, where recurrent droughts, armed conflict, and declining livelihood opportunities force families to leave their homes every year. This study investigated the main drivers of internal displacement, changes in household livelihoods, challenges faced by displaced communities, and conditions needed for return. Methods A quantitative cross-sectional survey was conducted among 100 IDPs mainly from Bay, Bakool, and Lower Shabelle regions, using a structured questionnaire; data were analysed descriptively with frequencies and percentages. Results Drought was the most commonly reported cause of displacement (48%), followed by armed conflict (32%), livestock losses (19%), and crop failure (18%). Repetition of displacement was common (61% of respondents had been displaced more than once). Apart from losing their home, many displaced households faced major changes in livelihoods too: 31% depended on humanitarian assistance; 26% remained unemployed. Living conditions in IDP settlements were particularly difficult as respondents reported food shortages (96%), limited access to healthcare (95%), inadequate shelter (94%), and lack of educational opportunities (91%). Despite these challenges, 95% wanted to go back home. But willingness to return was largely determined by livelihood opportunities (95%), basic services (92%), security (91%), securing community and pastoral land rights (91%), and water resources (90%). Discussion These results show that displacement in Somalia is not just a drought or conflict phenomenon but many interconnected pressures that weaken household livelihoods and make them unable to recover from displacement. Emergency humanitarian assistance alone cannot address these challenges -- there is a need for more attention to strengthening climate resilience; restoring livelihoods; improving essential services; creating conditions for displaced families to return safely so they can rebuild their lives. That's how to reduce repeated displacement and support long-term recovery in Somalia.",
+    "authors": [
+      "Mohamed Abdillahi Hassan Wardhere",
+      "Mohamed Hassan Isxaaq",
+      "Marian Ali Hassan"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Management",
+    "title": "The growth energy emissions trilemma: evidence from BRICS",
+    "journal": "International Journal of Energy Sector Management",
+    "year": "2026",
+    "date": "2026-11-25",
+    "doi": "10.1108/ijesm-11-2025-0026",
+    "url": "https://doi.org/10.1108/ijesm-11-2025-0026",
+    "abstract": "Purpose This study aims to examine the equilibrium relationship between economic growth, foreign direct investments (FDI), trade openness, fossil fuel energy use and CO2 emissions for Brazil, Russia, India, China and South Africa (BRICS) countries over a period from 1990 to 2022. Design/methodology/approach Panel data tests are done using the first- and second-generation unit root tests, Pedroni and Johansen Fisher panel co-integration tests, fully modified ordinary least squares (FMOLS) for long-run coefficient and the Dumitrescu–Hurlin panel causality test. Findings There is evidence of cointegration in the long run among the variables. According to the FMOLS estimates, fossil fuel energy consumption (elasticity = 0.847) and inward foreign direct investments (elasticity = 0.031) have a positive and significant effect on CO2 emissions, while trade openness has a negative but insignificant effect. Causality from GDP per capita to CO2 emissions (p &lt; 0.05), and inward FDI to CO2 emissions (p &lt; 0.10) is one-sided. Research limitations/implications The limitation of availability of data restricts the study period from 1990 to 2022. The study uses aggregate data on fossil fuels without differentiating the types of fossil fuels used. Further studies should consider the analysis with country-level asymmetry, structural break models and extended BRICS membership. Originality/value Built on the basis of the hypotheses of Environmental Kuznets Curve, this research attempts to combine the economic, energy, trade and environmental factors in one panel model for BRICS economies. This paper provides the long-run elasticity analysis and causality directions for green policymaking, filling the gap in literature that reports only about cointegration without the effect size estimates.",
+    "authors": [
+      "Arifa Haseen",
+      "Sharmiladevi J.C."
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Urban Studies",
+    "title": "The Structural Variety of trans -Vacant and cis -Vacant Homoionic Montmorillonites Sensu Stricto : A Dispersion-Corrected Density Functional Theory Study",
+    "journal": "ACS Earth and Space Chemistry",
+    "year": "2026",
+    "date": "2026-11-25",
+    "doi": "10.1021/acsearthspacechem.6c00236",
+    "url": "https://doi.org/10.1021/acsearthspacechem.6c00236",
+    "abstract": "Abstract Montmorillonites are the most common dioctahedral smectites and exhibit substantial variation in layer charge, interlayer cations, and octahedral-sheet structure. These features are important in geological systems, soils, and (geo-)technical applications. Here, dispersion-corrected density functional theory was used to compare 48 idealized, anhydrous homoionic montmorillonite sensu stricto models constructed with four-layer charges, four interlayer cations, and trans-vacant (tv) or cis-vacant (cv) octahedral sheets. Among the preconstructed models with monovalent interlayer cations, cv structures had lower calculated energies than the corresponding tv structures across the examined layer-charge range. For divalent interlayer cations, the relative energetic preference depended on layer charge. Mg2+-saturated structures exhibited the smallest basal spacings, close to those of the Ca2+- and Na+-saturated structures (9.47–9.74 Å), whereas K+-saturated structures showed larger spacings (9.88–10.31 Å), with corresponding effects on specific density and the constrained out-of-plane modulus. Interlayer K+ and Mg2+ occupied distinct positions relative to the 2:1 layer surfaces. No neighboring octahedral Mg pair, i.e., no Mg–OH–Mg linkage, occurred in the optimized structures. The optimized OH-vector orientations varied systematically with layer charge; these static angles describe the local minima of the anhydrous models rather than finite-temperature orientational distributions. The resulting model set provides internally consistent anhydrous reference structures of montmorillonites sensu stricto for subsequent property calculations and molecular simulations of various reactions, e.g., hydration.",
+    "authors": [
+      "Katja Emmerich",
+      "Irwan Nugraha",
+      "Yi-Yu Liu",
+      "Ali Asaad"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "Pulsed Ultrasound-Assisted Deep Eutectic Solvent Extraction of Polyphenols from Choerospondias axillaris: Process Intensification, Selective Enrichment, and Molecular Insights",
+    "journal": "Food and Bioprocess Technology",
+    "year": "2026",
+    "date": "2026-11-25",
+    "doi": "10.1007/s11947-026-04674-7",
+    "url": "https://doi.org/10.1007/s11947-026-04674-7",
+    "abstract": "",
+    "authors": [
+      "Dong-min Cao",
+      "Jia-hao Zhai",
+      "Wen Ye",
+      "Hua-Qiang Zeng"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
