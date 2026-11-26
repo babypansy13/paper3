@@ -1,157 +1,147 @@
 [
   {
-    "field": "Public Policy",
-    "title": "Cognitive Management: A Systematic Explication of Applying Cognitive Sciences in Management",
-    "journal": "Emerging Technologies and Governance",
+    "field": "Psychology",
+    "title": "التحليل المكاني لجودة المياه الجوفية في شمال شرق إقليم البطنان: دراسة في جغرافية البيئة Spatial Analysis of Groundwater Quality in Northeastern of Al-Batnan Region: A Study in Environmental Geography",
+    "journal": "Journal of Human Sciences",
     "year": "2026",
-    "date": "2026-11-25",
-    "doi": "10.47176/etg.2026.1003",
-    "url": "https://doi.org/10.47176/etg.2026.1003",
-    "abstract": "",
+    "date": "2026-11-26",
+    "doi": "10.51984/e28svn81",
+    "url": "https://doi.org/10.51984/e28svn81",
+    "abstract": "تُعد المياه الجوفية المصدر الرئيسي للمياه في شمال شرق إقليم البطنان، ونظرًا لأهمية الموضوع جاءت هذه الدراسة للتعرف على خصائص المياه الجوفية وبيان مدى صلاحيتها للشرب. وقد اعتمدت الدراسة على جمع 22 عينة مياه من الآبار الجوفية موزعة على أغلب أجزاء المنطقة، نُقلت العينات إلى المختبر لتحليلها فيزيائيًا وكيميائيًا وبيولوجيًا، كما تم الاعتماد على مؤشر جودة المياه (WQI) لتحديد الجودة الكلية للمياه، واستخدمت أيضًا تقنيات نظم المعلومات الجغرافية لتحديد التباين المكاني لجودة المياه. خُلصت الدراسة إلى أنَّ المياه الجوفية في منطقة الدراسة مُعظمها غير صالحة للشرب باستثناء بئر واحد فقط، وأنَّ (95%) من إجمالي مياه الآبار الجوفية لا تتوافق مع المواصفات الليبية والعالمية لمياه الشرب. حيث جاء أكبر تركيز بنسبة 81% لأيون النتريت من جُملة الآبار الجوفية في المنطقة، كما توصلت الدراسة إلى أنَّ مُعظم الآبار المياه تعاني من ارتفاع التوصيلة الكهربائية والكلوريدات، والصوديوم، والأملاح الكلية الذائبة، والكالسيوم، والعسر الكلي، والنترات، والبوتاسيوم، بينما كان عنصري الآس الهيدروجيني والكربونات وفق الحدود المسموح بها، كما لُوحظ وجود بكتيريا E.coli في 12 بئر جوفي من جُملة آبار المياه الجوفية في المنطقة. وبناءً على قيم نتائج WQI تبين أن مُجمل عينات المياه غير ملائمة للشرب، حيث كانت مياه بعض الآبار ذات جودة رديئة، والأخرى رديئة جدًا ولا يمكن استخدامها لغرض الشرب، ومن إجمالي هذه العينات اتسمت عينة مياه واحدة جيدة وفقًا للمواصفات الليبية والعالمية. إنَّ العوامل الطبيعية لها دور في تدهور نوعية المياه الجوفية في المنطقة؛ فضلاً عن الأنشطة البشرية لا سيما حفر الآبار بشكل عشوائي. وثبت وجود بكتيريا E.coli في بعض الآبار المدروسة، هذا دليلاً على تسرب مياه الصرف الصحي إلى طبقات المياه الجوفية في المنطقة.",
     "authors": [
-      "Mohammad Milad Ahmadi",
-      "Peyman Hajizadeh",
-      "Changiz Valmohammadi"
+      "أريج صقر محمد فضل",
+      "جمعه أرحومه جمعه الجالي",
+      "محمود علي المبروك صالح"
     ],
-    "citations": 1,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20public%20building%20steps%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20portrait%20silhouette%20warm%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Public Policy",
+    "title": "When Tax Avoidance Turns Green: Managerial Discretion and Behavioural Consistency in Corporate Greenwashing",
+    "journal": "International Business & Economics Studies",
+    "year": "2026",
+    "date": "2026-11-26",
+    "doi": "10.22158/ibes.v8n4p277",
+    "url": "https://doi.org/10.22158/ibes.v8n4p277",
+    "abstract": "Corporate tax avoidance and greenwashing may reflect a shared pattern of organisational hypocrisy. Moving beyond conventional ESG disclosure measures, this study examines their relationship through a behavioural consistency perspective. Using Chinese A-share listed firms (2018-2024), we find a positive association between tax avoidance and greenwashing, mediated by weakened corporate governance and attenuated by patient capital. The association is stronger among non-state-owned, smaller and non-heavy-polluting firms, where oversight is weaker. By conceptualising both practices as expressions of organisational opportunism, this study shifts attention from disclosure quantity to the gap between corporate claims and actions, highlighting the role of patient capital in constraining cross-domain opportunistic behaviour.",
+    "authors": [
+      "Cao Xuan"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?documentary%20street%20policy%20urban%20people%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Marketing",
+    "title": "Vibe marketing: what is it, how it works and what needs to be known?",
+    "journal": "Journal of Research in Interactive Marketing",
+    "year": "2026",
+    "date": "2026-11-26",
+    "doi": "10.1108/jrim-07-2026-0628",
+    "url": "https://doi.org/10.1108/jrim-07-2026-0628",
+    "abstract": "Purpose Vibe marketing has emerged as a culturally significant marketing phenomenon through the deliberate creation of affective cues that are compelling enough to inhabit, share and return to. This paper introduces and conceptualises vibe marketing, maps its process through a five-stage vibe lifecycle, identifies structural tensions and develops a future research agenda. Design/methodology/approach Drawing upon affect theory and consumer culture theory, the authors explore relevant literature and industry observations on vibe marketing practices across online and offline settings. The authors identify the constituent elements that distinguish vibe marketing from adjacent constructs and develop a lifecycle framework with managerial recommendations for each stage. Findings Vibe marketing is conceptualised as the deliberate orchestration of sensory, aesthetic and atmospheric stimuli by firms to trigger affective responses that consumers associate with a coherent, desirable social identity, such that those responses motivate engagement, sharing and loyalty. A five-stage vibe lifecycle (vibe sensing, vibe creating, vibe featuring, vibe popularising and vibe updating) describes how vibe marketing unfolds in practice. Three structural tensions arising from the lifecycle identify the field’s principal theoretical frontiers. Research limitations/implications This paper establishes vibe marketing as a theoretically grounded domain for scholars of interactive marketing and brand management, while providing practitioners with a process framework for managing affective brand strategy. Originality/value This is among the first scholarly papers to conceptualise vibe marketing as a distinct phenomenon in interactive marketing, grounding it in affect theory and consumer culture theory and proposing a lifecycle framework that maps how brands create, sustain and renew the affective atmospheres that drive consumer engagement.",
+    "authors": [
+      "Hongfei Liu",
+      "Wentong Liu"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20supermarket%20aisle%20cinematic%20warm%20light%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Mental Health",
+    "title": "Vessel-level patterns and predictors of discordance between computed tomography coronary angiography and invasive coronary angiography",
+    "journal": "World Journal of Cardiology",
+    "year": "2026",
+    "date": "2026-11-26",
+    "doi": "10.4330/wjc.127371",
+    "url": "https://doi.org/10.4330/wjc.127371",
+    "abstract": "BACKGROUND Coronary calcification is a recognized source of computed tomography coronary angiography (CTCA) stenosis overestimation. We evaluated whether discordance between CTCA and invasive coronary angiography (ICA) also shows clinically relevant vessel-territory patterns in a selected real-world paired-imaging cohort. AIM To evaluate patient- and vessel-level CTCA diagnostic performance, quantify territory-specific discordance, assess three-category stenosis agreement, and identify predictors of discordance in a selected paired-imaging cohort. METHODS We systematically screened the hospital CTCA database for October 2019-December 2024 and included consecutive adults with paired CTCA and ICA within 120 days, subject to the study exclusions. After reviewing interval revascularisation, we excluded one patient in whom percutaneous coronary intervention occurred after diagnostic ICA but before the subsequent CTCA, leaving 403 patients and 1612 major epicardial vessel observations. Severe/occlusive disease was the positive binary endpoint, with a left main coronary artery (LMCA)-specific severe threshold of ≥ 50% in both modalities. Patient-level predictors were assessed with logistic regression and vessel-level predictors with mixed-effects logistic regression using a patient random intercept. RESULTS ICA demonstrated severe/occlusive disease in 204/403 patients (50.6%). Patient-level sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) were 91.7% (95%CI: 87.0%-95.1%), 35.2% (95%CI: 28.6%-42.2%), 59.2% (95%CI: 53.5%-64.6%), and 80.5% (95%CI: 70.6%-88.2%), respectively. Across 1612 vessels, sensitivity was 80.8% (cluster-bootstrap 95%CI: 76.3%-85.1%), specificity 81.7% (95%CI: 79.5%-83.7%), PPV 50.4% (95%CI: 45.4%-55.2%), NPV 94.9% (95%CI: 93.5%-96.1%), and discordance 18.5% (95%CI: 16.6%-20.3%). At least one discordant vessel was present in 229 patients (56.8%). Discordance was highest in the left anterior descending artery (LAD) (31.8%) and lowest in the LMCA (2.5%). Three-category agreement was moderate (weighted kappa 0.500, 95%CI: 0.459-0.539). Calcium burden remained independently associated with discordance at the patient level [odds ratio (OR) = 1.66 per category, 95%CI: 1.03-2.73; P = 0.042] and vessel level (OR = 1.40, 95%CI: 1.04-1.87; P = 0.025). The LAD had higher adjusted odds of discordance than the right coronary artery (OR = 1.82, 95%CI: 1.32-2.53; Holm-adjusted P = 0.0003) and left circumflex artery (OR = 2.01, 95%CI: 1.44-2.80; Holm-adjusted P < 0.001). CONCLUSION In this selected cohort of patients who underwent both CTCA and ICA, greater visual coronary calcium burden was associated with anatomical discordance, and discordance varied by epicardial territory, being highest in the LAD. Because referral for ICA was selective, study readings were not independently blinded, and ICA stenosis was visually graded, the observed diagnostic metrics may not generalise to unselected CTCA populations. No downstream testing pathway, invasive-referral decision, or patient outcome was evaluated; the findings are descriptive and hypothesis-generating.",
+    "authors": [
+      "Sisijaya Vinura Jayawardena",
+      "Edwin Hsiang Win Foo",
+      "Simon Angus Savage",
+      "Yash Pradeep Patwardhan"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20clinic%20waiting%20room%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Family Studies",
-    "title": "Современная эпидемиология и вопросы профилактики кишечных инфекций бактериальной природы: Обзор литературы Current Epidemiology and Prevention of Bacterial Enteric Infections: A Literature Review Бактериялық этиологиялы ішек инфекцияларының заманауи эпидемиологиясы және алдын алу мәселелері: Әдеби шолу",
-    "journal": "Journal of Health Development",
+    "title": "Use of Epinephrine Auto-Injectors In Schools: Are Our Teachers Ready?",
+    "journal": "Turkish Journal of Family Medicine and Primary Care",
     "year": "2026",
-    "date": "2026-11-25",
-    "doi": "10.32921/2663-1776-2026-61-5-jhd095",
-    "url": "https://doi.org/10.32921/2663-1776-2026-61-5-jhd095",
-    "abstract": "Тyphoid fever, non-typhoidal salmonellosis, and shigellosis remain important public health concerns worldwide and in Kazakhstan. Their causative agents differ in sources and routes of transmission, disease severity, and prevention approaches. The spread of antimicrobial-resistant strains makes infection control more challenging. Objective. To summarize the epidemiological characteristics of typhoid fever, non-typhoidal salmonellosis, and shigellosis worldwide and in Kazakhstan, and to review their prevention in the context of antimicrobial resistance. Мethods. A review was conducted of the scientific publications and official epidemiological materials cited in the article. A total of 28 sources were analyzed. Data were descriptively compared by pathogen, distribution, transmission route, and preventive measures. Results. The global burden of these infections remains substantial, although their epidemiological patterns differ. In Kazakhstan, 898 cases of non-typhoidal salmonellosis (4.40 per 100,000 population) and 226 cases of shigellosis (1.11 per 100,000) were reported in 2025. According to the data presented in the article, no typhoid fever cases have been reported since 2002. The spread of antimicrobial-resistant strains is a relevant concern for all three infections. Conclusion. Prevention should be tailored to the source and transmission route of each pathogen. An integrated approach is needed, combining safe water and food, sanitation, laboratory diagnosis, epidemiological surveillance, and antimicrobial-resistance monitoring.",
+    "date": "2026-11-26",
+    "doi": "10.21763/tjfmpc.1970334",
+    "url": "https://doi.org/10.21763/tjfmpc.1970334",
+    "abstract": "Background:Teachers are essential for recognizing and managing anaphylaxis in schools. This study evaluated teachers’ knowledge of anaphylaxis and epinephrine auto-injector (EAI) use, self-efficacy, behavioral preparedness, and associated factors.Methods:A cross-sectional study was conducted using a self-administered electronic questionnaire covering demographics, prior food allergy/anaphylaxis training, a 14-item knowledge questionnaire section, and a 10-item self-efficacy, behavior, and attitude questionnaire section. Internal consistency was assessed with Cronbach’s alpha. Non-parametric tests were used to compare groups, while multivariable linear regression was employed to identify the factors linked to self-efficacy and behavior scores.Results:Among 388 teachers, only 5.4% reported prior training. Median knowledge and self-efficacy/behavior scores were 37 (32–42) and 20 (16–25), respectively. Teachers with prior training scored significantly higher in both domains (p &lt; 0.001). In multivariable linear regression analysis including knowledge score, prior anaphylaxis training, sex, and years of teaching experience as independent variables, only knowledge score (β = 0.44) and prior training (β = 0.29) were independently associated with higher self-efficacy/behavior scores.Conclusions:Teachers’ knowledge and behavioral readiness for anaphylaxis remain insufficient, highlighting critical gaps in school preparedness. Implementing structured, school-based, and practice-oriented training programs on a regular basis is essential to enhance teachers’ competence and ensure a safer environment for students at risk.",
     "authors": [
-      "Ж.М. Бекшин",
-      "Н.Т. Амирханова",
-      "А.М. Аскаров",
-      "Б.К. Мусабаева"
+      "Furkan Savar"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20family%20table%20morning%20light%20documentary%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?soft%20grain%20household%20objects%20family%20life%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+  },
+  {
+    "field": "Food Industry / Science / Design",
+    "title": "The mediating role of social identity in the purchase intention for local agri-food products",
+    "journal": "Frontiers in Sustainable Food Systems",
+    "year": "2026",
+    "date": "2026-11-26",
+    "doi": "10.3389/fsufs.2026.1996788",
+    "url": "https://doi.org/10.3389/fsufs.2026.1996788",
+    "abstract": "Introduction Promoting the consumption of local agri-food products in Baja California, Mexico, is key to strengthening territorial resilience and community sustainability; however, the direct role of subjective norms in the purchase intention for these products remains inconsistent, requiring an investigation of identity-based mechanisms. Accordingly, this research analyzed the mediating role of social identity between the predictors of the theory of planned behavior (attitude, subjective norms, and perceived behavioral control) and purchase intention for local agri-food products. Methods An explanatory, quantitative, cross-sectional study was conducted. A structured questionnaire was administered online between September and December 2023 to a non-probability purposive sample of 550 adult consumers in Baja California. Data analysis was conducted using partial least squares structural equation modeling to test the direct and indirect effects within the proposed model. Results The model explained 52.6% of the variance in purchase intention and 46.3% of the variance in social identity. Attitude ( β = 0.375, p &lt; 0.001) and perceived behavioral control ( β = 0.388, p &lt; 0.001) were the strongest direct predictor of purchase intention. The strongest effect in the model was that of subjective norms on social identity ( β = 0.651, p &lt; 0.001). Furthermore, only subjective norms exerted an indirect effect on purchase intention ( β = 0.104, p = 0.015) through the full mediation of social identity, as their direct effect remained non-significant ( β = -0.609, p = 0.166). Discussion: These findings suggest that social expectations influence the intention to purchase local agri-food products when consumers internalize them as part of their identity, rather than through direct social pressure. Discussion These findings suggest that social expectations influence the intention to purchase local agri-food products when consumers internalize them as part of their identity, rather than through direct social pressure. They are useful for promoting local agri-food products and for developing public policies that shift the strategic focus from conventional social persuasion toward identity-based marketing and regional pride. Given the cross-sectional design and the purposive regional sample, the results reflect associations within the sample and shouldn’t be generalized beyond it.",
+    "authors": [
+      "Juan Cristóbal Hernández-Arzaba",
+      "Alba Rocío Muñoz-Madrid",
+      "Sandra Nelly Leyva-Hernández"
+    ],
+    "citations": 0,
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Consumer Research",
-    "title": "Wrinkle-engineered hybrid carbon electrodes for enhanced stretchability, conductivity, and strain sensitivity",
-    "journal": "Journal of Polymer Research",
+    "title": "The impact of telework on employee feedback-seeking behavior: the mediating role of job-based psychological ownership",
+    "journal": "Frontiers in Psychology",
     "year": "2026",
-    "date": "2026-11-25",
-    "doi": "10.1007/s10965-026-05152-6",
-    "url": "https://doi.org/10.1007/s10965-026-05152-6",
-    "abstract": "",
+    "date": "2026-11-26",
+    "doi": "10.3389/fpsyg.2026.2007632",
+    "url": "https://doi.org/10.3389/fpsyg.2026.2007632",
+    "abstract": "This study draws on signaling theory to investigate the relationship between telework and feedback-seeking behavior and takes into account the mediation effect of job-based psychological ownership. Further, this study theorizes and examines perceived human resource practice flexibility (perceived HR practice flexibility) as the boundary condition in this relationship. A three-wave survey was conducted to test these hypotheses. Results indicated telework had an indirect effect on feedback-seeking behavior via job-based psychological ownership. Moreover, perceived human resource practice flexibility (HR practice flexibility) works as the boundary condition in this relationship, such that the direct relationship and the indirect relationship are stronger when perceived HR flexibility is high. Implications and future research directions are discussed.",
     "authors": [
-      "Bismark Mensah",
-      "Elsie Effah Kaufmann",
-      "John Kwaku Kutor",
-      "Boniface Yeboah Antwi"
+      "Ying Zhang"
     ],
     "citations": 0,
     "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20quiet%20cafe%20table%20notebook%20coffee%20cinematic%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
-    "field": "Marketing",
-    "title": "Words in motion: how dynamic linguistics undermines medical crowdfunding success",
-    "journal": "European Journal of Marketing",
+    "field": "Urban Studies",
+    "title": "The genesis of socioeconomic development of the regions of the Russian Arctic: The transition from extensive to intensive economic development of territories",
+    "journal": "Regional Economics Theory and Practice",
     "year": "2026",
-    "date": "2026-11-25",
-    "doi": "10.1108/ejm-12-2024-1006",
-    "url": "https://doi.org/10.1108/ejm-12-2024-1006",
-    "abstract": "Purpose This study investigates how dynamic linguistics, referring to language that leads readers to mentally recreate the described movement, undermines medical crowdfunding performance, challenging the assumption that perceived dynamism enhances persuasive effectiveness across communication contexts. Design/methodology/approach Three studies are conducted using a multi-method approach. Study 1 analyzes field data from 106,428 medical crowdfunding campaigns on GoFundMe. Study 2 employs a controlled experiment to provide preliminary evidence for the empathy avoidance mechanism. Study 3 further examines the proposed mechanism through a moderated mediation approach by manipulating campaign category (medical vs non-medical). Findings Dynamic linguistics negatively affects medical crowdfunding performance because it prompts donors to experientially recreate the depicted suffering, triggering empathy avoidance. This downstream negative effect is weaker in non-medical campaigns, where suffering is less central. Research limitations/implications The findings extend dynamism research from the visual to the linguistic domain, identifying a boundary condition whereby the mental simulation that enhances persuasion in positive or neutral contexts becomes counterproductive when content involves human suffering. They also advance empathy avoidance research by identifying dynamic linguistics as a communication-level antecedent, complementing prior work focused on factors external to message content. Practical implications Crowdfunding platforms can integrate dynamic linguistics detection into their writing assistance tools to flag problematic phrasing in medical appeals. Campaign creators should exercise caution when using language that leads donors to vicariously recreate suffering in medical appeals. Originality/value This study challenges the well-established finding that perceived dynamism enhances persuasive effectiveness, showing that in medical crowdfunding dynamism evoked through language can backfire and reduce fundraising performance.",
+    "date": "2026-11-26",
+    "doi": "10.24891/ihyqgc",
+    "url": "https://doi.org/10.24891/ihyqgc",
+    "abstract": "Subject. Natural resource and transport-logistics potential of the Russian Arctic zone. Objectives. Analysis of the features of Arctic exploration in different historical periods. Methods. General scientific research methods were applied. Results. Six key stages of Arctic development have been identified, each differing in the way economic players interact. In the economic development of the Arctic, there is a shift from a globalization paradigm to a fragmentation of the economic space, which explains why strengthening Russia's national sovereignty is so relevant. Conclusions. An important prerequisite for improving the resilience of development in the Arctic region is ensuring information and transport-logistics connectivity.",
     "authors": [
-      "Hebo Lu",
-      "Yanli Jia",
-      "Xixian Zheng",
-      "Shaojie Wang"
+      "Elena N. BOGDANOVA"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20neon%20storefront%20retail%20window%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Mental Health",
-    "title": "Vocational Education Cooperation Between China and Central Asian Countries from the Perspective of a Neighborhood Community with a Shared Future: Strategic Positioning and Implementation Pathways",
-    "journal": "World Vocational and Technical Education",
-    "year": "2026",
-    "date": "2026-11-25",
-    "doi": "10.1515/wvte-2026-0008",
-    "url": "https://doi.org/10.1515/wvte-2026-0008",
-    "abstract": "Abstract Central Asian countries occupy a strategically important position in China’s neighborhood. Since gaining independence, they have successively established diplomatic relations with China and pursued practical cooperation across multiple fields, including vocational education within people-to-people and cultural exchanges. Vocational education cooperation between China and Central Asian countries has progressed through several major stages. The proposal to build a China–Central Asia community with a shared future marked the beginning of a pivotal phase and a golden era for this cooperation. This study finds that China’s four global initiatives call for a recalibration of the strategic positioning of vocational education cooperation between China and Central Asian countries. This cooperation is positioned to advance economic and social progress in the development dimension, contribute to social stability in Central Asia in the security dimension, promote cultural exchanges and mutual learning in the civilization dimension, and establish a new model of vocational education cooperation in the global governance dimension. Underpinned by strong mutual political trust, economic and trade cooperation, and scientific and technological innovation, vocational education cooperation between China and Central Asian countries has expanded in both depth and breadth.",
-    "authors": [
-      "Ruisi Li"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%205207%20therapy%20room%20soft%20window%20light%20cinematic%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Psychology",
-    "title": "Understanding the drivers of displacement in Somalia: evidence from internally displaced communities",
-    "journal": "Frontiers in Human Dynamics",
-    "year": "2026",
-    "date": "2026-11-25",
-    "doi": "10.3389/fhumd.2026.2035665",
-    "url": "https://doi.org/10.3389/fhumd.2026.2035665",
-    "abstract": "Introduction Internal displacement is still a serious humanitarian and development problem in Somalia, where recurrent droughts, armed conflict, and declining livelihood opportunities force families to leave their homes every year. This study investigated the main drivers of internal displacement, changes in household livelihoods, challenges faced by displaced communities, and conditions needed for return. Methods A quantitative cross-sectional survey was conducted among 100 IDPs mainly from Bay, Bakool, and Lower Shabelle regions, using a structured questionnaire; data were analysed descriptively with frequencies and percentages. Results Drought was the most commonly reported cause of displacement (48%), followed by armed conflict (32%), livestock losses (19%), and crop failure (18%). Repetition of displacement was common (61% of respondents had been displaced more than once). Apart from losing their home, many displaced households faced major changes in livelihoods too: 31% depended on humanitarian assistance; 26% remained unemployed. Living conditions in IDP settlements were particularly difficult as respondents reported food shortages (96%), limited access to healthcare (95%), inadequate shelter (94%), and lack of educational opportunities (91%). Despite these challenges, 95% wanted to go back home. But willingness to return was largely determined by livelihood opportunities (95%), basic services (92%), security (91%), securing community and pastoral land rights (91%), and water resources (90%). Discussion These results show that displacement in Somalia is not just a drought or conflict phenomenon but many interconnected pressures that weaken household livelihoods and make them unable to recover from displacement. Emergency humanitarian assistance alone cannot address these challenges -- there is a need for more attention to strengthening climate resilience; restoring livelihoods; improving essential services; creating conditions for displaced families to return safely so they can rebuild their lives. That's how to reduce repeated displacement and support long-term recovery in Somalia.",
-    "authors": [
-      "Mohamed Abdillahi Hassan Wardhere",
-      "Mohamed Hassan Isxaaq",
-      "Marian Ali Hassan"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20night%20desk%20lamp%20notebook%20soft%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20city%20crosswalk%20neon%20rain%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   },
   {
     "field": "Management",
-    "title": "The growth energy emissions trilemma: evidence from BRICS",
-    "journal": "International Journal of Energy Sector Management",
+    "title": "Delegated Leadership in Public Secondary Schools in Temeke Municipality, Tanzania: Practices, Teacher Participation and Delegated Authority",
+    "journal": "Edulead : Journal of Education Management",
     "year": "2026",
-    "date": "2026-11-25",
-    "doi": "10.1108/ijesm-11-2025-0026",
-    "url": "https://doi.org/10.1108/ijesm-11-2025-0026",
-    "abstract": "Purpose This study aims to examine the equilibrium relationship between economic growth, foreign direct investments (FDI), trade openness, fossil fuel energy use and CO2 emissions for Brazil, Russia, India, China and South Africa (BRICS) countries over a period from 1990 to 2022. Design/methodology/approach Panel data tests are done using the first- and second-generation unit root tests, Pedroni and Johansen Fisher panel co-integration tests, fully modified ordinary least squares (FMOLS) for long-run coefficient and the Dumitrescu–Hurlin panel causality test. Findings There is evidence of cointegration in the long run among the variables. According to the FMOLS estimates, fossil fuel energy consumption (elasticity = 0.847) and inward foreign direct investments (elasticity = 0.031) have a positive and significant effect on CO2 emissions, while trade openness has a negative but insignificant effect. Causality from GDP per capita to CO2 emissions (p &lt; 0.05), and inward FDI to CO2 emissions (p &lt; 0.10) is one-sided. Research limitations/implications The limitation of availability of data restricts the study period from 1990 to 2022. The study uses aggregate data on fossil fuels without differentiating the types of fossil fuels used. Further studies should consider the analysis with country-level asymmetry, structural break models and extended BRICS membership. Originality/value Built on the basis of the hypotheses of Environmental Kuznets Curve, this research attempts to combine the economic, energy, trade and environmental factors in one panel model for BRICS economies. This paper provides the long-run elasticity analysis and causality directions for green policymaking, filling the gap in literature that reports only about cointegration without the effect size estimates.",
+    "date": "2026-11-26",
+    "doi": "10.47453/edulead.v8i2.4879",
+    "url": "https://doi.org/10.47453/edulead.v8i2.4879",
+    "abstract": "This study examined delegated leadership practices in selected public secondary schools in Temeke Municipality, Tanzania, with attention to three closely related dimensions: delegation of responsibilities, teacher participation in school decision-making, and the authority granted to teachers when performing delegated leadership roles. A mixed-methods approach was used to combine numerical patterns from teacher questionnaires with explanatory evidence from interviews and school observations. The field evidence comprised 45 teachers who completed questionnaires and five heads of schools who participated in interviews, giving 50 respondents and a 100% response rate. Quantitative data were summarized using frequencies and percentages, while interview and observation evidence was organized thematically and integrated during interpretation. The findings show that delegation was well established in academic work: 91.1% of teachers agreed or strongly agreed that teachers were delegated leadership roles in academic activities. Clear definition of delegated responsibilities received 71.1% positive responses. Teacher participation in decision-making was positive but less pronounced, at 62.2%, with 26.7% neutral responses. Regarding authority, 73.4% reported that department heads were given decision-making authority and 84.4% agreed that school administrations trusted teachers with leadership roles. Interviews and observations confirmed the use of departments, committees, meetings and continuous communication, but also showed that the depth of delegation varied and that some important administrative decisions remained centralized. Interpreted through Distributed Leadership Theory, the findings indicate that leadership can be operationally distributed without being equally distributed at the level of influence and authority. The study concludes that meaningful delegation requires alignment among assigned responsibility, participation in relevant decisions, and sufficient authority to act. It recommends clearer decision boundaries, broader teacher participation, competence-sensitive delegation, leadership development, and stronger institutional support for shared leadership in public secondary schools",
     "authors": [
-      "Arifa Haseen",
-      "Sharmiladevi J.C."
+      "Dotto M Akida",
+      "Ategwu Patrick Ogar",
+      "Adam Bago"
     ],
     "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Kodak%20Gold%20200%20meeting%20room%20afternoon%20light%20editorial%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Urban Studies",
-    "title": "The Structural Variety of trans -Vacant and cis -Vacant Homoionic Montmorillonites Sensu Stricto : A Dispersion-Corrected Density Functional Theory Study",
-    "journal": "ACS Earth and Space Chemistry",
-    "year": "2026",
-    "date": "2026-11-25",
-    "doi": "10.1021/acsearthspacechem.6c00236",
-    "url": "https://doi.org/10.1021/acsearthspacechem.6c00236",
-    "abstract": "Abstract Montmorillonites are the most common dioctahedral smectites and exhibit substantial variation in layer charge, interlayer cations, and octahedral-sheet structure. These features are important in geological systems, soils, and (geo-)technical applications. Here, dispersion-corrected density functional theory was used to compare 48 idealized, anhydrous homoionic montmorillonite sensu stricto models constructed with four-layer charges, four interlayer cations, and trans-vacant (tv) or cis-vacant (cv) octahedral sheets. Among the preconstructed models with monovalent interlayer cations, cv structures had lower calculated energies than the corresponding tv structures across the examined layer-charge range. For divalent interlayer cations, the relative energetic preference depended on layer charge. Mg2+-saturated structures exhibited the smallest basal spacings, close to those of the Ca2+- and Na+-saturated structures (9.47–9.74 Å), whereas K+-saturated structures showed larger spacings (9.88–10.31 Å), with corresponding effects on specific density and the constrained out-of-plane modulus. Interlayer K+ and Mg2+ occupied distinct positions relative to the 2:1 layer surfaces. No neighboring octahedral Mg pair, i.e., no Mg–OH–Mg linkage, occurred in the optimized structures. The optimized OH-vector orientations varied systematically with layer charge; these static angles describe the local minima of the anhydrous models rather than finite-temperature orientational distributions. The resulting model set provides internally consistent anhydrous reference structures of montmorillonites sensu stricto for subsequent property calculations and molecular simulations of various reactions, e.g., hydration.",
-    "authors": [
-      "Katja Emmerich",
-      "Irwan Nugraha",
-      "Yi-Yu Liu",
-      "Ali Asaad"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?documentary%20urban%20planning%20buildings%20analog%20film%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
-  },
-  {
-    "field": "Food Industry / Science / Design",
-    "title": "Pulsed Ultrasound-Assisted Deep Eutectic Solvent Extraction of Polyphenols from Choerospondias axillaris: Process Intensification, Selective Enrichment, and Molecular Insights",
-    "journal": "Food and Bioprocess Technology",
-    "year": "2026",
-    "date": "2026-11-25",
-    "doi": "10.1007/s11947-026-04674-7",
-    "url": "https://doi.org/10.1007/s11947-026-04674-7",
-    "abstract": "",
-    "authors": [
-      "Dong-min Cao",
-      "Jia-hao Zhai",
-      "Wen Ye",
-      "Hua-Qiang Zeng"
-    ],
-    "citations": 0,
-    "image": "https://source.unsplash.com/1200x800/?Cinestill%20800T%20restaurant%20counter%20food%20industry%20tungsten%20film%20grain%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
+    "image": "https://source.unsplash.com/1200x800/?analog%20film%20workplace%20notebook%20strategy%20soft%20halation%2C%20Kodak%205207%2C%20Kodak%20Gold%20200%2C%20Cinestill%20800T%2C%20cinematic%20editorial%20photography%2C%20warm%20grain%2C%20soft%20halation%2C%20natural%20light%2C%20no%20text"
   }
 ]
